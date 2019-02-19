@@ -6,19 +6,31 @@
   * [2.2 Unacceptable Behaviour](#2-2-unacceptable-behaviour)
   * [2.3 Consequences of Unacceptable Behaviour](#2-3-consequences-of-unacceptable-behaviour)
   * [2.4 Feedback](#2-4-feedback)
+* [3 Incident Reporting Guidelines](#3-incident-reporting-guidelines)
+  * [3.1 Contact points](#3-1-contact-points)
+  * [3.2 Alternate contact points](#3-2-alternate-contact-points)
+  * [3.3 What to do if someone is in physical danger](#3-3-what-to-do-if-someone-is-in-physical-danger)
+  * [3.4 Code of Conduct Enforcement](#3-4-code-of-conduct-enforcement)
+* [4 Enforcement Manual](#4-enforcement-manual)
+  * [4.1 The Code of Conduct Committee](#4-1-the-code-of-conduct-committee)
+  * [4.2 Urgent Situations: Acting Unilaterally](#4-2-urgent-situations-acting-unilaterally)
+  * [4.3 Less-Urgent Situations](#4-3-less-urgent-situations)
+  * [4.4 Resolutions](#4-4-resolutions)
+  * [4.5 Conflicts of Interest](#4-5-conflicts-of-interest)
+* [5 Acknowledgements](#5-acknowledgements)
 
 ## 1 Introduction
 
-The Autistica/Turing citizen science project is community-oriented and -led project.
+The Autistica/Turing citizen science project is community-oriented and -led.
 We value the involvement of everyone in the community.
 We are committed to creating a friendly and respectful place for learning, teaching and contributing.
-All participants in our in person events and online communications are expected to show respect and courtesy to others at all times.
+All participants in our in-person events and online communications are expected to show respect and courtesy to others at all times.
 
 To make clear what is expected, everyone participating in activities associated with the Autistica/Turing citizen science project is required to conform to this Code of Conduct.
-This Code of Conduct applies to all spaces managed by the Autistica/Turing citizen science project including, but not limited to, in person focus groups and workshops, and communications online via GitHub.
+This Code of Conduct applies to all spaces managed by the Autistica/Turing citizen science project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
 
 The lead investigator of the Autistica/Turing citizen science project - Dr Kirstie Whitaker - is responsible for enforcing the Code of Conduct.
-They can be contacted by emailing [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+She can be contacted by emailing [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 Reports may be reviewed by other members of the research team, unless there is a conflict of interest, and will be kept confidential.
 
 ## 2 Code of Conduct
@@ -29,7 +41,7 @@ We do not tolerate discrimination or harassment based on characteristics that in
 
 Everyone who participates in Autistica/Turing citizen science project activities is required to conform to this Code of Conduct.
 This Code of Conduct applies to all spaces managed by the Autistica/Turing citizen science project including, but not limited to, in person focus groups and workshops, and communications online via GitHub.
-By participating, participants indicate their acceptance of the procedures by which the Autistica/Turing citizen science project research team resolves any Code of Conduct incidents, which may include storage and processing of their personal information.
+By participating, contributors indicate their acceptance of the procedures by which the Autistica/Turing citizen science project research team resolves any Code of Conduct incidents, which may include storage and processing of their personal information.
 
 ### 2.1 Expected Behaviour
 
@@ -45,7 +57,7 @@ The following bullet points set out explicitly what we hope you will consider to
 * As an overriding general rule, please **be intentional in your actions and humble in your mistakes**.
 
 All interactions should be professional regardless of platform: either online or in-person.
-See [this explanation of the four social rules](https://www.recurse.com/manual#sub-sec-social-rules) - No feigning surprise, No well-actually's, No back-seat driving, No subtle -isms - for further recommendations for inclusive behaviours.
+See [this explanation of the four social rules](https://www.recurse.com/manual#sub-sec-social-rules) - no feigning surprise, no well-actually's, no back-seat driving, no subtle -isms - for further recommendations for inclusive behaviours.
 
 ### 2.2 Unacceptable Behaviour
 
@@ -69,7 +81,7 @@ Examples of unacceptable behaviour by Autistica/Turing citizen science community
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
 This applies to all Autistica/Turing citizen science community events and platforms, either online or in-person.
-If a participant engages in behaviour that violates this Code of Conduct, the research team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement-manual](#enforcement-manual) for details).
+If a participant engages in behaviour that violates this Code of Conduct, any member of the research team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#enforcement-manual) for details).
 
 ### 2.4 Feedback
 
@@ -84,7 +96,7 @@ If you feel able to, please contact Kirstie Whitaker by email at [kwhitaker@turi
 
 ### 3.2 Alternate contact points
 
-If you do not feel comfortable contacting Kirstie Whitaker, please report an incident to Dr James Cusack at [james.cusack@autistica.org.uk](mailto:james.cusack@autistica.org.uk).
+If you do not feel comfortable contacting Kirstie Whitaker, please report an incident to Jon Spiers by email at [jon.spiers@autistica.org.uk](mailto:jon.spiers@autistica.org.uk).
 
 ### 3.3 What to do if someone is in physical danger
 
@@ -109,7 +121,7 @@ As the community grows, we will seek to build a committee of research team membe
 
 ### 4.2 Urgent Situations: Acting Unilaterally
 
-If the incident involves physical danger, or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act unilaterally to protect safety.
+If the incident involves physical danger, or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
 This can include contacting law enforcement (or other local personnel) and speaking on behalf of the Autistica or the Turing Institute.
 
 If the act is ongoing, any community member may act immediately, before reaching consensus, to diffuse the situation.
@@ -140,7 +152,7 @@ In the event that a resolution can't be determined in that time, Kirstie will re
 At the time of writing Dr Whitaker is the only enforcing member of the Code of Conduct reporting team.
 
 Once a committee has been formed, the committee will agree on a resolution by consensus of all members investigating the report in question.
-If the committee cannot reach consensus and deadlocks for over a week, Dr Whitaker, as lead investigator of the Autistica/Turing citizen science project will break the tie.
+If the committee cannot reach consensus and deadlocks for over a week, Dr Whitaker, as lead investigator of the Autistica/Turing citizen science project, will break the tie.
 
 Possible responses may include:
 
@@ -166,4 +178,19 @@ However, she is not required to act on this feedback.
 
 ### 4.5 Conflicts of Interest
 
-In the event of any conflict of interest such that Dr Whitaker is not able to evaluate or enforce the reported violation, Dr James Cusack will take Kirstie's place.
+In the event of any conflict of interest such that Dr Whitaker is not able to evaluate or enforce the reported violation, Jon Spiers will take Kirstie's place.
+
+## 5. Acknowledgements
+
+This code is adapted from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)  with sections from the [Alan Turing Institute Data Study Group Code of Conduct](https://docs.google.com/document/d/1iv2cizNPUwtEhHqaezAzjIoKkaIX02f7XbYmFMXDTGY/edit).
+Both are used under the creative commons attribution license.
+
+The Carpentries Code of Conduct was adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/).
+Contributors to the Carpentries Code of Conduct were: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
+
+The Turing Institute Data Study Group Code of Conduct was heavily adapted from the [Citizen Lab Summer Institute 2017 Code of Conduct](https://citizenlab.ca/summerinstitute/codeofconduct.html) and used under a CC BY 2.5 CA license.
+Citizen Lab based their Code of Conduct on the [xvzf Code of Conduct](http://xvzf.io/), the [Contributor Covenant](http://contributor-covenant.org/), the [Django Code of Conduct and Reporting Guide](https://www.djangoproject.com/conduct/) and we are also grateful for [this guidance from Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
+
+We really appreciate the work that all of the communities linked above have put into creating such a well considered process.
+
+This Code of Conduct is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0 CA) license which means you are free to share and adapt the work so long as the attribution to Kirstie Whitaker and the Autistica/Turing citizen science community is retained, along with the attribution to the Carpentries, the Alan Turing Institute Data Study Group organising team, Citizen Lab and the other resources.
