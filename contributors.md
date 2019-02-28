@@ -17,7 +17,7 @@ It follows the [emoji key](https://github.com/all-contributors/all-contributors#
 ### Legend
 
 *source:
-[https://github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors))*
+[https://github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)*
 
 | Emoji | Represents                                             |
 |:------|:-------------------------------------------------------|
