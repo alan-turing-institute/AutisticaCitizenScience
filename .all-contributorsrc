@@ -1,0 +1,23 @@
+{
+  "projectName": "AutisticaCitizenScience",
+  "projectOwner": "alan-turing-institute",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "KirstieJane",
+      "name": "Kirstie Whitaker",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
+      "profile": "https://whitakerlab.github.io",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
