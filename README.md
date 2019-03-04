@@ -1,6 +1,7 @@
 # AutisticaCitizenScience
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-Project management and resource repository for the Autistica/Turing Citizen Science project
+
+*Project management and resource repository for the Autistica/Turing Citizen Science project*
 
 ## Contributors
 
