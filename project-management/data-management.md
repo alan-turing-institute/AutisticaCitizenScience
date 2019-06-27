@@ -3,7 +3,7 @@
 _This document outlines how the research team, led by Dr Kirstie Whitaker, will manage our participants' and contributors' data as contributions to the Autistica/Turing Citizen Science community._
 _It details the data we collect, what we do with it and why we collect it._
 
-### In Person
+## In Person
 
 We recruit for our in-person sessions from Autistica's Insight Group and Discover Network ([https://www.autistica.org.uk/get-involved/take-part-in-research](https://www.autistica.org.uk/get-involved/take-part-in-research)).
 Individuals can voluntarily sign up and there is a brief application process.
@@ -39,7 +39,7 @@ The summary document will remain publicly available, and licensed for reuse by a
 ![](../images/data-management-in-person.png)
 *Figure 1: Data collection, processing and holding pathway for in-person events*
 
-### Online
+## Online
 
 Contributions to the project can be made via GitHub at the project's dedicated repository ([https://github.com/alan-turing-institute/AutisticaCitizenScience](https://github.com/alan-turing-institute/AutisticaCitizenScience)).
 Participants must have a GitHub account.
@@ -62,7 +62,11 @@ They will also redact any content which contravenes our [code of conduct](https:
 The submitted, assessed information is made publicly available in our GitHub repository.
 Information within the GitHub repository will remain publicly available, and is licensed for reuse by anyone, so long as they credit the Autistica/Turing citizen science community.
 
-### Mailing list
+![](../images/data-management-online.png)
+
+*Figure 2: Data collection, processing and holding pathway for online contributions*
+
+## Mailing list
 
 Members of the Autistica/Turing citizen science community may join a mailing list to receive monthly updates from the project at [https://tinyletter.com/AutisticaTuringCitizenScience](https://tinyletter.com/AutisticaTuringCitizenScience).
 The mailing list is managed by MailChimp and their privacy policy can be found at [https://mailchimp.com/legal/privacy](https://mailchimp.com/legal/privacy).
@@ -70,6 +74,3 @@ Members of the mailing list are asked to confirm their subscription through a tw
 The contact information provided may be accessed by members of the research team.
 It is never removed from the MailChimp platform.
 
-![](../images/data-management-online.png)
-
-*Figure 2: Data collection, processing and holding pathway for online contributions*
