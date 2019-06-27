@@ -35,11 +35,18 @@ The first phase of this project is to **co-design the online platform by identif
 
 Information about project management protocols can be found in the [project management](project-management) directory.
 
+This folder includes information on:
+
+* [Project values](project-management/project-values.md)
+* [Planned outputs](project-management/planned-outputs.md)
+* [Data management](project-management/data-management.md)
+* [Building a safe and valued community](project-management/building-a-safe-community.md)
+
 ## Community input
 
 You can see suggestions from other members of the community in the [community recommendations](community-recommendations) directory.
 
-## Get involvued
+## Get involved
 
 There are many ways to get in touch with the Autistica/Turing Citizen Science project team!
 
