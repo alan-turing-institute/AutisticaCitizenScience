@@ -35,6 +35,20 @@ The first phase of this project is to **co-design the online platform by identif
 
 Information about project management protocols can be found in the [project management](project-management) directory.
 
+## Get in touch
+
+There are many ways to get in touch with the Autistica/Turing Citizen Science project team!
+
+- Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/AutisticaCitizenScience).
+  - This is our preferred method of open communication and discussion!
+    We'd love for you to say hello.
+- Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
+  - For more instructions, checkout our [contributing guidelines](CONTRIBUTING.md)
+- Subscribe to our [mailing list](https://tinyletter.com/AutisticaTuringCitizenScience) with which we send monthly project updates.
+- You can contact research associate Georgia Aitkenhead by email at gaitkenhead@turing.ac.uk.
+- You can contact lead investigator Kirstie Whitaker by email at kwhitaker@turing.ac.uk.
+
+
 ## Contributors
 
 The Autistica/Turing Citizen Science project welcomes all contributions.
@@ -57,4 +71,10 @@ All content in this repository is [openly licensed](LICENSE) with a CC-BY 4.0 (C
 
 For example, if you were to use content from this repo in your own project you'd attribute the Autistica/Turing Citizen Science community with a sentence like:
 
-> The material in this project is partially derived from the [Autistica/Turing Citizen Science](https://github.com/alan-turing-institute/AutisticaCitizenScience) project by the [Autistica/Turing Citizen Science community](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/contributors.md), used under CC-BY 4.0.
+> The material in this project is partially derived from the [Autistica/Turing Citizen Science][aut-cit-sci-repo] project by the [Autistica/Turing Citizen Science community](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/contributors.md), used under CC-BY 4.0.
+
+
+[aut-cit-sci-repo]: https://github.com/alan-turing-institute/AutisticaCitizenScience
+[aut-cit-sci-issues]: https://github.com/alan-turing-institute/AutisticaCitizenScience/issues
+[aut-cit-sci-prs]: https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls
+[aut-cit-sci-labels]: https://github.com/alan-turing-institute/AutisticaCitizenScience/labels

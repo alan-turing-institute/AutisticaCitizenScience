@@ -38,7 +38,7 @@ We therefore require that all contributions **adhere to our [Code of Conduct](CO
 
 ## Get in touch
 
-There are many ways to get un touch with the Autistica/Turing Citizen Science project team!
+There are many ways to get in touch with the Autistica/Turing Citizen Science project team!
 
 - Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/AutisticaCitizenScience).
   - This is our preferred method of open communication and discussion!
@@ -49,6 +49,7 @@ There are many ways to get un touch with the Autistica/Turing Citizen Science pr
     (See our [Where to start: issues](#where-to-start-issues) section below.)
 - Subscribe to our [mailing list](https://tinyletter.com/AutisticaTuringCitizenScience) with which we send monthly project updates.
 - You can contact research associate Georgia Aitkenhead by email at gaitkenhead@turing.ac.uk.
+- You can contact lead investigator Kirstie Whitaker by email at kwhitaker@turing.ac.uk.
 
 ## Contributing through GitHub
 
