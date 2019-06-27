@@ -9,6 +9,14 @@
 
 Thank you for being here!
 
+Please continue reading for an introduction to the project, or jump to any of the following sections:
+
+* [Project management](#project-management)
+* [Community input](#community-input)
+* [Get involved](#get-involved)
+* [Contributors](#contributors)
+* [License](#license)
+
 [![Watch the video](https://img.youtube.com/vi/rP1S8ip4VVE/maxresdefault.jpg)](https://youtu.be/rP1S8ip4VVE)
 *This short video describes some of the sensory processing sensitivies that some autistic people experience.*
 
@@ -26,7 +34,7 @@ Our goal is to:
 [![Watch the video](https://img.youtube.com/vi/p9tfhgVUuQE/maxresdefault.jpg)](https://youtu.be/p9tfhgVUuQE)
 *This short video introduces the goals of the Citizen Science project.*
 
-**The purpose of this study is to co-design and build a framework for ethical, participatory, citizen science.**
+**The purpose of this study is to co-design and co-produce a framework for ethical, participatory, citizen science.**
 We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
 We also welcome open source developers to help us build this platform.
 The first phase of this project is to **co-design the online platform by identifying priorities and requirements from our community members**.
