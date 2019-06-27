@@ -1,4 +1,4 @@
-# AutisticaCitizenScience
+# Autistica/Turing Citizen Science
 [![Join the chat at https://gitter.im/alan-turing-institute/AutisticaCitizenScience](https://img.shields.io/badge/chat-on%20gitter-brightgreen.svg?style=flat-square)](https://gitter.im/alan-turing-institute/AutisticaCitizenScience)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/AutisticaTuringCitizenScience)
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
@@ -35,19 +35,23 @@ The first phase of this project is to **co-design the online platform by identif
 
 Information about project management protocols can be found in the [project management](project-management) directory.
 
-## Get in touch
+## Community input
+
+You can see suggestions from other members of the community in the [community recommendations](community-recommendations) directory.
+
+## Get involvued
 
 There are many ways to get in touch with the Autistica/Turing Citizen Science project team!
 
-- Ping us in our [gitter channel](https://gitter.im/alan-turing-institute/AutisticaCitizenScience).
-  - This is our preferred method of open communication and discussion!
-    We'd love for you to say hello.
+Please start by reading the [participant information sheet](project-management/A7_ParticipantInformationSheet.pdf).
+
+- You can anonymously, publicly share your suggestions via the "always open" google form: https://bit.ly/AutisticaTuringCitSciForm.
 - Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
   - For more instructions, checkout our [contributing guidelines](CONTRIBUTING.md)
+- Come and say hello in our [gitter channel](https://gitter.im/alan-turing-institute/AutisticaCitizenScience).
 - Subscribe to our [mailing list](https://tinyletter.com/AutisticaTuringCitizenScience) with which we send monthly project updates.
 - You can contact research associate Georgia Aitkenhead by email at gaitkenhead@turing.ac.uk.
 - You can contact lead investigator Kirstie Whitaker by email at kwhitaker@turing.ac.uk.
-
 
 ## Contributors
 

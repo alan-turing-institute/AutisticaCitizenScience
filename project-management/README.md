@@ -1,16 +1,14 @@
 # Project Management
 
-This folder contains the PDF files that were submitted as part of the research ethics application for the University of Cambridge.
-The file numbers refer to the order in which these appendices appeared in the application.
-They are not ordered by importance.
-
 ### Overview
 
 The [study protocol](A9_StudyProtocol.pdf) is a description of the steps that core research team members should take to manage the project.
 
-The [participant information sheet](A7_ParticipantInformationSheet.pdf) describes the project for anyone who would like to take part.
+The [participant information sheet](participant-information-sheet.md) ([PDF format](A7_ParticipantInformationSheet.pdf)) describes the project for anyone who would like to take part.
 
-The [values and outcomes](A2_ValuesAndOutcomes.pdf) document outlines the guiding principles and the projected deliverables for the project.
+The [project values](project-values.md) document outlines the guiding principles for the project.
+The [planned outputs](planned-outputs.md) document details the projected deliverables.
+These are combined into one document in [PDF format](A2_ValuesAndOutcomes.pdf).
 
 ### Participation
 
@@ -18,17 +16,21 @@ The [consent form](A6_ConsentForm.pdf) is used for in person focus group and 1:1
 
 Participants can join the community by joining Autistica's Discover Network or the Autism Insight Group by submitting the [recruitment form](A5_AutismInsightGroupRecruitmentForm.pdf).
 
-Online participation can also be completed via the online google form ([](http://bit.ly/AutisticaTuringCitSciForm)), a PDF copy of which is available [here](A1_OnlineSurvey.pdf).
+Online participation can also be completed via the online google form ([http://bit.ly/AutisticaTuringCitSciForm](http://bit.ly/AutisticaTuringCitSciForm)), a PDF copy of which is available [here](A1_OnlineSurvey.pdf).
 
 ### Building a safe community
 
-The guidance [to build a safe community](A4_BuildingASafeCommunity.pdf) includes reporting and intervention processes for safeguarding of community members and enforcement of the project's [code of conduct](A3_CodeOfConduct.pdf).
+The guidance [to build a safe community](building-a-safe-community.md) ([PDF format](A4_BuildingASafeCommunity.pdf)) includes reporting and intervention processes for safeguarding of community members and enforcement of the project's [code of conduct](../CODE_OF_CONDUCT.md) ([PDF format](A3_CodeOfConduct.pdf)).
 
 ### Data management
 
-The [data management](A8_DataManagement.pdf) information sheet outlines how data will be collected, managed, held and disseminated.
+The [data management](data-management.md) information sheet ([PDF format](A8_DataManagement.pdf)) outlines how data will be collected, managed, held and disseminated.
 
-## File list
+## Files submitted in support of ethics application
+
+This folder contains the PDF files that were submitted as part of the research ethics application for the University of Cambridge.
+The file numbers refer to the order in which these appendices appeared in the application.
+They are not ordered by importance.
 
 * Online Survey: [A1_OnlineSurvey.pdf](A1_OnlineSurvey.pdf)
 * Values and Outcomes: [A2_ValuesAndOutcomes.pdf](A2_ValuesAndOutcomes.pdf)
