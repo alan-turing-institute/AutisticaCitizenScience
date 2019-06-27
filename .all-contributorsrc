@@ -10,21 +10,30 @@
   "commit": false,
   "contributors": [
     {
+      "login": "GeorgiaHCA",
+      "name": "Georgia Aitkenhead",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
+      "profile": "https://github.com/GeorgiaHCA",
+      "contributions": [
+        "doc",
+        "eventOrganizing",
+        "ideas",
+        "projectManagement",
+        "review",
+        "talk"
+      ]
+    },
+    {
       "login": "KirstieJane",
       "name": "Kirstie Whitaker",
       "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
       "profile": "https://whitakerlab.github.io",
       "contributions": [
-        "ideas"
-      ]
-    },
-    {
-      "login": "GeorgiaHCA",
-      "name": "GeorgiaHCA",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
-      "profile": "https://github.com/GeorgiaHCA",
-      "contributions": [
-        "ideas"
+        "doc",
+        "ideas",
+        "projectManagement",
+        "review",
+        "talk"
       ]
     }
   ],

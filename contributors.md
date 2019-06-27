@@ -6,13 +6,13 @@ They are listed alphabetically by last name.
 The emojis next to their names explain how they have contributed to the success of the project.
 It follows the [emoji key](https://github.com/all-contributors/all-contributors#emoji-key) which was developed as part of the [All Contributors](https://github.com/all-contributors/all-contributors) project which can be found at the [end of this document](#legend).
 
-* Georgia Aitkenhead 🤔👀📖📋
-* James Cusack 🤔👀
+* Georgia Aitkenhead 📖🤔📆👀📋📢
+* James Cusack 🤔👀📢
 * Bethan Davies 🤔👀📋
 * Elizabeth DuPre 📖
 * Lorcan Kenny 👀
 * Katrina Payne 🔍
-* Kirstie Whitaker 🤔👀📖
+* Kirstie Whitaker 📖🤔📆👀📢
 
 ### Legend
 
@@ -33,6 +33,7 @@ It follows the [emoji key](https://github.com/all-contributors/all-contributors#
 | 🔍    | Funding/Grant Finders                                |
 | 🤔    | Ideas & Planning                                     |
 | 🚇    | Infrastructure (Hosting, Build-Tools, etc)           |
+| 📆    | Project management
 | 🔌    | Plugin/utility libraries                             |
 | 👀    | Reviewed Pull Requests and other contributions       |
 | 🔧    | Tools                                                |
