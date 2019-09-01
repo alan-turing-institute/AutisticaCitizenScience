@@ -35,6 +35,22 @@
         "review",
         "talk"
       ]
+    },
+    {
+      "name": "Thomas Augur",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
+      "contributions": [
+        "ideas",
+        "review",
+      ]
+    },
+    {
+      "name": "Otis Smith",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
+      "contributions": [
+        "ideas",
+        "review",
+      ]
     }
   ],
   "contributorsPerLine": 7
