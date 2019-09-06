@@ -13,6 +13,8 @@ It follows the [emoji key](https://github.com/all-contributors/all-contributors#
 * Lorcan Kenny 👀
 * Katrina Payne 🔍
 * Kirstie Whitaker 📖🤔📆👀📢
+* Thomas Augur 💬🎨🤔
+* Otis Smith 💬🎨🤔 
 
 ### Legend
 
