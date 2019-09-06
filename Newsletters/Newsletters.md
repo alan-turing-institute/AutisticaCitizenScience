@@ -1,6 +1,33 @@
 # Newsletters
 
+* [05 September 2019](#date-05-september-2019)
 * [05 August 2019](#date-05-august-2019)
+
+### Date: 05 September 2019
+
+Hello, 
+
+This is the second newsletter for the Autistica/Turing Citizen Science Project. Here are our project updates:
+
+ * We've had some excellent, really useful feedback after our first newsletter. Thank you everyone!
+ * Some of you told use that there was too much information in the last newsletter, and that the text was not broken up enough, so we've changed how this one is written.
+ * Some of you told us that the GitHub repository was confusing, so we've made a [website](https://alan-turing-institute.github.io/AutisticaCitizenScience/) for the project.
+ We will keep making it better based on your suggestions. 
+ * We made some changes to the project documentation based on suggestions from autism researchers. 
+ * We have made a demo of the back end of the platform with the help of [Open Humans.](https://www.openhumans.org)
+ * We will be running 3 focus groups in September with autistic people, their families and carers.
+ They will be recruited from Autistica's Insight Group.
+ * Please add any suggestions for topics for the focus groups to the google forms [survey](https://docs.google.com/forms/d/e/1FAIpQLSe_9MW3r4nsGUDxGWN24X88hqtz6q_347DC1gbMc_Yzj2Hrcg/viewform), or email Georgia directly.
+
+If you have feedback, we'd love to hear from you. The easiest way is to fill in our [survey](https://docs.google.com/forms/d/e/1FAIpQLSe_9MW3r4nsGUDxGWN24X88hqtz6q_347DC1gbMc_Yzj2Hrcg/viewform). 
+You can also email Georgia at gaitkenhead@turing.ac.uk.
+
+Thanks again!
+
+All the best, 
+
+Kirstie and Georgia
+
 
 ### Date: 05 August 2019
 
