@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**User Story statement
+**User Story statement**
 
 As a ___ I would like ___ so that I can ___.
 
