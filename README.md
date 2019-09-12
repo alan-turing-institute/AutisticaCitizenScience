@@ -12,6 +12,7 @@ Thank you for being here!
 Please continue reading for an introduction to the project, or jump to any of the following sections:
 
 * [Project management](#project-management)
+* [Source Code](#source-code)
 * [Community input](#community-input)
 * [Get involved](#get-involved)
 * [Contributors](#contributors)
@@ -49,6 +50,10 @@ This folder includes information on:
 * [Planned outputs](project-management/planned-outputs.md)
 * [Data management](project-management/data-management.md)
 * [Building a safe and valued community](project-management/building-a-safe-community.md)
+
+## Source Code
+
+Please access the Source Code of the project in the [Experiences](Experiences) directory
 
 ## Community input
 
