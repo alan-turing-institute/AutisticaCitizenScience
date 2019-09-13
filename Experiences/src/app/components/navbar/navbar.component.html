@@ -1,0 +1,10 @@
+<div *ngFor="let navItem of items" (click)="navItemClicked(navItem.identifier)"
+    [ngClass]="(navItem.identifier==currentVisiblePage)?'navbaritemselected':'navbaritem'"
+    [ngSwitch]="navItem.identifier">
+    <ng-container class="navbaritemicon">
+        <span *ngSwitchCase="'experiences'"><i class="pi pi-comment"></i></span>
+        <span *ngSwitchCase="'tips'"><i class="pi pi-info"></i></span>
+        <span *ngSwitchCase="'about'"><i class="pi pi-question"></i></span>
+    </ng-container>
+    {{navItem.label}}
+</div>

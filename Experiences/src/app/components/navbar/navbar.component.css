@@ -1,0 +1,28 @@
+.navbaritem{
+    font-size: 22px;
+    color: #d3e4f2;
+    padding: 7px;
+    border-radius: 3px;
+    margin: 6px;
+    cursor: grab;
+}
+.navbaritemselected{
+    font-size: 22px;
+    color: #d3e4f2;
+    padding: 7px;
+    border-radius: 3px;
+    margin: 6px;
+    cursor: default;
+    color: #141723;
+    background: #8f94b7;
+    border: #bababa;
+    border-style: solid;
+    border-width: 2px;
+}
+.navbaritemicon{
+    font-size: 50px
+}
+.navbaritem:hover{
+    color: #141723;
+    background: white;
+}

@@ -1,0 +1,18 @@
+#main{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 220px;
+    right: 0px;
+    background-color: #ededed;
+    font-size: 24px;
+    padding: 10px;
+}
+#navbar{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 220px;
+    background-color: #1f2a51;
+}
