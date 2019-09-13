@@ -2,6 +2,7 @@
 [![Join the chat at https://gitter.im/alan-turing-institute/AutisticaCitizenScience](https://img.shields.io/badge/chat-on%20gitter-brightgreen.svg?style=flat-square)](https://gitter.im/alan-turing-institute/AutisticaCitizenScience)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/AutisticaTuringCitizenScience)
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![CodeFactor](https://www.codefactor.io/repository/github/fjautisticacitizenscience/autisticacitizenscience/badge)](https://www.codefactor.io/repository/github/fjautisticacitizenscience/autisticacitizenscience)
 
 *Project management and resource repository for the Autistica/Turing Citizen Science project*
 
