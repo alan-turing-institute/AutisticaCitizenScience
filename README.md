@@ -11,9 +11,9 @@ Thank you for being here!
 
 Please continue reading for an introduction to the project, or jump to any of the following sections:
 
-* [Project management](#project-management)
-* [Community input](#community-input)
 * [Get involved](#get-involved)
+* [Community input](#community-input)
+* [Project management](#project-management)
 * [Contributors](#contributors)
 * [License](#license)
 
@@ -39,6 +39,24 @@ We cannot build this tool without the input of a diverse community of autistic p
 We also welcome open source developers to help us build this platform.
 The first phase of this project is to **co-design the online platform by identifying priorities and requirements from our community members**.
 
+## Get involved
+
+There are many ways to get in touch with the Autistica/Turing Citizen Science project team!
+
+Please start by reading the [participant information sheet](project-management/participant-information-sheet.md).
+
+- You can anonymously, publicly share your suggestions via the "always open" google form: [https://bit.ly/AutisticaTuringCitSciForm](https://bit.ly/AutisticaTuringCitSciForm).
+- Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
+  - For more instructions, checkout our [contributing guidelines](CONTRIBUTING.md)
+- Come and say hello in our [gitter channel](https://gitter.im/alan-turing-institute/AutisticaCitizenScience).
+- Subscribe to our [mailing list](https://tinyletter.com/AutisticaTuringCitizenScience) with which we send monthly project updates.
+- You can contact research associate Georgia Aitkenhead by email at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk).
+- You can contact lead investigator Kirstie Whitaker by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+
+## Community input
+
+You can see suggestions from other members of the community in the [community recommendations](community-recommendations) directory.
+
 ## Project management
 
 Information about project management protocols can be found in the [project management](project-management) directory.
@@ -50,28 +68,10 @@ This folder includes information on:
 * [Data management](project-management/data-management.md)
 * [Building a safe and valued community](project-management/building-a-safe-community.md)
 
-## Community input
-
-You can see suggestions from other members of the community in the [community recommendations](community-recommendations) directory.
-
-## Get involved
-
-There are many ways to get in touch with the Autistica/Turing Citizen Science project team!
-
-Please start by reading the [participant information sheet](project-management/A7_ParticipantInformationSheet.pdf).
-
-- You can anonymously, publicly share your suggestions via the "always open" google form: https://bit.ly/AutisticaTuringCitSciForm.
-- Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
-  - For more instructions, checkout our [contributing guidelines](CONTRIBUTING.md)
-- Come and say hello in our [gitter channel](https://gitter.im/alan-turing-institute/AutisticaCitizenScience).
-- Subscribe to our [mailing list](https://tinyletter.com/AutisticaTuringCitizenScience) with which we send monthly project updates.
-- You can contact research associate Georgia Aitkenhead by email at gaitkenhead@turing.ac.uk.
-- You can contact lead investigator Kirstie Whitaker by email at kwhitaker@turing.ac.uk.
-
 ## Contributors
 
 The Autistica/Turing Citizen Science project welcomes all contributions.
-For more information on how to participate, please review our [contributing guidelines](CONTRIBUTING.md) and the [building a safe community](project-mangement/A4_BuildingASafeCommunity.pdf) document.
+For more information on how to participate, please review our [contributing guidelines](CONTRIBUTING.md) and the [building a safe community](project-management/building-a-safe-community.md) document.
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
 
