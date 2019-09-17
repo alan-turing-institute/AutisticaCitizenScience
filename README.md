@@ -46,12 +46,13 @@ There are many ways to get in touch with the Autistica/Turing Citizen Science pr
 Please start by reading the [participant information sheet](project-management/participant-information-sheet.md).
 
 - You can anonymously, publicly share your suggestions via the "always open" google form: [https://bit.ly/AutisticaTuringCitSciForm](https://bit.ly/AutisticaTuringCitSciForm).
-- Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
-  - For more instructions, checkout our [contributing guidelines](CONTRIBUTING.md)
 - Come and say hello in our [gitter channel](https://gitter.im/alan-turing-institute/AutisticaCitizenScience).
 - Subscribe to our [mailing list](https://tinyletter.com/AutisticaTuringCitizenScience) with which we send monthly project updates.
 - You can contact research associate Georgia Aitkenhead by email at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk).
-- You can contact lead investigator Kirstie Whitaker by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+- Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
+  - For more instructions, checkout our [contributing guidelines](CONTRIBUTING.md).
+  - ⚠️ Using GitHub can be a little confusing.
+  Please let us know if you have any questions getting started.
 
 ## Community input
 
@@ -92,7 +93,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
 Contributions of any kind welcome!
 
-## Licence
+## License
 
 All content in this repository is [openly licensed](LICENSE) with a CC-BY 4.0 (Creative Commons Attribution 4.0 International) license, which means you're free to use the materials and remix them so long as you ***credit the source***.
 
