@@ -51,6 +51,17 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "gedankenstuecke",
+      "name": "Bastian Greshake Tzovaras",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/674899?v=4",
+      "profile": "https://tzovar.as",
+      "contributions": [
+        "ideas",
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
