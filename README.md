@@ -1,12 +1,11 @@
 # Autistica/Turing Citizen Science
 [![Join the chat at https://gitter.im/alan-turing-institute/AutisticaCitizenScience](https://img.shields.io/badge/chat-on%20gitter-brightgreen.svg?style=flat-square)](https://gitter.im/alan-turing-institute/AutisticaCitizenScience)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/AutisticaTuringCitizenScience)
-<<<<<<< HEAD
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 [![CodeFactor](https://www.codefactor.io/repository/github/fjautisticacitizenscience/autisticacitizenscience/badge)](https://www.codefactor.io/repository/github/fjautisticacitizenscience/autisticacitizenscience)
-=======
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
->>>>>>> a56268881b5814b336d2d0360cef002bbdbd535c
 
 *Project management and resource repository for the Autistica/Turing Citizen Science project*
 
@@ -16,12 +15,9 @@ Thank you for being here!
 
 Please continue reading for an introduction to the project, or jump to any of the following sections:
 
-<<<<<<< HEAD
 * [Project management](#project-management)
 * [Source Code](#source-code)
 * [Community input](#community-input)
-=======
->>>>>>> a56268881b5814b336d2d0360cef002bbdbd535c
 * [Get involved](#get-involved)
 * [Community input](#community-input)
 * [Project management](#project-management)
