@@ -1,10 +1,12 @@
 # Newsletter | September 2019
 
-*Date sent: 17 September 2019*
+*Date sent: 20 September 2019*
+
+Subject: September updates from the Autistica/Turing Citizen Science project
 
 Hello,
 
-This is the September 2019 newsletter for the Autistica/Turing Citizen Science Project.
+This is the September 2019 newsletter for the Autistica/Turing Citizen Science project.
 
 ### Thank you for your feedback
 
