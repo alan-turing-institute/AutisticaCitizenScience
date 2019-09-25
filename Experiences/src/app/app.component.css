@@ -2,9 +2,8 @@
     position: absolute;
     top: 0px;
     bottom: 0px;
-    left: 220px;
+    left: 230px;
     right: 0px;
-    background-color: #ededed;
     font-size: 24px;
     padding: 10px;
 }
@@ -13,6 +12,6 @@
     top: 0px;
     bottom: 0px;
     left: 0px;
-    width: 220px;
-    background-color: #1f2a51;
+    width: 230px;
+    /* background-color: #1f2a51; */
 }

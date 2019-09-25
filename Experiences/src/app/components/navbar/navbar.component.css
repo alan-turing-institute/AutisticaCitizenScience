@@ -1,10 +1,13 @@
 .navbaritem{
     font-size: 22px;
     color: #d3e4f2;
-    padding: 7px;
     border-radius: 3px;
+    padding: 7px;
     margin: 6px;
     cursor: grab;
+    position: relative;
+    height: 35px;
+
 }
 .navbaritemselected{
     font-size: 22px;
@@ -18,9 +21,19 @@
     border: #bababa;
     border-style: solid;
     border-width: 2px;
+    position: relative;
+    height: 35px;
 }
 .navbaritemicon{
-    font-size: 50px
+    font-size: 35px;
+    position: absolute;
+    top: 5px;
+    
+}
+.navbaritemlabel{
+    position: absolute;
+    left: 50px;
+    top: 12px;
 }
 .navbaritem:hover{
     color: #141723;
