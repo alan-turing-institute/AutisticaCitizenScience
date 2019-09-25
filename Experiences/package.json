@@ -12,7 +12,7 @@
     "postinstall": "cd Experiences && ng build --aot -prod",
     "heroku-postbuild": "ng build --prod"
   },
-  "engines": { "node": "10.16.0", "npm": "6.9.1" },
+  "engines": { "node": "10.16.0", "npm": "6.4.1" },
   "private": true,
   "dependencies": {
     "@angular/animations": "~8.0.1",
