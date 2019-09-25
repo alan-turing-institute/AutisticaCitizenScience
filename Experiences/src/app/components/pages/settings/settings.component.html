@@ -1,8 +1,8 @@
 <div id="settingArea">
-    <div *ngFor="let settingOption of settingOptions; let settingOptionIndex = index;trackBy:trackByIndex;"
+    <div *ngFor="let settingOption of settingOptions; let settingOptionIndex = index"
         class="settingItem">
         <h3>{{settingOption.groupTitle}}</h3>
-        <div *ngFor="let setting of settingOption.settings; let settingIndex = index;trackBy:trackByIndex;"
+        <div *ngFor="let setting of settingOption.settings; let settingIndex = index"
             [ngSwitch]="setting.type">
             {{setting.settingName}}
             <p-colorPicker *ngSwitchCase="'colorPicker'"
