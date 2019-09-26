@@ -4,13 +4,12 @@
   "Notes":"Copy into repository root for Heroku Deployment",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "node app.js",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "cd Experiences && npm install",
-    "heroku-postbuild": "ng build --prod"
+    "postinstall": "cd Experiences && npm install"
   },
   "engines": { "node": "10.16.0", "npm": "6.4.1" },
   "private": true,
