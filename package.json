@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "cd Experiences && ng build --aot",
+    "postinstall": "cd Experiences && npm install && ng build --aot",
     "heroku-postbuild": "ng build --prod"
   },
   "engines": { "node": "10.16.0", "npm": "6.4.1" },
