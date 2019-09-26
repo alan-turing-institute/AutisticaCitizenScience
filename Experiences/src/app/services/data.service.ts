@@ -3,6 +3,7 @@ import { Subject, BehaviorSubject } from 'rxjs';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { NavbarItem } from '../classes/navbar/navbarItem.class'
 import { ExperienceItem } from '../classes/experienceItem.class'
+import { TipItem } from '../classes/tipItem.class'
 
 @Injectable()
 export class DataService {
@@ -12,6 +13,13 @@ export class DataService {
     styleTheme: {
       experience: {
         experienceItem: {
+          'background-color': '#c5c5c5',
+          'color':'#000000',
+          'border-radius': '5px'
+        }
+      },
+      tip: {
+        tipItem: {
           'background-color': '#c5c5c5',
           'color':'#000000',
           'border-radius': '5px'
@@ -53,6 +61,7 @@ export class DataService {
   ])
   private currentVisiblePage = new BehaviorSubject<string>(this.navbarItems.value[0].identifier)
   private experiences = new BehaviorSubject<ExperienceItem[]>([{ title: "Experience 1" }, { title: "Experience 2" }])
+  private tips = new BehaviorSubject<TipItem[]>([{title:"Tip 1"}, {title:"Tip 2"}])
   private loginFailed = new BehaviorSubject<boolean>(false);
   private loginStatus = new BehaviorSubject<number>(0);
   private displayName = new BehaviorSubject<string>("");
@@ -69,7 +78,8 @@ export class DataService {
   Profile = this.profile.asObservable()
   NavbarItems = this.navbarItems.asObservable();
   CurrentVisiblePage = this.currentVisiblePage.asObservable();
-  Experiences = this.experiences.asObservable()
+  Experiences = this.experiences.asObservable();
+  Tips = this.tips.asObservable();
   LoginFailed = this.loginFailed.asObservable();
   LoggedIn = this.loginStatus.asObservable();
   DisplayName = this.displayName.asObservable();

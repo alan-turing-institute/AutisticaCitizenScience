@@ -1,1 +1,20 @@
-tips works!
+<div id="tipsHeader">
+    <span id="tipsHeaderLabel">
+
+        Tips
+
+    </span>
+    <Span id="newTipBtn">
+        <span id="newTipBtnIcon">
+            <i class="pi pi-plus"></i>
+        </span>
+        <span id="newTipBtnLabel">
+            Add a Tip
+        </span>
+    </Span>
+</div>
+
+<span *ngFor="let tip of tips" class="tipItem" [ngStyle]="styles.tipItem">
+        {{tip.title}} 
+</span>
+    

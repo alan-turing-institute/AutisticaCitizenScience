@@ -46,6 +46,28 @@ export class SettingsComponent implements OnInit {
         ]
       },
       {
+        groupTitle: "Tip Item",
+        styleGroup: 'tip',
+        settings: [
+          {
+            settingName: "Background Colour",
+            path: {
+              element: 'tipItem',
+              property: 'background-color'
+            },
+            type: "colorPicker"
+          },
+          {
+            settingName: "Text Colour",
+            path: {
+              element: 'tipItem',
+              property: 'color'
+            },
+            type: "colorPicker"
+          }
+        ]
+      },
+      {
         groupTitle: "Background",
         styleGroup: 'main',
         settings: [

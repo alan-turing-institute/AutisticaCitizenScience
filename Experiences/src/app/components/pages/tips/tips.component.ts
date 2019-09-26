@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { TipItem } from '../../../classes/tipItem.class';
+import { DataService } from '../../../services/data.service'
 
 @Component({
   selector: 'app-tips',
@@ -6,8 +8,18 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./tips.component.css']
 })
 export class TipsComponent implements OnInit {
+  tips:TipItem[];
+  styles:any;
+  constructor(private Dataservice:DataService) { 
 
-  constructor() { }
+    Dataservice.Tips.subscribe(tipData=>{
+      this.tips = tipData
+    })
+
+    Dataservice.Profile.subscribe(data=>{
+      this.styles = data.styleTheme.tip
+    })
+  }
 
   ngOnInit() {
   }

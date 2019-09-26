@@ -1,0 +1,47 @@
+.tipItem{
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+#tipsHeader{
+    height: 110px;
+    margin: -10px;
+    padding: 15px;
+    padding-left: 30px;
+    background-color: #0000005c;
+    margin-bottom: 15px;
+}
+#tipsHeaderLabel{
+    font-size: 30px;
+    line-height: 90px;
+    color: #dcdcdc
+}
+#newTipBtn{
+    background-color: #5fc652;
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    cursor: grab;
+    height: 30px;
+    width: 130px;
+    display: inline-block;
+    position: relative;
+    line-height: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    float: right;
+    margin-top: 15px;
+}
+#newTipBtnIcon{
+    font-size: 32px;
+    position: absolute;
+    left: 10px;
+    top: 18px;
+}
+#newTipBtnLabel{
+    position: absolute;
+    left: 50px
+}
