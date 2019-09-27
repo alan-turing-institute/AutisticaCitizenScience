@@ -4,7 +4,7 @@
         Tips
 
     </span>
-    <Span id="newTipBtn">
+    <Span id="newTipBtn" (click)="toggleNewTipPrompt(true)">
         <span id="newTipBtnIcon">
             <i class="pi pi-plus"></i>
         </span>
@@ -13,7 +13,21 @@
         </span>
     </Span>
 </div>
-
+<div id="newTipForm" *ngIf="newTipPromptVisible">
+    <h3 id="newTipFormPrompt">What is your experience?</h3>
+    <div id="newTipFormActionArea">
+    <Span class="actionBtn" id="newTipFormSubmit">           
+            <span >
+                Submit
+            </span>
+    </Span>
+    <Span class="actionBtn" id="newTipFormCancel" (click)="toggleNewTipPrompt(false)">           
+            <span >
+                Cancel
+            </span>
+    </Span>
+    </div>
+</div>
 <span *ngFor="let tip of tips" class="tipItem" [ngStyle]="styles.tipItem">
         {{tip.title}} 
 </span>

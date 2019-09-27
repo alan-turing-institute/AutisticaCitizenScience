@@ -21,7 +21,7 @@ export class DataService {
       tip: {
         tipItem: {
           'background-color': '#c5c5c5',
-          'color':'#000000',
+          'color':'#1f1f1f',
           'border-radius': '5px'
         }
       },

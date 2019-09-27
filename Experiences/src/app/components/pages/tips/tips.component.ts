@@ -10,6 +10,7 @@ import { DataService } from '../../../services/data.service'
 export class TipsComponent implements OnInit {
   tips:TipItem[];
   styles:any;
+  newTipPromptVisible:boolean = false
   constructor(private Dataservice:DataService) { 
 
     Dataservice.Tips.subscribe(tipData=>{
@@ -24,4 +25,7 @@ export class TipsComponent implements OnInit {
   ngOnInit() {
   }
 
+  toggleNewTipPrompt(visibility:boolean){
+    this.newTipPromptVisible = visibility;
+  }
 }

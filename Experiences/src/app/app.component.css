@@ -6,6 +6,8 @@
     right: 0px;
     font-size: 24px;
     padding: 10px;
+    overflow-y: auto;
+    
 }
 #navbar{
     position: absolute;
@@ -13,5 +15,6 @@
     bottom: 0px;
     left: 0px;
     width: 230px;
-    /* background-color: #1f2a51; */
+    box-shadow: rgba(0, 0, 0, 0.62) 2px 0px 10px;
+    z-index: 2;
 }
