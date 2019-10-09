@@ -72,7 +72,7 @@ This folder includes information on:
 ## Contributors
 
 The Autistica/Turing Citizen Science project welcomes all contributions.
-For more information on how to participate, please review our [contributing guidelines](/CONTRIBUTING.md) and the [building a safe community](project-management/building-a-safe-community.md) document.
+For more information on how to participate, please review our [contributing guidelines](/.github/CONTRIBUTING.md) and the [building a safe community](project-management/building-a-safe-community.md) document.
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
 
