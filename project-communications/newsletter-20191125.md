@@ -15,7 +15,7 @@ This is the November 2019 newsletter for the Autistica/Turing Citizen Science pr
 Thank you so much to everyone who attended the focus groups held at Fujitsu's offices in September and October.
 These involved bringing together autistic people, the parents and carers of autistic people, and collaborators from Autistica, The Alan Turing Institute, Fujitsu, and subject matter experts.
 (Including some participants who had overlapping areas of expertise!)
-The discussions were extremely useful, and we gathered important insights which will be invaluable in progressing goals of the project.
+The discussions were extremely useful, and we gathered important insights which will be invaluable in progressing the goals of the project.
 
 All 3 focus groups have now been transcribed and collated, and we’re fine-tuning the analysis process with help from an autistic collaborator.
 The transcripts represent almost 15 hours of recording across 3 different sessions, requiring the editing and categorising of more than 150 pages of verbatim dialogue 🙀
