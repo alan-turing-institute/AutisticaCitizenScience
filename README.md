@@ -57,7 +57,7 @@ Please start by reading the [participant information sheet](project-management/p
 - Subscribe to our [mailing list](https://tinyletter.com/AutisticaTuringCitizenScience) with which we send monthly project updates.
 - You can contact research associate Georgia Aitkenhead by email at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk).
 - Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
-  - For more instructions, checkout our [contributing guidelines](CONTRIBUTING.md).
+  - For more instructions, checkout our [contributing guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md).
   - ⚠️ Using GitHub can be a little confusing.
   Please let us know if you have any questions getting started.
 
@@ -83,7 +83,7 @@ This folder includes information on:
 ## Contributors
 
 The Autistica/Turing Citizen Science project welcomes all contributions.
-For more information on how to participate, please review our [contributing guidelines](CONTRIBUTING.md) and the [building a safe community](project-management/building-a-safe-community.md) document.
+For more information on how to participate, please review our [contributing guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md) and the [building a safe community](project-management/building-a-safe-community.md) document.
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
 
