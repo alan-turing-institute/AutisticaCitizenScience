@@ -3,7 +3,8 @@ import { Subject, BehaviorSubject } from 'rxjs';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { NavbarItem } from '../classes/navbar/navbarItem.class'
 import { ExperienceItem } from '../classes/experienceItem.class'
-import { TipItem } from '../classes/tipItem.class'
+import { TipItem } from '../classes/tipItem.class';
+import { PromptQuestion } from '../classes/promptQuestion.class'
 
 @Injectable()
 export class DataService {
@@ -59,6 +60,16 @@ export class DataService {
       identifier: "about"
     }
   ])
+  private newTipPrompt = new BehaviorSubject<PromptQuestion[]>([
+    {
+      question: "What is your experience",
+      response: ""
+    },
+    {
+      question: "What would make your experience better",
+      response: ""
+    }
+  ]);
   private currentVisiblePage = new BehaviorSubject<string>(this.navbarItems.value[0].identifier)
   private experiences = new BehaviorSubject<ExperienceItem[]>([{ title: "Experience 1" }, { title: "Experience 2" }])
   private tips = new BehaviorSubject<TipItem[]>([{title:"Tip 1"}, {title:"Tip 2"}])
@@ -77,6 +88,7 @@ export class DataService {
 
   Profile = this.profile.asObservable()
   NavbarItems = this.navbarItems.asObservable();
+  NewTipPrompt = this.newTipPrompt.asObservable();
   CurrentVisiblePage = this.currentVisiblePage.asObservable();
   Experiences = this.experiences.asObservable();
   Tips = this.tips.asObservable();

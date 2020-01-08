@@ -14,15 +14,18 @@
     </Span>
 </div>
 <div id="newTipForm" *ngIf="newTipPromptVisible">
-    <h3 id="newTipFormPrompt">What is your experience?</h3>
+    <h3 id="newTipFormPrompt">{{newTipPromptQuestions[currentNewTipPromptQuestion].question}}?</h3>
     <div id="newTipFormActionArea">
+    <span id="newTipPromptPageIndicatorArea">
+        <span *ngFor="let question of newTipPromptQuestions; let i = index" class="newTipPromptPageIndicator" [ngClass]="(i == currentNewTipPromptQuestion)?'current':''"></span>
+    </span>
     <Span class="actionBtn" id="newTipFormSubmit">           
             <span >
                 Submit
             </span>
     </Span>
     <Span class="actionBtn" id="newTipFormCancel" (click)="toggleNewTipPrompt(false)">           
-            <span >
+            <span>
                 Cancel
             </span>
     </Span>

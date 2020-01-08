@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { TipItem } from '../../../classes/tipItem.class';
+import { PromptQuestion } from '../../../classes/promptQuestion.class'
 import { DataService } from '../../../services/data.service'
 
 @Component({
@@ -11,6 +12,8 @@ export class TipsComponent implements OnInit {
   tips:TipItem[];
   styles:any;
   newTipPromptVisible:boolean = false
+  newTipPromptQuestions: PromptQuestion[]
+  currentNewTipPromptQuestion : number = 1;
   constructor(private Dataservice:DataService) { 
 
     Dataservice.Tips.subscribe(tipData=>{
@@ -19,6 +22,10 @@ export class TipsComponent implements OnInit {
 
     Dataservice.Profile.subscribe(data=>{
       this.styles = data.styleTheme.tip
+    })
+
+    Dataservice.NewTipPrompt.subscribe(questions=>{
+      this.newTipPromptQuestions = questions
     })
   }
 
