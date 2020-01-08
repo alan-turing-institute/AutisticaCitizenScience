@@ -2,17 +2,19 @@
     position: absolute;
     top: 0px;
     bottom: 0px;
-    left: 220px;
+    left: 230px;
     right: 0px;
-    background-color: #ededed;
     font-size: 24px;
     padding: 10px;
+    overflow-y: auto;
+    
 }
 #navbar{
     position: absolute;
     top: 0px;
     bottom: 0px;
     left: 0px;
-    width: 220px;
-    background-color: #1f2a51;
+    width: 230px;
+    box-shadow: rgba(0, 0, 0, 0.62) 2px 0px 10px;
+    z-index: 2;
 }

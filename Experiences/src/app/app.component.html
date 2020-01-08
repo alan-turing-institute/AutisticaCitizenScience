@@ -1,8 +1,9 @@
-<div id="navbar">
+<div id="navbar" [ngStyle]="navStyles.navarea">
   <app-navbar></app-navbar>
 </div>
-<div id="main" [ngSwitch]="currentPageID">
+<div id="main" [ngSwitch]="currentPageID" [ngStyle]="mainStyles.background">
   <app-experiences *ngSwitchCase="'experiences'"></app-experiences>
   <app-tips *ngSwitchCase="'tips'"></app-tips>
+  <app-settings *ngSwitchCase="'settings'"></app-settings>
   <app-about *ngSwitchCase="'about'"></app-about>
 </div>

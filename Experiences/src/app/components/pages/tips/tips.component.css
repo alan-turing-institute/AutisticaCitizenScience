@@ -1,0 +1,106 @@
+.tipItem{
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.4)
+}
+.actionBtn{
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    cursor: grab;
+    height: 5px;
+    width: 80px;
+    display: inline-block;
+    position: relative;
+    line-height: 6px;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.3);
+    float: right;
+}
+.newTipPromptPageIndicator{
+    background-color: black;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 10px;
+    margin: 5px;
+    margin-top: 40px;
+}
+.newTipPromptPageIndicator.current{
+    background-color: #26b714;
+}
+#tipsHeader{
+    height: 110px;
+    margin: -10px;
+    padding: 15px;
+    padding-left: 30px;
+    background-color: rgba(0,0,0,0.35);
+    margin-bottom: 15px;
+}
+#tipsHeaderLabel{
+    font-size: 30px;
+    line-height: 90px;
+    color: #1f1f1f
+}
+#newTipBtn{
+    background-color: #5fc652;
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    cursor: grab;
+    height: 30px;
+    width: 130px;
+    display: inline-block;
+    position: relative;
+    line-height: 30px;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.4);
+    float: right;
+    margin-top: 15px;
+}
+#newTipBtnIcon{
+    font-size: 32px;
+    position: absolute;
+    left: 10px;
+    top: 18px;
+}
+#newTipBtnLabel{
+    position: absolute;
+    left: 50px
+}
+#newTipForm{
+    background-color: white;
+    height: 325px;
+    border-radius: 10px;
+    transform: translateY(-5px);
+    margin: 30px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.4)
+}
+#newTipFormPrompt{
+    margin: 0px;
+    padding: 25px;
+    background-color: #565656;
+    border-radius: 10px 10px 0px 0px;
+    color: #fdfdfd;
+    height: 12px;
+    line-height: 12px;
+    font-size: 24px;
+}
+#newTipFormActionArea{
+    position: absolute;
+    bottom: 0px;
+    left:0px;
+    right: 0px;
+}
+#newTipPromptPageIndicatorArea{
+    margin-left: 20px;
+}
+#newTipFormSubmit{
+    background-color: #71cf65
+}
+#newTipFormCancel{
+    background-color: #ff7272
+}
