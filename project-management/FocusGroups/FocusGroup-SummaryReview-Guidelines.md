@@ -13,16 +13,22 @@ You will be paid whether or not you ask us to make any changes.
 If the process is confusing, or if you have any questions, please contact Georgia at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk).
 She can talk you through the summary document and take your feedback via phone call or Skype if you would prefer. 
 
-## What is the summary?
+### Table of contents:
+
+* [What is the summary document?](#what-is-the-summary-document)
+* [How was the summary document written?](#how-was-the-summary-document-written)
+* [Reviewing the summary document](#reviewing-the-summary-document)
+* [Thank you](#thank-you)
+
+## What is the summary document?
 
 We want to share the insights from our conversations to help others understand how they can best support the needs of autistic people with sensory processing differences.
 
 The summary document is a collection of anonymised quotes from focus group participants.
 
-## How was the summary written?
+## How was the summary document written?
 
-### 1. Attend focus group
-<img src="../../images/noun-project-icons/noun_Conversation_2041500.png" width="150" align="right"/>
+### 1. Attend focus group <img src="../../images/noun-project-icons/noun_Conversation_2041500.png" width="150" align="right"/>
 
 You came to a focus group at Fujitsu to talk about a project to design a platform to use for autism research.
 
