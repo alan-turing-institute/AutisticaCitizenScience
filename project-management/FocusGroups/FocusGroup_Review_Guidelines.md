@@ -26,6 +26,7 @@ The summary document is a collection of anonymised quotes from focus group parti
 On `date` you came to a focus group at Fujitsu to talk about a project to design a platform to use for autism research.
 
 The focus group was recorded.
+<BR CLEAR=ALL>
 
 ### 2. Transcribe discussion <img src="../../images/noun-project-icons/noun_transcript_532343.png" width="150" align="right"/>
 
@@ -38,12 +39,14 @@ Personally identifying information includes:
 * Schools, workplaces, universities, and addresses
 
 The recordings were then deleted.
+<BR CLEAR=ALL>
 
 ### 3. Collect anonymised quotes <img src="../../images/noun-project-icons/noun_Document_188540.png" width="150" align="right"/>
 
 Quotations were taken from the document, shortened, and organised into groups based on common themes.
 
 These insights are contained in the summary document  you have been sent.
+<BR CLEAR=ALL>
 
 ## What happens next?
 
@@ -65,6 +68,7 @@ Potential users include:
 * Future contributors to this project who want to add to the insights from the focus groups.
 * Autism researchers and advocates who want to make sure they are serving the needs of autistic people.
 * Parents, friends and colleagues who want to better understand how to support an autistic person they know.
+<BR CLEAR=ALL>
 
 ### 6. Write down platform requirements <img src="../../images/noun-project-icons/noun_todolist_1128326.png" width="150" align="right"/>
 
