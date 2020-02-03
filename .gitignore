@@ -105,3 +105,6 @@ venv.bak/
 
 # Ignore secret files
 .secrets/
+
+# Ignore word docs in project management folder
+project-management/turing-health-quarterly-updates/*docx
