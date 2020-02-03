@@ -16,21 +16,22 @@
 * **GitHub repository**: https://github.com/alan-turing-institute/AutisticaCitizenScience
 * **Project website**: https://alan-turing-institute.github.io/AutisticaCitizenScience
 
-## Summary
+## Notable activity/outcomes in research progress
 
-Numerous studies have confirmed that autistic people experience sensory processing differences, and that this can significantly impact their lives.
-One aspect which is not yet fully understood is how these differences affect the ways in which autistic people navigate different environments.
-Using participatory methods, this project will build a citizen scientist platform which will collect rich information about people's experiences navigating the world.
-The data can be used to improve public and private spaces for autistic people, educate the public, and help create strategies to cope with, and remove, barriers autistic people may face.
-
-## Notable activity/outcomes in research progress 
 
 ### Online collaboration
 
-Members of the autistic community have contributed to the project via channels including GitHub issues, and an “always open” Google Forms survey: [https://bit.ly/AutisticaTuringCitSciForm](https://bit.ly/AutisticaTuringCitSciForm).
+We have had additional collaboration from members of the autistic community on our online channels, including GitHub and our Google Forms survey.
+Guidelines for assessing the dataset have been co-produced with an autistic collaborator via. the GitHub repository
+•	There are now 40 people on the project newsletter mailing list. Archives of monthly updates from October and November are available at https://tinyletter.com/AutisticaTuringCitizenScience/archive).
+•	The project tasks have been turned into GitHub issues and are organised into milestones and labelled for ease of collaboration. 
+
+
+Members of the autistic community have contributed to the project via channels including GitHub issues, and an "always open" Google Forms survey: [https://bit.ly/AutisticaTuringCitSciForm](https://bit.ly/AutisticaTuringCitSciForm).
 The data has been consented to be made publicly available and is available (after moderation for accidental personal information disclosure) at in our GitHub repository at [community-recommendations/GoogleFormResponses.pdf](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/community-recommendations/GoogleFormResponses.pdf).
 
-There are 34 people on the project newsletter mailing list. Archives of monthly updates from August and September available at [https://tinyletter.com/AutisticaTuringCitizenScience/archive](https://tinyletter.com/AutisticaTuringCitizenScience/archive).
+There are 40 people on the project newsletter mailing list.
+Archives of an update from November is available at [https://tinyletter.com/AutisticaTuringCitizenScience/archive](https://tinyletter.com/AutisticaTuringCitizenScience/archive).
 
 All documentation is available and licenced for re-use in the project’s GitHub repository including:
 
@@ -68,4 +69,5 @@ We have been approached by a number of influential organisations who are interes
 
 ## Presentations
 
-Georgia Atikenhead and community member Thomas Augur presented the project at the British Library’s National Inclusion Week community event. They engaged with British Library staff to discuss how the research could have positive impact on the lives of neurodivergent people and demonstrated how to get involved with the project.
+Georgia Atikenhead and community member Thomas Augur presented the project at the British Library’s National Inclusion Week community event.
+They engaged with British Library staff to discuss how the research could have positive impact on the lives of neurodivergent people and demonstrated how to get involved with the project.
