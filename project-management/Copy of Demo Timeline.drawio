@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.6.6" host="www.draw.io" modified="2020-02-09T17:26:15.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="eMRMMNcuKscXMCI0L-pn">
+<mxfile type="github" version="12.6.6" host="www.draw.io" modified="2020-02-09T17:27:04.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="sJVBa4bfFtIVoyWjG56r">
   <diagram id="9HjB6JmcAYeKsk_iC3qo" name="Page-1">
     <mxGraphModel grid="1" dx="2591" dy="792" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -148,9 +148,6 @@
             <mxPoint as="targetPoint" y="240" x="437"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdctDN5jrHUbDZ-jReNc-45" value="" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" edge="1" source="wdctDN5jrHUbDZ-jReNc-38" target="wdctDN5jrHUbDZ-jReNc-44">
-          <mxGeometry as="geometry" relative="1"/>
-        </mxCell>
         <mxCell id="wdctDN5jrHUbDZ-jReNc-38" value="Discover ethics conference submission" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1">
           <mxGeometry as="geometry" height="60" width="84" y="620" x="499"/>
         </mxCell>
@@ -162,6 +159,9 @@
             <mxPoint as="sourcePoint" y="610" x="540.5"/>
             <mxPoint as="targetPoint" y="500" x="541"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wdctDN5jrHUbDZ-jReNc-51" value="" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;" edge="1" source="wdctDN5jrHUbDZ-jReNc-48" target="wdctDN5jrHUbDZ-jReNc-50">
+          <mxGeometry as="geometry" relative="1"/>
         </mxCell>
         <mxCell id="wdctDN5jrHUbDZ-jReNc-48" value="Building the website (Start)" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1">
           <mxGeometry as="geometry" height="60" width="84" y="320" x="495"/>
