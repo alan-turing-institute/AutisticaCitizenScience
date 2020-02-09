@@ -4,14 +4,23 @@ This document describes a workflow that combines participatory, open source and 
 
 ## Background, problem statement, proposed solution
 
-*There needs to be something here that provides a little background about why we need a whole new way of working.*
-*Something along the lines of the difference between continual and continuous, and the difference between people who are paid to work on the project vs people who are volunteering their time - both members of the autistic community and volunteer developers.*
+This is a project funded and supported by the autistic community and therefore every stage of the project requires complete transparency and community feedback.
 
-This is a project funded by and supported by the Autistic community and therefore every stage of the project requires complete transparency and community feedback.
-A new way of working needs to be developed to incorporate Alan Turing and Fujitsu to work effectively together.
+There is a tension between the [*continual*](https://en.wiktionary.org/wiki/continual) - regularly repeated - development cycles of an Agile workflow, and the [*continuous*](https://en.wiktionary.org/wiki/continuous) - without stopping - development process in an open source community of volunteers.
+
+A *continual* Agile sprint only provides one point in time to plan what work will be done.
+The process is rigorously time-locked process.
+Development is usually undertaken by a team who know how much time they can commit to the project.
+(For example because they are being paid to complete it.)
+A [sprint backlog](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/sprint-backlog) is defined in the planning meeting at the start of the sprint and there is a general rule that no additional tasks are added outside of that meeting.
+
+A *continuous* open source workflow can be undertaken at any time.
+Open source work is often (although not always) done by volunteers who are not paid to develop the project and who are contributing in their spare time.
+It is difficult to determine when the work will be completed.
+
+This document describes a balance between the two ways of working that allow the Fujitsu team to maintain their Agile workflow and for members of the broader project community to contribute when they are able.
+
 All parties are committed to working in an Agile (and agile) way to develop the platform efficiently.
-
-The Agile work process involves working in 2 week sprints with each sprint producing a minimum viable product and a demo of that product. This continual process allows regular feedback from the autistic community. This method accommodates the need for Fujitsu to work efficiently since they are being paid whilst allowing the volunteering autistic community to feedback in their own time.
 
 ![](/images/agile-opensource-workflow.png)
 
@@ -21,13 +30,11 @@ The Agile work process involves working in 2 week sprints with each sprint produ
 
 The initial platform requirements are supported by extensive discussions between autistic people and their supporters, researchers, developers, and funders, as well as from online feedback and contributions from the online community.
 
-*Link here to processes for running and managing data from the focus groups*
-
 ### 2. Extracting tasks from focus group insights
 
 The insights from the focus groups are collected together and written into a comprehensive list of tasks and user stories by researchers and developers, which are the project’s backlog.
 
-The tasks and user stories are published as individual GitHub issues, and grouped under appropriate milestones on the project’s open repository. 
+The tasks and user stories are published as individual GitHub issues, and grouped under appropriate milestones on the project's open repository.
 
 ### 3. Prioritisation
 
@@ -43,21 +50,22 @@ The remaining user stories remain open as issues on GitHub for anyone to develop
 
 ## Continuous development
 
-### 5. Sprint meetings every 2 weeks
+### 5. Publish sprint report and video demonstration
 
-The team (made up of Fujitsu developers and Alan Turing members) have fortnightly agile sprint cycles, beginning with a retrospective of the previous sprint cycle and a sprint planning session in which some of the issues in the Fujitsu team's backlog are pulled into the sprint backlog - where the sprint backlog is the issues that will be covered in that sprint.
+At the end of every 2 week sprint, the Fujitsu team will publicly release a [sprint report](#sprint-report) text file detailing the issues and pull requests that were addressed during the sprint and a [video](#video) of the work they have achieved during the sprint.
 
-*clarify the difference between sprint backlog and team backlog - done?*
+Details of this release can be found in the [sprint-demo-requirements.md](project-management/sprint-demo-requirements.md) file.
+The sprint report will be added to the [SPRINTREPORT.md](SPRINTREPORT.md) file in the main GitHub repository ([https://github.com/alan-turing-institute/AutisticaCitizenScience](https://github.com/alan-turing-institute/AutisticaCitizenScience)).
 
-### 6. Publish demo
-
-At the end of every 2 week sprint, the Fujitsu team will openly publish a video demonstration of the work they have achieved during the sprint.
-
-*Where? How long? As a PR to the repo? And then maybe open an accompanying issue to collect comments?*
+The community are asked to review this video and share their thoughts and feedback.
 
 *Fujitsu marketing could get involved with this... needs to be discussed with the entire team*
 
-The community are asked to review this video and share their thoughts and feedback.
+### 6. Sprint meetings every 2 weeks
+
+The Fujitsu team have fortnightly agile sprint cycles, beginning with a retrospective of the previous sprint cycle and a sprint planning session.
+During the sprint planning session some of the issues in the Fujitsu team's backlog are pulled into the sprint backlog.
+The sprint backlog is a collection of issues that will be covered during that sprint.
 
 ### 7. Integrating asynchronous comments
 
