@@ -7,7 +7,9 @@ This document describes a workflow that combines participatory, open source and 
 *There needs to be something here that provides a little background about why we need a whole new way of working.*
 *Something along the lines of the difference between continual and continuous, and the difference between people who are paid to work on the project vs people who are volunteering their time - both members of the autistic community and volunteer developers.*
 
-This is a project funded by and supported by the Autistic community and therefore every stage of the project requires complete transparency and community feedback. A new way of working needs to be developed to incorporate Alan Turing and Fujitsu to work effectively together. Fujitsu work in an Agile way to develop the platform efficiently.
+This is a project funded by and supported by the Autistic community and therefore every stage of the project requires complete transparency and community feedback.
+A new way of working needs to be developed to incorporate Alan Turing and Fujitsu to work effectively together.
+All parties are committed to working in an Agile (and agile) way to develop the platform efficiently.
 
 The Agile work process involves working in 2 week sprints with each sprint producing a minimum viable product and a demo of that product. This continual process allows regular feedback from the autistic community. This method accommodates the need for Fujitsu to work efficiently since they are being paid whilst allowing the volunteering autistic community to feedback in their own time.
 
@@ -37,9 +39,7 @@ The issues that correspond to the backlog are transferred to the Fujitsu team's 
 
 Completed tasks are submitted as pull requests to the main repository.
 
-The remaining user stories remain open as issues on GitHub for anyone to develop or contribute to on an ad hoc continual basis.
-
-*:point_up: This feels like it needs to be a step on its own...* *does this fix do the job?*
+The remaining user stories remain open as issues on GitHub for anyone to develop or contribute to on an ad hoc continuous basis.
 
 ## Continuous development
 
@@ -49,7 +49,7 @@ The team (made up of Fujitsu developers and Alan Turing members) have fortnightl
 
 *clarify the difference between sprint backlog and team backlog - done?*
 
-### 5. Publish demo
+### 6. Publish demo
 
 At the end of every 2 week sprint, the Fujitsu team will openly publish a video demonstration of the work they have achieved during the sprint.
 
@@ -59,7 +59,7 @@ At the end of every 2 week sprint, the Fujitsu team will openly publish a video 
 
 The community are asked to review this video and share their thoughts and feedback.
 
-### 6. Integrating asynchronous comments
+### 7. Integrating asynchronous comments
 
 The Fujitsu team work on the next iteration of the demo and gather feedback from the previous sprint's demo.
 
