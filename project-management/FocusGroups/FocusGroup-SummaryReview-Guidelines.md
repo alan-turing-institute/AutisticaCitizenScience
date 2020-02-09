@@ -121,7 +121,7 @@ This means there is no personally identifying information associated with them.
 
 However, we have kept some information about the speaker to make sure that the quotes are interpreted in an appropriate context.
 
-People can be members of multiple groups: the **organisation** they work for, their **specialist role in the study**, their **connection to autism**, and their **connection to the experience** they are sharing.
+People can be members of multiple groups: the **organisation** they work for, their **specialist role in the study**, their **expertise by lived experience**, and their **connection to the experience** they are sharing.
 
 For example:
 
@@ -148,9 +148,9 @@ Quotes from researchers paid to work on the project are marked with a capital le
 
 * Researcher: R
 
-#### Connection to Autism
+#### Expertise by lived experience
 
-Quotes from people with a personal connection to autism are marked with a bold capital letter:
+Quotes from people wiho are experts by experience of autism are marked with a bold capital letter:
 
 * Autistic person: **A**
 * Parent of an autistic person: **P**
