@@ -11,10 +11,10 @@ A traditional Agile workflow would require them to be present for the end of spr
 People who are not paid to be part of the project will struggle to be available at those specific times.
 By only presenting to a small group of community members we will not deliver on our values of a [*participatory*](project-values.md#participatory-science) and [*inclusive*](project-values.md#diversity-and-inclusion) development project.
 
-Our proposed solution is to publicly release a video visually presenting the work that has been done during the sprint and a text sprint report file detailing the issues and pull requests that were addressed during the sprint.
+Our proposed solution is to publicly release a [video](#video) visually presenting the work that has been done during the sprint and a [sprint report](#sprint-report) text file detailing the issues and pull requests that were addressed during the sprint.
 
 Members of the project community include autistic people, their families, members of the Open Humans community, autism researchers, Turing Institute researchers and open source contributors more broadly.
-These community members can watch the video and read the sprint report at any time and share their feedback via GitHub or the "always open" Google form.
+These community members can watch the video and read the sprint report at any time and share their feedback via [GitHub issues](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md#where-to-start-issues) or the ["always open" Google form](https://bit.ly/AutisticaTuringCitSciForm).
 
 ## Sprint report
 
@@ -33,7 +33,7 @@ Associated merged pull requests should also be linked (if applicable).
 
 If necessary, change the issue title to make the sprint report easier to read.
 
-Template section format:
+#### Template section format:
 
 > * [`#i`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`i`): `issue title`
 >   * Assocated pull requests: [`#a`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/`a`), [`#b`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`b`)
@@ -46,7 +46,7 @@ Associated "work in progress" (`[WIP]`) or "ready for review" (`[MRG]`) pull req
 
 If necessary, change the issue title to make the sprint report easier to read.
 
-Template section format:
+#### Template section format
 
 > * [`#k`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`k`): `issue title`
 >   * Assocated pull requests: [`#e`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/`e`), [`#f`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`f`)
@@ -58,7 +58,7 @@ This section of the sprint report contains links to issues that were opened but 
 
 If necessary, change the issue title to make the sprint report easier to read.
 
-Template section format:
+#### Template section format
 
 > * [`#m`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`m`): `issue title`
 >   * *Additional notes if necessary.*
@@ -67,6 +67,8 @@ Template section format:
 
 This section of the sprint report captures challenges that the Fujitsu team faced during the sprint.
 The challenges should include links to the relavent issues and pull requests where applicable.
+
+#### Template section format
 
 > * `challenge description`
 >   * Related to issues: [`#o`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`o`), [`#p`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`p`)
@@ -82,6 +84,8 @@ That issue must contain a link to the video and to the appropriate section in th
 This section may also contain links to working prototypes of the website that community members can interact with and provide their thoughts on.
 Make sure that these links have associated issues to capture the feedback (which can be the same as the sprint report issue, or a separate one as appropriate).
 
+#### Template section format
+
 > * [`#M`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`M`): issue to collect feedback on sprint `N`
 >   * Link to video: [`link-to-youtube`](`link-to-youtube`)
 >   * Link to sprint report: [SPRINTREPORT.md#`N`](SPRINTREPORT.md#sprint-`N`)
@@ -89,12 +93,41 @@ Make sure that these links have associated issues to capture the feedback (which
 
 ## Video
 
+The video is a 3-5 minute summary of the sprint report.
+
+We recommend formatting it as screen captured presentation with spoken descriptions.
+
+The screen capture may include a powerpoint presentation of the [closed](#closed-issues), [progressed](#progressed-issues) and [opened](#opened-issues) issues, the [challenges](#challenges) that the team faced, and to highlight requests for[community feedback](#community-feedback-requests).
+Alternatively the recording could be of a navigation of changed to the GitHub repository.
+
+The video recording is particularly helpful in showing how community members can navigate interactive wireframes or prototypes.
+
+The video should be uploaded to YouTube and made publicly available.
 
 ## Sprint timeline
 
-Sprint report and video posted on Thursday.
+This documentation assumes a two week / ten working day sprint that starts on a Monday (day 1) and finishes on a Friday (day 10).
 
-Retrospective and Sprint Planning meeting on Monday.
+### Sprint report and video
 
-Fujitsu team read a chapter of Autistm book book SFW on the Friday between.
+We recommend that the sprint report and video are uploaded on day 9 (Thursday) to give members of the research team at the Alan Turing Institute time to watch the video.
+
+**It is the responsibility of the Fujitsu development team to ensure that they have internal approval to release the video publicly before the end of the sprint.**
+
+### Sprint retrospective and planning meeting
+
+The sprint retrospective discussion will take place on the first day of the next sprint (day 1, Monday).
+
+In this meeting the Fujitsu team members, researchers at the Alan Turing Institute, and representatives of the autistic community will discuss the work shared in the sprint report and accompanying video.
+
+After the retrospective, the project team will set priorities for the next sprint.
+
+### Learning and development day
+
+Day 10 (Friday) of the two week sprint is designated as a learning and development day.
+We recommend that the Fujitsu team use this day to learn more about autism and the autistic community.
+
+The Turing research team recommend that this day is spent reading and discussing [Autism: A New Introduction to Psychological Theory and Current Debate](https://smile.amazon.co.uk/Autism-Introduction-Psychological-Theory-Current/dp/1138106127) by Dr [Sue Fletcher-Watson](https://www.ed.ac.uk/profile/dr-sue-fletcher-watson) and Prof [Francesca Happé](https://www.kcl.ac.uk/people/francesca-happe).
+Each chapter is less than 20 pages long and suitable for a general audience.
+The team could read one chapter per sprint cycle and reflect together on how their work is delivering on the needs of the autistic community.
 
