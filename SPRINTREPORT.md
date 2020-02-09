@@ -60,11 +60,11 @@ These tasks were opened during the sprint but no work was done to address them.
 
 ### Challenges
 
-The team met the following challenges during this sprint.
+The team met the following challenges or blockers during this sprint.
 
 *Please include and link to the accompanying issue or pull request for each challenge point.*
 
-* `challenge description`
+* `challenge/blocker description`
   * Related to issues: [`#o`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`o`), [`#p`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`p`)
   * *Additional notes if necessary.*
 *

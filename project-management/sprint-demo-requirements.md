@@ -1,6 +1,6 @@
 # Public demonstration of sprint progress
 
-This document describes the video and updates to the sprint report text file that are shared at the end of each Agile sprint by the Fujitsu team.
+This document describes the video and updates to the sprint report text file that are publicly shared at the end of each Agile sprint by the Fujitsu team.
 
  ## Background, problem statement, proposed solution
 
@@ -13,13 +13,13 @@ By only presenting to a small group of community members we will not deliver on 
 
 Our proposed solution is to publicly release a [video](#video) visually presenting the work that has been done during the sprint and a [sprint report](#sprint-report) text file detailing the issues and pull requests that were addressed during the sprint.
 
-Members of the project community include autistic people, their families, members of the Open Humans community, autism researchers, Turing Institute researchers and open source contributors more broadly.
-These community members can watch the video and read the sprint report at any time and share their feedback via [GitHub issues](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md#where-to-start-issues) or the ["always open" Google form](https://bit.ly/AutisticaTuringCitSciForm).
+Members of the project community include autistic people, their families, members of the Open Humans development community, autism researchers, Turing Institute researchers and open source contributors more broadly.
+These community members can watch the video and read the sprint report at any time and share their feedback via [GitHub issues](/CONTRIBUTING.md#where-to-start-issues) or the ["always open" Google form](https://bit.ly/AutisticaTuringCitSciForm).
 
 ## Sprint report
 
 The [sprint report text file](/SPRINTREPORT.md) is similar to a [standard changelog file](https://keepachangelog.com/en/1.0.0/).
-The goal of the sprint report is to capture project progress.
+The goal of the sprint report is to communicate project progress to stakeholders including the Turing research team and community members who are not able to attend the [sprint retrospective and planning meeting](#sprint-retrospective-and-planning-meeting).
 
 It is distinct from the changelog which is only updated on a new release of the project.
 
@@ -33,7 +33,7 @@ Associated merged pull requests should also be linked (if applicable).
 
 If necessary, change the issue title to make the sprint report easier to read.
 
-#### Template section format:
+#### Template section format
 
 > * [`#i`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`i`): `issue title`
 >   * Assocated pull requests: [`#a`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/`a`), [`#b`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`b`)
@@ -65,16 +65,16 @@ If necessary, change the issue title to make the sprint report easier to read.
 
 ### Challenges
 
-This section of the sprint report captures challenges that the Fujitsu team faced during the sprint.
-The challenges should include links to the relavent issues and pull requests where applicable.
+This section of the sprint report captures challenges and blockers that the Fujitsu team faced during the sprint.
+The challenges should include links to the relevant issues and pull requests where applicable.
 
 #### Template section format
 
-> * `challenge description`
+> * `challenge/blocker description`
 >   * Related to issues: [`#o`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`o`), [`#p`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`p`)
 >   * *Additional notes if necessary.*
 
-### Community Feedback Requests
+### Community feedback requests
 
 This section of the sprint report captures issues and pull requests where community feedback is particularly requested.
 
@@ -118,7 +118,10 @@ We recommend that the sprint report and video are uploaded on day 9 (Thursday) t
 
 The sprint retrospective discussion will take place on the first day of the next sprint (day 1, Monday).
 
-In this meeting the Fujitsu team members, researchers at the Alan Turing Institute, and representatives of the autistic community will discuss the work shared in the sprint report and accompanying video.
+In this meeting the Fujitsu team members, researchers at the Alan Turing Institute, and at least one member of the autistic community will discuss the work shared in the sprint report and accompanying video.
+
+This discussion will always include a reflection on community feedback provided on the _previous_ sprint.
+If necessary new user stories will be created and added to the backlog.
 
 After the retrospective, the project team will set priorities for the next sprint.
 
