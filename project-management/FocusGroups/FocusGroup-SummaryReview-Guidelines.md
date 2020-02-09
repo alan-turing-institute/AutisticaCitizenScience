@@ -5,7 +5,6 @@ Thank you for helping us design and build a citizen science platform to learn fr
 This document contains guidelines for reading the summary of the focus group you participated in September or October 2019.
 The summary has been sent to you in a separate document by email.
 
-We estimate that reading the summary document will take up to two hours of your time.
 We will pay all insight group member £30 to compensate them for this work.
 
 You will be paid whether or not you ask us to make any changes.
