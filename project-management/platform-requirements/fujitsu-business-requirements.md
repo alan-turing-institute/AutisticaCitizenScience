@@ -2,6 +2,8 @@
 
 This document describes the platform requirements that Fujitsu will deliver as part of their pro bono support of the project.
 
+**Table of contents**
+
 * [Key deliverables](#key-deliverables)
 * [High-level features](#high-level-features)
 * [Open source development](#open-source-development)
@@ -18,10 +20,12 @@ This document describes the platform requirements that Fujitsu will deliver as p
 ## Key deliverables
 
 Fujitsu will be responsible for delivering the front-end website of a co-designed citizen-science platform to investigate how autistic people navigate different environments, particularly focussed on the sensory processing differences they experience.
+For example, some autistic people may find rooms are too brightly lit, background noise particularly distracting, or have difficulty ignoring food smells.
+
 The intended users are autistic people and members of the autistic community such as parents, carers, family members, and supporters of autistic people.
 
-The website will allow users to sign up, input their experiences, and give dynamic informed consent on how that data can be used.
-The website must include a moderation workflow.
+The website will invite users to sign up, contribute their experiences, and give dynamic informed consent on how that data can be used.
+The website must include a moderation workflow, developed in collaboration with the user community.
 Anyone can access and learn from the experiences that have been consented to be made public on the site, after moderation.
 
 Data collected will be transferred securely to Open Humans and managed by their backend file management system.
@@ -36,7 +40,7 @@ They will deliver complete technical specifications and process documentation fo
 The front-end interface:
 
 1. Clearly and accessibly informs users about the project, the platform, what it is for and how to use it.
-2. Registers users and collects necessary demographic information, such as connection to autism.
+2. Registers users and collects necessary demographic information, such as connection to autism, and is compliant with the [UK Data Protection Act](https://www.gov.uk/data-protection).
 3. Takes input from users reporting their experiences navigating different sensory environments.
 4. Securely transfers data from users categorised as usable for research and/or usable for public view, or neither, to the Open Humans backend file management system.
 5. Allows moderation of input before it is made public.
