@@ -61,7 +61,7 @@ User stories that were created during the previous sprint to [incorporate commun
 
 This meeting is not open to the public as it is important to provide the development team a safe space to discuss how the previous sprint progressed and any challenges that they experienced.
 At least one member of the autistic community, preferably an autistic person, will be in attendance to participate in the retrospective and prioritisation process.
-The project leadership will attempt to rotate who attends these meetings to promote a diverse perspective from the autistic community.
+The project leadership will attempt to rotate who attends these meetings to promote a diverse perspective from the autistic community.The Fujitsu team can liaise with Bethan Davies at Autistica and Georgia at the Turing Alan Turing Institute to recruit autistic participants. They can also get in touch with Emma Chapell from Autistic to recruit autistic community members within Fujitsu. 
 
 ### 5. Progress assigned tasks
 
