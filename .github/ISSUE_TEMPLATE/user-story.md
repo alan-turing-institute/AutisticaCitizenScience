@@ -9,6 +9,27 @@ assignees: ''
 
 ### As a <user>
 
-### I would like to <action>
+*replace `<user>` with the specific persona that this user story is about*
 
-### Because <justification>
+### I would like to...
+
+*describe the action here*
+
+### Because...
+
+*describe the justification*
+
+### Acceptance criteria
+
+*define how this user story will close
+
+---
+
+## Notes
+
+* Associated pull request: 
+* Current status:
+
+---
+
+## Updates
