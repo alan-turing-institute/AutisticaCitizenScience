@@ -21,7 +21,7 @@ assignees: ''
 
 ### Acceptance criteria
 
-*define how this user story will close
+*define how this user story will close*
 
 ---
 
