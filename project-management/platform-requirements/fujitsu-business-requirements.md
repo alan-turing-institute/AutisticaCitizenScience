@@ -9,11 +9,11 @@ This document describes the platform requirements that Fujitsu will deliver as p
 * [Open source development](#open-source-development)
     * [GitHub](#github)
     * [Documentation](#documentation)
-  	* [Agile and open source development](#agile-and-open-source-development)
+    * [Agile and open source development](#agile-and-open-source-development)
 * [User experience research](#user-experience-research)
     * [User journeys](#user-journeys)
     * [1:1 testing and engagement](#11-testing-and-engagement)
-	* [Wireframes](#wireframes)
+    * [Wireframes](#wireframes)
 * [Initial demonstration](#initial-demonstration)
 * [Commitment to project values](#commitment-to-project-values)
 
