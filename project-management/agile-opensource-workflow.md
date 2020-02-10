@@ -20,6 +20,11 @@ It is difficult to determine when the work will be completed.
 
 This document describes a balance between the two ways of working that allow the Fujitsu team to maintain their Agile workflow and for members of the broader project community to contribute when they are able.
 
+The Fujitsu team work on the next iteration of the demo and gather feedback from the previous sprint's demo.
+
+The two workflows are asynchronous, since the feedback collected on the demo will be one sprint behind what the Fujitsu team are beginning to work on.
+
+
 All parties are committed to working in an Agile (and agile) way to develop the platform efficiently.
 
 ![](/images/agile-opensource-workflow.png)
@@ -30,45 +35,67 @@ All parties are committed to working in an Agile (and agile) way to develop the 
 
 The initial platform requirements are supported by extensive discussions between autistic people and their supporters, researchers, developers, and funders, as well as from online feedback and contributions from the online community.
 
-### 2. Extracting tasks from focus group insights
+### 2. Define user stories from focus group insights
 
-The insights from the focus groups are collected together and written into a comprehensive list of tasks and user stories by researchers and developers, which are the project’s backlog.
+The insights from the focus groups are collected together and written into a comprehensive list of tasks and user stories by researchers and developers, which are the project's backlog.
 
 The tasks and user stories are published as individual GitHub issues, and grouped under appropriate milestones on the project's open repository.
 
-### 3. Prioritisation
+### 3. Initial prioritisation
 
 The tasks and user stories are prioritised (with the input of members of the autistic community) in an initial backlog refinement session, and Fujitsu assign themselves a portion, which is their backlog.
 
 The issues that correspond to the backlog are transferred to the Fujitsu team's fork of the GitHub repository.
 
-### 4. Completion of tasks
+The remaining user stories remain open as issues on GitHub for anyone to develop or contribute to on an ad hoc [continuous](#continuous-development) basis.
+
+## Continual Agile development
+
+### 4. Create sprint backlog
+
+The Fujitsu team have fortnightly agile sprint cycles, beginning with a retrospective of the previous sprint cycle and a sprint planning session.
+During the sprint planning session some of the issues in the Fujitsu team's backlog are pulled into the sprint backlog.
+The sprint backlog is a collection of issues that will be covered during that sprint.
+
+User stories that were created during the previous sprint to [incorporate community feedback](#define-user-stories) on the previous sprint report and demonstration video must be discussed at this meeting.
+
+This meeting is not open to the public as it is important to provide the development team a safe space to discuss how the previous sprint progressed and any challenges that they experienced.
+At least one member of the autistic community, preferably an autistic person, will be in attendance to participate in the retrospective and prioritisation process.
+The project leadership will attempt to rotate who attends these meetings to promote a diverse perspective from the autistic community.
+
+### 5. Progress assigned tasks
+
+All tasks are defined as issues in the [Fujitsu fork](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience) of the main [AutisticaCitizenScience GitHub repository](https://github.com/alan-turing-institute/AutisticaCitizenScience).
+
+Task may include user experience research sessions, documentation, creation of interactive wireframes, and technical development of the website.
+
+### 6. Open review on GitHub
 
 Completed tasks are submitted as pull requests to the main repository.
+These will be reviewed by members of the Fujitsu team and approved by Turing researchers.
 
-The remaining user stories remain open as issues on GitHub for anyone to develop or contribute to on an ad hoc continuous basis.
+### 7. Define user stories
 
-## Continuous development
+Each sprint will include a task to incorporate feedback from the community.
+The feedback may come from community review of the previous sprint's report and demo video, the ["always open" Google form](https://bit.ly/AutisticaTuringCitSciForm), or comments on pull requests and other GitHub issues.
 
-### 5. Publish sprint report and video demonstration
+User stories defined during the sprint do not need to be assigned to the current sprint backlog, but they must be reviwed before setting the [next sprint backlog](#create-sprint-backlog).
+
+### 8. Publish sprint report and video demonstration
 
 At the end of every 2 week sprint, the Fujitsu team will publicly release a [sprint report](#sprint-report) text file detailing the issues and pull requests that were addressed during the sprint and a [video](#video) of the work they have achieved during the sprint.
 
 Details of this release can be found in the [sprint-demo-requirements.md](project-management/sprint-demo-requirements.md) file.
 The sprint report will be added to the [SPRINTREPORT.md](SPRINTREPORT.md) file in the main GitHub repository ([https://github.com/alan-turing-institute/AutisticaCitizenScience](https://github.com/alan-turing-institute/AutisticaCitizenScience)).
 
-The community are asked to review this video and share their thoughts and feedback.
+The project leadership will promote these materials to the community and ask them to share their thoughts and feedback.
 
 *Fujitsu marketing could get involved with this... needs to be discussed with the entire team*
 
-### 6. Sprint meetings every 2 weeks
+## Continuous development
 
-The Fujitsu team have fortnightly agile sprint cycles, beginning with a retrospective of the previous sprint cycle and a sprint planning session.
-During the sprint planning session some of the issues in the Fujitsu team's backlog are pulled into the sprint backlog.
-The sprint backlog is a collection of issues that will be covered during that sprint.
+All other issues - tasks and user stories - will be addressed through pull requests to the [main GitHub repository](https://github.com/alan-turing-institute/AutisticaCitizenScience).
 
-### 7. Integrating asynchronous comments
+The process is very similar to the continual development, but without the defined two week sprints.
 
-The Fujitsu team work on the next iteration of the demo and gather feedback from the previous sprint's demo.
-
-The two workflows are asynchronous, since the feedback collected on the demo will be one sprint behind what the Fujitsu team are beginning to work on.
+All community members are encouraged to contribute to the project by participating in discussions of the design, reviewing work, and opening pull requests to the repository.
