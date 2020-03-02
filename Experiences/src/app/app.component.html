@@ -1,9 +1,68 @@
+<div id="menubar">
+  <span id="profilearea">
+    <span id="profilelogin" *ngIf="loginStatus == 0" (click)="updateLoginStatus(1)">
+      Login
+    </span>
+    <span id="profilelogin" *ngIf="loginStatus == 1">
+        + Create Account
+      </span>
+    <span *ngIf="loginStatus == 2" id="profileicon"  [ngClass]="profileArea.showClass" (clickOutside)="profileAreaClickedOutside($event)" (click)="toggleProfileAreaExpansion()">
+      <span id="profilelabel"><ng-container *ngIf="profileArea.showState == false">TS</ng-container></span>
+        <span style="text-align: left;
+        position: absolute;
+        background-color: transparent;
+        top: 15px;
+        bottom: 15px;
+        left: 20px;
+        right: 20px; overflow: hidden; white-space: nowrap;" *ngIf="profileArea.showState">
+      <div style="font-size:24px; margin-bottom: 20px;">
+        Thomas Stanley
+      </div>
+      <div>
+        Profile Settings
+        <div>
+        <span id="profilelogin" (click)="logout()">
+            Logout
+          </span>
+          </div>
+      </div>  
+      </span>
+    </span>
+  </span>
+</div>
+<div id="bodycontent">
+    <ng-container  *ngIf="loginStatus == 0">
+        <homepage></homepage>
+    </ng-container>
+    <ng-container  *ngIf="loginStatus == 1">
+        <loginpage></loginpage>
+    </ng-container>
+<ng-container  *ngIf="loginStatus == 2">
 <div id="navbar" [ngStyle]="navStyles.navarea">
   <app-navbar></app-navbar>
 </div>
 <div id="main" [ngSwitch]="currentPageID" [ngStyle]="mainStyles.background">
-  <app-experiences *ngSwitchCase="'experiences'"></app-experiences>
-  <app-tips *ngSwitchCase="'tips'"></app-tips>
-  <app-settings *ngSwitchCase="'settings'"></app-settings>
-  <app-about *ngSwitchCase="'about'"></app-about>
+  
+      <app-experiences *ngSwitchCase="'experiences'"></app-experiences>
+      <app-tips *ngSwitchCase="'tips'"></app-tips>
+      <app-settings *ngSwitchCase="'settings'"></app-settings>
+      <app-about *ngSwitchCase="'about'"></app-about>
+
+      <div *ngIf="itemModal.visible" id="itemmodalpanel" [ngSwitch]="itemModal.type">
+          <div *ngSwitchCase="0">
+            Experience
+          </div>
+          <div *ngSwitchCase="1">
+            Tip    
+          </div>
+      </div>
+
 </div>
+</ng-container>
+</div>
+
+<p-overlayPanel #op>
+    <div style="background-color: rgb(255, 255, 255); padding: 10px; margin: 10px; font-size: 20px">
+      content
+    </div>
+</p-overlayPanel>

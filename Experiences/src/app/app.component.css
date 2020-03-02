@@ -1,3 +1,73 @@
+#bodycontent{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    top: 80px;
+    background-color: #DCE7F1;
+    overflow-y: auto
+}
+#menubar{
+    background-color: #455f63;
+    display: block;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    height: 80px;
+    z-index: 5;
+    box-shadow: rgba(0, 0, 0, 0.42) 0px 2px 4px;
+}
+#profilearea{
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    margin-right: 20px
+}
+#profilelogin{
+    background-color: #ff9061;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 22px;
+    box-shadow: rgba(0, 0, 0, 0.7) 0px 1px 7px;
+    cursor: pointer;
+    height: 36px;
+    transform: translateY(2px);
+    display: inline-block;
+    line-height: 36px;
+
+}
+.profileicon.closed{
+
+}
+.profileicon.expanded{
+    background-color: #e9e9e9;
+    height: 600px;
+    width: 600px;
+    transition: 0.4s;
+    transition-timing-function: linear
+
+}
+.profileicon{
+    width: 60px;
+    height: 60px;
+    background-color: #9ae96e;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.7) 0px 1px 7px;
+    border-radius: 30px;
+    display: block;
+    cursor: pointer;
+    transition: 0.25s;
+    transition-timing-function: linear
+}
+#profilelabel{
+    font-size: 24px;
+    line-height: 40px;
+    transform: translateY(10px);
+    position: relative;
+    display: block;
+}
 #main{
     position: absolute;
     top: 0px;
@@ -17,4 +87,15 @@
     width: 230px;
     box-shadow: rgba(0, 0, 0, 0.62) 2px 0px 10px;
     z-index: 2;
+}
+#itemmodalpanel{
+    position: absolute;
+    background-color: #e9e9e9;
+    box-shadow: rgba(0, 0, 0, 0.7) 0px 1px 7px;
+    border-radius: 10px;
+    top: 30px;
+    bottom: 30px;
+    left: 30px;
+    right: 30px;
+    z-index: 6;
 }

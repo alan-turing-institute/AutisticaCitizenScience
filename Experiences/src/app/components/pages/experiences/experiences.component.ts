@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ExperienceItem } from '../../../classes/experienceItem.class';
 import { DataService } from '../../../services/data.service'
+import { ModalController, ModalType } from "../../../classes/modalController.class";
 
 @Component({
   selector: 'app-experiences',
@@ -29,4 +30,7 @@ export class ExperiencesComponent implements OnInit {
   ngOnInit() {
   }
 
+  openExperience(){
+    this.Dataservice.nextModal(ModalType.Experience)
+  }
 }

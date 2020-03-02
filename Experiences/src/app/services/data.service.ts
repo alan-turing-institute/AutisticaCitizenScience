@@ -5,6 +5,8 @@ import { NavbarItem } from '../classes/navbar/navbarItem.class'
 import { ExperienceItem } from '../classes/experienceItem.class'
 import { TipItem } from '../classes/tipItem.class';
 import { PromptQuestion } from '../classes/promptQuestion.class'
+import { ModalController, ModalType } from '../classes/modalController.class'
+import { type } from 'os';
 
 @Injectable()
 export class DataService {
@@ -76,6 +78,10 @@ export class DataService {
   private loginFailed = new BehaviorSubject<boolean>(false);
   private loginStatus = new BehaviorSubject<number>(0);
   private displayName = new BehaviorSubject<string>("");
+  private modalController = new BehaviorSubject<ModalController>({
+    visible: false,
+    type: ModalType.Experience
+  })
   private token;
 
 
@@ -93,14 +99,38 @@ export class DataService {
   Experiences = this.experiences.asObservable();
   Tips = this.tips.asObservable();
   LoginFailed = this.loginFailed.asObservable();
-  LoggedIn = this.loginStatus.asObservable();
+  LoginStatus = this.loginStatus.asObservable();
   DisplayName = this.displayName.asObservable();
+  ModalController = this.modalController.asObservable();
   readonly OfflineFlag = this.offlineMode.asObservable();
 
 
   constructor(private http: HttpClient) {
 
+  }
 
+  nextLoginStatus(status: number)
+  {
+    this.loginStatus.next(status)
+  }
+
+  nextModal(type: ModalType)
+  {
+    var newModal: ModalController = {
+      visible: true,
+      type: type
+    }
+    this.modalController.next(newModal)
+  }
+  hideModal(){
+    var newModal:ModalController = {
+      visible: false,
+      type: this.modalController.value.type
+    }
+    newModal.visible == false;
+    console.log("Hiding Modal: Modal v")
+    console.log(newModal)
+    this.modalController.next(newModal)
   }
 
 
@@ -168,6 +198,8 @@ export class DataService {
 
 
   }
+
+
 
 
 
