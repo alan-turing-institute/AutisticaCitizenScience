@@ -1,0 +1,69 @@
+#loginarea{
+    height: 325px;
+    width: 600px;
+    background-color: #a5dbe8;
+    display: inline-block;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #162346b0;
+    box-shadow: rgb(0, 0, 0, 0.5) 0px 3px 8px;
+    margin: 30px;
+    margin-top: 0px;
+    transform: translateY(50%)
+}
+#loginprompt{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.credentialitemarea{
+    margin: 5px;
+    background-color: #a5dbe8;
+    padding: 4px;
+    border-radius: 8px;
+    display: inline-block;
+}
+.credentialitem{
+    width: 450px;
+    font-size: 22px;
+    background-color: #ffffffdb;
+    border-style: solid;
+    border-color: #74747470;
+    padding: 5px;
+    border-radius: 4px;
+}
+.logincredentialarea{
+    background-color: #d7f7ff;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 30px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    height: 200px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #6e6e6e;
+    position: relative;
+}
+.logincredentialarea.invalid{
+    background-color: #eec7c7;
+    border-color: #c04545
+}
+.logincredentialarea.valid{
+    background-color: #cbf0c9;
+    border-color: #366a11;
+}
+.bodybtn{
+    background-color: #ff9061;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 18px;
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 1px 3px;
+    cursor: pointer;
+    height: 36px;
+    width: 160px;
+    transform: translateY(2px);
+    display: inline-block;
+    line-height: 36px;
+}

@@ -1,1 +1,3 @@
-experiences works!
+<span *ngFor="let experience of experiences" class="experienceItem" [ngStyle]="styles.experienceItem" (click)="openExperience()">
+    {{experience.title}} 
+</span>

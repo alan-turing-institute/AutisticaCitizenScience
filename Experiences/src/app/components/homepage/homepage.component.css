@@ -1,0 +1,13 @@
+.navigationpane{
+    height: 400px;
+    width: 340px;
+    background-color: #deebee;
+    display: inline-block;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #162346b0;
+    box-shadow: rgb(0, 0, 0, 0.60) 0px 1px 4px;
+    margin: 30px;
+    margin-top: 0px;
+}
