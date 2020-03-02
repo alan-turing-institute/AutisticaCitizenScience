@@ -2,6 +2,8 @@ import { TestBed, async } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { DataService } from './services/data.service';
 import { AppComponent } from './app.component';
+import { Loginpage } from './components/loginpage/loginpage.component';
+import { Homepage } from './components/homepage/homepage.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { ExperiencesComponent } from './components/pages/experiences/experiences.component';
 import { TipsComponent } from './components/pages/tips/tips.component';
@@ -37,6 +39,8 @@ describe('AppComponent', () => {
       ],
       declarations: [
         AppComponent,
+        Homepage,
+        Loginpage,
         NavbarComponent,
         ExperiencesComponent,
         TipsComponent,
@@ -73,8 +77,13 @@ describe('AppComponent', () => {
   });
 
   afterEach(() => {
-    if (fixture.nativeElement && 'remove' in fixture.nativeElement) {
-      (fixture.nativeElement as HTMLElement).remove();
+    try{
+      if (fixture.nativeElement && 'remove' in fixture.nativeElement) {
+        (fixture.nativeElement as HTMLElement).remove();
+      }
+    }
+    catch{
+      //Cannot find native element. Ignore.
     }
   });
 });
