@@ -1,6 +1,7 @@
 ## GDPR compliance
 
-This document contains information relating to GDPR compliance.
+This document contains information relating to GDPR compliance. 
+It was created following advice from Ekaterina Harrison, a project participant, who is offering legal support, given on 19/03/2020.
 
 ### Questions to answer for GDPR
 
@@ -36,7 +37,7 @@ Are you processing structured or unstructured data?
 
 Are you collecting data from the third parties? Do they have consent to disclose the data to you?
 
-Basis for processing
+#### Basis for processing
 
 What is the ground for processing (consent, legitimate interest, other)?
 
@@ -44,7 +45,7 @@ In case of consent, where the consent is stored? Was it informed and documented?
 
 How the privacy notice could be found?
 
-Retention and disposal
+#### Retention and disposal
 
 How do you store the data?
 
@@ -94,7 +95,7 @@ Rights in relation to prior consultation
 
 Rights in relation to automated decision-making and profiling
 
-Countries involved
+#### Countries involved
 
 Where is the location of the data subjects?
 
@@ -104,7 +105,7 @@ Where is the hosting location? Is it different for support and maintenance funct
 
 What are the international data transfer arrangements?
 
-### Advice on steps to ensuring legal support
+#### Advice on steps to ensuring legal support
 
 * Share GDPR considerations with development team 
 * Write a briefing based on the questions above once information is defined for the platform
