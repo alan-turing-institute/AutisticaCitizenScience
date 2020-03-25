@@ -1,6 +1,7 @@
 # Fujitsu/Turing Sprint Meetings
 ## Meetings Descriptions
-Each sprint is 9 days (approx. 2 work weeks long) therefore each of these meetings occurs every 2 weeks. The whole Alan Turing and Fujitsu team are invited to these meetings.
+Each sprint is 9 days (approx. 2 work weeks long) therefore each of these meetings occurs every 2 weeks. 
+The whole Alan Turing and Fujitsu team are invited to these meetings and a member of the community will be included in retrospective meetings.
 *Backlog refinement* is carried out before each sprint to reprioritise the backlog of user stories (issues) ahead of the next sprint planning meeting.
 *Sprint Planning* is carried out at the start of each sprint and is when the user stories (issues) that are planned to be completed in that sprint are chosen.
 *Sprint retrospective* is carried out at the end of each sprint to consider how the sprint went and any changes that need to be made to the process before the next sprint.
@@ -9,10 +10,8 @@ During this meeting a demo of the achievements of the previous sprint will be sh
 More details about the Agile process can be found in the Agile - Open source workflow document also in the project management folder. 
 https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/EllenDevereux-patch-2/project-management/agile-opensource-workflow.md
 
-### Future Meetings:
-1. The Backlog Refinement for Sprint 2 – is scheduled for 31/3 14:00-15:00
-2. The Demo and Retrospective for Sprint 1 is scheduled for 1/4 10:00-11:00
-3. The Sprint planning for Sprint 2 is scheduled for 02/4 10:00-11:00
+### Meetings:
+
 |Dates |Time| Meeting Description|
 |---|---|----------|
 | 27/03|14:00-15:00| Demo for sprint 1|
