@@ -116,7 +116,7 @@ We recommend that the sprint report and video are uploaded on day 9 (Thursday) t
 
 ### Sprint retrospective and planning meeting
 
-The sprint retrospective discussion will take place on the first day of the next sprint (day 1, Monday).
+The sprint retrospective discussion will take place on the 10th day of the sprint.
 
 In this meeting the Fujitsu team members, researchers at the Alan Turing Institute, and at least one member of the autistic community will discuss the work shared in the sprint report and accompanying video.
 
