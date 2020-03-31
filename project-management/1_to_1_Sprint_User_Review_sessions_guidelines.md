@@ -27,6 +27,6 @@ At this point the member of the autistic community can also provide feedback on 
 
 ## Approval:
 
-Once approval has been granted, from the Project Owner and Autistica/Turning and Fujitsu.
+Once approval has been granted from the Project Owner and Autistica/Turing and Fujitsu.
 The Fujitsu team (Scrum Master?) will add these user stories to Github to be implemented in the sprint backlog based on agreed priorities from the Project Owner and Autistica/Turing and Fujitsu.
 Details of how the sprint planning/backlog process works can be found in the project management section of Github.
