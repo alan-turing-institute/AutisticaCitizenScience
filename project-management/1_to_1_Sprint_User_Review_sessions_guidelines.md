@@ -8,8 +8,8 @@ Autistica will give notice to Fujitsu in advance of who will be attending each 1
 
 ## Prior to Session:
 
-The members of the autistic community should watch demonstration videos & look at the sprint review report from previous sprints to be up to date with project and what is to be asked of them.
-Autistica will ensure that all volunteers understand that this is a pre-requisite to involvement in the project, and will take responsibility to inform volunteers.
+The members of the autistic community should where possible watch demonstration videos & look at the sprint review report from previous sprints so they can ensure their up to date with project and what is to be asked of them.
+Autistica will let all volunteers know about this requirement prior to their involvement.
 
 ## During the Session:
 
