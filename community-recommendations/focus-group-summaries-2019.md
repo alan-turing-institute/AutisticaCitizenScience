@@ -6,7 +6,7 @@ Based on the feedback receieved, none of the content was requested to be changed
 
 * [18th September 2019](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#citizen-science-focus-group-18092019)
 * [24th September 2019](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#citizen-science-focus-group-24092019)
-* [04th October 2019](#date-04th-october-2019)
+* [04th October 2019](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#citizen-science-focus-group-04102019)
 
 ### Key
 
