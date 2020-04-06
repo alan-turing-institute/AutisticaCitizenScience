@@ -79,4 +79,4 @@ This section should always include an issue to collect feedback on this sprint d
 
 *	#: Community to access youtube link and provide feedback via on page feedback loop which will be feed into following Sprint and link to wireframe will be made accessible via GitHub
 *	Link to video: link-to-youtube
-o	Link to sprint report: SPRINTREPORT.md#N
+
