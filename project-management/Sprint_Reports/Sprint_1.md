@@ -47,21 +47,15 @@ Progress was made on these tasks but they were not closed during the sprint.
 User Journey Linked to Personas within UX Deliverables Presentation 
 https://blm1j3.axshare.com
 
-UX Deliverables Content 
+## UX Deliverables Content 
 
-Persona Wireframes
-
-User Story Mapping
-
-Information Architecture
-
-Designing For Autism 
-
-Colour Scheme Refs
-
-Support Material 
-
-Design Thinking 
+* Persona Wireframes
+* User Story Mapping
+* Information Architecture
+* Designing For Autism 
+* Colour Scheme Refs
+* Support Material 
+* Design Thinking 
 
 ## Issues Opened
 
