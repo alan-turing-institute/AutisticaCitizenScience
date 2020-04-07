@@ -6,7 +6,7 @@ Based on the feedback receieved, none of the content was requested to be changed
 
 ## Contents
 
-* [Key]
+* [Key](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#key)
 
 * [18th September 2019](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#citizen-science-focus-group-18092019)
 
@@ -116,8 +116,8 @@ Based on the feedback receieved, none of the content was requested to be changed
 
 ### Supporting and improving research
 
-* (••A•• g): “recently [in] one of the journals someone did a meta-analysis called ‘sensory experiences’, and it’s so prevalent it should be included in the core characteristics of autism, which it isn’t currently”
-* (••A•• d): “I’m very interested in what are the ways the data is captured – how it could be interpreted with fidelity, so we don’t lose the meaning”
+* (**A** g): “recently [in] one of the journals someone did a meta-analysis called ‘sensory experiences’, and it’s so prevalent it should be included in the core characteristics of autism, which it isn’t currently”
+* (**A** d): “I’m very interested in what are the ways the data is captured – how it could be interpreted with fidelity, so we don’t lose the meaning”
 * (R *T* d): “I’m really interested now in how we can do open and ethical and transparent research which is slightly more impactful on a shorter-term basis than neuroimaging”
 
 ### Long term benefits
