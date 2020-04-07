@@ -39,7 +39,7 @@ Based on the feedback receieved, none of the content was requested to be changed
 5. [Representing others](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#5-representing-others-2)
 6. [Data management](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#6-data-management-2)
 7. [Contribution channels](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#7-contribution-channels-2)
-8. [Ways of working]()
+8. [Ways of working](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#8-ways-of-working-2)
 
 ### Key
 
