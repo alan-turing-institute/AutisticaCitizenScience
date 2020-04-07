@@ -1,6 +1,6 @@
 # Fujitsu/Turing Sprint Meetings
 ## Meetings Descriptions
-Each sprint is 9 days (approx. 2 work weeks long) therefore each of these meetings occurs every 2 weeks. 
+Each sprint is 15 days (approx. 3 work weeks long) therefore each of these meetings occurs every 3 weeks. 
 The whole Alan Turing and Fujitsu team are invited to these meetings and a member of the community will be included in retrospective meetings.
 *Backlog refinement* is carried out before each sprint to reprioritise the backlog of user stories (issues) ahead of the next sprint planning meeting.
 *Sprint Planning* is carried out at the start of each sprint and is when the user stories (issues) that are planned to be completed in that sprint are chosen.
