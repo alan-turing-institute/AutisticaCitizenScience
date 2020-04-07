@@ -4,7 +4,9 @@ A 1 to 1 review of each Sprint’s activity will be, completed at the end of eac
 With one member of the Fujitsu Team and one member of the Autistic community chosen by Autistica. 
 The review meetings can be undertaken via skype / or as a phone call with shared screens or in person dependant on the expressed preference of the member from the Autistic Community. 
 Autistica will source the member from the autistic community and ensure all consent required by Alan Turing is obtained. The community members will be selected from as broad a cross-section of the community as possible. As a result, the review process will be accommodating to their needs. 
-Autistica will give notice to Fujitsu in advance of who will be attending each 1 to 1 and how they would prefer for it to be, carried out to allow adequate time to plan. This will be in the form of a member booking form. (doc to be created) 
+Autistica will give notice to Fujitsu in advance of who will be attending each 1 to 1 and how they would prefer for it to be, carried out to allow adequate time to plan. This will be in the form of a member booking form.
+
+Advice on how to run user testing can be found in the [Ethics protocol document](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A9_StudyProtocol.pdf). 
 
 ## Prior to Session:
 
