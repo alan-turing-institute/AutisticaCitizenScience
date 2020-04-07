@@ -8,6 +8,8 @@ Autistica will give notice to Fujitsu in advance of who will be attending each 1
 
 Advice on how to run user testing can be found in the [Ethics protocol document](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A9_StudyProtocol.pdf). 
 
+For information on how the sprint process runs please access our [Ways of working](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/agile-opensource-workflow.md).
+
 ## Prior to Session:
 
 The members of the autistic community should where possible watch demonstration videos & look at the sprint review report from previous sprints so they can ensure their up to date with project and what is to be asked of them.
