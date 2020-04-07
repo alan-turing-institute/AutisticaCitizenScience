@@ -10,36 +10,36 @@ Based on the feedback receieved, none of the content was requested to be changed
 
 * [18th September 2019](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#citizen-science-focus-group-18092019)
 
-1. Value of project and motivations to take part
-2. Experiences of autistic people and their families in their daily lives
-3. Platform design
-4. Moderation
-5. Representing others
-6. Data management
-7. Contribution channels
-8. Ways of working
+1. [Value of project and motivations to take part](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#1-value-of-project-and-motivations-to-take-part)
+2. [Experiences of autistic people and their families in their daily lives](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#2-experiences-of-autistic-people-and-their-families-face-in-their-daily-life )
+3. [Platform design](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#3-platform-design )
+4. [Moderation](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#4-moderation)
+5. [Representing others](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#5-representing-others)
+6. [Data management](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#6-data-management)
+7. [Contribution channels](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#7-contribution-channels)
+8. [Ways of working](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#8-ways-of-working)
 	
 * [24th September 2019](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#citizen-science-focus-group-24092019)
 
-1. Value of project and motivations to take part
-2. Experiences of autistic people and their families in their daily lives
-3. Platform design
-4. Moderation
-5. Representing others
-6. Data management
-7. Contribution channels
-8. Ways of working
+1. [Value of project and motivations to take part](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#8-ways-of-working)
+2. [Experiences of autistic people and their families in their daily lives](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#2-experiences-of-autistic-people-and-their-families-in-their-daily-life)
+3. [Platform design](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#3-platform-design-1)
+4. [Moderation](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#4-moderation)
+5. [Representing others](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#5-representing-others-1)
+6. [Data management](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#6-data-management-1)
+7. [Contribution channels](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#7-contribution-channels-1)
+8. [Ways of working](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#8-ways-of-working-1)
 
 * [04th October 2019](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#citizen-science-focus-group-04102019)
 
-1. Value of project and motivations to take part
-2. Experiences of autistic people and their families in their daily lives
-3. Platform design
-4. Moderation
-5. Representing others
-6. Data management
-7. Contribution channels
-8. Ways of working
+1. [Value of project and motivations to take part](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#1-value-of-project-and-motivations-to-take-part-2)
+2. [Experiences of autistic people and their families in their daily lives](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#2-experiences-of-autistic-people-and-their-families-in-their-daily-life-1)
+3. [Platform design](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#3-platform-design-2)
+4. [Moderation](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#4-moderation-)
+5. [Representing others](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#5-representing-others-2)
+6. [Data management](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#6-data-management-2)
+7. [Contribution channels](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#7-contribution-channels-2)
+8. [Ways of working]()
 
 ### Key
 
@@ -72,7 +72,7 @@ Based on the feedback receieved, none of the content was requested to be changed
 
 ### Helping autistic people and their families
 
-* (F d): “I’m interested in the enabling factors of the project”
+* (*F* d): “I’m interested in the enabling factors of the project”
 * (**P** F d): “I have a [teenage] son with Asperger’s, and I’m really excited by all the prospects the work is going to have to make his life a lot easier”
 * (**A** d): “I’m just really interested in helping other autistic people with sensory processing differences”
 * (**A** d): “I dropped out of uni mainly because of sensory issues that I had at the time, so that’s why I’m interested in this”
