@@ -801,7 +801,7 @@ First step (currently) is creating an Open Humans account:
 * (**P** d): “It was narrow, but that kind of thing can be quite useful I think” 
 * (**A** g): “Question 1 could be: ‘please look at this prototype platform’, and then obviously that would be self-contained in terms of what the platform’s about, and then you could give people an opportunity to say whether this was along the right lines, whether it needed tweaking, and then you would know that you were getting what you were asking for”
 
-## l) Presenting Experiences
+### l) Presenting Experiences
 
 * (R *T* g) “there’s two different points here, one is being able to browse other people’s experiences, and be able to learn from them and see them, and find ones that are similar”
 * (**A** d): Search box for experiences
@@ -908,17 +908,17 @@ First step (currently) is creating an Open Humans account:
 * (**P** d): put links to fora for discussion in code of conduct 
 
 
-### 5. Representing others
+## 5. Representing others
 
-## a) Important to give everyone a voice
+### a) Important to give everyone a voice
 
 * (**P** d): If you could not report publicly on behalf of others: “my son’s experiences would never be heard”
 
-## b) Consent
+### b) Consent
 
 * (R *T* d): “It’s extremely difficult to figure out whether it’s possible to consent to sharing somebody else’s experience…my gut feeling is that, if people want to, I think we could accept if it’s for research, but that data will not be made public for any reason”
 
-## c) Community Response
+### c) Community Response
 
 * (**P** g): danger of creating controversy and public argument
 * (**P** i): “you will get parents on the one side who’ll say, my child is as successful as he or she is thanks to ABA, then on the other side you get, I am suffering deeply from PTSD – post traumatic stress disorder – because of ABA”
@@ -927,28 +927,28 @@ First step (currently) is creating an Open Humans account:
 * (R *T* i): “some of the ways that parents sometimes characterise their autistic children can be upsetting to autistic people, and therefore might make it a less welcoming place”
 * (**P** i): [examining example of potential controversial comment]: “’My tip is, this kid is trying to control you, and he needs to understand that this isn’t how the world goes, so be persistent, don’t take no for an answer, and all that kind of stuff’”, do you see what I mean, and you go… ’also understanding parent’s experiences will be valuable’, and they’ll go – ‘oh, it was hell, it was hell, he screamed and he punched and he did all these things’, I’m saying he, could be she, and you go, ‘yeah, I know, but that’s your experience of your son’s, daughter’s really bad sensory experience here’, but be mindful that there are autistic people who will read it, and it’ll be their experience they’ll be thinking about, even though your experience is entirely valid, because it is hell, when you’re trying to get somewhere, and your child has their arm wrapped around your neck and they’re pulling your hair, and often you kind of go, like, and this is a [tall] bloke, and you’re a little person, and everyone’s looking at you going oh, woah, yes, but actually his experience is probably worse than mine.” 
 
-### 6. Data Management
+## 6. Data Management
 
-## a) Agency
+### a) Agency
 
 * (R *T* d): “part of the point of the project is that people have agency”
 * (R *T* d): “the whole point of the Open Humans project…is to empower people to have control over their own data, and that is essentially what we’re doing here”
 
-## b) Changing consent
+### b) Changing consent
 
 * (R *T* d): For me…it’s very important for people to be able to change their mind
 
-## c) Which Groups or Organisations Should Learn from the Data?
+### c) Which Groups or Organisations Should Learn from the Data?
 
 * (*F* d): the department of transport…”so they can adjust transport for London with regards to tailoring it and assisting people with autism”
 
-### 7. Contribution Channels 
+## 7. Contribution Channels 
 
-## a) General
+### a) General
 
 * (R *T* d): “the problem with options is there’s lots…which can be complex, so, this is what we’re currently figuring out”
 
-## b) Focus Groups
+### b) Focus Groups
 
 * (R *T* i): “I think you can feel from the focus of these discussions that it’s really hard to be part of a project this early on, there are so many options, and there are so many unanswered questions”
 * (R *T* d): “So that’s exactly what we need in fact, that’s why these sessions are so useful, because you’re the pioneers of different solutions, and you can tell us this could be better, and then we can make it better”
@@ -957,13 +957,13 @@ First step (currently) is creating an Open Humans account:
 
 * (R *T* d): “that’s a private communication, and so we can’t use the comments for our research”
 
-## d) Mailbox and newsletters
+### d) Mailbox and newsletters
 
 * (R *T* d): “So again, we were iterating the design of the letters, so the first one we sent people said was slightly too much information and too many options, so for the next one we made it simpler and specific in terms of what we were asking for.”
 * (R *T* d): “So if you reply to this it only goes to [redacted] and me, it’s not a general discussion, but you can at least stay up to date and we’ll try to send monthly updates.” 
 * (R *T* d): “…it’s very vague, kind of blue sky, but there will be a time when there’s a fully functional platform and we’ll need as many people as possible to try and use it”
 
-## e) Google Forms Survey
+### e) Google Forms Survey
 
 * (R *T* d): “…if we copied and pasted it into this box, then we could use it for research”
 * (R *T* d): “I think it’s really important that something like this exists, we just need to do another pass through making it clearer about what the pathway is when you get to it”
