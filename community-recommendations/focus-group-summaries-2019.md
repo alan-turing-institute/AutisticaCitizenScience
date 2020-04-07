@@ -2,11 +2,44 @@
 
 This file contains summaries and quotations from focus group sessions concerning the Autistica/Turing citizen science project, which was held with members of Autistica's Insight group, Fujitsu, The Turing, and Autistica on the 18th and 24th September 2019, and 4th October 2019. Quotations have been shortened or summarised, labelled according to the speaker, and all depersonalising information has been removed. 
 These summaries have been circulated to all participants to offer them the opportunity to remove or modify their comments if they wish. 
-Based on the feedback receieved, none of the content was requested to be changed, but the format was modified.  
+Based on the feedback receieved, none of the content was requested to be changed, but the format was modified.
+
+## Contents
+
+* [Key]
 
 * [18th September 2019](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#citizen-science-focus-group-18092019)
+
+1. Value of project and motivations to take part
+2. Experiences of autistic people and their families in their daily lives
+3. Platform design
+4. Moderation
+5. Representing others
+6. Data management
+7. Contribution channels
+8. Ways of working
+	
 * [24th September 2019](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#citizen-science-focus-group-24092019)
+
+1. Value of project and motivations to take part
+2. Experiences of autistic people and their families in their daily lives
+3. Platform design
+4. Moderation
+5. Representing others
+6. Data management
+7. Contribution channels
+8. Ways of working
+
 * [04th October 2019](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#citizen-science-focus-group-04102019)
+
+1. Value of project and motivations to take part
+2. Experiences of autistic people and their families in their daily lives
+3. Platform design
+4. Moderation
+5. Representing others
+6. Data management
+7. Contribution channels
+8. Ways of working
 
 ### Key
 
