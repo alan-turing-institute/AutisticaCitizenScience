@@ -110,9 +110,9 @@ The table is in reverse chronological order with the most recent dates at the to
 | 28 April 2020 | - | Backlog refinement | - |
 | 28 April 2020 | -  | Sprint planning for Sprint 3 | [20200428_sprint03_sprint-planning.md](agendas-and-minutes/20200428_sprint03_sprint-planning.md) |
 | 27 April 2020 | 10:00 - 11:00 | Retrospective for Sprint 2 | [20200427_sprint02_sprint-retrospective.md](agendas-and-minutes/20200427_sprint02_sprint-retrospective.md) |
-| 21 April 2020 | 12:00 - 13:00 | Backlog refinement | [20200421-backlog-refinement.md](agendas-and-minutes/20200421-backlog-refinement.md) |
-| 14 April 2020 | 12:00 - 13:00 | Backlog refinement | [20200414-backlog-refinement.md](agendas-and-minutes/20200414-backlog-refinement.md) |
+| 21 April 2020 | 12:00 - 13:00 | Backlog refinement | [20200421_backlog-refinement.md](agendas-and-minutes/20200421-backlog-refinement.md) |
+| 14 April 2020 | 12:00 - 13:00 | Backlog refinement | [20200414_backlog-refinement.md](agendas-and-minutes/20200414-backlog-refinement.md) |
 | 2 April 2020  | 10:00 - 11:00 | Sprint planning for Sprint 2 | - |
 | 1 April 2020  | 10:00 - 11:00 | Retrospective for Sprint 1 | - |
-| 31 March 2020 | 14:00 - 15:00 | Backlog Refinement | - |
+| 31 March 2020 | 14:00 - 15:00 | Backlog Refinement | [20200331_backlog-refinement.md](agendas-and-minutes/20200331_backlog-refinement.md) |
 | 27 March 2020 | 14:00 - 15:00 | Demo for sprint 1 | - |
