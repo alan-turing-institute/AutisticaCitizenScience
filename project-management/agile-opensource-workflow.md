@@ -51,7 +51,7 @@ The remaining user stories remain open as issues on GitHub for anyone to develop
 
 ### 4. Create sprint backlog
 
-The Fujitsu team have fortnightly agile sprint cycles, beginning with a retrospective of the previous sprint cycle and a sprint planning session.
+The Fujitsu team have 15 day agile sprint cycles, beginning with a retrospective of the previous sprint cycle and a sprint planning session.
 During the sprint planning session some of the issues in the Fujitsu team's backlog are pulled into the sprint backlog.
 The sprint backlog is a collection of issues that will be covered during that sprint.
 
@@ -84,14 +84,14 @@ User stories defined during the sprint do not need to be assigned to the current
 
 ### 8. Publish sprint report and video demonstration
 
-At the end of every 2 week sprint, the Fujitsu team will publicly release a [sprint report](#sprint-report) text file detailing the issues and pull requests that were addressed during the sprint and a [video](#video) of the work they have achieved during the sprint.
+On day 12 Fujitsu will provide Fujitsu creative team with the Demo Video for approval.
+At the end of every 3 week sprint, on day 15, the Fujitsu team will publicly release a [sprint report](#sprint-report) text file detailing the issues and pull requests that were addressed during the sprint and a [video](#video) of the work they have achieved during the sprint.
 
 Details of this release can be found in the [sprint-demo-requirements.md](project-management/sprint-demo-requirements.md) file.
 The sprint report will be added to the [SPRINTREPORT.md](SPRINTREPORT.md) file in the main GitHub repository ([https://github.com/alan-turing-institute/AutisticaCitizenScience](https://github.com/alan-turing-institute/AutisticaCitizenScience)).
 
 The project leadership will promote these materials to the community and ask them to share their thoughts and feedback.
 
-*Fujitsu marketing could get involved with this... needs to be discussed with the entire team.*
 
 ## Continuous development
 
