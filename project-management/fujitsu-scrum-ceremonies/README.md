@@ -101,18 +101,17 @@ The table is in reverse chronological order with the most recent dates at the to
 
 |Date           | Time | Ceremony | Agenda/Minutes |
 |:--------------|:----:|:---------|:---------------|
-| 10 June 2020  | - | Sprint Retrospective for Sprint 4 | - |
-| 20 May 2020   | - | Sprint Planning for Sprint 4 | - |
+| 10 June 2020  | - | Sprint Retrospective for Sprint 4 | [20200610_sprint04_sprint-retrospective.md](20200610_sprint04_sprint-retrospective.md) |
+| 20 May 2020   | - | Sprint Planning for Sprint 4 | [20200520_sprint04_sprint-planning.md](20200520_sprint04_sprint-planning.md) |
 | 19 May 2020   | - | Backlog refinement | - |
-| 19 May 2020   | - | Sprint Retrospective for Sprint 3 | - |
+| 19 May 2020   | - | Sprint Retrospective for Sprint 3 | [20200519_sprint03_sprint-retrospective.md](20200519_sprint03_sprint-retrospective.md) |
 | 12 May 2020   | - | Backlog refinement | - |
 | 5 May 2020    | - | Backlog refinement | - |
 | 28 April 2020 | - | Backlog refinement | - |
-| 28 April 2020 | -  | Sprint planning for Sprint 3 | - |
-| 27 April 2020 | 10:00 - 11:00 | Retrospective for Sprint 2 (FJ team) | - |
-| 27 April 2020 | 10:00 - 11:00 | Retrospective for Sprint 2 | - |
-| 21 April 2020 | 12:00 - 13:00 | Backlog refinement | - |
-| 14 April 2020 | 12:00 - 13:00 | Backlog refinement | - |
+| 28 April 2020 | -  | Sprint planning for Sprint 3 | [20200428_sprint03_sprint-planning.md](20200428_sprint03_sprint-planning.md) |
+| 27 April 2020 | 10:00 - 11:00 | Retrospective for Sprint 2 | [20200427_sprint02_sprint-retrospective.md](20200427_sprint02_sprint-retrospective.md) |
+| 21 April 2020 | 12:00 - 13:00 | Backlog refinement | [20200421-backlog-refinement.md](20200421-backlog-refinement.md) |
+| 14 April 2020 | 12:00 - 13:00 | Backlog refinement | [20200414-backlog-refinement.md](20200414-backlog-refinement.md) |
 | 2 April 2020  | 10:00 - 11:00 | Sprint planning for Sprint 2 | - |
 | 1 April 2020  | 10:00 - 11:00 | Retrospective for Sprint 1 | - |
 | 31 March 2020 | 14:00 - 15:00 | Backlog Refinement | - |
