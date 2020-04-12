@@ -85,7 +85,7 @@ User stories defined during the sprint do not need to be assigned to the current
 ### 8. Publish sprint report and video demonstration
 
 On day 12 Fujitsu will provide Fujitsu creative team with the Demo Video for approval.
-At the end of every 3 week sprint, On day 15 the Fujitsu team will publicly release a [sprint report](#sprint-report) text file detailing the issues and pull requests that were addressed during the sprint and a [video](#video) of the work they have achieved during the sprint.
+At the end of every 3 week sprint, on day 15, the Fujitsu team will publicly release a [sprint report](#sprint-report) text file detailing the issues and pull requests that were addressed during the sprint and a [video](#video) of the work they have achieved during the sprint.
 
 Details of this release can be found in the [sprint-demo-requirements.md](project-management/sprint-demo-requirements.md) file.
 The sprint report will be added to the [SPRINTREPORT.md](SPRINTREPORT.md) file in the main GitHub repository ([https://github.com/alan-turing-institute/AutisticaCitizenScience](https://github.com/alan-turing-institute/AutisticaCitizenScience)).
