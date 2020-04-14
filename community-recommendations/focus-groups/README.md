@@ -4,8 +4,11 @@ This folder contains summaries and quotations from three focus group sessions he
 
 ## Contents of focus-groups folder
 
-* [About the summary documents](community-recommendations/focus-groups/about-the-summary-documents)
-* [Summary documents x 3](link)
+* [About the summary documents](community-recommendations/focus-groups/about-the-summary-documents.md) 
+* Focus Group Summaries:
+  * [18th September 2019](community-recommendations/focus-groups/18_September_2019.md)
+  * [24th September 2019](community-recommendations/focus-groups/24_September_2019.md)
+  * [04th October 2019](community-recommendations/focus-groups/04_October_2019.md)
 
 ## Key
 
