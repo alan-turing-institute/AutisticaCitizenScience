@@ -28,13 +28,6 @@ tags: autistica, turing, citizenscience, wireframing
 | 15:15 | [Reflections and next steps](#%F0%9F%98%8C-Part-5-Reflections-and-next-steps---15-minutes)
 | 15:30 | Close
 
-## Table of contents
-
-Participants
-Norm Setting
-
-## Participants
-
 ## 👋🏽 Part 1: Welcome & norm setting - 1 hour
 
 *The aim of this session is to make sure everyone feels welcomed, respected, and included.*
