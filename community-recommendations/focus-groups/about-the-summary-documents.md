@@ -2,9 +2,11 @@
 
 ## Contents
 
-### [What are the summary documents?](#what-are-the-summary-documents)
-### [How were the summary documents created?](#how-were-the-summary-documents-created)
-### [How will the summary documents be used?](#how-will-the-summary-documents-be-used)
+
+* ### [What are the summary documents?](#what-are-the-summary-documents)
+* ### [How were the summary documents created?](#how-were-the-summary-documents-created)
+* ### [How will the summary documents be used?](#how-will-the-summary-documents-be-used)
+
 
 ## What are the summary documents?
 
