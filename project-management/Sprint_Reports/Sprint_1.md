@@ -36,7 +36,7 @@ Progress was made on these tasks but they were not closed during the sprint. Iss
 *	#: Simple Clean Design - Flowing Content (*googledoc*)
 * 	#: Accessibility Theme (*googledoc*)
 
-## MVP  (Home Page Components): Within Demo
+### MVP of this sprint (Home Page Components): 
 This is a list of the proposed MVP which has been built in this sprint and is included in the demo. 
 *	URL Defined 
 *	Header - Taking on own identity or that of similar to OH to create consistent experience for the user (demo screens)
@@ -50,16 +50,6 @@ This is a list of the proposed MVP which has been built in this sprint and is in
 
 User Journey Linked to Personas within UX Deliverables Presentation 
 https://blm1j3.axshare.com
-
-## UX Deliverables Content 
-
-* Persona Wireframes
-* User Story Mapping
-* Information Architecture
-* Designing For Autism 
-* Colour Scheme Refs
-* Support Material 
-* Design Thinking 
 
 ### Issues Opened
 
