@@ -28,7 +28,7 @@ The summary document is a collection of anonymised quotes from focus group parti
 
 ## How was the summary document written?
 
-The summary documents contain contents from discussions held during focus groups. The focus groups all followed the protocol for in-person discussion groups, as outlined in the [Study Protocol](project-management/A9_StudyProtocol.pdf)
+The summary documents contain contents from discussions held during focus groups. The focus groups all followed the protocol for in-person discussion groups, as outlined in the [study protocol](project-management/A9_StudyProtocol.pdf)
 
 The data collected from the focus groups was then processed in line with the in-person protocol outlined in [data management](project-management/A8_DataManagement.pdf)
 
