@@ -146,7 +146,7 @@ What behaviours limit your ability or motivation for inclusive co-creation?
 
 * Be inclusive of everyone's view
 * Don't talk over people
-* Being too being too proud to let go of your own idea
+* Being too proud to let go of your own idea
 
 </details>
 
