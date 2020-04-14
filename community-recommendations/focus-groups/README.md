@@ -3,17 +3,13 @@
 ## Contents of README
 
 * [What are the summary documents?](#what-are-the-summary-documents)
+* [Links to summary documents](#links-to-summary-documents)
 * [How were the summary documents written?](#how-were-the-summary-documents-written)
 * [Key](#key)
 
-## [Focus Group Summaries]
-Focus group 18
-Focus group 24
-Focus group 04
-
 ## What are the summary documents?
 
-The focus groups folder contains summaries and quotations from three focus group sessions held with autistic people, the relatives and carers of autistic people, researchers and developres, about the Autistica/Turing citizen science project.
+The focus groups folder contains summaries and quotations from three focus group sessions held with autistic people, the relatives and carers of autistic people, researchers and developers, about the Autistica/Turing citizen science project.
 
 The sessions were held with members of Autistica's Insight group, Fujitsu, The Turing, and Autistica on the 18th and 24th September 2019, and 4th October 2019. You can read the detailed summaries by following the links above.
 
@@ -25,6 +21,10 @@ Quotations have been shortened or summarised, labelled according to the speaker 
 
 These summaries have been circulated to all participants to offer them the opportunity to remove or modify their comments if they wish.
 Based on the feedback receieved, none of the content was requested to be changed, but the format was modified.
+
+## Links to summary documents
+
+[INCLUDE LINKS HERE]
 
 ## How were the summary documents written?
 
