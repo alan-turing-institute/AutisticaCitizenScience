@@ -3,7 +3,7 @@
 ## Attendees
 
 * Scrum Master: *Name of attendee*
-* Product Owner: *Name of attendee*
+* Product Owner (Alan Turing): *Name of attendee*
 * Development team:
   * *Name of attendee*
   * *Name of attendee*
