@@ -9,7 +9,7 @@ tags: autistica, turing, citizenscience, wireframing
 - **Date:** 27 March, 2020 10:00 - 15:30 (GMT)
 - **Hosts:** Kirstie Whitaker & Georgia Aitkenhead
 - **Contact:** kwhitaker@turing.ac.uk & gaitkenhead@turing.ac.uk
-- **Zoom room:** https://turing-uk.zoom.us/j/497445545
+- **Zoom room:** *This event has concluded*
 - **Hackmd notes:** https://hackmd.io/@KirstieJane/WireframingMarch2020
 :::
 
