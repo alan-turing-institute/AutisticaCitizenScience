@@ -113,6 +113,6 @@ The table is in reverse chronological order with the most recent dates at the to
 | 21 April 2020 | 12:00 - 13:00 | Backlog refinement | [20200421_backlog-refinement.md](agendas-and-minutes/20200421-backlog-refinement.md) |
 | 14 April 2020 | 12:00 - 13:00 | Backlog refinement | [20200414_backlog-refinement.md](agendas-and-minutes/20200414-backlog-refinement.md) |
 | 2 April 2020  | 10:00 - 11:00 | Sprint planning for Sprint 2 | - |
-| 1 April 2020  | 10:00 - 11:00 | Retrospective for Sprint 1 | [20200401_sprint01_sprint-retrospective-FJdev.md](agendas-and-minutes/20200401_sprint01_sprint-retrospective-FJdev.md) |
+| 1 April 2020  | 10:00 - 11:00 | Retrospective for Sprint 1 | [20200401_sprint01_sprint-retrospective.md](agendas-and-minutes/20200401_sprint01_sprint-retrospective.md) |
 | 31 March 2020 | 14:00 - 15:00 | Backlog Refinement | [20200331_backlog-refinement.md](agendas-and-minutes/20200331_backlog-refinement.md) |
 | 27 March 2020 | 14:00 - 15:00 | Demo for sprint 1 | - |
