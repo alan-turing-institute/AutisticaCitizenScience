@@ -29,23 +29,26 @@ Based on the feedback receieved, none of the content was requested to be changed
 
 ### 1. Design focus group agenda: 
 
-An agenda [Link to here] was written to loosely guide the focus group discussions. 
-These were based on researcher knowledge of what was important to investigate and determine from a developer and researcher prespective, as well as from the input of [no.] autistic poeple, their relatives and carers, in earlier, informal scoping sessions. 
-The request for potential questions was also sent out to subscribers of the project's mailing list, and autistic collaborators input suggestions. 
+An agenda for each session was written to loosely guide the focus group discussions. 
 The agendas used in the sessions can be found [here - link].
+These were based on researcher knowledge of what was important to investigate and determine from a developer and researcher prespective, as well as from the input of [no.] autistic poeple, their relatives and carers, in earlier, informal scoping sessions. 
+The request for potential questions was also sent out to subscribers of the project's mailing list, and autistic collaborators input suggestions [link to newsletter and OS comments]
+
 
 ### 2. Run focus group <img src="../../images/noun-project-icons/noun_Conversation_2041500.png" width="150" align="right"/>
 
 Participants came to a focus group at Fujitsu to talk about a project to design a platform to use for autism research.
 
 In line with Autistica's policy, all sessions were held outside of rush hour. 
-Refreshments including vegan and glutne free options were provided after the request of some participants, and a quiet room was available.
+Refreshments including vegan and gluten free options were provided after the request of some participants, and a quiet room was available.
 There were always multiple facilitators present.
 All participants were talked through the agenda and a consent form [link to consent form]
 
 All participants from Autistica's Insight Group were paid in line with Autistica's policy and involve guidelines [link to their website].
 
 The focus group was recorded.
+
+[Link to protocol]
 
 ### 2. Transcribe discussion <img src="../../images/noun-project-icons/noun_transcript_532343.png" width="150" align="right"/>
 
@@ -59,6 +62,8 @@ Personally identifying information includes:
 
 The recordings were then deleted.
 
+[link to data flow]
+
 ### 3. Collect anonymised quotes <img src="../../images/noun-project-icons/noun_Document_188540.png" width="150" align="right"/>
 
 Quotations were taken from the document, shortened, and organised into groups based on common themes.
@@ -67,7 +72,7 @@ The quotations were labelled to show whether the speaker is autistic, or the par
 The quotes are also labelled to show whether the speaker is talking directly about their own experience, indirectly about someone else's experience, or generally about a group's experience.
 This labelling system was co-designed by a researcher and an autistic collaborator. 
 
-The resulting, organised and labelleed insights are contained in the summary documents held in this folder. 
+The resulting, organised and labelleed insights were sent to participants. 
 
 ### 4. Review the summary document <img src="../../images/noun-project-icons/noun_Eye_2040041.png" width="150" align="right"/>
 
@@ -107,7 +112,7 @@ The suggestions from the focus group will be turned into a to-do list for the pr
 
 These will be visible as issues in GitHub, and will be linked to the source in the summary. 
 
-The issues will be used to help build the citizen science platform. 
+The issues will be used to help build the citizen science platform. [example issue here]
 
 We can't do everything, but we will try our best to follow the suggestions included in the summaries. 
 
