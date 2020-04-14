@@ -1,4 +1,5 @@
 # Sprint 1 Report.
+### sprint ending 31/03/2020
 
 Due to the structure of the project at the beginning of this sprint Chris Legg chose to create a wireframe to give a starting point to the development. The user stories for this sprint were lifted from business goals and objectives built into the documentation. At the time the community feedback user stories were in development and not accessible to the team so the links to the issue numbers couldn't be added without facing repitition later in the project. This has caused a delay in the publishing of this sprint report. 
 
@@ -10,7 +11,7 @@ https://c6q95y.axshare.com
 Experience Screens 
 https://xsswhw.axshare.com 
 
-UX Deliverables 
+UX Deliverables: research on designing for the Autistic community 
 https://blm1j3.axshare.com
 
 Tom's Review
