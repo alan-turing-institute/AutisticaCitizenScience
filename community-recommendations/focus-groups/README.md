@@ -4,7 +4,7 @@ This folder contains summaries and quotations from three focus group sessions he
 
 ## Contents of focus-groups folder
 
-* [About the summary documents](link)
+* [About the summary documents](community-recommendations/focus-groups/about-the-summary-documents)
 * [Summary documents x 3](link)
 
 ## Key
