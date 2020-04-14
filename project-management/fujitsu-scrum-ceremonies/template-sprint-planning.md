@@ -3,7 +3,7 @@
 ## Attendees
 
 * Scrum Master: *Name of attendee*
-* Product Owner: *Name of attendee*
+* Product Owner (Alan Turing): *Name of attendee*
 * Development team:
   * *Name of attendee*
   * *Name of attendee*
@@ -11,7 +11,7 @@
 
 ## Agenda
 
-1. [Confirm backlog priority](#1-confirm-backlog-priority): Confirm with PO there have been no changes to the backlog priority
+1. [Confirm backlog priority](#1-confirm-backlog-priority): Confirm with PO there have been no changes to the backlog priority since the last backlog refinement meeting.
 2. [Confirm previous sprint is closed](#2-confirm-previous-sprint-is-closed)
 3. [Team availability](#3-team-availability): Capture team member's availability for the upcoming sprint
 4. [Story point issues in sprint](#4-story-point-issues-in-sprint)
