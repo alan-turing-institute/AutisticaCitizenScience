@@ -18,22 +18,21 @@ We want to share the insights from our conversations to help others understand h
 
 The summary document is a collection of anonymised quotes from focus group participants.
 
-Quotations have been shortened or summarised, labelled according to the speaker (see the [Key] in the README file), and all information has been depersonalised.
+Quotations have been shortened or summarised, labelled according to the speaker (see the [Key](community-recommendations/focus-groups/README.md#key) in the README file), and all information has been depersonalised.
 
 These summaries have been circulated to all participants to offer them the opportunity to remove or modify their comments if they wish.
 Based on the feedback receieved, none of the content was requested to be changed, but the format was modified.
 
-[More info here on recruits]
+In total, the focus groups included 9 autistic people, 5 parents of autistic people, and 4 people who were both autistic themselves and the parents of autistic people.
+They were also attended by researchers from The Alan Turing Institute, and members of Fujitsu and Autistica - some of whom were themselves autistic, the parents of autistic people, or both. 
 
 ## How were the summary documents created?
 
 ### 1. Design focus group agenda: 
 
-An agenda for each session was written to loosely guide the focus group discussions. 
-The agendas used in the sessions can be found [here - link].
-These were based on researcher knowledge of what was important to investigate and determine from a developer and researcher prespective, as well as from the input of [no.] autistic poeple, their relatives and carers, in earlier, informal scoping sessions. 
-The request for potential questions was also sent out to subscribers of the project's mailing list, and autistic collaborators input suggestions [link to newsletter and OS comments]
-
+An agenda for each session was written to loosely guide the focus group discussions.
+These were based on researcher knowledge of what was important to investigate and determine from a developer and researcher prespective, as well as from the input of autistic poeple, their relatives and carers, in earlier, informal scoping sessions. 
+The request for potential questions was also sent out to subscribers of the project's mailing list, and autistic collaborators input suggestions.
 
 ### 2. Run focus group <img src="../../images/noun-project-icons/noun_Conversation_2041500.png" width="150" align="right"/>
 
@@ -44,11 +43,9 @@ Refreshments including vegan and gluten free options were provided after the req
 There were always multiple facilitators present.
 All participants were talked through the agenda and a consent form [link to consent form]
 
-All participants from Autistica's Insight Group were paid in line with Autistica's policy and involve guidelines [link to their website].
+All participants from Autistica's Insight Group were paid in line with Autistica's policy and involve guidelines.
 
 The focus group was recorded.
-
-[Link to protocol]
 
 ### 2. Transcribe discussion <img src="../../images/noun-project-icons/noun_transcript_532343.png" width="150" align="right"/>
 
@@ -62,8 +59,6 @@ Personally identifying information includes:
 
 The recordings were then deleted.
 
-[link to data flow]
-
 ### 3. Collect anonymised quotes <img src="../../images/noun-project-icons/noun_Document_188540.png" width="150" align="right"/>
 
 Quotations were taken from the document, shortened, and organised into groups based on common themes.
@@ -76,8 +71,8 @@ The resulting, organised and labelleed insights were sent to participants.
 
 ### 4. Review the summary document <img src="../../images/noun-project-icons/noun_Eye_2040041.png" width="150" align="right"/>
 
-All participants had a chance to [review the summary document](Reviewing the summary document) and make changes.
-They were given 14 days to do this. All participants from Autistica's Insight group were paid [amount] for their extra time. 
+All participants had a chance to review the summary document and make changes.
+They were given 14 days to do this. All participants from Autistica's Insight group were paid £30 for this additional work. 
 
 We asked them to:
 
@@ -86,10 +81,10 @@ We asked them to:
 3. Ensure the information is appropriately anonymised.
 4. Send us any requested changes.
 
-[link to review email]
+All participants were emailed [review guidelines](project-management/FocusGroups/FocusGroup-SummaryReview-Guidelines.md)
 
 There were no requested changes to the content of the documents, however there were some suggested improvements to the layout, formatting, and labelling of the documents. 
-The document was subsequently changed on the basis of this feeback.
+The document was then changed on the basis of this feeback.
 
 ## How will the summary documents be used? 
 
