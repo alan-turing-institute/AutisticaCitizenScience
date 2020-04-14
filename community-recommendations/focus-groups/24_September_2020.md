@@ -3,14 +3,14 @@
 
 ## Contents
 
-1. [Value of project and motivations to take part](#8-ways-of-working)
+1. [Value of project and motivations to take part](#1-value-of-project-and-motivations-to-take-part)
 2. [Experiences of autistic people and their families in their daily lives](#2-experiences-of-autistic-people-and-their-families-in-their-daily-life)
 3. [Platform design](#3-platform-design-1)
 4. [Moderation](#4-moderation)
 5. [Representing others](#5-representing-others-1)
 6. [Data management](#6-data-management-1)
 7. [Contribution channels](#7-contribution-channels-1)
-8. [Ways of working](#8-ways-of-working-1)
+8. [Ways of working](#8-ways-of-working)
 
 ## Key 
 
