@@ -3,7 +3,8 @@
 ## Contents of README
 
 * [What are the summary documents?](#what-are-the-summary-documents)
-* [How were the summary documents written?](#how-were-the-summary-documents-written?)
+* [How were the summary documents written?](#how-were-the-summary-documents-written)
+* [Key](#key)
 
 ## [Focus Group Summaries]
 Focus group 18
