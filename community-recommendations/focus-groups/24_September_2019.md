@@ -266,7 +266,7 @@ First step (currently) is creating an Open Humans account:
 * (**A** i): Automatic moderation: “in terms of the volume of postings…you can’t manually moderate all that can you? Doesn’t there need to be some kind of automatic moderation?
 * (**P** d): “I know [moderation] is a lot of manpower…person power”
 * (R *T* d) the automatic filtering that you see on social media is extremely biased…so I think it would be really important to do it laboriously, manually, to start off with”
-* (T, R, d): Potentially use automation to scale if platform is more popular than anticipated with customised learning and automated recognition
+* (R *T* d): Potentially use automation to scale if platform is more popular than anticipated with customised learning and automated recognition
 * (**P** d): “I don’t think you can get away from it being an individual person, especially when you’re starting off”
 * (R *T* d) distributed team of people who were helping to moderate
 	* (R *T* d) I think you would want to have a sort of a central oversight
@@ -306,7 +306,7 @@ First step (currently) is creating an Open Humans account:
 * (**P** d): swearwords? 
 	* (**A** **P** d): “It’s a tough one”
 	* (**A** **P** d): “I’m personally okay with it”
-* (F, i): depends on the age range of people logging on: “my 8 year-old nephew who’s autistic, he’s quite tech savvy so he’d be able to come on here and probably go onto the website, share his experiences, but I don’t think you really want an 8 year old reading swear words”
+* (**P** *F* i): depends on the age range of people logging on: “my 8 year-old nephew who’s autistic, he’s quite tech savvy so he’d be able to come on here and probably go onto the website, share his experiences, but I don’t think you really want an 8 year old reading swear words”
 * (**A** i): “…if you don’t include swear words, we end up quite restricting some people because that’s how they communicate”
 * (**A** d): have a setting to filter out swear words as a child-friendly option
 * (**A** **P** d): “f-ing and blind-ing all over the place… that’s completely by the by, I really couldn’t possibly care less”
