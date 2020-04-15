@@ -12,7 +12,8 @@
 
 This folder contains summaries and quotations from three focus group sessions held with autistic people, the relatives and carers of autistic people, researchers and developers, about the Autistica/Turing citizen science project.
 
-The sessions were held with members of Autistica's Insight group, Fujitsu, The Turing, and Autistica on the 18th and 24th September 2019, and 4th October 2019. You can read the detailed summaries by following the links above.
+The sessions were held with members of Autistica's Insight group, Fujitsu, The Turing, and Autistica on the 18th and 24th September 2019, and 4th October 2019. 
+You can read the detailed summaries by following the links above.
 
 We want to share the insights from our conversations to help others understand how they can best support the needs of autistic people with sensory processing differences.
 
