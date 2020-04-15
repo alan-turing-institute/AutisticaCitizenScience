@@ -38,16 +38,20 @@ The request for potential questions was also sent out to subscribers of the proj
 
 Participants came to a focus group at Fujitsu to talk about a project to design a platform to use for autism research.
 
+These sessions were run according to the project's study protocol for in-person sessions, detailed here: https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A9_StudyProtocol.pdf
+
 In line with Autistica's policy, all sessions were held outside of rush hour. 
 Refreshments including vegan and gluten free options were provided after the request of some participants, and a quiet room was available.
 There were always multiple facilitators present.
-All participants were talked through the agenda and a consent form [link to consent form]
+All participants were talked through a schedule [agenda](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A6_ConsentForm.pdf) and a [consent form](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A6_ConsentForm.pdf), as well as a [participant information sheet](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A7_ParticipantInformationSheet.pdf)
 
 All participants from Autistica's Insight Group were paid in line with Autistica's policy and involve guidelines.
 
 The focus group was recorded.
 
 ### 2. Transcribe discussion <img src="../../images/noun-project-icons/noun_transcript_532343.png" width="150" align="right"/>
+
+All data from the focus groups were collected and processed in accordance with the project's [data management protocols for in-person sessions](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A8_DataManagement.pdf)
 
 The focus group was written down word-for-word. No personally identifying information was included in this document.
 
@@ -107,7 +111,7 @@ The suggestions from the focus group will be turned into a to-do list for the pr
 
 These will be visible as issues in GitHub, and will be linked to the source in the summary. 
 
-The issues will be used to help build the citizen science platform. [example issue here]
+The issues will be used to help build the citizen science platform.
 
 We can't do everything, but we will try our best to follow the suggestions included in the summaries. 
 
