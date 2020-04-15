@@ -143,7 +143,7 @@
 	* (*F* i): “I think…the analytics that will be happening post input”
 * (*F*, d): a simple answer is possibly to put in a hashtag feature, and “in the analytics you can then do a pickup on a hashtag and then on a topic.”
 * (**P** **A** d): highlight that as an option, “because I’m still very used to the hashtag” 
-* (**P** **A** d): Important to deliver on promises: prior experience of being incentivised to use an app (Molehill Mountain) because it promised to give a mood graph, and was frustrated when this wasn’t offered
+* (**P** **A** d): important to deliver on promises: prior experience of being incentivised to use an app (Molehill Mountain) because it promised to give a mood graph, and was frustrated when this wasn’t offered
 * (**A** d): automatically link up to physiological data, for example from a Fitbit, so it could be recorded in real time. 
 * (*F* d): “I think it’s probably quite far down the track in terms of development, but I think it’s definitely worth having on there that we could potentially look at including physiological data”
 * (**A** d): have graphs linking data
@@ -242,7 +242,7 @@
 * (**A** d): “…green would be a good colour – more inviting” 
 * (**A** **P** d): “Yeah, there are some great shades amongst the greens aren’t there, there’s a nice sort of fresh spring, and then there’s that, what do you call it, a middle, sort of forest green –”
 * (*F* d): “Tahuna font is a bit softer than Ariel, so maybe give that a try”
-* (**A** **P** d): icons ned to be slightly bigger
+* (**A** **P** d): icons need to be slightly bigger
 * (*F* d): have a glossary or dictionary of terms
 
 ### Accessibility
@@ -480,7 +480,9 @@ want that to be there anymore”
 * (**A** d): “’needs, priorities, desires and concerns is far too long’…is there a word that you could use that covers all of them like ‘expectations’ or something?”
 * (*F* **P** d): it could be broken up to make it more precise
 * (**A** d): “I think you do need to split it up into: ‘what works?’, or, ‘what do you want the website to be like?’, or, ‘what different sort of posts and experiences would you like?’”
-* (**A** d): “What do you want to get from it? What are the most important things for you? Do you have any more concerns?”
+* (**A** d): “What do you want to get from it? 
+What are the most important things for you? 
+Do you have any more concerns?”
 * (**A** *A* d): splitting the box up might be problematic if you just had a random thought come into your head 
 * (**A** d): you could always have a ‘miscellaneous’ box for those sorts of comments
 * (R *T* i): splitting it up might make people feel they have to answer a series of questions, but they might only have one thing that they want to express
@@ -505,7 +507,8 @@ want that to be there anymore”
 * (R *T* I): “in theory it’s open to anyone, anyone who wants to chat can make an account and join and be part of a conversation, although it may not work that way in practice”
 * (R *T* d): it can be anonymous but linked to your account
 * (**A** d): “I don’t like group chats…I get overwhelmed with it, especially if someone keeps tagging me…asking me questions, I wouldn’t really use it unless I had to”
-* (*F* i): “this sort of thing is really useful for developers, for the people who are actually involved in building the code… if you find this to be a little intimidating, I wouldn’t worry about that. There will be another way to give your thoughts and your requirements and this is most useful for the programmers”
+* (*F* i): “this sort of thing is really useful for developers, for the people who are actually involved in building the code… if you find this to be a little intimidating, I wouldn’t worry about that. 
+There will be another way to give your thoughts and your requirements and this is most useful for the programmers”
 
 ### Website
 
