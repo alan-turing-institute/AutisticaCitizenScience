@@ -110,7 +110,8 @@
 
 ### c) Hospitals
 
-* (**P** i): “…my son had to have a dental operation last year…it was a dreadful experience…the anaesthetist didn’t understand, the staff didn’t understand. He was put in a room with lots of screaming children in the recovery. It culminated in him biting through his tongue, biting through his lip. His sensory overload was huge”
+* (**P** i): “…my son had to have a dental operation last year…it was a dreadful experience…the anaesthetist didn’t understand, the staff didn’t understand. He was put in a room with lots of screaming children in the recovery. 
+It culminated in him biting through his tongue, biting through his lip. His sensory overload was huge”
 
 ### d) Employment
 
@@ -126,7 +127,8 @@
 * (**A** **P** i): [son was] “…put in a party house this year on campus, and he’d asked for a fridge in his room because he cannot go in the kitchen when other people are around…he wrote and said, ‘Where’s my fridge? I’ve got to store food away in there’…Disability services, who should be aware, wrote back, “…until we find a fridge, please do it”
 * (**A** d): “I got too much support…they just gave me…a teaching assistant for every single classroom…I felt like I really didn’t need it, because it actually just distracted me from work”
 * (**A** **P** d): “it took me several years to convince his [autistic son’s] school to serve plain pasta, so he doesn’t have to explain every time that he has an eating disorder”
-* (**A** **P** i): dealing with students with autism and other disabilities is a lot of work, “I am fully aware, because I have autism and I have children who struggle, I do the extra hours. No other staff member does, and it affects me therefore, because I kind of take on responsibility for all the students”
+* (**A** **P** i): dealing with students with autism and other disabilities is a lot of work, “I am fully aware, because I have autism and I have children who struggle, I do the extra hours. 
+No other staff member does, and it affects me therefore, because I kind of take on responsibility for all the students”
 
 ### f) Communication
 
@@ -234,7 +236,8 @@
 
 ### b) Delayed response
 
-* (*F* d): “[how] important is the immediacy of that information? Because, if everything is going to go through the moderation process, then maybe the salience of…advice is lost.” [potential solution multiple input channels, select for immediate response, free text otherwise]
+* (*F* d): “[how] important is the immediacy of that information? Because, if everything is going to go through the moderation process, then maybe the salience of…advice is lost.” 
+[potential solution multiple input channels, select for immediate response, free text otherwise]
 * (R *T* d): there are other platforms, such as social media, for immediate responses
 * (R *T* d): “I think we are going to have to do a due diligence of at least at the beginning, reading everything that’s going to be made public to make sure it’s not…insulting…or identifying…so there probably is going to have to be a time gap”
 * (**A** **P** i): “…it’s a very high standard to review everything, and give them advice, and do all of that, it might become unworkable” 
@@ -304,7 +307,8 @@
 
 * (**A** d): “…there could be people who maybe exaggerate or post stories about other people”
 * (**A** d): “there’s always gonna be a personal bias in this because it’s coming from one perspective”
-* (**A** **P** d): “…distortions are very important, because we want raw data…it needs to be given even to non-verbal people to deliver feedback through pictures, through other ways…the more opportunities [for] people to express them[selves] directly the better. We want…as unbiased, authentic information as possible”
+* (**A** **P** d): “…distortions are very important, because we want raw data…it needs to be given even to non-verbal people to deliver feedback through pictures, through other ways…the more opportunities [for] people to express them[selves] directly the better. 
+We want…as unbiased, authentic information as possible”
 * (**A** **P** d): “…you have secondary source and that’s a distortion”
 
 ### e) Consent
@@ -393,7 +397,7 @@
 * (**A** **P** R *A* g): “NHS England, in their 10 year plan, have named autism and other disabilities one of 4 clinical priorities…I think there is an opportunity here to actually do something that does make a difference in GP services and hospitals, because at the moment politically, they’re listening”
 * (**A** **P** d): architects and designers
 * (**A** **P** d): “…you need someone like that involved who can pull all the data together and get it to be used”
-(A, d): “possibly even autistic, or people who closely associate with autism, architects and designers…who has…interior insight”
+* (**A**, d): “possibly even autistic, or people who closely associate with autism, architects and designers…who has…interior insight”
 * (**A** d): airports and train stations
 * (R *T* d): libraries
 
@@ -450,8 +454,8 @@
 * (**A** **P** i): they might be tech savvy, but they might not have access
 * (**A** **P** g): “recent reports show that elderly people and children don’t use the internet not only because they don’t know how, but also because they are concerned there will be some scam”
 * (**A** **P** d): people from lower socio-economic groups
-(T, R, d): technological upskilling could offer compensation for time/motive to join project
-*  (*F* d): people who are not Western and European
+* (R *T* d): technological upskilling could offer compensation for time/motive to join project
+* (*F* d): people who are not Western and European
 * (R *T* i): came up in previous focus groups that maybe the platform itself should be available in other languages
 * (R *T* d): “I’m happy to be led by the community… [but] we’re already doing so much that starting to go into other languages is really tough”
 (F, d): not just the language aspect, also the lived experience
@@ -479,7 +483,7 @@
 * (**P** d): “I…do quite a few different things, where they may monitor my phone or what I’m listening to on the radio and then they pay me in Amazon vouchers”
 * (R *T* d): “I think it’s a really good point actually, because all you would need is an email address for the project itself we’re going to have an email address”
 * (**A** **P** d): prize draw
-(T, R, d): “I think that’s wildly unethical… I think it’s much more honest to say, look, we’re not going to pay you for your time to fill in this questionnaire, and this is how long it’s going to take, and you can make that decision”
+(R *T* d): “I think that’s wildly unethical… I think it’s much more honest to say, look, we’re not going to pay you for your time to fill in this questionnaire, and this is how long it’s going to take, and you can make that decision”
 * (**A** **P** d): choice of charities for people to donate to
 * (**A** **P** d): “I think that’s still discriminatory…if you’re struggling to make ends meet”
 * (**A** **P** d): “[Rationale that] you’re over-budget, and these people are so motivated to do it that they’ll do it anyway…that’s unethical”
@@ -499,7 +503,7 @@
 * (**A** d): constant updates
 * (**A** d): keeping people informed when there are collaborations with other organisations
 * (R *T* d): “we definitely will do blog posts, videos, online discussions”
-*  (*F* d): cartoon and drawings perhaps explaining the concept of the back end and the application, “something that explains it in layman’s terms might be useful”
+* (*F* d): cartoon and drawings perhaps explaining the concept of the back end and the application, “something that explains it in layman’s terms might be useful”
 * (**A** **P** d): communicating project
 * (R *T* g): large scale communication will be further down the line: “I think we need to be clearer about what the project is before we communicate it to lots and lots of people”
 * (R *T* g): participants invited to share survey and sign people they know up to the mailing list, but not big public launch until pathways clearer
@@ -519,7 +523,7 @@
 * (**A** **P** d): “you wouldn’t have access to the source code, but because it’s open source, people can copy it”
 * (R *T* d): “…the information needed to authenticate the database itself is private, so there’s a whole bunch of…private security stuff that happens in the background.”
 * (**A** **P** d): “…as soon as it’s on the internet, anyone could copy any of it…not legally, but they could”
-* (R *T* d): although you can’t stop people from [copying public information from the website], you definitely can stop academic researchers from publishing it”
+* (R *T* d): although you can’t stop people from copying public information from the website, you definitely can stop academic researchers from publishing it”
 * (R *T* d): “I do a lot of work around open source development, and these are three principles that I try and work through – that every aspect of the project should be accessible and clear, it should be easy to understand; that the work should be easy to adapt, reproduce and spread, so it’s designed from the beginning to be shareable, and that is important to relate to the sort of responsibility you have for keeping personal data private, and that there is a participatory and inclusive aspect”
 
 
