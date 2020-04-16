@@ -14,7 +14,7 @@ This folder contains summaries and quotations from three focus group sessions he
 
 The Key below shows how the comments in the summaries have been labelled. 
 They were co-designed with an autistic collaborator and are based on earlier informal scoping work with Autistica's Insight Group.
-More detail can be found in about-the-summary-documents.md
+More detail can be found in [about-the-summary-documents.md](ADD THE LINK)
 
 #### Where From
 
