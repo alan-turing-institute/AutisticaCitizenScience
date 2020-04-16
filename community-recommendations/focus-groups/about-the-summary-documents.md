@@ -72,7 +72,7 @@ The quotations were labelled to show whether the speaker is autistic, or the par
 The quotes are also labelled to show whether the speaker is talking directly about their own experience, indirectly about someone else's experience, or generally about a group's experience.
 This labelling system was co-designed by a researcher and an autistic collaborator. 
 
-The resulting, organised and labelleed insights were sent to participants. 
+The resulting, organised and labelled insights were sent to participants. 
 
 ### 4. Review the summary document <img src="../../images/noun-project-icons/noun_Eye_2040041.png" width="150" align="right"/>
 
