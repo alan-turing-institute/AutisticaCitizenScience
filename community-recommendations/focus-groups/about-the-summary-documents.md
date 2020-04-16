@@ -117,4 +117,4 @@ The issues will be used to help build the citizen science platform.
 We can't do everything, but we will try our best to follow the suggestions included in the summaries. 
 
 
-Please email [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk) with any feedback or requests for changes, or add them to our "always open" Google Form at [https://bit.ly/AutisticaTuringCitSciForm](https://bit.ly/AutisticaTuringCitSciForm]
+Please email [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk) with any feedback or requests for changes, or add them to our "always open" Google Form at [https://bit.ly/AutisticaTuringCitSciForm](https://bit.ly/AutisticaTuringCitSciForm)
