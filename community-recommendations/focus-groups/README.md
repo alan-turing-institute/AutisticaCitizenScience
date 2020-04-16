@@ -1,4 +1,4 @@
-# README
+About the Focus Groups
 
 This folder contains summaries and quotations from three focus group sessions held with autistic people, the relatives and carers of autistic people, researchers and developers, about the Autistica/Turing citizen science project in Autumn 2019.
 
@@ -36,4 +36,3 @@ More detail can be found in about-the-summary-documents.md
 * d = direct: experience, suggestion, or opinion of speaker
 * i = indirect: witnessed or reported on behalf of someone else by speaker
 * g = general comment
-
