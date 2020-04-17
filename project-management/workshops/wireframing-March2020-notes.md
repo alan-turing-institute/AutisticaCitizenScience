@@ -17,16 +17,16 @@ tags: autistica, turing, citizenscience, wireframing
 
 | Time  | Activity |
 | ----- | -------- |
-| 10:00 | [Welcome and norm setting](#%F0%9F%91%8B%F0%9F%8F%BD-Part-1-Welcome-amp-norm-setting---1-hour) |
-| 11:00 | :coffee: Biobreak
-| 11:15 | [Personas and pathways](#%F0%9F%91%A5-Part-2-Personas-and-Pathways---1-hour)
-| 12:15 | :yum: LUNCH (1 hour)
-| 13:15 | Welcome back
-| 13:30 | [Wireframing](#%F0%9F%91%A9%F0%9F%8F%BE%E2%80%8D%F0%9F%94%A7-Part-3-Wireframing---55-minutes)
-| 14:25 | :coffee: Biobreak
-| 14:40 | [Participatory user experience research](#%F0%9F%99%8C%F0%9F%8F%BE-Part-4-Participatory-user-experience-research---35-minutes)
-| 15:15 | [Reflections and next steps](#%F0%9F%98%8C-Part-5-Reflections-and-next-steps---15-minutes)
-| 15:30 | Close
+| 10:00 | Welcome and norm setting: 1-hour |
+| 11:00 | :coffee: Biobreak |
+| 11:15 | Personas and pathways: 1-hour |
+| 12:15 | :yum: LUNCH 1 hour |
+| 13:15 | Welcome back |
+| 13:30 | Wireframing: 55-minutes |
+| 14:25 | :coffee: Biobreak |
+| 14:40 | Participatory user experience research: 35 minutes | 
+| 15:15 | Reflections and next steps 15-minutes |
+| 15:30 | Close |
 
 ## 👋🏽 Part 1: Welcome & norm setting - 1 hour
 
