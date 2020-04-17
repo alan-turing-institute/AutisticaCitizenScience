@@ -19,7 +19,7 @@ We want to share the insights from our conversations to help others understand h
 
 The summary document is a collection of anonymised quotes from focus group participants.
 
-Quotations have been shortened or summarised, labelled according to the speaker (see the [Key](community-recommendations/focus-groups/README.md#key) in the README file), and all information has been depersonalised.
+Quotations have been shortened or summarised, labelled according to the speaker (see the [Key](community-recommendations/focus-groups/About-this-folder.md#key) in the README file), and all information has been depersonalised.
 
 These summaries have been circulated to all participants to offer them the opportunity to remove or modify their comments if they wish.
 Based on the feedback receieved, none of the content was requested to be changed, but the format was modified.
