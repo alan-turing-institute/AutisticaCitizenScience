@@ -62,6 +62,7 @@ Progress was made on these tasks but they were not closed during the sprint.
 * [`#74`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/74): GDPR compliance #74
 * [`141`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/141): Create Sprint 1 sprint report
 * [`#159`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/159): Explain project management swim lanes #159  
+* [`#148`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/148): Turn user stories from google docs into issues on Github
 
 ### Issues opened
 
@@ -69,11 +70,20 @@ These tasks were opened during the sprint but no work was done to address them.
 
 *Please include and link to the accompanying pull request for each issue if applicable.*
 
-* [`#m`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`m`): `issue title`
-  * *Additional notes if necessary.*
-* [`#n`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`n`): `issue title`
-  * *Additional notes if necessary.*
-*
+* [`#173`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/173): Develop paired down secured engagement component
+* [`#174`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174): Develop 'add your experience' page component
+* [`#175`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/175): Decide on landing page strapline
+* [`#172`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/172): Develop landing page footer
+* [`#171`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/171): Develop hamburger menu component
+* [`#170`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/170): Develop layout implementation of the landing page Hero/Jumbotron component
+* [`#169`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/169): Develop layout of landing page function boxes
+* [`#168`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/168): Implement wireframe landing page
+* [`#167`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/167): Implementation of landing page header
+* [`#166`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/166): Translateable platform
+* [`#163`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/163): List of questions for community
+* [`#160`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/160): Documentation for user stories
+* [`#145`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/145): Functional testing guidelines
+* [`#148`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/148): Turn user stories from google docs into issues on Github
 
 ### Challenges
 
