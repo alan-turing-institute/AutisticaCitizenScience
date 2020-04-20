@@ -66,7 +66,7 @@ The documentation must be complete enough for a new product management team to u
 
 ### Agile and open source development
 
-The Fujitsu team will work following an [Agile and open source development process](project-management/agile-opensource-workflow.md).
+The Fujitsu team will work following an [Agile and open source development process](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/agile-opensource-workflow.md).
 
 The Fujitsu team will publish a [sprint report](/project-management/sprint-demo-requirements.md) and associated demonstration video at the end of each sprint to maintain transparent engagement with the broader autistic and developer communities, and with the people who lie at the intersection of the two.
 
