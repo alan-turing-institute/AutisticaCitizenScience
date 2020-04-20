@@ -26,13 +26,12 @@ These tasks were closed during the sprint.
   * *Additional notes if necessary.*
 * [`#121`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/121): Add documentation of recent meetings to GitHub repo #121
   * Assocated pull requests: [`121`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/121), [`135`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/135)
-  * *Additional notes if necessary.*
 * [`#103`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/103): Create Wireframes #103
   * Assocated pull requests: [`102`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/102)
-  * *Additional notes if necessary.*
 * [`#128`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/128): Update timelines for agile workflow process #128 
   * Assocated pull requests: [`142`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/142)
-  * *Additional notes if necessary.*  
+* [`#116`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/116): Create sprint 1 demo video #116  
+ 
 
 
 ### Issues progressed
@@ -51,9 +50,18 @@ Progress was made on these tasks but they were not closed during the sprint.
   * Assocated pull requests: [`126`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/126)
   * Assocated pull requests: [`115`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/115)
   * Assocated pull requests: [`119`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/119)
-* [`#84`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/120): Gather Platform Requirements #84
+* [`#84`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/84): Gather Platform Requirements #84
   * Assocated pull requests: [`130`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/130)  
-   
+* [`#129`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/129): Get comfortable with Github #129
+* [`#149`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/149): Add agendas for future meetings #149
+ * Assocated pull requests: [`156`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/156)  
+ * Assocated pull requests: [`144`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/144)  
+* [`#132`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/132): Document FJ meeting dates #132
+  * Assocated pull requests: [`156`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/156)
+  * Assocated pull requests: [`123`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/123)
+* [`#74`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/74): GDPR compliance #74
+* [`141`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/141): Create Sprint 1 sprint report
+* [`#159`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/159): Explain project management swim lanes #159  
 
 ### Issues opened
 
