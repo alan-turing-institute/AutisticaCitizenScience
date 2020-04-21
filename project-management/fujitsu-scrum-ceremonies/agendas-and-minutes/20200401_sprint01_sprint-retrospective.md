@@ -21,14 +21,14 @@
 * High Expectations
 
 ### What went well
-*	Highlighting issues and identifying plans and processes
-*	Fridays demo meeting went well with good feedback
-*	Everyone is supportive and helpful
-*	Openess within the team to be able to raise issues
+* Highlighting issues and identifying plans and processes
+* Fridays demo meeting went well with good feedback
+* Everyone is supportive and helpful
+* Openess within the team to be able to raise issues
+
 ### Actions
 1. Update and send the sprint timeline to dev team (SB)
 2. Tidy up Github issues and set up project board (ED + GA)
 3. Get Fujitsu team onto and used to Github (ED + ED + SB)
 4. Ensure all meetings sent to Autistica have Agenda plus Timeframes (SB + ED)
 5. Get Demo and report on Github (CL + ED)
-
