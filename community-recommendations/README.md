@@ -7,4 +7,4 @@ This directory contains the information contributed from members of the autistic
   * Human readable format: [GoogleFormResponses.pdf](GoogleFormResponses.pdf)
   * Machine readable format: [GoogleFormResponses.csv](GoogleFormResponses.csv)
   * Link to input form: [http://bit.ly/AutisticaTuringCitSciForm](http://bit.ly/AutisticaTuringCitSciForm)
-* Summarised contributions from focus groups, README, and explanatory documentation: [focus-groups](focus-groups/README)
+* Summarised contributions from focus groups, README, and explanatory documentation: [focus-groups](focus-groups)
