@@ -14,11 +14,12 @@
 * Daniel Ball
 
 ### Challenges
-*	Understanding GitHub
+* Understanding GitHub
 * Slow development of Demo and Report
-*	Communication between Autistica and Fujitsu
+* Communication between Autistica and Fujitsu
 * Some devs not being around for all meetings
-*	High Expectations
+* High Expectations
+
 ### What went well
 *	Highlighting issues and identifying plans and processes
 *	Fridays demo meeting went well with good feedback
@@ -30,5 +31,4 @@
 3. Get Fujitsu team onto and used to Github (ED + ED + SB)
 4. Ensure all meetings sent to Autistica have Agenda plus Timeframes (SB + ED)
 5. Get Demo and report on Github (CL + ED)
-
 
