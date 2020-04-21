@@ -3,7 +3,7 @@
 ## Attendees
 
 * Scrum Master: *Name of attendee*
-* Product Owner (Alan Turing): *Name of attendee*
+* Product Owner (Turing Institute): *Name of attendee*
 * Development team:
   * *Name of attendee*
   * *Name of attendee*
@@ -56,4 +56,3 @@
 ### 7. Approve sprint report
 
 *Before the meeting ends, agree that the sprint report is an accurate reflection of the activites that took place during the sprint.*
-
