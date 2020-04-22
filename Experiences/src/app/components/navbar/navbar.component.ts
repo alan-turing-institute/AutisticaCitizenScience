@@ -33,6 +33,7 @@ export class NavbarComponent implements OnInit {
 
   navItemClicked(nextPage:string){
     this.Dataservice.nextVisiblePage(nextPage);
+    this.Dataservice.hideModal()
   }
 
 }

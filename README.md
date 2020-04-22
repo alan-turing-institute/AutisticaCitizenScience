@@ -85,6 +85,10 @@ This folder includes information on:
 The Autistica/Turing Citizen Science project welcomes all contributions.
 For more information on how to participate, please review our [contributing guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md) and the [building a safe community](project-management/building-a-safe-community.md) document.
 
+This project is receiving formal support from [Fujitsu](https://www.fujitsu.com/global/) to help design and develop the Autistica Citizen Science application. The [Agile and Open Source development](project-management/agile-opensource-workflow.md) process explains how [Fujitsu](https://www.fujitsu.com/global/) will be contributing to the project and how they will keep the community informed about the latest development progress. 
+
+You can find the latest Fujitsu contributions to this project repository [here](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience). 
+
 Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->

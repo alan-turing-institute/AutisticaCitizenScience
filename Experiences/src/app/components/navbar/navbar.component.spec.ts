@@ -1,6 +1,8 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { NavbarComponent } from './navbar.component';
+import { DataService } from '../../services/data.service'
+import { HttpClient, HttpHandler } from '@angular/common/http';
 
 describe('NavbarComponent', () => {
   let component: NavbarComponent;
@@ -8,7 +10,8 @@ describe('NavbarComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ NavbarComponent ]
+      declarations: [ NavbarComponent ],
+      providers: [DataService, HttpClient, HttpHandler],
     })
     .compileComponents();
   }));

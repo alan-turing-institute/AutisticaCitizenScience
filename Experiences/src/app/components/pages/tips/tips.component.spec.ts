@@ -1,6 +1,8 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { TipsComponent } from './tips.component';
+import { DataService } from '../../../services/data.service'
+import { HttpClient, HttpHandler } from '@angular/common/http';
 
 describe('TipsComponent', () => {
   let component: TipsComponent;
@@ -8,7 +10,8 @@ describe('TipsComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ TipsComponent ]
+      declarations: [ TipsComponent ],
+      providers:[DataService, HttpClient, HttpHandler]
     })
     .compileComponents();
   }));
