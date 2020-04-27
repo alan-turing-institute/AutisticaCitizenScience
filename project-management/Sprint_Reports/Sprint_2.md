@@ -9,7 +9,6 @@ This file contains reports of work completed during Fujitsu team sprints.
 
 More details about this process can be found in the [agile-opensource-workflow.md](project-management/agile-opensource-workflow.md) and [sprint-demo-requirements.md](project-management/sprint-demo-requirements.md) files in the [project-management](project-management) directory.
 
-Sprints are added in reverse order, and a template is available at the end of this file: [Sprint `N`](#sprint-n).
 
 ### Issues closed
 
@@ -31,7 +30,15 @@ These tasks were closed during the sprint.
 * [`#128`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/128): Update timelines for agile workflow process #128 
   * Assocated pull requests: [`142`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/142)
 * [`#116`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/116): Create sprint 1 demo video #116  
- 
+* [`#87`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/87): Onboarding Deck for upload #87 
+  * Assocated pull requests: [`137`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/137) 
+* [`#149`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/149): Add agendas for future meetings #149
+ * Assocated pull requests: [`156`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/156)  
+ * Assocated pull requests: [`144`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/144)  
+* [`#132`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/132): Document FJ meeting dates #132
+  * Assocated pull requests: [`156`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/156)
+  * Assocated pull requests: [`123`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/123)
+* [`#91`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/91): Create Kanban style PM page with GitHub projects #91 
 
 
 ### Issues progressed
@@ -39,10 +46,8 @@ These tasks were closed during the sprint.
 Progress was made on these tasks but they were not closed during the sprint.
 
 
-* [`#91`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/91): Create Kanban style PM page with GitHub projects #91 
+
   * Assocated pull requests: No linked pull request 
-* [`#87`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/87): Onboarding Deck for upload #87 
-  * Assocated pull requests: [`137`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/137)
 * [`#101`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/101): Create a guideline for how the 1:1 demonstration/user input sessions run #101
   * Assocated pull requests: [`115`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/115)
 * [`#138`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/138): TA-feedback-03-20-2020 #138
@@ -53,16 +58,11 @@ Progress was made on these tasks but they were not closed during the sprint.
 * [`#84`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/84): Gather Platform Requirements #84
   * Assocated pull requests: [`130`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/130)  
 * [`#129`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/129): Get comfortable with Github #129
-* [`#149`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/149): Add agendas for future meetings #149
- * Assocated pull requests: [`156`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/156)  
- * Assocated pull requests: [`144`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/144)  
-* [`#132`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/132): Document FJ meeting dates #132
-  * Assocated pull requests: [`156`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/156)
-  * Assocated pull requests: [`123`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/123)
 * [`#74`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/74): GDPR compliance #74
 * [`141`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/141): Create Sprint 1 sprint report
 * [`#159`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/159): Explain project management swim lanes #159  
-* [`#148`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/148): Turn user stories from google docs into issues on Github
+* [`#148`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/148): Turn user stories from google docs into issues on Github #148
+* [`#177`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/177): Create a retrospective form #177
 
 ### Issues opened
 
@@ -70,6 +70,9 @@ These tasks were opened during the sprint but no work was done to address them.
 
 *Please include and link to the accompanying pull request for each issue if applicable.*
 
+* [`#176`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/176): Document the process of how we will get feedback from the community
+* [`#177`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/177): Create a retrospective form
+* [`#158`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/158): Alan Turing feedback on Demo
 * [`#173`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/173): Develop paired down secured engagement component
 * [`#174`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174): Develop 'add your experience' page component
 * [`#175`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/175): Decide on landing page strapline
