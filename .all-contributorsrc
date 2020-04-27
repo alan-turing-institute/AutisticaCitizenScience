@@ -62,7 +62,20 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "JamesSCTJ",
+      "name": "JamesSCTJ",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/60160241?v=4",
+      "profile": "https://github.com/JamesSCTJ",
+      "contributions": [
+        "ideas",
+        "review",
+        "doc",
+        "design"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
