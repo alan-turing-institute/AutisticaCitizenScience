@@ -9,6 +9,7 @@ This file contains reports of work completed during Fujitsu team sprints.
 
 More details about this process can be found in the [agile-opensource-workflow.md](project-management/agile-opensource-workflow.md) and [sprint-demo-requirements.md](project-management/sprint-demo-requirements.md) files in the [project-management](project-management) directory.
 
+Please click [here](https://www.youtube.com/watch?v=A_6uOwFZRfo&feature=youtu.be) to view the demonstration video.
 
 ### Issues closed
 
