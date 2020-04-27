@@ -94,13 +94,12 @@ These tasks were opened during the sprint but no work was done to address them.
 
 The team met the following challenges or blockers during this sprint.
 
-*Please include and link to the accompanying issue or pull request for each challenge point.*
+* We have struggled to gain timely feedback from the community
+  * Related to issues: [#174](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174), [#158](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/158)
+  * we now have a new member (Paul Crayson) in the Fujitsu team with autistic contacts from his personal experiences. 
+* We have struggled to get feedback from Autistica
+  * Related to issues: [#120](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174), [#158](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/120)
 
-* `challenge/blocker description`
-  * Related to issues: [`#o`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`o`), [`#p`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`p`)
-  * *Additional notes if necessary.*
-*
-*
 
 ### Request for community feedback
 
@@ -109,8 +108,6 @@ Feedback is requested from the community on the following tasks.
 *Please include and link to the accompanying issue or pull request for each request for feedback point.*
 *This section should always include an issue to collect feedback on this sprint demo release.*
 
-* [`#M`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/`M`): issue to collect feedback on sprint `N`
-  * Link to video: [`link-to-youtube`](`link-to-youtube`)
-  * Link to sprint report: [SPRINTREPORT.md#`N`](SPRINTREPORT.md#sprint-`N`)
-*
-*
+* [#182](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/182): issue to collect feedback on sprint 2
+  * Link to video: [link-to-youtube](https://www.youtube.com/watch?v=A_6uOwFZRfo&feature=youtu.be)
+  * Link to sprint report: [SPRINTREPORT.md #180](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/180)
