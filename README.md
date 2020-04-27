@@ -92,6 +92,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
   <tr>
     <td align="center"><a href="https://github.com/MaxwellRiess"><img src="https://avatars3.githubusercontent.com/u/8421799?v=4" width="100px;" alt=""/><br /><sub><b>Maxwell Riess</b></sub></a><br /><a href="#ideas-MaxwellRiess" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3AMaxwellRiess" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/malvikasharan"><img src="https://avatars0.githubusercontent.com/u/5370471?v=4" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3Amalvikasharan" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://sgibson91.github.io/"><img src="https://avatars2.githubusercontent.com/u/44771837?v=4" width="100px;" alt=""/><br /><sub><b>Sarah Gibson</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3Asgibson91" title="Reviewed Pull Requests">👀</a> <a href="#question-sgibson91" title="Answering Questions">💬</a> <a href="#ideas-sgibson91" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
