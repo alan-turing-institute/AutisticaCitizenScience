@@ -71,6 +71,6 @@ The team met the following challenges or blockers during this sprint
 
 This section should always include an issue to collect feedback on this sprint demo release.
 
-*	Community to access youtube link and provide feedback via on page feedback loop which will be feed into following Sprint and link to wireframe will be made accessible via GitHub
+* [#182](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/182): issue to collect feedback on sprint 1&2
 *	Link to video: https://www.youtube.com/watch?v=4f6kn5HLysc 
 
