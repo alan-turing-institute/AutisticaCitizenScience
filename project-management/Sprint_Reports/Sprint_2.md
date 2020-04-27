@@ -46,8 +46,8 @@ These tasks were closed during the sprint.
 Progress was made on these tasks but they were not closed during the sprint.
 
 
-
-  * Assocated pull requests: No linked pull request 
+* [`#180`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/180): Create sprint 2 report
+  * Assocated pull requests: [`141`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/141)
 * [`#101`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/101): Create a guideline for how the 1:1 demonstration/user input sessions run #101
   * Assocated pull requests: [`115`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/115)
 * [`#138`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/138): TA-feedback-03-20-2020 #138
@@ -70,6 +70,7 @@ These tasks were opened during the sprint but no work was done to address them.
 
 *Please include and link to the accompanying pull request for each issue if applicable.*
 
+* [`#180`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/180): Create sprint 2 report
 * [`#176`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/176): Document the process of how we will get feedback from the community
 * [`#177`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/177): Create a retrospective form
 * [`#158`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/158): Alan Turing feedback on Demo
