@@ -15,7 +15,7 @@
 ## Swim lane descriptions
 
 ### 1.0 Backlog
-A list of issues created predominantly by the Product Owner (Alan Turning) which are then team review in the backlog refinement session.
+A list of issues created predominantly by the Product Owner (Turing Institute) which are then team review in the backlog refinement session.
 The list of issues stay in the backlog swim lane until the day 1 of sprint planning where thet are then moved to the ‘To-Do’ swim lane
 
 ### 2.0 To-Do (current sprint)
