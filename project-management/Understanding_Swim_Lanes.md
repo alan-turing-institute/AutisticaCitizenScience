@@ -32,7 +32,8 @@ Issues that are marked as blocked may be due to missing information, awaiting in
 
 ### 5.0	In pull requests (awaiting review)
 Once branches are considered done (code reviewed) and ready for testing.
-A pull request is a way to ask another developer to merge one of your branches into the master branch and that it is ready for testing.
+A pull request is a way to ask another developer to merge one of your branches into the Fujitsu branch and that it is ready for testing.
+All documentation issues that sit in In pull request state need review from Product Owner (Alan Turing) before being moved to Done state.
 
 ### 6.0	Ready for testing
 Once issues are considered development complete and code review, approved issues are moved into the Ready for testing state unless it is an issue that does not require testing. 
