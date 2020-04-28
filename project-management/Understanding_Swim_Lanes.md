@@ -1,22 +1,18 @@
 # Scrum swim lanes
 
-1.0 BACKLOG
+## Table of contents
 
-2.0 TO-DO (CURRENT SPRINT)
+* 1.0 Backlog
+* 2.0 TO-DO (current sprint)
+* 3.0 In development/progress
+* 4.0 Blocked
+* 5.0 Awaiting review (in pull requests)
+* 6.0 Ready for testing
+* 7.0 In testing
+* 8.0 Ready for review (testing)
+* 9.0 Done
 
-3.0 IN DEVELOPMENT/PROGRESS
-
-4.0 BLOCKED
-
-5.0 IN PULL REQUESTS (AWAITING REVIEW)
-
-6.0 READY FOR TESTING
-
-7.0 IN TESTING
-
-8.0 READY FOR REVIEW (TESTING)
-
-9.0 DONE
+## Swim lane descriptions
 
 ### 1.0	Backlog
 A list of issues created predominantly by the Product Owner (Alan Turning) which are then team review in the backlog refinement session.
