@@ -118,6 +118,16 @@
         "question",
         "ideas"
       ]
+    },
+    {
+      "login": "driscolle",
+      "name": "driscolle",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/61194851?v=4",
+      "profile": "https://github.com/driscolle",
+      "contributions": [
+        "review",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
