@@ -35,8 +35,10 @@ Once branches are considered done (code reviewed) and ready for testing.
 A pull request is a way to ask another developer to merge one of your branches into the master branch and that it is ready for testing.
 
 ### 6.0	Ready for testing
-Once issues are considered development complete and code review, approved issues are moved into the Ready for testing state unless it is an issue that does not require testing.
-In this instance, you would move the ticket to Done state.
+Once issues are considered development complete and code review, approved issues are moved into the Ready for testing state unless it is an issue that does not require testing. 
+Issues such as creating documents do not require testing.
+In this instance, you would move the ticket to Ready to Review state.
+This requires technical testing, the purpose of this testing is to ensure you cover all the acceptance criteria defined in the requirements of the issue.
 
 ### 7.0	In testing
 When you start testing an issue move it into this swim lane.
