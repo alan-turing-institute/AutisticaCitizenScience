@@ -18,7 +18,7 @@
 A list of issues created predominantly by the Product Owner (Alan Turning) which are then team review in the backlog refinement session.
 The list of issues stay in the backlog swim lane until the day 1 of sprint planning where thet are then moved to the ‘To-Do’ swim lane
 
-### 2.0	To-Do (current sprint)
+### 2.0 To-Do (current sprint)
 Issues prioritised by the Product Owner during backlog refinement sessions and have been agreed to bring into a sprint for work to commence on them will be in this swim lane.
 When any given person starts to work on the issue, they must move it to in-development/progress state.
 
