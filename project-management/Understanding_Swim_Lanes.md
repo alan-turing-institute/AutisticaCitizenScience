@@ -1,4 +1,4 @@
-# Contents
+# Scrum swim lanes
 
 1.0 BACKLOG
 
