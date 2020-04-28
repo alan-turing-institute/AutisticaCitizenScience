@@ -54,13 +54,12 @@ This will be provided in the form of a report and a video, as described in the [
 
 ### Sprint retrospective with Autistica/Turing Institute
 
-The purpose of the sprint retrospective is for the broader team to discuss work that was completed during the previous sprint and demonstrated in the video and associated sprint report.
-The demonstration video will be played at the beginning of this meeting.
-Discussion will include identifying how the sprint progressed in terms of relationships, process and tools, identifying and celebrating aspects that went well, and identifying potential improvements and how they can be integrated into the next sprint.
+The purpose of the sprint retrospective is for the Autistica and Alan Turing team to view work that was completed during the previous sprint and demonstrated in the video and associated sprint report. The demonstration video will be sent on day 14 of the sprint.
+The team will record how the sprint progressed in terms of relationships, process and tools, identifying and celebrating aspects that went well, and identifying potential improvements and how they can be integrated into the next sprint will be recorded under the GitHub repository.   
 
 * **Frequency**: once per sprint on the last day of the sprint, currently every 15 work days.
-* **Attendees**: Scrum Master, Development team, Product Owner, Turing Institute researchers, Autistica representative, and at least one member of the autistic community.
-* **Template agenda**: [`template-sprint-retrospective.md`](template-sprint-retrospective.md)
+* **Attendees**: Turing Institute researchers, Autistica representative
+
 
 ### Sprint retrospective with Fujitsu development team
 
