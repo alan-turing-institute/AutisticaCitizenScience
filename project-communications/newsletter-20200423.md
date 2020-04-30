@@ -47,11 +47,15 @@ If you have any comments, suggestions, or questions about the wireframe, you can
 
 Otis Smith, who is an autistic collarborator on the citizen science project, and Georgia Aitkenhead, a Turing researcher, co-authored a blog to celebrate World Autism Awareness Day. You can read the blog here: https://www.turing.ac.uk/blog/world-autism-awareness-day-celebration-and-citizen-science
 
+![](https://i.imgur.com/fk6eotx.png)
+
 ### Workshop
 
 Wireframing workshop: On the 27th March we ran a wireframing workshop over Zoom. 
 The workshop was a mix of people from Autistica, Fujitsu, the Turing, and community members. 
 You can see the notes from the meeting by following this link: https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-wireframing-workshop/project-management/workshops/wireframing-March2020-notes.md
+
+![](https://i.imgur.com/qtEpbKv.jpg)
 
 # Upcoming opportunities
 
