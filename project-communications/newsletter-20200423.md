@@ -1,6 +1,3 @@
----
-breaks: False
----
 # Newsletter | 23 April 2020
 
 *Date sent: 23 April 2020*
