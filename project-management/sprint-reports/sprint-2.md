@@ -73,11 +73,12 @@ These tasks were opened during the sprint but no work was done to address them.
 ### Challenges
 
 The team met the following challenges or blockers during this sprint.
-
-* We have struggled to gain timely feedback from the community
+Due to the current global pandemic situation, coordination across the teams and the community has been slower than we would expect.
+* We need to better understand how best to gain feedback as we haven't received enough feedback from the community 
   * Related to issues: [#174](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174), [#158](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/158)
-  * we now have a new member (Paul Crayson) in the Fujitsu team with autistic contacts from his personal experiences. 
-* We have struggled to get feedback from Autistica
+  * we now have a new member (Paul) in the Fujitsu team with autistic contacts from his personal experiences. 
+  * We will share the links to the reports and demos in the monthly newsletters
+* Some issues were blocked due to Autistica having other priorities within the current pandemic
   * Related to issues: [#120](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174), [#158](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/120)
 
 ### Request for community feedback
