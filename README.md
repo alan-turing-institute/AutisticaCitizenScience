@@ -98,6 +98,9 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
     <td align="center"><a href="https://github.com/LouiseABowler"><img src="https://avatars1.githubusercontent.com/u/25640708?v=4" width="100px;" alt=""/><br /><sub><b>Louise Bowler</b></sub></a><br /><a href="#question-LouiseABowler" title="Answering Questions">💬</a> <a href="#ideas-LouiseABowler" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/fjThomasStanley"><img src="https://avatars1.githubusercontent.com/u/54365220?v=4" width="100px;" alt=""/><br /><sub><b>fjThomasStanley</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=fjThomasStanley" title="Code">💻</a> <a href="#ideas-fjThomasStanley" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="http://gpst.me"><img src="https://avatars1.githubusercontent.com/u/3026030?v=4" width="100px;" alt=""/><br /><sub><b>George Taylor</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=georgepstaylor" title="Code">💻</a> <a href="#ideas-georgepstaylor" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
