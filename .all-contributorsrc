@@ -162,6 +162,16 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "georgepstaylor",
+      "name": "George Taylor",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3026030?v=4",
+      "profile": "http://gpst.me",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
