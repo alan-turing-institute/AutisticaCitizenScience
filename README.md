@@ -100,6 +100,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
   </tr>
   <tr>
     <td align="center"><a href="http://gpst.me"><img src="https://avatars1.githubusercontent.com/u/3026030?v=4" width="100px;" alt=""/><br /><sub><b>George Taylor</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=georgepstaylor" title="Code">💻</a> <a href="#ideas-georgepstaylor" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/aharding15"><img src="https://avatars0.githubusercontent.com/u/53296647?v=4" width="100px;" alt=""/><br /><sub><b>Andrew Harding</b></sub></a><br /><a href="#ideas-aharding15" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-aharding15" title="Answering Questions">💬</a> <a href="#projectManagement-aharding15" title="Project Management">📆</a></td>
   </tr>
 </table>
 
