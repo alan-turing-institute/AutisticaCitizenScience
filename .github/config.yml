@@ -21,11 +21,8 @@ newPRWelcomeComment: >
   We really appreciates your time and effort to contribute to the project.
   Please make sure you have read our [Contributing Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md) and filled in our pull request template to the best of your ability.
 
-  <br>We have Continuous Integration tests that check the writing style and will help you track down any slip-ups :recycle:
-  The Netlify bot will also comment with a preview of the book with your additions so you can see how it will look once it's merged! :tada:
-
   <br>We sometimes get many pull requests on this repo, so please be patient and we will get back to you as soon as we can.
-  If we don't acknowledge this pull request after 7 days, feel free to contact us.
+  If we don't acknowledge this pull request after 7 days, please feel free contact us.
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
