@@ -1,1 +1,20 @@
+Considering Test Methods for testing Python / Django
+
+There are various test systems that can be used to unit test python. The 3 methods I have considered is Unittest, Doctest and Pytest.
+
+Unittest and Pytest are very similar. Unittest is built in to python but Pytest is an add on module. Pytest test cases can be written in less code that Unittest and has additional tooling that can run tests in parallel and can produce Html reports.
+
+Doctest is mainly used to check docstrings which is normally the code comments to see if they are consistent with the code.
+
+The following articles explain the differences and both suggest using Pytest for Python unit testing:
+
+http://www.rohitschauhan.com/index.php/2018/07/05/python-relative-benefits-of-pytest-unittest-nose-and-doctest/
+
+https://blog.j-labs.pl/2019/02/Pytest-why-its-more-popular-than-unittest
+
+For the functional browser testing we can use Selenium, which can be run under Pytest also.
+
+This article explores that subject:
+
+https://www.lambdatest.com/blog/test-automation-using-pytest-and-selenium-webdriver/
 
