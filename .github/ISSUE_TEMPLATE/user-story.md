@@ -1,6 +1,7 @@
 ---
 name: User story
-about: Describe this issue template's purpose here.
+about: Thank you for creating a new user story. This template will help you think
+  about the specific aspects your persona story.
 title: ''
 labels: ''
 assignees: ''
@@ -27,8 +28,8 @@ assignees: ''
 
 ## Notes
 
-* Associated pull request: 
-* Current status:
+* Associated pull request: WRITE HERE
+* Current status: WRITE HERE
 
 ---
 
