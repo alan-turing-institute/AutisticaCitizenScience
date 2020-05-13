@@ -7,7 +7,7 @@
 
 ## Welcome
 
-Thank you for being here!
+Thank you for being here! 🎉
 
 Please continue reading for an introduction to the project, or jump to any of the following sections:
 
