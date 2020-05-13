@@ -1,7 +1,7 @@
 ---
 name: General issue
-about: If you opening an new issue, this template will help you communicate your ideas
-  better with the project leaders..
+about: If you are opening a new issue, please use this template to communicate your
+  ideas with the project leaders.
 title: ''
 labels: ''
 assignees: GeorgiaHCA
