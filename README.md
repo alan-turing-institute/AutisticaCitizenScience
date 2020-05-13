@@ -34,6 +34,9 @@ Our goal is to:
 [![Watch the video](https://img.youtube.com/vi/p9tfhgVUuQE/maxresdefault.jpg)](https://youtu.be/p9tfhgVUuQE)
 *This short video introduces the goals of the Citizen Science project.*
 
+[![Watch the video](/images/KW-CRI-presentation.jpg)](https://youtu.be/Ftsf21Cr4Jk)
+*This video gives a more detailed overview of the citizen science project* 
+
 **The purpose of this study is to co-design and co-produce a framework for ethical, participatory, citizen science.**
 We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
 We also welcome open source developers to help us build this platform.
