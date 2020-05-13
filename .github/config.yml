@@ -10,6 +10,7 @@ newIssueWelcomeComment: >
   :tada: Welcome to Autistica-CitizenScience! :tada:
   We're really excited to have your input into the project! :sparkling_heart:
   Please read our [Contributing Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CODE_OF_CONDUCT.md), if you havn'e done that already.
+
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
