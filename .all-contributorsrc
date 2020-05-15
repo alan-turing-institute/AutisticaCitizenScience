@@ -192,6 +192,17 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "jhlink",
+      "name": "James ",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1872836?v=4",
+      "profile": "https://github.com/jhlink",
+      "contributions": [
+        "code",
+        "test",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
