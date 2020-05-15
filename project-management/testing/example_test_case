@@ -1,0 +1,45 @@
+import pytest
+import pytest_html
+
+from selenium import webdriver
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.keys import Keys
+from time import sleep
+
+
+@pytest.fixture(scope="class")
+def driver_init(request):
+    # create a new Firefox session
+    ff_driver = webdriver.Firefox()
+    request.cls.driver = ff_driver
+    yield
+    ff_driver.close()
+
+
+#        request.driver.implicitly_wait(5)
+#       self.driver.maximize_window()
+
+# navigate to the application home page
+
+@pytest.mark.usefixtures("driver_init")
+class BasicTest:
+    pass
+
+
+class Test_URL(BasicTest):
+    def test_open_url(self):
+        self.driver.get("http://google.co.uk")
+        print("title " + str(self.driver.title))
+        # assert self.driver.find_element_by_link_text("Get started / Login")
+        # assert self.driver.find_element_by_link_text("PublicExperiences")
+
+    def test_search_text(self):
+        self.search_field = self.driver.find_element_by_name("q")
+        self.search_field.clear()
+        self.search_field.send_keys("phones")
+        self.search_field.submit()
+        sleep(20)
+        search_results = self.driver.find_elements_by_xpath("//h3[@class='sA5rQ']")
+        print("len " + str(len(search_results)))
+        assert len(search_results) > 0
