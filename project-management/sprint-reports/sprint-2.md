@@ -73,7 +73,8 @@ These tasks were opened during the sprint but no work was done to address them.
 ### Challenges
 
 The team met the following challenges or blockers during this sprint.
-Due to the current global pandemic situation, coordination across the teams and the community has been slower than we would expect.
+
+* Due to the current global pandemic situation, coordination across the teams and the community has been slower than we would expect.
 * We need to better understand how best to gain feedback as we haven't received enough feedback from the community 
   * Related to issues: [#174](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174), [#158](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/158)
   * we now have a new member (Paul) in the Fujitsu team with autistic contacts from his personal experiences. 
