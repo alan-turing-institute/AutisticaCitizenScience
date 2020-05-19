@@ -1,6 +1,6 @@
-# Sprint Report: 2
+# Sprint Report: 3
 
-**Dates: 31 March 2020 – 27 April 2020**
+**Dates: 28 April 2020 – 18 May 2020**
 
 This file contains reports of work completed during Fujitsu team sprints.
 
@@ -10,80 +10,53 @@ More details about this process can be found in the [agile-opensource-workflow.m
 
 These tasks were closed during the sprint.
 
-* [`#87`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/87): Onboarding Deck for upload
-  * Assocated pull requests: [`#137`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/137)
-* [`#91`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/91): Create Kanban style PM page with GitHub projects
-* [`#92`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/92): Write requirements document to define Fujitsu's deliverables
-  * Assocated pull requests: [`#96`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/96)
-* [`#98`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/98): Make sure all Fujitsu team members have GitHub accounts and are named as collaborators on this repository
-  * Assocated pull requests: [`#126`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/126)
-* [`#103`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/103): Create Wireframes
-  * Assocated pull requests: [`#102`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/102)
-* [`#116`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/116): Create sprint 1 demo video
-* [`#121`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/121): Add documentation of recent meetings to GitHub repo
-  * Assocated pull requests: [`#121`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/121), [`135`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/135)
-* [`#128`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/128): Update timelines for agile workflow process
-  * Assocated pull requests: [`#142`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/142)
-* [`#132`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/132): Document FJ meeting dates
-  * Assocated pull requests: [`#156`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/156), [`#123`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/123)
-* [`#147`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/147): Publish google doc with user stories on main repo
-  * Assocated pull requests: There was no associated pull request, this issue was closed with no action.
-* [`#149`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/149): Add agendas for future meetings
- * Assocated pull requests: [`#156`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/156), [`#144`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/144) 
+* [`#191`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/191): Onboard Paul
+* [`#192`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/192): Development training on Django
 
 ### Issues progressed
 
 Progress was made on these tasks but they were not closed during the sprint.
 
-* [`#74`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/74): GDPR compliance
-* [`#84`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/84): Gather Platform Requirements
-  * Assocated pull requests: [`#130`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/130)  
-* [`#101`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/101): Create a guideline for how the 1:1 demonstration/user input sessions run
-* [`#120`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/120): User Testing Plans and Resources
-  * Assocated pull requests: [`#126`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/126), [`#115`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/115), [`#119`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/119)
-* [`#129`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/129): Get comfortable with Github
-* [`#138`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/138): TA-feedback-03-20-2020
-* [`#148`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/148): Turn user stories from google docs into issues on Github
-* [`#159`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/159): Explain project management swim lanes  
-* [`#177`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/177): Create a retrospective form
-* [`#180`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/180): Create sprint 2 report
-  * Assocated pull requests: [`#141`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/141), [`#115`](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/115)
+* [`#145`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/145): Functional testing guidelines
+* [`#160`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/160): Create a README.md file which collates all of the documentation on how all user stories are created
+* [`#163`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/163): List of questions for community
+* [`#167`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/167): Prototype: Implementation of landing page header
+* [`#170`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/170): Prototype: Develop layout implementation of the landing page Hero/Jumbotron component 
+* [`#171`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/171): Prototype: Develop hamburger menu component
+* [`#172`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/172): Prototype: Develop landing page footer
+* [`#176`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/171): Document the process of how we will get feedback from the community
+* [`#179`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/179): Clarify how people can give feedback on the sprint demo video
+* [`#188`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/188): Create a community involvement strategy 
+* [`#204`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/204): Gather feedback on videos each sprint
+
+### Issues not progressed
+
+* [`#166`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/166): Translatable platform
+* [`#169`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/169): Prototype: Develop layout of landing page function boxes
+* [`#173`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174): Prototype: Develop paired down secured engagement component
+* [`#174`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174): Prototype: Develop "add your experience" page component
 
 ### Issues opened
 
 These tasks were opened during the sprint but no work was done to address them.
 
-* [`#145`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/145): Functional testing guidelines
-* [`#148`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/148): Turn user stories from google docs into issues on Github
-* [`#158`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/158): Alan Turing feedback on Demo
-* [`#160`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/160): Documentation for user stories
-* [`#163`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/163): List of questions for community
-* [`#166`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/166): Translateable platform
-* [`#167`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/167): Implementation of landing page header
-* [`#168`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/168): Implement wireframe landing page
-* [`#169`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/169): Develop layout of landing page function boxes
-* [`#170`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/170): Develop layout implementation of the landing page Hero/Jumbotron component
-* [`#171`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/171): Develop hamburger menu component
-* [`#172`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/172): Develop landing page footer
-* [`#173`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/173): Develop paired down secured engagement component
-* [`#174`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174): Develop 'add your experience' page component
-* [`#175`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/175): Decide on landing page strapline
-* [`#176`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/176): Document the process of how we will get feedback from the community
+* [`#200`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/200): Include non-verbal means of inputting information
+* [`#200`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/200): Include non-verbal means of inputting information
+* [`#229`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/229): Prototype: Develop template editor component
+* [`#230`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/200): Prototype: Develop newsletter subscription control
+* [`#231`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/231): Prototype: Develop stepped user journey control
+* [`#232`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/232): Prototype: Develop language selector control
+* [`#233`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/233): Prototype: Develop user profile type selection control information
+ 
 
 ### Challenges
 
-The team met the following challenges or blockers during this sprint.
-Due to the current global pandemic situation, coordination across the teams and the community has been slower than we would expect.
-* We need to better understand how best to gain feedback as we haven't received enough feedback from the community 
-  * Related to issues: [#174](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174), [#158](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/158)
-  * we now have a new member (Paul) in the Fujitsu team with autistic contacts from his personal experiences. 
-  * We will share the links to the reports and demos in the monthly newsletters
-* Some issues were blocked due to Autistica having other priorities within the current pandemic
-  * Related to issues: [#120](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174), [#158](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/120)
+
+No challenges were highlighted in this sprint.
 
 ### Request for community feedback
 
 Feedback is requested from the community on the following tasks.
 
 * [#182](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/182): issue to collect feedback on sprints 1 & 2
-  * Link to video: [https://youtu.be/A_6uOwFZRfo](https://youtu.be/A_6uOwFZRfo)
+  * Link to video: [https://youtu.be/IG-Vq8m8ELA](https://youtu.be/IG-Vq8m8ELA)
