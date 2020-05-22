@@ -1,128 +1,43 @@
-# Autistica/Turing Citizen Science
-[![Join the chat at https://gitter.im/alan-turing-institute/AutisticaCitizenScience](https://img.shields.io/badge/chat-on%20gitter-brightgreen.svg?style=flat-square)](https://gitter.im/alan-turing-institute/AutisticaCitizenScience)
-[![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/AutisticaTuringCitizenScience)
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
+# Project Management
 
-*Project management and resource repository for the Autistica/Turing Citizen Science project*
+### Overview
 
-## Welcome
+The [study protocol](A9_StudyProtocol.pdf) is a description of the steps that core research team members should take to manage the project.
 
-Thank you for being here!
+The [participant information sheet](participant-information-sheet.md) ([PDF format](A7_ParticipantInformationSheet.pdf)) describes the project for anyone who would like to take part.
 
-Please continue reading for an introduction to the project, or jump to any of the following sections:
+The [project values](project-values.md) document outlines the guiding principles for the project.
+The [planned outputs](planned-outputs.md) document details the projected deliverables.
+These are combined into one document in [PDF format](A2_ValuesAndOutcomes.pdf).
 
-* [Get involved](#get-involved)
-* [Community input](#community-input)
-* [Project management](#project-management)
-* [Contributors](#contributors)
-* [License](#license)
+### Participation
 
-[![Watch the video](https://img.youtube.com/vi/rP1S8ip4VVE/maxresdefault.jpg)](https://youtu.be/rP1S8ip4VVE)
-*This short video describes some of the sensory processing sensitivies that some autistic people experience.*
+The [consent form](A6_ConsentForm.pdf) is used for in person focus group and 1:1 user testing sessions.
 
-Autistic people have sensory processing sensitivities and differences when compared to neurotypical people.
-These differences can make it difficult to navigate environments that were not built with autistic people in mind.
-For example, it can be stressful to taking a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
+Participants can join the community by joining Autistica's Discover Network or the Autism Insight Group by submitting the [recruitment form](A5_AutismInsightGroupRecruitmentForm.pdf).
 
-Every person is different.
-We want to gather many autistic people’s stories together.
-Our goal is to:
-1. Share the stories with people who have similar experiences
-2. Educate neurotypical people on how they can better support autistic people
-3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.
+Online participation can also be completed via the online google form ([http://bit.ly/AutisticaTuringCitSciForm](http://bit.ly/AutisticaTuringCitSciForm)), a PDF copy of which is available [here](A1_OnlineSurvey.pdf).
 
-[![Watch the video](https://img.youtube.com/vi/p9tfhgVUuQE/maxresdefault.jpg)](https://youtu.be/p9tfhgVUuQE)
-*This short video introduces the goals of the Citizen Science project.*
+### Building a safe community
 
-**The purpose of this study is to co-design and co-produce a framework for ethical, participatory, citizen science.**
-We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
-We also welcome open source developers to help us build this platform.
-The first phase of this project is to **co-design the online platform by identifying priorities and requirements from our community members**.
+The guidance [to build a safe community](building-a-safe-community.md) ([PDF format](A4_BuildingASafeCommunity.pdf)) includes reporting and intervention processes for safeguarding of community members and enforcement of the project's [code of conduct](../CODE_OF_CONDUCT.md) ([PDF format](A3_CodeOfConduct.pdf)).
 
-## Get involved
+### Data management
 
-There are many ways to get in touch with the Autistica/Turing Citizen Science project team!
+The [data management](data-management.md) information sheet ([PDF format](A8_DataManagement.pdf)) outlines how data will be collected, managed, held and disseminated.
 
-Please start by reading the [participant information sheet](project-management/participant-information-sheet.md).
+## Files submitted in support of ethics application
 
-- You can anonymously, publicly share your suggestions via the "always open" google form: [https://bit.ly/AutisticaTuringCitSciForm](https://bit.ly/AutisticaTuringCitSciForm).
-- Come and say hello in our [gitter channel](https://gitter.im/alan-turing-institute/AutisticaCitizenScience).
-- Subscribe to our [mailing list](https://tinyletter.com/AutisticaTuringCitizenScience) with which we send monthly project updates.
-- You can contact research associate Georgia Aitkenhead by email at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk).
-- Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
-  - For more instructions, checkout our [contributing guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md).
-  - ⚠️ Using GitHub can be a little confusing.
-  Please let us know if you have any questions getting started.
+This folder contains the PDF files that were submitted as part of the research ethics application for the University of Cambridge.
+The file numbers refer to the order in which these appendices appeared in the application.
+They are not ordered by importance.
 
-## Community input
-
-You can see suggestions from other members of the community in the [community recommendations](community-recommendations) directory.
-
-## Project management
-
-Information about project management protocols can be found in the [project management](project-management) directory.
-
-This folder includes information on:
-
-* [Project values](project-management/project-values.md)
-* [Planned outputs](project-management/planned-outputs.md)
-* [Data management](project-management/data-management.md)
-* [Building a safe and valued community](project-management/building-a-safe-community.md)
-
-## Contributors
-
-The Autistica/Turing Citizen Science project welcomes all contributions.
-For more information on how to participate, please review our [contributing guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md) and the [building a safe community](project-management/building-a-safe-community.md) document.
-
-Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/GeorgiaHCA"><img src="https://avatars1.githubusercontent.com/u/46889966?v=4" width="100px;" alt=""/><br /><sub><b>Georgia Aitkenhead</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=GeorgiaHCA" title="Documentation">📖</a> <a href="#eventOrganizing-GeorgiaHCA" title="Event Organizing">📋</a> <a href="#ideas-GeorgiaHCA" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-GeorgiaHCA" title="Project Management">📆</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3AGeorgiaHCA" title="Reviewed Pull Requests">👀</a> <a href="#talk-GeorgiaHCA" title="Talks">📢</a></td>
-    <td align="center"><a href="https://whitakerlab.github.io"><img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;" alt=""/><br /><sub><b>Kirstie Whitaker</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=KirstieJane" title="Documentation">📖</a> <a href="#ideas-KirstieJane" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-KirstieJane" title="Project Management">📆</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3AKirstieJane" title="Reviewed Pull Requests">👀</a> <a href="#talk-KirstieJane" title="Talks">📢</a></td>
-    <td align="center"><img src="https://avatars1.githubusercontent.com/u/46889966?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Augur</b></sub><br /><a href="#ideas" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3A" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><img src="https://avatars1.githubusercontent.com/u/46889966?v=4" width="100px;" alt=""/><br /><sub><b>Otis Smith</b></sub><br /><a href="#ideas" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3A" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://tzovar.as"><img src="https://avatars1.githubusercontent.com/u/674899?v=4" width="100px;" alt=""/><br /><sub><b>Bastian Greshake Tzovaras</b></sub></a><br /><a href="#ideas-gedankenstuecke" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=gedankenstuecke" title="Code">💻</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=gedankenstuecke" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/JamesSCTJ"><img src="https://avatars3.githubusercontent.com/u/60160241?v=4" width="100px;" alt=""/><br /><sub><b>JamesSCTJ</b></sub></a><br /><a href="#ideas-JamesSCTJ" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3AJamesSCTJ" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=JamesSCTJ" title="Documentation">📖</a> <a href="#design-JamesSCTJ" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/ThomasAJR"><img src="https://avatars2.githubusercontent.com/u/55509495?v=4" width="100px;" alt=""/><br /><sub><b>ThomasAJR</b></sub></a><br /><a href="#ideas-ThomasAJR" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3AThomasAJR" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=ThomasAJR" title="Documentation">📖</a> <a href="#design-ThomasAJR" title="Design">🎨</a> <a href="#userTesting-ThomasAJR" title="User Testing">📓</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/MaxwellRiess"><img src="https://avatars3.githubusercontent.com/u/8421799?v=4" width="100px;" alt=""/><br /><sub><b>Maxwell Riess</b></sub></a><br /><a href="#ideas-MaxwellRiess" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3AMaxwellRiess" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/malvikasharan"><img src="https://avatars0.githubusercontent.com/u/5370471?v=4" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3Amalvikasharan" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://sgibson91.github.io/"><img src="https://avatars2.githubusercontent.com/u/44771837?v=4" width="100px;" alt=""/><br /><sub><b>Sarah Gibson</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3Asgibson91" title="Reviewed Pull Requests">👀</a> <a href="#question-sgibson91" title="Answering Questions">💬</a> <a href="#ideas-sgibson91" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/driscolle"><img src="https://avatars3.githubusercontent.com/u/61194851?v=4" width="100px;" alt=""/><br /><sub><b>driscolle</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3Adriscolle" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-driscolle" title="Project Management">📆</a></td>
-    <td align="center"><a href="https://github.com/EllenDevereux"><img src="https://avatars1.githubusercontent.com/u/60144081?v=4" width="100px;" alt=""/><br /><sub><b>EllenDevereux</b></sub></a><br /><a href="#content-EllenDevereux" title="Content">🖋</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=EllenDevereux" title="Documentation">📖</a> <a href="#ideas-EllenDevereux" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-EllenDevereux" title="Project Management">📆</a> <a href="#question-EllenDevereux" title="Answering Questions">💬</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3AEllenDevereux" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/LouiseABowler"><img src="https://avatars1.githubusercontent.com/u/25640708?v=4" width="100px;" alt=""/><br /><sub><b>Louise Bowler</b></sub></a><br /><a href="#question-LouiseABowler" title="Answering Questions">💬</a> <a href="#ideas-LouiseABowler" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/fjThomasStanley"><img src="https://avatars1.githubusercontent.com/u/54365220?v=4" width="100px;" alt=""/><br /><sub><b>fjThomasStanley</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=fjThomasStanley" title="Code">💻</a> <a href="#ideas-fjThomasStanley" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="http://gpst.me"><img src="https://avatars1.githubusercontent.com/u/3026030?v=4" width="100px;" alt=""/><br /><sub><b>George Taylor</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=georgepstaylor" title="Code">💻</a> <a href="#ideas-georgepstaylor" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/aharding15"><img src="https://avatars0.githubusercontent.com/u/53296647?v=4" width="100px;" alt=""/><br /><sub><b>Andrew Harding</b></sub></a><br /><a href="#ideas-aharding15" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-aharding15" title="Answering Questions">💬</a> <a href="#projectManagement-aharding15" title="Project Management">📆</a></td>
-    <td align="center"><a href="https://github.com/Ismael-KG"><img src="https://avatars0.githubusercontent.com/u/64027166?v=4" width="100px;" alt=""/><br /><sub><b>Ismael-KG</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=Ismael-KG" title="Tests">⚠️</a></td>
-    <td align="center"><a href="https://github.com/jhlink"><img src="https://avatars2.githubusercontent.com/u/1872836?v=4" width="100px;" alt=""/><br /><sub><b>James </b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=jhlink" title="Code">💻</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=jhlink" title="Tests">⚠️</a> <a href="#ideas-jhlink" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
-Contributions of any kind welcome!
-
-## License
-
-All content in this repository is [openly licensed](LICENSE) with a CC-BY 4.0 (Creative Commons Attribution 4.0 International) license, which means you're free to use the materials and remix them so long as you ***credit the source***.
-
-For example, if you were to use content from this repo in your own project you'd attribute the Autistica/Turing Citizen Science community with a sentence like:
-
-> The material in this project is partially derived from the [Autistica/Turing Citizen Science][aut-cit-sci-repo] project by the [Autistica/Turing Citizen Science community](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/contributors.md), used under CC-BY 4.0.
-
-
-[aut-cit-sci-repo]: https://github.com/alan-turing-institute/AutisticaCitizenScience
-[aut-cit-sci-issues]: https://github.com/alan-turing-institute/AutisticaCitizenScience/issues
-[aut-cit-sci-prs]: https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls
-[aut-cit-sci-labels]: https://github.com/alan-turing-institute/AutisticaCitizenScience/labels
+* Online Survey: [A1_OnlineSurvey.pdf](A1_OnlineSurvey.pdf)
+* Values and Outcomes: [A2_ValuesAndOutcomes.pdf](A2_ValuesAndOutcomes.pdf)
+* Code of conduct: [A3_CodeOfConduct.pdf](A3_CodeOfConduct.pdf)
+* Building a safe community: [A4_BuildingASafeCommunity.pdf](A4_BuildingASafeCommunity.pdf)
+* Autism Insight Group recruitment form: [A5_AutismInsightGroupRecruitmentForm.pdf](A5_AutismInsightGroupRecruitmentForm.pdf)
+* Consent form: [A6_ConsentForm.pdf](A6_ConsentForm.pdf)
+* Participant information sheet: [A7_ParticipantInformationSheet.pdf](A7_ParticipantInformationSheet.pdf)
+* Data management: [A8_DataManagement.pdf](A8_DataManagement.pdf)
+* Study protocol: [A9_StudyProtocol.pdf](A9_StudyProtocol.pdf)
