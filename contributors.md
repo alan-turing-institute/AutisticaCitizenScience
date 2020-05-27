@@ -16,9 +16,10 @@ It follows the [emoji key](https://github.com/all-contributors/all-contributors#
 * Thomas Augur 💬🎨🤔
 * Otis Smith 💬🎨🤔 
 
-#### Collaborators from GitHub turorial
+#### Collaborators from GitHub tutorial
 
 * Malvika Sharan
+* George Taylor 💻 🤔
 
 ### Legend
 
