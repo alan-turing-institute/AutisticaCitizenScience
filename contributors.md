@@ -16,8 +16,9 @@ It follows the [emoji key](https://github.com/all-contributors/all-contributors#
 * Thomas Augur 💬🎨🤔
 * Otis Smith 💬🎨🤔 
 
-#### Contributor for tutorial
+#### Collaborators from GitHub turorial
 
+* Malvika Sharan
 * Ismael-KG
 
 ### Legend
