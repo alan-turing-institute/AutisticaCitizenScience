@@ -14,7 +14,12 @@ It follows the [emoji key](https://github.com/all-contributors/all-contributors#
 * Katrina Payne 🔍
 * Kirstie Whitaker 📖🤔📆👀📢
 * Thomas Augur 💬🎨🤔
-* Otis Smith 💬🎨🤔 
+* Otis Smith 💬🎨🤔
+* Paul Crayson 💬🤔💻
+
+#### Collaborators from GitHub turorial
+
+* Malvika Sharan
 
 ### Collaborators from GitHub Tutorial with Malvika
 * Harry Hopper 💻
