@@ -2,6 +2,26 @@
 # Web technologies
 In this project, we envisage the use of HTML and CSS as a bare minimum. There is also potentially some scope for client side JavaScript in order to create more dynamic content.
 
+## Frameworks
+Whilst it is not necessary to use a web framework in order to create a web application, it can be used in order to cut the time required to get going.
+
+For example, [Bootstrap](https://getbootstrap.com) and [bulma](https://bulma.io) are front-end web frameworks.
+
+### Bootstrap
+Bootstrap prides itself as being the "most popular open source front-end framework in the world" and so that would suggest it is popular with developers. It is relatively simple to use and contains a large selection of [pre-built components](https://getbootstrap.com/docs/4.5/components/alerts/).
+
+It uses HTML, CSS and JavaScript (jQuery).
+
+As far as long term support goes, bootstrap was originally a Twitter offering, which quickly became entirely open-source in 2011. 8 Years later it is still going strong and development on their [github repository](https://github.com/twbs/bootstrap) is very active.
+
+### Bulma
+Bulma is much more recent than Bootstrap, but it is certainly up and coming. The provided framework is 100% CSS, and *requires* no JavaScript. This typically means it is much more lightweight, however the real world performance differences would be negligible.
+
+Part of is modernity is that it is built from the ground up on the relativity new "[Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)" which is a CSS display pattern that responded to the proportions of the screen in order to create responsive designs with ease. (As of Bootstrap v4 it uses Flexbox too)
+
+### Conclusion
+
+Bulma is a great CSS framework and perfect for getting started. It provides just enough and is extremely lightweight. However, Bootstrap has an enormous amount of community support, and so for an open-source project it makes sense to go with it.
 
 # Website Rending frameworks
 
