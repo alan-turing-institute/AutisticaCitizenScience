@@ -12,5 +12,7 @@ https://zenodo.org/record/3743441#.XozAYxfTXxs
 
 https://zenodo.org/record/3766923#.XrvZnsbTXyg
 
-* presentation titled "Growth through community" that was delivered by Georgia Aitkenhead to collaborators on 30 April 2020. https://zenodo.org/record/3865057
+* presentation titled "Growth through community" that was delivered by Georgia Aitkenhead to collaborators on 30 April 2020. 
+
+https://zenodo.org/record/3865057
 
