@@ -2,6 +2,8 @@
 # Web technologies
 In this project, we envisage the use of HTML and CSS as a bare minimum. There is also potentially some scope for client side JavaScript in order to create more dynamic content.
 
+The purpose of this document is to ascertain the correct frameworks and developments tools for this project to use, as well as assessing alternatives.
+
 ## Frameworks
 Whilst it is not necessary to use a web framework in order to create a web application, it can be used in order to cut the time required to get going.
 
