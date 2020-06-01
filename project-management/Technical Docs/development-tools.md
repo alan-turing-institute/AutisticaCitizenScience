@@ -96,4 +96,4 @@ Angular is a JavaScript framework which provides the tooling to enable the creat
 
 * Compatibility with older browsers can be an issue as the majority of the visible content relies on the end users browser to be displayed.
 
-* 
+* There is no existing OpenHumans plugin to use, meaning all interaction with the OH API would need to be written from scratch.
