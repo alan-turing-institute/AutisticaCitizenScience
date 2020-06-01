@@ -37,12 +37,6 @@ Bulma is a great CSS framework and perfect for getting started. It provides just
 
 Django is a framework written in python which allows for server-side rendering of web applications. It was designed to be utilised for rapid development, taking security and scalability into mind. [(source)](https://www.djangoproject.com)
 
-## Language popularity
-
-Django uses the python programming language which sits as the second most popular language on GitHub at last review 
-![Octoverse Graph](https://user-images.githubusercontent.com/3026030/83363562-47994080-a392-11ea-9da2-351097f7113e.png)
-[(source)](https://octoverse.github.com)
-
 ## Django popularity
 
 ### Github Stars: 49.6k
@@ -53,8 +47,10 @@ Django uses the python programming language which sits as the second most popula
 
 ## Language popularity
 
+Django uses the python programming language which sits as the second most popular language on GitHub at last review:
 ![Octoverse Graph](https://user-images.githubusercontent.com/3026030/83363562-47994080-a392-11ea-9da2-351097f7113e.png)
 [(source)](https://octoverse.github.com)
+
 
 ## Pros to using Django in context
 
@@ -70,7 +66,7 @@ Django uses the python programming language which sits as the second most popula
 
 ## What is Angular?
 
-Angular is a JavaScript framework which provides the tooling to enable the creation of web applications. It is client-side rendered meaning that web pages are rendered in the users browser.
+Angular is a TypeScript (A Superset of JavaScript) framework which provides the tooling to enable the creation of web applications. It is client-side rendered meaning that web pages are rendered in the users browser.
 
 ## Angular Popularity
 
@@ -79,6 +75,12 @@ Angular is a JavaScript framework which provides the tooling to enable the creat
 ### Github Forks: 16.7k
 
 ### No Github used by stats available at the time of writing
+
+## Language Popularity
+Angular uses the TypeScript language, which is a superset of JavaScript. Both these languages fair well in terms of use in the open-source community:
+![Octoverse Graph](https://user-images.githubusercontent.com/3026030/83363562-47994080-a392-11ea-9da2-351097f7113e.png)
+[(source)](https://octoverse.github.com)
+TypeScript operates with a very similar syntax to JavaScript, but is not *identical*. It's purpose is mainly to add strong typing to JavaScript in order to make debugging and development errors easier to catch earlier.
 
 ## Pros to Angular in context
 
