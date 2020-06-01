@@ -79,3 +79,21 @@ Angular is a JavaScript framework which provides the tooling to enable the creat
 ### Github Forks: 16.7k
 
 ### No Github used by stats available at the time of writing
+
+## Pros to Angular in context
+
+* Angular requires much less server-side performance (due to client side rendering), meaning it is less susceptible to decreased performance under larger loads.
+
+* Only front-end knowledge is needed to start building, as it doesn't involve server-side code.
+
+* Angular is supported by Google, therefore it is likely to be of interest in the development community for some time.
+
+* Development speed can be greatly increased as the codebase is smaller and the front-end can react to changes instantly, without the need to re-compile or re-run.
+
+## Cons to Angular in context
+
+* Page rendering can be slower as the browser is required to do all of the work. In the same point, angular relies on the power of the end users computer, which can be a limitation. 
+
+* Compatibility with older browsers can be an issue as the majority of the visible content relies on the end users browser to be displayed.
+
+* 
