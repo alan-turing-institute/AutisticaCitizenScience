@@ -31,7 +31,7 @@ Bulma is a great CSS framework and perfect for getting started. It provides just
 
 # Website Rending frameworks
 
-## Why Django?
+## Django
 
 ### What is Django?
 
@@ -51,6 +51,11 @@ Django uses the python programming language which sits as the second most popula
 
 ### Github Used By: 417k
 
+## Language popularity
+
+![Octoverse Graph](https://user-images.githubusercontent.com/3026030/83363562-47994080-a392-11ea-9da2-351097f7113e.png)
+[(source)](https://octoverse.github.com)
+
 ## Pros to using Django in context
 
 * There is already a library for [OpenHumans/django-open-humans](https://github.com/OpenHumans/django-open-humans)
@@ -61,10 +66,11 @@ Django uses the python programming language which sits as the second most popula
 
 ## Cons to Django in context
 
-## Language popularity
+# Angular
 
-![Octoverse Graph](https://user-images.githubusercontent.com/3026030/83363562-47994080-a392-11ea-9da2-351097f7113e.png)
-[(source)](https://octoverse.github.com)
+## What is Angular?
+
+Angular is a JavaScript framework which provides the tooling to enable the creation of web applications. It is client-side rendered meaning that web pages are rendered in the users browser.
 
 ## Angular Popularity
 
