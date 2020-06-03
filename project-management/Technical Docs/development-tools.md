@@ -65,8 +65,14 @@ Django uses the python programming language which sits as the second most popula
 * Django isn't the quickest rendering too especially when combined with python which is interpreted rather than compiled. 
 
 * The default templating language is limited and contains caveats such as not being able to call a function. (Note - it is possible to use Jinja2 instead, which would be recommended and is much more 'standard' in the industry)
-  
-* 
+
+* Django follows a Database driven approach, meaning it may be more applicable in contexts where an ORM (Object Relational Mapper) exists. Django focuses on developing models which are then turned into the [(source)](https://docs.djangoproject.com/en/3.0/intro/overview/)
+
+## Notable uses
+
+* Instagram [(source)](https://reinout.vanrees.org/weblog/2016/11/04/instagram.html) ( *It is likely that parts of Instagram have been rewritten in React due to Facebook's acquisition* )
+
+* ...
 
 # Angular
 
@@ -100,8 +106,12 @@ TypeScript operates with a very similar syntax to JavaScript, but is not *identi
 
 ## Cons to Angular in context
 
-* Page rendering can be slower as the browser is required to do all of the work. In the same point, angular relies on the power of the end users computer, which can be a limitation. 
+* Page rendering can be slower as the browser is required to do all of the work. In the same point, angular relies on the power of the end users computer, which can be a limitation
 
 * Compatibility with older browsers can be an issue as the majority of the visible content relies on the end users browser to be displayed.
 
-* There is no existing OpenHumans plugin to use, meaning all interaction with the OH API would need to be written from scratch.
+* There is no existing OpenHumans plugin to use, meaning all interaction with the OH API would need to be written from scratch
+
+## Notable uses
+
+* ...
