@@ -80,7 +80,7 @@ In light of Django primarily being created so that Database backed web apps can 
 
 ### Flask
 
-[Flask]](http://flask.pocoo.org/)
+[Flask](http://flask.pocoo.org/)
 
 # Angular
 
