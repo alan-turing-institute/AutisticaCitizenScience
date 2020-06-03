@@ -123,3 +123,23 @@ TypeScript operates with a very similar syntax to JavaScript, but is not *identi
 ## Notable uses
 
 * ...
+
+# Conclusion
+
+
+## Prototyping
+
+For the current phase of the project, Fujitsu are prototyping a number of components and wireframe designs in order to create collateral that can be demonstrated to the community. This is valuable as we need to seek approval and feedback from stakeholders.
+
+As there is already a demo of how OpenHumans works with Django, we have chosen to fork this repository and work from it, rather than start completely fresh. In the short term this has sped up prototype development; However, we have had to undergo training exercises.
+
+## Training so far
+
+*The list below represents the list of external training that the fujtisu development team may have undertaken*
+
+### Django
+
+* https://www.pluralsight.com/courses/django-fundamentals-update
+
+* https://www.pluralsight.com/courses/django-getting-started
+
