@@ -135,7 +135,7 @@ As there is already a demo of how OpenHumans works with Django, we have chosen t
 
 ## Training so far
 
-*The list below represents the list of external training that the fujtisu development team may have undertaken*
+*The list below represents the list of external training that the Fujitsu development team may have undertaken*
 
 ### Django
 
