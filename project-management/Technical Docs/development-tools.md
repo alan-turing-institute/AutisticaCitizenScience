@@ -62,6 +62,12 @@ Django uses the python programming language which sits as the second most popula
 
 ## Cons to Django in context
 
+* Django isn't the quickest rendering too especially when combined with python which is interpreted rather than compiled. 
+
+* The default templating language is limited and contains caveats such as not being able to call a function. (Note - it is possible to use Jinja2 instead, which would be recommended and is much more 'standard' in the industry)
+  
+* 
+
 # Angular
 
 ## What is Angular?
