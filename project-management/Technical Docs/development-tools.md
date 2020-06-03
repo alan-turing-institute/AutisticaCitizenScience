@@ -74,6 +74,14 @@ Django uses the python programming language which sits as the second most popula
 
 * ...
 
+## Other Python Alternatives
+
+In light of Django primarily being created so that Database backed web apps can be used, and that this project focuses on not using its own database in favour of OpenHumans, other Python alternatives could be looked at.
+
+### Flask
+
+[Flask]](http://flask.pocoo.org/)
+
 # Angular
 
 ## What is Angular?
