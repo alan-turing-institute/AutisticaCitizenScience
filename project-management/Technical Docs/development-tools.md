@@ -126,7 +126,7 @@ TypeScript operates with a very similar syntax to JavaScript, but is not *identi
 
 # Conclusion
 
-## Prototyping
+**Prototyping**
 
 For the current phase of the project, Fujitsu are prototyping a number of components and wireframe designs in order to create collateral that can be demonstrated to the community. This is valuable as we need to seek approval and feedback from stakeholders.
 
