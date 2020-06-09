@@ -149,7 +149,7 @@ No other staff member does, and it affects me therefore, because I kind of take 
 
 * (**A** **p** d): “I think transport is one of the hardest”
 
-###i) Adaptations and solutions: experiences and suggestions
+### i) Adaptations and solutions: experiences and suggestions
 
 * (**A** **p** g): “when you integrate sensory adjustments into the environment…you make people’s lives easier, and they can keep certain sensitive information about their condition to themselves, and it empowers them in a big way”
 * (**A** **p** d): “…if you just put it into a standard…[it] loses all the richness”
@@ -207,13 +207,11 @@ No other staff member does, and it affects me therefore, because I kind of take 
 * (**A** d): “having…one place where you can find everything…and the potential to have that expand, I think is really helpful.”
 * (**A** d): privatise where your location is for the public site and research, but use information for individual to get location specific pop-ups
 
-
 ### b) Non-verbal means of inputting information
 
 * (**A** d): “…having the option to…upload photos, or pictures, or voice recordings of people.”
 * (**P** g): “A lot of people do communicate quite visually, or understand things visually, so that would be useful, if people could have pictures”
 * (**A** **p** d): “communication with pictures, voice to text interface” to improve accessibility
-
 
 ### c) Filters for different kinds of user
 
@@ -227,7 +225,7 @@ No other staff member does, and it affects me therefore, because I kind of take 
 * (**A** d): “…remind all people that this isn’t the experience of all of us, it’s just the experience of a good handful of us”
 * (R *T* d): “we’ll probably ask people to share a lot, and then it’s on the researcher, to…tease out the sensory processing aspect”
 * (R *T* i): “I think the only thing that I’m slightly worried about is if people feel that the experience that they’re sharing that is not related to the sensory processing doesn’t get the same level of attention, in the published research… [solution is]…setting expectations”
-* (**A** **p** d): “I think that when we collect several experiences for one particular environment, [researchers] can actually analyse that environment, without [participants] actually going into sensory analysis”
+* (**A** **P** d): “I think that when we collect several experiences for one particular environment, [researchers] can actually analyse that environment, without [participants] actually going into sensory analysis”
 
 ## 4. Moderation
 
@@ -282,7 +280,6 @@ No other staff member does, and it affects me therefore, because I kind of take 
 
 * (R *T* d): “I think there’s almost no chance that we’ll allow people to comment on posts
 * (**A** g): “That could give people a lot of anxiety”
-
 
 ## 5. Representing others
 
@@ -526,7 +523,3 @@ We want…as unbiased, authentic information as possible”
 * (**A** **P** d): “…as soon as it’s on the internet, anyone could copy any of it…not legally, but they could”
 * (R *T* d): although you can’t stop people from copying public information from the website, you definitely can stop academic researchers from publishing it”
 * (R *T* d): “I do a lot of work around open source development, and these are three principles that I try and work through – that every aspect of the project should be accessible and clear, it should be easy to understand; that the work should be easy to adapt, reproduce and spread, so it’s designed from the beginning to be shareable, and that is important to relate to the sort of responsibility you have for keeping personal data private, and that there is a participatory and inclusive aspect”
-
-
-
-
