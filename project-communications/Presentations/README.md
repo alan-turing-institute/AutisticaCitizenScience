@@ -18,3 +18,6 @@ https://zenodo.org/record/3766923#.XrvZnsbTXyg
 
 https://zenodo.org/record/3865057
 
+* presentation titled "Research to empower: co-creating a citizen science platform" that was delivered by Georgia Aitkenhead at CogX2020 on 09/06/2020
+
+https://zenodo.org/record/3886558
