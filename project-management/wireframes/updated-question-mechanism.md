@@ -1,32 +1,31 @@
 # Questions for the community
 
-This file contains questions for the wider community on the wireframes that have been developed.
+This file contains questions for the wider community on the wireframes that have been developed. 
 
-**Small Glossary of terms:**
+**Glossary of technical terms:**
 
-Github is a tool where people build software<br>
-Sprint is a short, time-boxed period of work<br>
-Wireframe is a layout of a web page that demonstrates what elements will exist on key pages<br>
-Site Navigation is the method and process by which a user of the platform can access different areas or pages of the platform<br>
+*Github* is an online tool where people can work together to build software and manage a project<br>
+*Sprint* is a short, time-boxed period of work<br>
+*Wireframe* is a basic layout of a website that shows what features will be available on each page <br>
+*Site Navigation* is the method and process by which a user of the platform can access different areas or pages of the platform<br>
 
+## Feedback Options – Public & Private
 
-# Feedback Options – Public & Private
+### Public Feedback
 
-# Public Feedback - Community to access Google Forms to provide feedback to the questions below please feel free to copy and paste
+Community to use Google Forms to provide feedback to the questions below. Please feel free to copy and paste the link:
+
 https://bit.ly/AutisticaTuringCitSciForm
 
 Copy and paste the questions from Github Sprint page and add answers into the Google form if you are comfortable making them public. 
 
-# Private Feedback 
+### Private Feedback 
 
-Please email the questions and answers to either or both Georgia Aitkenhead at gaitkenhead@turing.ac.uk or Chris Legg at christopher.legg@fujitsu.com. Please can you also define why you are not happy to have this feedback made public in the email.
+Please email the questions and answers to either (or both) Georgia Aitkenhead at gaitkenhead@turing.ac.uk, or Chris Legg at christopher.legg@fujitsu.com. Please can you also tell us why you would prefer not to use the Google Form in this email.
 
-#
+**Please feel free to answer as many or as few of the questions as you are comforatble giving feedback on. Your answers can be as long or as short as you like.**
 
-**Caveat - Please feel free to answer as much or as little as you are comforatble in completing feedback on.**
-#
-
-**Sprints 1 – 3 Community Questions – Category Mapped Version**
+### **Sprints 1 – 3 Community Questions – Category Mapped Version**
 
 | **Epics / Question Categories** | **Questions** |
 | -- | ------------- |
