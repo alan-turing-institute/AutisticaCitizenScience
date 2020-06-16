@@ -1,0 +1,25 @@
+# Translations in Django
+
+# How to Contribute to Translations
+
+The section will detail how the community can get involved with adding translations.
+
+
+The files which include the translations which Django uses are at:
+`project_root/locale`
+
+| Language | locale code | File                     |
+|----------|-------------|--------------------------|
+| English  | en          | en/LC_MESSAGES/django.po |
+| French   | fr          | fr/LC_MESSAGES/django.po |
+| ...      |             |                          |
+
+## How the files look
+
+Each section within the `.po` file looks like this:
+
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/3026030/84674536-f9a04300-af22-11ea-8788-7c5bda66a693.png">
+
+The msgid is the tag, which the Django templating language uses to load the translations in depending on the users Locale setting; and the comment above shows the location of the translations use - file path and line number.
+
+Where this is a single word, the msgid matches the word needing the translation - however in the event that this is a phrase the msgid represents the marker for the translations' placement. To find the phrase needed to be translated, you can look in the other language files (for example English) to find the orignal phrase.
