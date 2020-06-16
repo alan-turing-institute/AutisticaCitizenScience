@@ -12,8 +12,9 @@ This directory contains the original versions of these newsletters for our recor
 ## Newsletter archive
 
 These links will take you to the GitHub repository archive of the project newsletters
-
-* [17 September 2019](newsletter-20190917.md)
+* [23 April 2020](newsletter-20200423.md)
+* [25 November 2019](newsletter-20191125.md)
+* [25 September 2019](newsletter-20190925.md)
 * [05 August 2019](newsletter-20190805.md)
 
 ## Formatting the newsletter
