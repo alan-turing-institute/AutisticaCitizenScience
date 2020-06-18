@@ -36,7 +36,21 @@ Ensure the language code you use is in the language configuration as above.
 
 You must also ensure it is a valid as per [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
+Run the command: `python manage.py makemessages -l '<Country Code>'`
+
+This creates the `.po` file which can be found in `locale/<Country Code>/LOCALE_MESSAGES/django.po`
+
+It also conveniently generates translation messages it finds in templates and classes - ready for the msgstr to be populated.
+
 # How to compile translations
+
+Translations need to be compiled before Django can utilise them.
+
+This is done by running the following command:
+
+`python manage.py compilemessages`
+
+Which generates a `.mo` binary file in the same location as the `.po`.
 
 # How to make use of the translations
 
