@@ -4,6 +4,7 @@
 
 The section will detail how the community can get involved with adding translations.
 
+## The translation files
 
 The files which include the translations which Django uses are at:
 `project_root/locale`
