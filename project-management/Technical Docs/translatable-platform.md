@@ -1,5 +1,56 @@
 # Translations in Django
 
+# Python configuration
+
+``` settings.py
+
+from django.utils.translation import ugettext_lazy 
+
+# Set up a list of languages to be supported
+LANGUAGES = (
+    ('en', _('English')),
+    ('fr', _('French')),
+)
+
+# If the browser doesn't send us a locale, use this:
+LANGUAGE_CODE = 'en'
+
+# Configure the base dir for the locale path
+LOCALE_PATHS = (
+    os.path.join(BASE_DIR, 'locale'),
+)
+
+```
+
+Ensure that:
+
+- `django.contrib.sessions.middleware.SessionMiddleware`
+- `django.middleware.locale.LocaleMiddleware`
+- `django.middleware.common.CommonMiddleware`
+
+are in the `MIDDLEWARE_CLASSES` dict.
+
+# How to generate new translations
+
+Ensure the language code you use is in the language configuration as above.
+
+You must also ensure it is a valid as per [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
+
+# How to compile translations
+
+# How to make use of the translations
+
+## In a django template file
+
+```
+<h1>{% trans 'Welcome' %}</h1>
+```
+
+
+## In the view
+... *pending* ...
+
+
 # How to Contribute to Translations
 
 The section will detail how the community can get involved with adding translations.
