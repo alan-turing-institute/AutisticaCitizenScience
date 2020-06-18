@@ -2,7 +2,9 @@
 
 # Python configuration
 
-``` settings.py
+
+##### settings.py
+``` python
 
 from django.utils.translation import ugettext_lazy 
 
