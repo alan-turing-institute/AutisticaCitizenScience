@@ -5,43 +5,105 @@
 
 *Project management and resource repository for the Autistica/Turing Citizen Science project*
 
-## Welcome
+# Welcome
+
+Welcome to the Autistica/Turing citizen science community.
 
 Thank you for being here!
 
-Please continue reading for an introduction to the project, or jump to any of the following sections:
+We are a group of autistic people, researchers, developers, parents, designers, experts and volunteers. Many of us fit into lots of these groups at once. Together, we are building a new online tool to help improve environments for autistic people.
+
+On this site we are working together to plan, design, and build the tool. 
+
+### You can help
+
+We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers. We also welcome open source developers to join us in building it.
+
+We believe that the people who will be affected most by research should have opportunities to make decisions, set the direction, and be involved in the research process throughout. In addition to building the tool, we will use the experience of co-creating it to write a participatory science framework that other researchers and communities can learn from. 
+
+Please continue reading to find out more, or jump to any of the following sections:
 
 * [Get involved](#get-involved)
-* [Community input](#community-input)
-* [Project management](#project-management)
-* [Contributors](#contributors)
-* [License](#license)
+* Find out more about [autism and navigating environments](#Autism and navigating environments)
+* Find out more about how we work together: [Participatory science](#)
+* View suggestions and contributions from the community: [Community recommendations](#)
+* View the latest design: [YouTube link]
+* See who's involved: [Contributors](#contributors)
+* View the [License](#license)
+
+## Autism and navigating environments
+
+Autistic people have sensory processing sensitivities and differences when compared to non-autistic people.
+These differences can make it difficult to navigate environments that were not built with autistic people in mind.
+For example, it can be stressful to taking a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
 
 [![Watch the video](https://img.youtube.com/vi/rP1S8ip4VVE/maxresdefault.jpg)](https://youtu.be/rP1S8ip4VVE)
 *This short video describes some of the sensory processing sensitivies that some autistic people experience.*
 
-Autistic people have sensory processing sensitivities and differences when compared to neurotypical people.
-These differences can make it difficult to navigate environments that were not built with autistic people in mind.
-For example, it can be stressful to taking a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
+Understanding sensory processing differences, and learning what could make environments better for autistic people, are top community priorities. We know this because these questions were selected as two of the top ten questions for autism research in a recent priority setting exercise. To make this list, over 1,000 people, were consulted, 75% of whom were autistic. You can find out more about the list and how it was created here: (your top priorities)[your top priorities].
+
+In order to really make a difference, we want to take the research out of the lab and learn from the lived experience of autistic people in their daily lives.
 
 Every person is different.
+
 We want to gather many autistic people’s stories together.
+
 Our goal is to:
 1. Share the stories with people who have similar experiences
-2. Educate neurotypical people on how they can better support autistic people
+2. Educate non-autistic people on how they can better support autistic people
 3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.
+
+To do these three things and reach as many people as possible, we are building an online tool where they can enter their experiences. There are lots of different options for how we design this tool, what features we include, and how we let people know about it. We think autistic people and their families and carers are the best people to ask. 
 
 [![Watch the video](https://img.youtube.com/vi/p9tfhgVUuQE/maxresdefault.jpg)](https://youtu.be/p9tfhgVUuQE)
 *This short video introduces the goals of the Citizen Science project.*
 
-**The purpose of this study is to co-design and co-produce a framework for ethical, participatory, citizen science.**
-We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
-We also welcome open source developers to help us build this platform.
-The first phase of this project is to **co-design the online platform by identifying priorities and requirements from our community members**.
+## Participatory Science
+
+Participatory science is when the people who will ultimately benefit from or be affected most by research are included in empowered positions throughout the research process. We want autistic voices to be heard at every stage of the research process, so that the tool we build, the community we grow, and the research we do is both by autistic people and for autistic people. We also warmly welcome the input of people who are not autistic themselves. You can really make a difference!
+
+We only ask that you share our [values] and follow our [code of conduct].
+
+We are always learning and looking for ways we can work better together, and be more welcoming and inclusive to new community members. If you find something confusing, frustrating, or unclear, please let us know [link to Google form]! That way, we can do better. Your voice matters. And if you like something or have a new idea, we'd love to know that as well [google form]!
+
+All kinds of things, including the tool that we build, the way that we work, and the page that you are reading now can be changed with community input.  
+
+## Our community
+
+- started as a collaboration between Autistica and The Alan Turing. Participants from Autistica's insight group (scoping) [More here] - Fujitsu, corporate partners. Growing community - new members. 
 
 ## Get involved
 
-There are many ways to get in touch with the Autistica/Turing Citizen Science project team!
+There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in. 
+
+If you want to take part in something but aren't sure how, we can answer your questions and teach you the skills you need. You can also decide whether you want to be completely anonymous, publicly acknowledged, or something inbetween. Just let us know.
+
+### Just curious? 
+
+Take a look around the site! A good place to start is by reading the [issues]. This is the project's to-do list. it will give you a sense of the kinds of things we're working on. If you want more of an overview, you can watch this presentation given by the project investigator [](KW's video). [Newsletters]
+
+### Want to tell us something? 
+
+If you want to tell us something, the best way is to fill in our online [form]. This is just a box where you can tell us anything which matters to you about the project. There really are no limits! For example, you could write in the box:
+
+* An idea for the tool we make
+* Something you like 
+* Something you don't like
+* A concern
+* A suggested improvement
+* Something you want the project to help with
+* Anything else!
+
+What you write in the box will be published on this site, but we will take out information which might make you identifiable first. 
+
+You can see what other community members have written in our community recommendations folder[link]
+
+### Want to help build the tool? 
+
+[link to YouTube to view prototypes]
+[issues, PRs, open source]
+
+### Want to help manage the project? 
 
 Please start by reading the [participant information sheet](project-management/participant-information-sheet.md).
 
