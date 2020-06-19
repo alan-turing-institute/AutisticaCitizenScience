@@ -103,6 +103,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
     <td align="center"><a href="https://github.com/Ismael-KG"><img src="https://avatars0.githubusercontent.com/u/64027166?v=4" width="100px;" alt=""/><br /><sub><b>Ismael-KG</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=Ismael-KG" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/jhlink"><img src="https://avatars2.githubusercontent.com/u/1872836?v=4" width="100px;" alt=""/><br /><sub><b>James </b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=jhlink" title="Code">💻</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=jhlink" title="Tests">⚠️</a> <a href="#ideas-jhlink" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/Angelsaur"><img src="https://avatars2.githubusercontent.com/u/67108701?v=4" width="100px;" alt=""/><br /><sub><b>Angelsaur</b></sub></a><br /><a href="#ideas-Angelsaur" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/ayrustogaru"><img src="https://avatars1.githubusercontent.com/u/35329371?v=4" width="100px;" alt=""/><br /><sub><b>Togaru Surya Teja</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=ayrustogaru" title="Documentation">📖</a></td>
   </tr>
 </table>
 
