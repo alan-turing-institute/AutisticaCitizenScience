@@ -195,6 +195,15 @@
         "test",
         "ideas"
       ]
+    },
+    {
+      "login": "Angelsaur",
+      "name": "Angelsaur",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/67108701?v=4",
+      "profile": "https://github.com/Angelsaur",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
