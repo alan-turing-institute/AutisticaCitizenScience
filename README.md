@@ -7,7 +7,19 @@
 
 ## Welcome
 
-Thank you for being here!
+Welcome to the Autistica/Turing citizen science community.
+
+Thank you for being here! 
+
+We are a group of autistic people, researchers, developers, parents, designers, experts and volunteers. Many of us are in lots of these groups at once. Together, we are building a new online tool to help improve environments for autistic people. 
+
+On this site we are planning, designing, and building the tool.
+
+#### You can help 
+
+We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers. We also welcome open source developers to join us in building it. 
+
+We believe that the people who will be affected most by research should have opportunities to make decisions about the research, and to be involved in the research process throughout. So in addition to building the tool, we will use the experience of co-designing it to create a framework that can be used to help other projects to involve communities.
 
 Please continue reading for an introduction to the project, or jump to any of the following sections:
 
@@ -24,20 +36,15 @@ Autistic people have sensory processing sensitivities and differences when compa
 These differences can make it difficult to navigate environments that were not built with autistic people in mind.
 For example, it can be stressful to taking a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
 
-Every person is different.
-We want to gather many autistic people’s stories together.
-Our goal is to:
-1. Share the stories with people who have similar experiences
-2. Educate neurotypical people on how they can better support autistic people
-3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.
-
 [![Watch the video](https://img.youtube.com/vi/p9tfhgVUuQE/maxresdefault.jpg)](https://youtu.be/p9tfhgVUuQE)
 *This short video introduces the goals of the Citizen Science project.*
 
-**The purpose of this study is to co-design and co-produce a framework for ethical, participatory, citizen science.**
-We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
-We also welcome open source developers to help us build this platform.
-The first phase of this project is to **co-design the online platform by identifying priorities and requirements from our community members**.
+When it is built, we will use the tool to gather many autistic people’s stories together.
+Our goal is to:
+
+1. Share the stories with people who have similar experiences
+2. Educate neurotypical people on how they can better support autistic people
+3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.
 
 ## Get involved
 
