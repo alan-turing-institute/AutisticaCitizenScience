@@ -24,12 +24,12 @@ We believe that the people who will be affected most by research should have opp
 Please continue reading to find out more, or jump to any of the following sections:
 
 * [Get involved](#get-involved)
-* Find out more about [autism and navigating environments](#Autism and navigating environments)
-* Find out more about how we work together: [Participatory science](#)
-* View suggestions and contributions from the community: [Community recommendations](#)
-* View the latest design: [YouTube link]
+* Find out more about [autism and navigating environments](#Autism-and-navigating-environments)
+* Find out more about how we work together: [Participatory science](#Participatory-science)
+* View suggestions and contributions from the community: [Community recommendations](#Community-recommendations)
+* View the [latest design](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
 * See who's involved: [Contributors](#contributors)
-* View the [License](#license)
+* View the [license](#license)
 
 ## Autism and navigating environments
 
@@ -40,7 +40,7 @@ For example, it can be stressful to taking a busy train during rush hour, or to 
 [![Watch the video](https://img.youtube.com/vi/rP1S8ip4VVE/maxresdefault.jpg)](https://youtu.be/rP1S8ip4VVE)
 *This short video describes some of the sensory processing sensitivies that some autistic people experience.*
 
-Understanding sensory processing differences, and learning what could make environments better for autistic people, are top community priorities. We know this because these questions were selected as two of the top ten questions for autism research in a recent priority setting exercise. To make this list, over 1,000 people, were consulted, 75% of whom were autistic. You can find out more about the list and how it was created here: (your top priorities)[your top priorities].
+Understanding sensory processing differences, and learning what could make environments better for autistic people, are top community priorities. We know this because these questions were selected as two of the top ten questions for autism research in a recent priority setting exercise. To make this list, over 1,000 people, were consulted, 75% of whom were autistic. You can find out more about the list and how it was created here: [https://www.autistica.org.uk/downloads/files/Autism-Top-10-Your-Priorities-for-Autism-Research.pdf].
 
 In order to really make a difference, we want to take the research out of the lab and learn from the lived experience of autistic people in their daily lives.
 
@@ -62,15 +62,20 @@ To do these three things and reach as many people as possible, we are building a
 
 Participatory science is when the people who will ultimately benefit from or be affected most by research are included in empowered positions throughout the research process. We want autistic voices to be heard at every stage of the research process, so that the tool we build, the community we grow, and the research we do is both by autistic people and for autistic people. We also warmly welcome the input of people who are not autistic themselves. You can really make a difference!
 
-We only ask that you share our [values] and follow our [code of conduct].
+We only ask that you share our [values](/project-management/A2_ValuesAndOutcomes.pdf) and follow our [code of conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-updatelandingpage/project-management/A3_CodeOfConduct.pdf).
 
-We are always learning and looking for ways we can work better together, and be more welcoming and inclusive to new community members. If you find something confusing, frustrating, or unclear, please let us know [link to Google form]! That way, we can do better. Your voice matters. And if you like something or have a new idea, we'd love to know that as well [google form]!
+We are always learning and looking for ways we can work better together, and be more welcoming and inclusive to new community members. If you find something confusing, frustrating, or unclear, please [let us know](https://bit.ly/AutisticaTuringCitSciForm.) That way, we can do better. Your voice matters. And if you like something or have a new idea, we'd love to know that as well. 
 
 All kinds of things, including the tool that we build, the way that we work, and the page that you are reading now can be changed with community input.  
 
 ## Our community
 
-- started as a collaboration between Autistica and The Alan Turing. Participants from Autistica's insight group (scoping) [More here] - Fujitsu, corporate partners. Growing community - new members. 
+This project is a collaboration between Autistica and The Alan Turing Institute. Autistica is a UK-based charity whose mission is to help autistic people and their families have long, healthy, happy lives. The Alan Turing Institute is the UK's National Institute for artificial intelligence and data science. We are now working with Autistica's corporate partner Fujitsu, who are building the user interface of the online tool. You can find out more about them on their websites:
+
+* [Autistica](https://www.autistica.org.uk/)
+* [The Alan Turing Institute](https://www.turing.ac.uk/)
+
+At the heart of the community are autistic participants, families, carers, volunteers and open source developers. This is an open project, which anyone is invited to contribute to. 
 
 ## Get involved
 
@@ -80,7 +85,10 @@ If you want to take part in something but aren't sure how, we can answer your qu
 
 ### Just curious? 
 
-Take a look around the site! A good place to start is by reading the [issues]. This is the project's to-do list. it will give you a sense of the kinds of things we're working on. If you want more of an overview, you can watch this presentation given by the project investigator [](KW's video). [Newsletters]
+Take a look around the site! A good place to start is by reading the [issues](/AutisticaCitizenScience/issues). This is the project's to-do list. it will give you a sense of the kinds of things we're working on, and where you can help. For more detail about the project, this video gives a more detailed overview: 
+
+(/images/KW-CRI-presentation.jpg)](https://youtu.be/Ftsf21Cr4Jk)
+*This video gives a more detailed overview of the citizen science project* 
 
 ### Want to tell us something? 
 
@@ -96,14 +104,23 @@ If you want to tell us something, the best way is to fill in our online [form]. 
 
 What you write in the box will be published on this site, but we will take out information which might make you identifiable first. 
 
-You can see what other community members have written in our community recommendations folder[link]
+You can see what other community members have written in the [community recommendations folder](/community-recommendations)
 
 ### Want to help build the tool? 
 
-[link to YouTube to view prototypes]
-[issues, PRs, open source]
+There are lots of ways to help us build the tool.
+
+You don't need to be a coder to help. Give us feedback on our designs! Every 15 days a new video is published showing the work we've done. Watch the videos and tell us what you think:
+
+* [Sprint 1 video](https://www.youtube.com/watch?v=4f6kn5HLysc)
+* [Sprint 2 video](https://www.youtube.com/watch?v=A_6uOwFZRfo&feature=youtu.be)
+* [Sprint 3 video](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
+
+If you do have coding skills or are looking to learn some, you can help by addressing issues, reviewing pull requests, and answering questions on the project's [GitHub repository](https://github.com/alan-turing-institute/AutisticaCitizenScience). 
 
 ### Want to help manage the project? 
+
+We also seek input for how we run the project and how we document it. If there's something you'd like us to do or groups you feel we should engage with please provide let us know. 
 
 Please start by reading the [participant information sheet](project-management/participant-information-sheet.md).
 
@@ -116,9 +133,9 @@ Please start by reading the [participant information sheet](project-management/p
   - ⚠️ Using GitHub can be a little confusing.
   Please let us know if you have any questions getting started.
 
-## Community input
+## Community recommendations
 
-You can see suggestions from other members of the community in the [community recommendations](community-recommendations) directory.
+You can see suggestions from other members of the community in the [community recommendations](community-recommendations) folder. 
 
 ## Project management
 
