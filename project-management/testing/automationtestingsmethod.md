@@ -22,7 +22,7 @@ Here are some more details about running Selenium tests under pytest. It is not 
 
 The above article does give quite a detailed account of using pytest and selenium webdriver and I based the example shown in the accompanying file example_code on this article.
 
-This code uses google.co.uk as an example website, One test checks for the existence of the website and the other searches for “phones” and returns the number of hits matching a criteria, where class of returned item in <h3> is class=”aA5rQ”. It prints the number of matching hits and checks that it is greater than 0.
+This code uses google.co.uk as an example website, One test checks for the existence of the website and the other searches for “phones” and returns the number of hits matching a criteria, where class of returned item in "<h3>" is class=”aA5rQ”. It prints the number of matching hits and checks that it is greater than 0.
 
 I have also added a file to the testing folder called pytest_manpage which gives all the options for running pytest.
 
