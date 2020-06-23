@@ -13,7 +13,7 @@ Thank you for being here!
 
 We are a group of autistic people, researchers, developers, parents, designers, experts and volunteers. Many of us fit into lots of these groups at once. Together, we are building a new online tool to help improve environments for autistic people.
 
-On this site we are working together to plan, design, and build the tool. 
+On this site we are working together to plan, design, and build the tool. Once we have built it people will be able to use the tool to share their experiences of navigating environments with each other or with researchers. 
 
 ### You can help
 
