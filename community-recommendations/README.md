@@ -5,6 +5,6 @@ This directory contains the information contributed from members of the autistic
 * Summary of contributed suggestions: [summary-data](summary-data.md)
 * Contributions via Google Doc
   * Human readable format: [GoogleFormResponses.pdf](GoogleFormResponses.pdf)
-  * Machine readable format: [GoogleFormResponses.csv](GoogleFormResponses.csv)
+  * Machine readable format: [GoogleFormResponses.csv](community-recommendations/Autistica_Turing Citizen Science Platform (Responses) - Form Responses 1.csv)
   * Link to input form: [http://bit.ly/AutisticaTuringCitSciForm](http://bit.ly/AutisticaTuringCitSciForm)
 * Summarised contributions from focus groups, README, and explanatory documentation: [focus-groups](focus-groups)
