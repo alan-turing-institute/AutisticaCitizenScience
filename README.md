@@ -13,13 +13,17 @@ Thank you for being here!
 
 We are a group of autistic people, researchers, developers, parents, designers, experts and volunteers. Many of us fit into lots of these groups at once. Together, we are building a new online tool to help improve environments for autistic people.
 
-On this site we are working together to plan, design, and build the tool. Once we have built it people will be able to use the tool to share their experiences of navigating environments with each other or with researchers. 
+On this site we are working together to plan, design, and build the tool. Once we have built it people will be able to use the tool to share their experiences of navigating environments with each other or with researchers. This will be used to share strateegies and provide information which can be used to change environments to make them more well-suited to autistic people and their families. 
 
 ### You can help
 
-We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers. We also welcome open source developers to join us in building it.
+You can help in lots of ways, for example, by: 
 
-We believe that the people who will be affected most by research should have opportunities to make decisions, set the direction, and be involved in the research process throughout. In addition to building the tool, we will use the experience of co-creating it to write a participatory science framework that other researchers and communities can learn from. 
+* giving us feedback and ideas
+* working with us on an area you are expert in
+* looking through the issues list here and commenting or contributing
+* sharing the work we're doing here with others
+* and much more! 
 
 Please continue reading to find out more, or jump to any of the following sections:
 
@@ -30,6 +34,10 @@ Please continue reading to find out more, or jump to any of the following sectio
 * View the [latest design](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
 * See who's involved: [Contributors](#contributors)
 * View the [license](#license)
+
+We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers. We also welcome open source developers to join us in building it.
+
+We believe that the people who will be affected most by research should have opportunities to make decisions, set the direction, and be involved in the research process throughout. In addition to building the tool, we will use the experience of co-creating it to write a participatory science framework that other researchers and communities can learn from. 
 
 ## Autism and navigating environments
 
@@ -44,14 +52,11 @@ Understanding sensory processing differences, and learning what could make envir
 
 In order to really make a difference, we want to take the research out of the lab and learn from the lived experience of autistic people in their daily lives.
 
-Every person is different.
+We want to gather many autistic people’s stories together. Our goals are to: 
 
-We want to gather many autistic people’s stories together.
-
-Our goal is to:
-1. Share the stories with people who have similar experiences
-2. Educate non-autistic people on how they can better support autistic people
-3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.
+**1. Share the stories with people who have similar experiences**
+**2. Educate non-autistic people on how they can better support autistic people**
+**3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.**
 
 To do these three things and reach as many people as possible, we are building an online tool where they can enter their experiences. There are lots of different options for how we design this tool, what features we include, and how we let people know about it. We think autistic people and their families and carers are the best people to ask. 
 
@@ -63,8 +68,6 @@ To do these three things and reach as many people as possible, we are building a
 Participatory science is when the people who will ultimately benefit from or be affected most by research are included in empowered positions throughout the research process. We want autistic voices to be heard at every stage of the research process, so that the tool we build, the community we grow, and the research we do is both by autistic people and for autistic people. We also warmly welcome the input of people who are not autistic themselves. You can really make a difference!
 
 We only ask that you share our [values](/project-management/A2_ValuesAndOutcomes.pdf) and follow our [code of conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-updatelandingpage/project-management/A3_CodeOfConduct.pdf).
-
-We are always learning and looking for ways we can work better together, and be more welcoming and inclusive to new community members. If you find something confusing, frustrating, or unclear, please [let us know](https://bit.ly/AutisticaTuringCitSciForm.) That way, we can do better. Your voice matters. And if you like something or have a new idea, we'd love to know that as well. 
 
 All kinds of things, including the tool that we build, the way that we work, and the page that you are reading now can be changed with community input.  
 
@@ -82,8 +85,6 @@ At the heart of the community are autistic participants, families, carers, volun
 ## Get involved
 
 There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in. 
-
-If you want to take part in something but aren't sure how, we can answer your questions and teach you the skills you need. You can also decide whether you want to be completely anonymous, publicly acknowledged, or something inbetween. Just let us know.
 
 ### Just curious? 
 
@@ -124,23 +125,6 @@ If you do have coding skills or are looking to learn some, you can help by addre
 
 We also seek input for how we run the project and how we document it. If there's something you'd like us to do or groups you feel we should engage with please provide let us know. 
 
-Please start by reading the [participant information sheet](project-management/participant-information-sheet.md).
-
-- You can anonymously, publicly share your suggestions via the "always open" google form: [https://bit.ly/AutisticaTuringCitSciForm](https://bit.ly/AutisticaTuringCitSciForm).
-- Come and say hello in our [gitter channel](https://gitter.im/alan-turing-institute/AutisticaCitizenScience).
-- Subscribe to our [mailing list](https://tinyletter.com/AutisticaTuringCitizenScience) with which we send monthly project updates.
-- You can contact research associate Georgia Aitkenhead by email at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk).
-- Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
-  - For more instructions, checkout our [contributing guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md).
-  - ⚠️ Using GitHub can be a little confusing.
-  Please let us know if you have any questions getting started.
-
-## Community recommendations
-
-You can see suggestions from other members of the community in the [community recommendations](community-recommendations) folder. 
-
-## Project management
-
 Information about project management protocols can be found in the [project management](project-management) directory.
 
 This folder includes information on:
@@ -149,6 +133,10 @@ This folder includes information on:
 * [Planned outputs](project-management/planned-outputs.md)
 * [Data management](project-management/data-management.md)
 * [Building a safe and valued community](project-management/building-a-safe-community.md)
+
+## Community recommendations
+
+You can see suggestions from other members of the community in the [community recommendations](community-recommendations) folder. 
 
 ## Contributors
 
