@@ -48,14 +48,16 @@ For example, it can be stressful to taking a busy train during rush hour, or to 
 [![Watch the video](https://img.youtube.com/vi/rP1S8ip4VVE/maxresdefault.jpg)](https://youtu.be/rP1S8ip4VVE)
 *This short video describes some of the sensory processing sensitivies that some autistic people experience.*
 
-Understanding sensory processing differences, and learning what could make environments better for autistic people, are top community priorities. We know this because these questions were selected as two of the top ten questions for autism research in a recent priority setting exercise. To make this list, over 1,000 people, were consulted, 75% of whom were autistic. You can find out more about the list and how it was created here: [https://www.autistica.org.uk/downloads/files/Autism-Top-10-Your-Priorities-for-Autism-Research.pdf].
+Understanding sensory processing differences, and learning what could make environments better for autistic people, are top community priorities. We know this because these questions were selected as two of the top ten questions for autism research in a recent priority setting exercise. To make this list, over 1,000 people, were consulted, 75% of whom were autistic. You can find out more about the list and how it was created in [Autistica's summary](https://www.autistica.org.uk/downloads/files/Autism-Top-10-Your-Priorities-for-Autism-Research.pdf).
 
 In order to really make a difference, we want to take the research out of the lab and learn from the lived experience of autistic people in their daily lives.
 
 We want to gather many autistic people’s stories together. Our goals are to: 
 
 **1. Share the stories with people who have similar experiences**
+
 **2. Educate non-autistic people on how they can better support autistic people**
+
 **3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.**
 
 To do these three things and reach as many people as possible, we are building an online tool where they can enter their experiences. There are lots of different options for how we design this tool, what features we include, and how we let people know about it. We think autistic people and their families and carers are the best people to ask. 
@@ -88,10 +90,9 @@ There are lots of ways to get involved, depending on the time you have, your ski
 
 ### Just curious? 
 
-Take a look around the site! A good place to start is by reading the [issues](/AutisticaCitizenScience/issues). This is the project's to-do list. it will give you a sense of the kinds of things we're working on, and where you can help. For more detail about the project, this video gives a more detailed overview: 
+Take a look around the site! A good place to start is by reading the [issues](/AutisticaCitizenScience/issues). This is the project's to-do list. it will give you a sense of the kinds of things we're working on, and where you can help. The video below gives a more detailed overview of the project from principle investigator Kirstie Whitaker:  
 
-(/images/KW-CRI-presentation.jpg)](https://youtu.be/Ftsf21Cr4Jk)
-*This video gives a more detailed overview of the citizen science project* 
+[Participatory citizen science to improve autistic people's lives](https://www.youtube.com/watch?v=Ftsf21Cr4Jk&feature=youtu.be)
 
 ### Want to tell us something? 
 
