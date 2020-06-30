@@ -213,6 +213,18 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "SuziQpid",
+      "name": "SuziQpid",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54582073?v=4",
+      "profile": "https://github.com/SuziQpid",
+      "contributions": [
+        "ideas",
+        "doc",
+        "review",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
