@@ -5,65 +5,161 @@
 
 *Project management and resource repository for the Autistica/Turing Citizen Science project*
 
-## Welcome
+# Welcome
+
+Welcome to the Autistica/Turing citizen science community.
 
 Thank you for being here!
 
-Please continue reading for an introduction to the project, or jump to any of the following sections:
+We are a group of autistic people, researchers, developers, parents, designers, experts and volunteers.
+Many of us fit into lots of these groups at once.
+Together, we are building a new online tool to help improve environments for autistic people.
+
+On this site we are working together to plan, design, and build the tool.
+Once we have built it people will be able to use the tool to share their experiences of navigating environments with each other or with researchers.
+This will be used to share strateegies and provide information which can be used to change environments to make them more well-suited to autistic people and their families.
+
+### You can help
+
+You can help in lots of ways, for example, by:
+
+* giving us feedback and ideas
+* working with us on an area you are expert in
+* looking through the issues list here and commenting or contributing
+* sharing the work we're doing here with others
+* and much more!
+
+Please continue reading to find out more, or jump to any of the following sections:
 
 * [Get involved](#get-involved)
-* [Community input](#community-input)
-* [Project management](#project-management)
-* [Contributors](#contributors)
-* [License](#license)
+* Find out more about [autism and navigating environments](#Autism-and-navigating-environments)
+* Find out more about how we work together: [Participatory science](#participatory-science)
+* View suggestions and contributions from the community: [Community recommendations](#community-recommendations)
+* View the [latest design](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
+* See who's involved: [Contributors](#contributors)
+* Reuse anything here under our open source [license](#license)
+
+We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
+We also welcome open source developers to join us in building it.
+
+We believe that the people who will be affected most by research should have opportunities to make decisions, set the direction, and be involved in the research process throughout.
+In addition to building the tool, we will use the experience of co-creating it to write a participatory science framework that other researchers and communities can learn from.
+
+## Autism and navigating environments
+
+Autistic people have sensory processing sensitivities and differences when compared to non-autistic people.
+These differences can make it difficult to navigate environments that were not built with autistic people in mind.
+For example, it can be stressful to taking a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
 
 [![Watch the video](https://img.youtube.com/vi/rP1S8ip4VVE/maxresdefault.jpg)](https://youtu.be/rP1S8ip4VVE)
 *This short video describes some of the sensory processing sensitivies that some autistic people experience.*
 
-Autistic people have sensory processing sensitivities and differences when compared to neurotypical people.
-These differences can make it difficult to navigate environments that were not built with autistic people in mind.
-For example, it can be stressful to taking a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
+Understanding sensory processing differences, and learning what could make environments better for autistic people, are top community priorities.
+We know this because these questions were selected as two of the top ten questions for autism research in a recent priority setting exercise.
+To make this list, over 1,000 people, were consulted, 75% of whom were autistic.
+You can find out more about the list and how it was created in [Autistica's summary](https://www.autistica.org.uk/downloads/files/Autism-Top-10-Your-Priorities-for-Autism-Research.pdf).
 
-Every person is different.
+In order to really make a difference, we want to take the research out of the lab and learn from the lived experience of autistic people in their daily lives.
+
 We want to gather many autistic people’s stories together.
-Our goal is to:
-1. Share the stories with people who have similar experiences
-2. Educate neurotypical people on how they can better support autistic people
-3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.
+Our goals are to:
+
+**1. Share the stories with people who have similar experiences**
+
+**2. Educate non-autistic people on how they can better support autistic people**
+
+**3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.**
+
+To do these three things and reach as many people as possible, we are building an online tool where they can enter their experiences.
+There are lots of different options for how we design this tool, what features we include, and how we let people know about it.
+We think autistic people and their families and carers are the best people to ask.
 
 [![Watch the video](https://img.youtube.com/vi/p9tfhgVUuQE/maxresdefault.jpg)](https://youtu.be/p9tfhgVUuQE)
 *This short video introduces the goals of the Citizen Science project.*
 
-[![Watch the video](/images/KW-CRI-presentation.jpg)](https://youtu.be/Ftsf21Cr4Jk)
-*This video gives a more detailed overview of the citizen science project* 
+## Participatory Science
 
-**The purpose of this study is to co-design and co-produce a framework for ethical, participatory, citizen science.**
-We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
-We also welcome open source developers to help us build this platform.
-The first phase of this project is to **co-design the online platform by identifying priorities and requirements from our community members**.
+Participatory science is when the people who will ultimately benefit from or be affected most by research are included in empowered positions throughout the research process.
+We want autistic voices to be heard at every stage of the research process, so that the tool we build, the community we grow, and the research we do is both by autistic people and for autistic people.
+We also warmly welcome the input of people who are not autistic themselves.
+You can really make a difference!
+
+We only ask that you share our [values](project-management/project-values.md) and follow our [code of conduct](CODE_OF_CONDUCT.md).
+
+All kinds of things, including the tool that we build, the way that we work, and the page that you are reading now can be changed with community input.
+
+## Our community
+
+This project is a collaboration between Autistica and The Alan Turing Institute.
+Autistica is a UK-based charity whose mission is to help autistic people and their families have long, healthy, happy lives.
+The Alan Turing Institute is the UK's National Institute for artificial intelligence and data science.
+We have partnered with Open Humans Foundation, who have helped us adapt their file management system for storing the data the tool will collect.
+We are now working with Autistica's corporate partner Fujitsu, who are building the user interface of the online tool.
+You can find out more about all these organisations on their websites:
+
+* [Autistica](https://www.autistica.org.uk/)
+* [The Alan Turing Institute](https://www.turing.ac.uk/)
+* [Open Humans Foundation](http://openhumansfoundation.org/)
+* [Fujitsu](https://www.fujitsu.com/uk/)
+
+At the heart of the community are autistic participants, families, carers, volunteers and open source developers.
+This is an open project, which anyone is invited to contribute to.
 
 ## Get involved
 
-There are many ways to get in touch with the Autistica/Turing Citizen Science project team!
+There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in.
 
-Please start by reading the [participant information sheet](project-management/participant-information-sheet.md).
+### Just curious?
 
-- You can anonymously, publicly share your suggestions via the "always open" google form: [https://bit.ly/AutisticaTuringCitSciForm](https://bit.ly/AutisticaTuringCitSciForm).
-- Come and say hello in our [gitter channel](https://gitter.im/alan-turing-institute/AutisticaCitizenScience).
-- Subscribe to our [mailing list](https://tinyletter.com/AutisticaTuringCitizenScience) with which we send monthly project updates.
-- You can contact research associate Georgia Aitkenhead by email at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk).
-- Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
-  - For more instructions, checkout our [contributing guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md).
-  - ⚠️ Using GitHub can be a little confusing.
-  Please let us know if you have any questions getting started.
+Take a look around the site!
+A good place to start is by reading the [issues](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues).
+This is the project's to-do list. it will give you a sense of the kinds of things we're working on, and where you can help.
 
-## Community input
+The video below gives a more detailed overview of the project from principle investigator Kirstie Whitaker:
 
-You can see suggestions from other members of the community in the [community recommendations](community-recommendations) directory.
+[Participatory citizen science to improve autistic people's lives](https://www.youtube.com/watch?v=Ftsf21Cr4Jk&feature=youtu.be)
 
-## Project management
+### Want to tell us something?
 
-Information about project management protocols can be found in the [project management](project-management) directory.
+If you want to tell us something, the best way is to fill in our [online form](https://bit.ly/AutisticaTuringCitSciForm).
+This is just a box where you can tell us anything which matters to you about the project.
+There really are no limits!
+
+For example, you could write in the box:
+
+* An idea for the tool we make
+* Something you like
+* Something you don't like
+* A concern
+* A suggested improvement
+* Something you want the project to help with
+* Anything else!
+
+What you write in the box will be published on this site, but we will take out information which might make you identifiable first.
+
+You can see what other community members have written in the [community recommendations folder](/community-recommendations).
+
+### Want to help build the tool?
+
+There are lots of ways to help us build the tool.
+
+You don't need to be a coder to help.
+Give us feedback on our designs!
+Every 15 days a new video is published showing the work we've done.
+Watch the videos and tell us what you think:
+
+* [Sprint 3 video](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
+* [Sprint 2 video](https://www.youtube.com/watch?v=A_6uOwFZRfo&feature=youtu.be)
+* [Sprint 1 video](https://www.youtube.com/watch?v=4f6kn5HLysc)
+
+If you do have coding skills or are looking to learn some, you can help by addressing issues, reviewing pull requests, and answering questions on the project's [GitHub repository](https://github.com/alan-turing-institute/AutisticaCitizenScience).
+
+### Want to help manage the project?
+
+We also seek input for how we run the project and how we document it.
+If there's something you'd like us to do or groups you feel we should engage with please provide let us know.
+
+Information about project management protocols can be found in the [project management](/project-management) directory.
 
 This folder includes information on:
 
@@ -71,6 +167,10 @@ This folder includes information on:
 * [Planned outputs](project-management/planned-outputs.md)
 * [Data management](project-management/data-management.md)
 * [Building a safe and valued community](project-management/building-a-safe-community.md)
+
+## Community recommendations
+
+You can see suggestions from other members of the community in the [community recommendations](community-recommendations) folder.
 
 ## Contributors
 
