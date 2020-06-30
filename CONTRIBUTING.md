@@ -61,6 +61,8 @@ In order to contribute via GitHub you'll need to set up a free account and sign 
 Here are some [instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/) to help you get going.
 Remember that you can ask us any questions you need to along the way.
 
+If you would like to follow some lessons, you can follow [this link](https://github.com/malvikasharan/developing_collaborative_document) to learn how to use GitHub and other tools to work collaboratively together online. 
+
 ## Writing in Markdown
 
 GitHub has a helpful page on [getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github).

@@ -18,9 +18,9 @@ More detail can be found in [creation-summary-documents.md](creation-summary-doc
 
 #### Where From
 
-* A = Autistica
-* T = Turing
-* F = Fujitsu
+* *A* = Autistica
+* *T* = Turing
+* *F* = Fujitsu
 
 #### Specialist Role on Project
 
@@ -28,8 +28,8 @@ More detail can be found in [creation-summary-documents.md](creation-summary-doc
 
 #### Connection to Autism
 
-* *A* = Autistic
-* *P* = Parent of someone autistic
+* **A** = Autistic
+* **P** = Parent of someone autistic
 
 #### Connection to Experience
 
