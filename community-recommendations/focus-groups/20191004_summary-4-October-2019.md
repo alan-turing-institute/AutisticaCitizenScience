@@ -4,14 +4,14 @@
 
 ## Contents
 
-1. [Value of project and motivations to take part](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#1-value-of-project-and-motivations-to-take-part-2)
-2. [Experiences of autistic people and their families in their daily lives](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#2-experiences-of-autistic-people-and-their-families-in-their-daily-life-1)
-3. [Platform design](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#3-platform-design-2)
-4. [Moderation](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#4-moderation-)
-5. [Representing others](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#5-representing-others-2)
-6. [Data management](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#6-data-management-2)
-7. [Contribution channels](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#7-contribution-channels-2)
-8. [Ways of working](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-Summary1/community-recommendations/focus-group-summaries-2019.md#8-ways-of-working-2)
+1. [Value of project and motivations to take part](#1-value-of-project-and-motivations-to-take-part)
+2. [Experiences of autistic people and their families in their daily lives](#2-experiences-of-autistic-people-and-their-families-in-their-daily-life)
+3. [Platform design](#3-platform-design)
+4. [Moderation](#4-moderation)
+5. [Representing others](#5-representing-others)
+6. [Data management](#6-data-management)
+7. [Contribution channels](#7-contribution-channels)
+8. [Ways of working](#8-ways-of-working)
 
 ## Key
 
