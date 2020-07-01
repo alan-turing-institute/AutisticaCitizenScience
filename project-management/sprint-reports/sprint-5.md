@@ -25,6 +25,7 @@ Progress was made on these tasks but they were not closed during the sprint.
 * [`#163`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/163): List of questions for community
 * [`#166`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/166): Translatable platform
 * [`#169`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/169): Prototype: Develop layout of landing page function boxes
+* [`#174`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174): Prototype: Develop "add your experience" page component
 * [`#231`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/231): Prototype: Develop stepped user journey control
 
 
@@ -44,7 +45,7 @@ Need Discussion:
 
 * [`#145`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/145): Functional testing guidelines
 * [`#173`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174): Prototype: Develop paired down secured engagement component
-* [`#174`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/174): Prototype: Develop "add your experience" page component
+
 
 
 ### Issues opened
