@@ -67,4 +67,4 @@ No challenges were highlighted in this sprint.
 Feedback is requested from the community on the following tasks.
 
 * [#182](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/182): issue to collect feedback on sprints 1 & 2
-  * Link to video: [https://youtu.be/0VXnqlS94Oo](https://youtu.be/0VXnqlS94Oo)
+  * Link to video: [https://youtu.be/GWvf1KbF5GE](https://youtu.be/GWvf1KbF5GE)
