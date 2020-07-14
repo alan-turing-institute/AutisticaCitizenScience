@@ -18,7 +18,7 @@ Together, we are building a new online tool to help improve environments for aut
 
 On this site we are working together to plan, design, and build the tool.
 Once we have built it people will be able to use the tool to share their experiences of navigating environments with each other or with researchers.
-This will be used to share strateegies and provide information which can be used to change environments to make them more well-suited to autistic people and their families.
+This will be used to share strategies and provide information which can be used to change environments to make them more well-suited to autistic people and their families.
 
 ### You can help
 
@@ -114,7 +114,7 @@ There are lots of ways to get involved, depending on the time you have, your ski
 
 Take a look around the site!
 A good place to start is by reading the [issues](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues).
-This is the project's to-do list. it will give you a sense of the kinds of things we're working on, and where you can help.
+This is the project's to-do list. It will give you a sense of the kinds of things we're working on, and where you can help.
 
 The video below gives a more detailed overview of the project from principle investigator Kirstie Whitaker:
 
