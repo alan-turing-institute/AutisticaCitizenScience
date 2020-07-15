@@ -110,6 +110,8 @@ This is an open project, which anyone is invited to contribute to.
 
 There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in.
 
+Visit the folder [Want to get involved? Click here!](/Want to get involved? Click here!) for more information!
+
 ### Just curious?
 
 Take a look around the site!
