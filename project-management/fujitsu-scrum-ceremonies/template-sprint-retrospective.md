@@ -17,12 +17,13 @@
 ## Agenda
 
 1. [View sprint demo video](#1-sprint-demo)
-2. [Discussion: relationships](#2-discussion-relationships): Inspect how the last Sprint went in terms of relationships
-3. [Discussion: process](#3-discussion-process): Inspect how the last Sprint went in terms of process
-4. [Discussion: tools](#4-discussion-tools): Inspect how the last Sprint went in terms of tools
-5. [Celebrations](#5-celebrations): Identify and order the major items that went well
-6. [Potential improvements](#6-potential-improvements): Identify and order potential improvements, create a plan for implementing these improvements
-7. [Approve sprint report](#7-approve-sprint-report)
+2. [Create items in the Retro Board](#2-retro-board)
+3. [Discussion: relationships](#3-discussion-relationships): Inspect how the last Sprint went in terms of relationships
+4. [Discussion: process](#4-discussion-process): Inspect how the last Sprint went in terms of process
+5. [Discussion: tools](#5-discussion-tools): Inspect how the last Sprint went in terms of tools
+6. [Celebrations](#6-celebrations): Identify and order the major items that went well
+7. [Potential improvements](#7-potential-improvements): Identify and order potential improvements, create a plan for implementing these improvements
+8. [Approve sprint report](#8-approve-sprint-report)
 
 ## Minutes
 
@@ -33,26 +34,32 @@
 
 *A few minutes at the start of the meeting to view the video of the work completed during the sprint.*
 
-### 2. Discussion: relationships
+### 2. Create items in the Retro Boards
+
+* Ensure each sprint retro board has items that the team want to discuss or raise
+* Each member of the development must provide one item in each section
+* Each item is then discussed in the retrospective meeting with Alan Turing.
+
+### 3. Discussion: relationships
 
 *Inspect how the last Sprint went in terms of relationships.*
 
-### 3. Discussion: process
+### 4. Discussion: process
 
 *Inspect how the last Sprint went in terms of process.*
 
-### 4. Discussion: tools
+### 5. Discussion: tools
 
 *Inspect how the last Sprint went in terms of tools.*
 
-### 5. Celebrations :tada:
+### 6. Celebrations :tada:
 
 *Identify and order the major items that went well*
 
-### 6. Potential improvements
+### 7. Potential improvements
 
 *Identify and order potential improvements, create a plan for implementing these improvements.*
 
-### 7. Approve sprint report
+### 8. Approve sprint report
 
 *Before the meeting ends, agree that the sprint report is an accurate reflection of the activites that took place during the sprint.*
