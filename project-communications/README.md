@@ -9,19 +9,26 @@ This directory contains the original versions of these newsletters for our recor
 
 ✉️ You can see all the archives of the newsletter at [https://tinyletter.com/AutisticaTuringCitizenScience/archive](https://tinyletter.com/AutisticaTuringCitizenScience/archive).
 
-## Newsletter archive
+## Presentations
 
-These links will take you to the GitHub repository archive of the project newsletters
-* [23 April 2020](newsletter-20200423.md)
-* [25 November 2019](newsletter-20191125.md)
-* [20 September 2019](newsletter-20190920.md)
-* [05 August 2019](newsletter-20190805.md)
+#### This file contains uploads of and links to presentations given on the Turing/Autistica Citizen Science Project.
 
-## Formatting the newsletter
+* presentation titled "Participatory Science to Empower" which was delivered by Georgia Aitkenhead for the Springer Nature SciData19 conference:
 
-*This information is for members of the project team who have write access to the TinyLetter mailing list.*
+https://zenodo.org/record/3530454#.Xoc_PxfTXx4
 
-Rather than formatting the newsletter in the TinyLetter page, please use this markdown to html converter tool: [https://www.browserling.com/tools/markdown-to-html](https://www.browserling.com/tools/markdown-to-html).
+* presentation delivered on the 30th January 2020 by Georgia Aitkenhead to the mental health and data science special interest group at The Alan Turing Insitute: 
 
-Combining free text and markdown can introduce strange layout changes (really large fonts and odd spacings) that are not easy to spot until you've sent the newsletter.
-You are more likely to successfully send a nicely formatted newsletter by converting markdown to raw html and entering that into TinyLetter dashboard.
+https://zenodo.org/record/3743441#.XozAYxfTXxs
+
+* presentation titled "Participatory citizen science to improve autistic people's lives" that was delivered by Kirstie Whitaker for the Center for Research and Interdisiplinarity on 27 April 2020
+
+https://zenodo.org/record/3766923#.XrvZnsbTXyg
+
+* presentation titled "Growth through community" that was delivered by Georgia Aitkenhead to collaborators on 30 April 2020. 
+
+https://zenodo.org/record/3865057
+
+* presentation titled "Research to empower: co-creating a citizen science platform" that was delivered by Georgia Aitkenhead at CogX2020 on 09/06/2020
+
+https://zenodo.org/record/3886558

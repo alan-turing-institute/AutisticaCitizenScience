@@ -1,0 +1,1 @@
+In this folder you find guidelines and agendas of past events, like co-design workshops or focus groups. Feel free to use this as an orientation if you plan to create your own events.
