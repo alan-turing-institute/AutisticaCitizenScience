@@ -237,6 +237,20 @@
         "review",
         "projectManagement"
       ]
+    },
+    {
+      "login": "pgc007",
+      "name": "pgc007",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/64270473?v=4",
+      "profile": "https://github.com/pgc007",
+      "contributions": [
+        "code",
+        "ideas",
+        "doc",
+        "review",
+        "talk",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
