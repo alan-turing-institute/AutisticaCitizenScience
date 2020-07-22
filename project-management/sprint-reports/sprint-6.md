@@ -1,6 +1,6 @@
-Sprint Report: 5
+Sprint Report: 6
 
-Dates: 9 June 2020 – 29 June 2020
+Dates: 7 July 2020 – 22 July 2020
 
 This file contains reports of work completed during Fujitsu team sprints.
 
@@ -9,40 +9,49 @@ Issues closed
 
 These tasks were closed during the sprint.
 
-    #167: Prototype: Implementation of landing page header
-    #170: Prototype: Develop layout implementation of the landing page Hero/Jumbotron component
-    #171: Prototype: Develop hamburger menu component
-    #172: Prototype: Develop landing page footer
-    #236: Prototype: Component Gallery
+    #299: Prototype: Dashboard Notifcations
+    #290: Prototype: Dashboard - Community Recommendations
+    #297: Prototype: Screen Reader - review of focus groups 
+    #296: Prototype: Sound Submit Prompt
+    #294: Prototype: Experience Submission
+    #262: Prototype: Upload Image / Sound 
+    #188: Create a community involvement strategy
 
 Issues progressed
 
 Progress was made on these tasks but they were not closed during the sprint.
-
-    #160: Create a README.md file which collates all of the documentation on how all user stories are created
-    #163: List of questions for community
-    #166: Translatable platform
-    #169: Prototype: Develop layout of landing page function boxes
-    #174: Prototype: Develop "add your experience" page component
-    #231: Prototype: Develop stepped user journey control
+  
+    #261: Short Detail Submission Wireframe Review
+    #310: URL Specification
+    #307: Translate focus group requirements into issues 
+    #311: Welcome Katharina Kloppenborg
+    #274: Make it easier for contributors
+    #305: Github Audit
+    #273: Research Festival Q&A
+    #292: Modular Alerts Defined by Data
+    Design Considerations - liked to Research Festival Q&A Session and Re-Review of Focus Groups Findings 
+   
 
 Need Discussion:
 
-    #176: Document the process of how we will get feedback from the community
-    #179: Clarify how people can give feedback on the sprint demo video
-    #188: Create a community involvement strategy
+    #307: Translate focus group requirements into issues
+    #263: Sanctuary location categories
+    #261: Short Detail Submission Wireframe Review
     #204: Gather feedback on videos each sprint
 
 Issues not progressed
 
-    #145: Functional testing guidelines
-    #173: Prototype: Develop paired down secured engagement component
+    #263: Sanctuary location categories
+    #173: Prototype: Develop paired down secured engagement component - add to about page 
 
 Issues opened
 
 These tasks were opened during the sprint but no work was done to address them.
 
-    #249: Development tooling and project management training documentation
+        #111: Moderation Features 
+              Further profile / demographic related works 
+              Interfacing with OH API's
+              Progressing works for review - testing of functionality of coded components 
 
 Challenges
 
@@ -51,5 +60,5 @@ Request for community feedback
 
 Feedback is requested from the community on the following tasks.
 
-    #182: issue to collect feedback on sprints 1 & 2
-        Link to video: https://youtu.be/GWvf1KbF5GE
+    #182: issue to collect feedback on sprints
+        Link to video: https://youtu.be/UAon_KHBaMM
