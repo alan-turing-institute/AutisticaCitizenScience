@@ -18,3 +18,10 @@ https://zenodo.org/record/3766923#.XrvZnsbTXyg
 
 https://zenodo.org/record/3865057
 
+* presentation titled "Research to empower: co-creating a citizen science platform" that was delivered by Georgia Aitkenhead at CogX2020 on 09/06/2020
+
+https://zenodo.org/record/3886558
+
+* presentation titled: Reesearch to empower: co-creating a citizen science platform" delivered for the Autistica Research Festival 2020 by Dr. Kirstie Whitaker, Georgia Aitkenhead, Craig Hall, Thomas Stanley, Chris Legg, Otis Smith and Lucinda Marsden. 
+
+https://zenodo.org/record/3935849#.XxV_5fLTXyg

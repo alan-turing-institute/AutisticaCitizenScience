@@ -37,14 +37,6 @@
       ]
     },
     {
-      "name": "Thomas Augur",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
-      "contributions": [
-        "ideas",
-        "review"
-      ]
-    },
-    {
       "name": "Otis Smith",
       "avatar_url": "https://avatars1.githubusercontent.com/u/46889966?v=4",
       "contributions": [
@@ -203,8 +195,65 @@
         "test",
         "ideas"
       ]
+    },
+    {
+      "login": "Angelsaur",
+      "name": "Angelsaur",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/67108701?v=4",
+      "profile": "https://github.com/Angelsaur",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "ayrustogaru",
+      "name": "Togaru Surya Teja",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35329371?v=4",
+      "profile": "https://github.com/ayrustogaru",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "SuziQpid",
+      "name": "SuziQpid",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54582073?v=4",
+      "profile": "https://github.com/SuziQpid",
+      "contributions": [
+        "ideas",
+        "doc",
+        "review",
+        "talk"
+      ]
+    },
+    {
+      "login": "katoss",
+      "name": "Katharina Kloppenborg",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23122159?v=4",
+      "profile": "https://github.com/katoss",
+      "contributions": [
+        "ideas",
+        "doc",
+        "review",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "pgc007",
+      "name": "pgc007",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/64270473?v=4",
+      "profile": "https://github.com/pgc007",
+      "contributions": [
+        "code",
+        "ideas",
+        "doc",
+        "review",
+        "talk",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "skipCi": true
+  "skipCi": true,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)"
 }

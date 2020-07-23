@@ -108,3 +108,4 @@ venv.bak/
 
 # Ignore word docs in project management folder
 project-management/turing-health-quarterly-updates/*docx
+.vscode/settings.json
