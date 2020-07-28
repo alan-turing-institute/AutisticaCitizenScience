@@ -6,9 +6,9 @@ All content submitted to the survey is moderated by the core research team to ma
 
 It is regularly updated. 
 
-The survey data is available in two forms.
+The survey data is available in two formats:
 
-  * Spreadsheet 
+  * [csv](community-recommendations/google-form-survey-data/Autistica_Turing Citizen Science Platform (Responses) - Form Responses 1.csv)
   * pdf
   
  
