@@ -8,7 +8,7 @@ It is regularly updated.
 
 The survey data is available in two formats:
 
-  * [csv](community-recommendations/google-form-survey-data/Autistica_Turing Citizen Science Platform (Responses) - Form Responses 1.csv)
-  * pdf
+  * Human readable format (pdf): [link](link)
+  * Machine readable format (csv): [link](link)
   
  
