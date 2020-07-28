@@ -1,4 +1,4 @@
-# Google Forms Survey Data
+# Google Form Survey Data
 
 This folder contains the feedeback collected from the always open [Google Form survey](https://bit.ly/AutisticaTuringCitSciForm). 
 
