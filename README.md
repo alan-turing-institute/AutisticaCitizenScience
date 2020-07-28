@@ -8,8 +8,7 @@
 
 # Welcome
 
-### _Thank you for being here!_
-
+### Thank you for being here!
 
 #### Welcome to the Autistica/Turing citizen science community.
 
