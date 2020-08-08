@@ -10,7 +10,7 @@
 
 Welcome to the Autistica/Turing citizen science community.
 
-Thank you for being here!
+Thank you for being here! 🎉
 
 We are a group of autistic people, researchers, developers, parents, designers, experts and volunteers.
 Many of us fit into lots of these groups at once.
