@@ -112,11 +112,11 @@ This is an open project, which anyone is invited to contribute to.
 
 There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in.
 
-Visit the folder ["Want to get involved? Click here!"](Want%20to%20get%20involved%3F%20Click%20here!) for more information.
+Visit the section [get-involved](get-involved) for more information.
 
 ## Community recommendations
 
-You can see suggestions from other members of the community in the [community recommendations](community-recommendations) folder.
+You can see suggestions from other members of the community in the [community-recommendations](community-recommendations) section.
 
 ## Contributors
 
