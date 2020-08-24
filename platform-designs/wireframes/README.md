@@ -1,4 +1,4 @@
-### Wireframes
+### Contents
 
 This folder contains resources and links to the designs for the citizen science platform. This includes a link to the most recent wireframe created for the Autistica/Turing citizen science project, as well as resources and documentation.
 
