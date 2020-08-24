@@ -17,7 +17,7 @@ https://bit.ly/AutisticaTuringCitSciForm
 
 Copy and paste the questions from Github Sprint page and add answers into the Google form if you are comfortable making them public. 
 
-* Private Feedback 
+* Private Feedback:
 
 Please email the questions and answers to either or both Georgia Aitkenhead at gaitkenhead@turing.ac.uk or Chris Legg at christopher.legg@fujitsu.com.
 
