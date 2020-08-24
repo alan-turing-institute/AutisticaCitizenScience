@@ -41,6 +41,10 @@ Give us feedback on our designs!
 Every 15 days a new video is published showing the work we've done.
 Watch the videos and tell us what you think:
 
+* [Sprint 7 video](https://www.youtube.com/watch?v=3a3A1BxFBUU&feature=youtu.be)
+* [Sprint 6 viedo](https://www.youtube.com/watch?v=UAon_KHBaMM&feature=youtu.be)
+* [Sprint 5 video](https://www.youtube.com/watch?v=GWvf1KbF5GE&feature=youtu.be)
+* [Sprint 4 video](https://www.youtube.com/watch?v=0VXnqlS94Oo&feature=youtu.be)
 * [Sprint 3 video](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
 * [Sprint 2 video](https://www.youtube.com/watch?v=A_6uOwFZRfo&feature=youtu.be)
 * [Sprint 1 video](https://www.youtube.com/watch?v=4f6kn5HLysc)
