@@ -2,7 +2,7 @@
 
 This file contains questions for the wider community on the wireframes that have been developed. It is in two formats:
 
-* Category-mapped questions for sprints 1-3
+* [Category-mapped questions for sprints 1-3](wireframe-questions.md#category-mapped-questions)
 * Individual questions in ordered by sprint
 
 **Glossary of technical terms:**
