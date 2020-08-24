@@ -1,7 +1,21 @@
 # Project communications
 
+As part of our commitment to openness and transparency, we actively engage with the our community of participants, commuinicate the project's progress, and disseminate our findings so others can learn from them. We publish many of our communications openly and you can view them in this folder. 
+
+## Contents
+
+### [Newsletters](project-communications/newsletter)
 We send regular updates to our community to keep them updated on how the project is progressing.
 This directory contains the original versions of these newsletters for our records and to make them easy to re-use in the future.
+
+### [Presentations](project-communications/presentations)
+When we deliver presentations, we publish our slides openly on Zenodo.org. This folder contains links to those slides. 
+
+### [Turing Health Program Quarterly Updates](project-communications/turing-health-quarterly-updates)
+We send quarterly  reports to the Turing to demonstrate the work we are doing. You can view them in this folder. 
+
+### [Fujitsu communications](project-communications/fujitsu)
+The development team from Fujitsu who are supporting us havee also subscribed to our values of openness and transparecy. You can view their communications in this folder. 
 
 ## Subscribe to the mailing list
 
@@ -9,26 +23,4 @@ This directory contains the original versions of these newsletters for our recor
 
 ✉️ You can see all the archives of the newsletter at [https://tinyletter.com/AutisticaTuringCitizenScience/archive](https://tinyletter.com/AutisticaTuringCitizenScience/archive).
 
-## Presentations
 
-#### This file contains uploads of and links to presentations given on the Turing/Autistica Citizen Science Project.
-
-* presentation titled "Participatory Science to Empower" which was delivered by Georgia Aitkenhead for the Springer Nature SciData19 conference:
-
-https://zenodo.org/record/3530454#.Xoc_PxfTXx4
-
-* presentation delivered on the 30th January 2020 by Georgia Aitkenhead to the mental health and data science special interest group at The Alan Turing Insitute: 
-
-https://zenodo.org/record/3743441#.XozAYxfTXxs
-
-* presentation titled "Participatory citizen science to improve autistic people's lives" that was delivered by Kirstie Whitaker for the Center for Research and Interdisiplinarity on 27 April 2020
-
-https://zenodo.org/record/3766923#.XrvZnsbTXyg
-
-* presentation titled "Growth through community" that was delivered by Georgia Aitkenhead to collaborators on 30 April 2020. 
-
-https://zenodo.org/record/3865057
-
-* presentation titled "Research to empower: co-creating a citizen science platform" that was delivered by Georgia Aitkenhead at CogX2020 on 09/06/2020
-
-https://zenodo.org/record/3886558
