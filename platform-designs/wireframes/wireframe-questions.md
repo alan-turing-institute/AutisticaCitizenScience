@@ -1,6 +1,9 @@
 # Questions for the community
 
-This file contains questions for the wider community on the wireframes that have been developed. 
+This file contains questions for the wider community on the wireframes that have been developed. It is in two formats:
+
+* Category-mapped questions for sprints 1-3
+* Individual questions in ordered by sprint
 
 **Glossary of technical terms:**
 
@@ -23,7 +26,11 @@ Copy and paste the questions from Github Sprint page and add answers into the Go
 
 Please email the questions and answers to either (or both) Georgia Aitkenhead at gaitkenhead@turing.ac.uk, or Chris Legg at christopher.legg@fujitsu.com. Please can you also tell us why you would prefer not to use the Google Form in this email.
 
-**Please feel free to answer as many or as few of the questions as you are comforatble giving feedback on. Your answers can be as long or as short as you like.**
+#
+
+## Category mapped questions
+
+**Please feel free to answer as many or as few of the questions as you are comfortable giving feedback on. Your answers can be as long or as short as you like.**
 
 ### **Sprints 1 – 3 Community Questions – Category Mapped Version**
 
@@ -36,30 +43,7 @@ Please email the questions and answers to either (or both) Georgia Aitkenhead at
 | **Search** | <p>If the platform were to provide a feature of showing you locations of nearby relevant sanctuaries/safe, how many sanctuaries should, be shown at once in order to provide you sufficient choice but to not be too overwhelming at the same time? e.g 1, 5, 10 or other(If other what number)<p></p>If the platform were to provide a feature of showing you locations of nearby sanctuaries/safe spaces, how would you like to see these presented to you? e.g. pins on a map, a list or other. Please detail what you would expect to see</p><p>When you want to view public experiences from others who have shared their experiences on the platform, what would be the easiest method for you to find relevant experiences?</p><ul><li>For example, a search box, experiences plotted on a map therefore showing previously submitted experiences nearby, date and time, emotion or other.</li></ul><p>Please explain the best search mechanism and also what categories you would like to search against.</p> |
 | **Community Communication** | <p>What would be the best way to share community information with you? Directly in the app (If so how), Email, Newsletter, Text, Phone notification, Not interested or other. If other please explain.</p><p>What would be the best way to notify you when an experience is being used in a piece of research? Directly in the app (If so how), Email, Newsletter, Text, Phone notification, Not interested or other. If other please explain.</p> |
 
-
-
-# Questions for the community
-
-This file contains questions for the wider community on the wireframes that have been developed.
-
-**Small Glossary of terms:**
-
-Github is a tool where people build software <br>
-Sprint is a short, time-boxed period of work <br>
-Wireframe  is a layout of a web page that demonstrates what elements will exist on key pages <br>
-
-## Feedback Options – Public & Private
-
-* Public Feedback:
-
-Community to access Google Forms to provide feedback: 
-https://bit.ly/AutisticaTuringCitSciForm
-
-Copy and paste the questions from Github Sprint page and add answers into the Google form if you are comfortable making them public. 
-
-* Private Feedback:
-
-Please email the questions and answers to either or both Georgia Aitkenhead at gaitkenhead@turing.ac.uk or Chris Legg at christopher.legg@fujitsu.com.
+## Individual questions
 
 ### Sprint 1
 Community Wireframe Feedback Questions 
