@@ -8,19 +8,20 @@ Github is a tool where people build software <br>
 Sprint is a short, time-boxed period of work <br>
 Wireframe  is a layout of a web page that demonstrates what elements will exist on key pages <br>
 
-# Feedback Options – Public & Private
+## Feedback Options – Public & Private
 
-# Public Feedback - Community to access Google Forms to provide feedback 
+## Public Feedback:
+
+Community to access Google Forms to provide feedback: 
 https://bit.ly/AutisticaTuringCitSciForm
 
 Copy and paste the questions from Github Sprint page and add answers into the Google form if you are comfortable making them public. 
 
-# Private Feedback 
+## Private Feedback 
 
-Please email the questions and answers to either or both Georgia Aitkenhead at gaitkenhead@turing.ac.uk or Chris Legg at christopher.legg@fujitsu.com. Please can you also define why you are not happy to have this feedback made public in the email. 
+Please email the questions and answers to either or both Georgia Aitkenhead at gaitkenhead@turing.ac.uk or Chris Legg at christopher.legg@fujitsu.com.
 
-
-## Sprint 1
+### Sprint 1
 Community Wireframe Feedback Questions 
 
 **Sprint 1** 
@@ -35,7 +36,7 @@ Time codes and images have, been added in reference to the questions.
 
 #
 
-**Sprint 1, Demo Video Community UX Feedback Questions** 
+### **Sprint 1, Demo Video Community UX Feedback Questions** 
 
 **Home Page**
 
