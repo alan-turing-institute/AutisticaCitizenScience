@@ -8,7 +8,9 @@
 
 These links will take you to the GitHub repository archive of the project newsletters
 
-* [05 May 2020](newsletter-20200529.md)
+* [31 July 2020](newsletter-20200731.md)
+* [30 June 2020](newsletter-20200630.md)
+* [29 May 2020](newsletter-20200529.md)
 * [23 April 2020](newsletter-20200423.md)
 * [25 November 2019](newsletter-20191125.md)
 * [20 September 2019](newsletter-20190920.md)
