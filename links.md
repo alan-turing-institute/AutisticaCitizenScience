@@ -14,5 +14,5 @@ A list of hyperlinks to sites, pages and repositories which are relevant to the 
 * Open Humans demo interface: https://www.openhumans.org/activity/autistica-demo-project/ 
 * Open Humans public slack channel: https://app.slack.com/client/T48QEEVTJ/CLEE40SAU 
 * Open Humans demo website repository: https://github.com/alan-turing-institute/autistica-filemanagement-demo  
-
+* Demo project in development on Open Humans site: https://www.openhumans.org/activity/autistica-demo-project/
 
