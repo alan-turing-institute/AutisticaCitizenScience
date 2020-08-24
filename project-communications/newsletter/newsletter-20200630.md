@@ -1,4 +1,4 @@
-# Autistica/Turing Citizen Science Newsletter | June 2020
+# Autistica/Turing Citizen Science Newsletter | June 2020
 
 Hello,
 
