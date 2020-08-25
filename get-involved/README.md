@@ -2,7 +2,7 @@
 
 There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in.
 
-For a guidance on how to join the community. Please read our [contributing guidelines](CONTRIBUTING.md).
+For a guidance on how to join the community, please read our [contributing guidelines](CONTRIBUTING.md).
 
 ### Just curious?
 
