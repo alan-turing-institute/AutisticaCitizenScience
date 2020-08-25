@@ -1,13 +1,13 @@
 This folder contains information on how to run user testing sessions to get feedback on the prototype of the Autistica Citizen Science Platform, as well as the results of previous sessions.
 
-## Results of previous user testing sessions
+# Results of previous user testing sessions
 
 You can find the results of previous user testing sessions in the respective folders. 
 
 **Currently available results:**
  - Feedback on the prototype after sprint 6: [sprint-6-feedback](sprint-6-feedback)
 
-## Running your own 1:1 online user testing sessions
+# Running your own 1:1 online user testing sessions
 
 ### Why should I run user testing sessions?
 Feedback from the community is really valuable in order to build a platform that is accessible and easy to use for a wide range of people. 
