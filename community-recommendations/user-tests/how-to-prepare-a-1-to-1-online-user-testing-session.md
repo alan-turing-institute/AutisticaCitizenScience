@@ -1,5 +1,4 @@
 # How to prepare and conduct an online 1:1 user testing session
-! This is still a work in progress
 
 **Before you read this 'how to':** This is only one way of doing user testing sessions. You can of course adapt this schedule to your needs. But keep in mind to stick to the requirements stated in the [study protocol](https://github.com/katoss/AutisticaCitizenScience/blob/master/project-management/legal-and-ethical-compliance/ethics-applications/stage-1-co-design-phase/A9_StudyProtocol.pdf "A9_StudyProtocol.pdf") of the project's **ethics application**.
 
