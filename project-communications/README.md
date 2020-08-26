@@ -11,12 +11,6 @@ This directory contains the original versions of these newsletters for our recor
 ### [Presentations](project-communications/presentations)
 When we deliver presentations, we publish our slides openly on Zenodo.org. This folder contains links to those slides. 
 
-### [Turing Health Program Quarterly Updates](project-communications/turing-health-quarterly-updates)
-We send quarterly  reports to the Turing to demonstrate the work we are doing. You can view them in this folder. 
-
-### [Fujitsu communications](project-communications/fujitsu)
-The development team from Fujitsu who are supporting us havee also subscribed to our values of openness and transparecy. You can view their communications in this folder. 
-
 ## Subscribe to the mailing list
 
 📫 You can subscribe to receive the project newsletter by email at [https://tinyletter.com/AutisticaTuringCitizenScience](https://tinyletter.com/AutisticaTuringCitizenScience).
