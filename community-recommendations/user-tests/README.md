@@ -9,6 +9,6 @@ You can find the results of previous user testing sessions in the respective fol
 
 # How to run your own 1:1 online user testing sessions
 
-For information on how to run your own user testing sessions, have a look at the user testing section in the project-management folder.
+For information on how to run your own user testing sessions, have a look at the [user-tests](https://github.com/katoss/katoss.github.io/tree/master/project-management/engagement-guides/user-tests "user-tests") section in the project-management folder.
 
 
