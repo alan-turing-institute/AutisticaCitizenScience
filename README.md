@@ -36,7 +36,7 @@ You can help in lots of ways, for example, by:
 
 Please continue reading to find out more, or jump to any of the following sections:
 
-* [Get involved](#get-involved)
+* [Get involved](get-involved)
 * Find out more about [autism and navigating environments](#Autism-and-navigating-environments)
 * Find out more about how we work together: [participatory science](#participatory-science)
 * Find out more about [our community](#Our-community)
