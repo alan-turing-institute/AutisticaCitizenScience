@@ -35,9 +35,9 @@ Please continue reading to find out more, or jump to any of the following sectio
 
 * [Get involved](#get-involved)
 * Find out more about [autism and navigating environments](#Autism-and-navigating-environments)
-* Find out more about how we work together: [Participatory science](#participatory-science)
+* Find out more about how we work together: [participatory science](#participatory-science)
 * Find out more about [our community](#Our-community)
-* View suggestions and contributions from the community: [Community recommendations](#community-recommendations)
+* View suggestions and contributions from the community in [community-recommendations](#community-recommendations)
 * View the latest versions of the platform, including wireframes and protytpees in [platform-designs](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
 * See how the project is being run in [project-management](project-management)
 * See who's involved: [Contributors](#contributors)
