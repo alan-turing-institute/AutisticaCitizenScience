@@ -38,7 +38,8 @@ Please continue reading to find out more, or jump to any of the following sectio
 * Find out more about how we work together: [Participatory science](#participatory-science)
 * Find out more about [our community](#Our-community)
 * View suggestions and contributions from the community: [Community recommendations](#community-recommendations)
-* View the [latest design](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
+* View the latest versions of the platform, including wireframes and protytpees in [platform-designs](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
+* See how the project is being run in [project-management](project-management)
 * See who's involved: [Contributors](#contributors)
 * Reuse anything here under our open source [license](#license)
 
