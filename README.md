@@ -17,6 +17,9 @@ Many of us fit into lots of these groups at once.
 
 Together, we are building a new online tool to help improve environments for autistic people.
 
+[![Watch the video](https://img.youtube.com/vi/p9tfhgVUuQE/maxresdefault.jpg)](https://youtu.be/p9tfhgVUuQE)
+*This short video introduces the goals of the Citizen Science project.*
+
 On this site we are working together to plan, design, and build the tool.
 Once we have built it people will be able to use the tool to share their experiences of navigating environments with each other or with researchers.
 This will be used to share strategies and provide information which can be used to change environments to make them more well-suited to autistic people and their families.
@@ -40,7 +43,7 @@ Please continue reading to find out more, or jump to any of the following sectio
 * View suggestions and contributions from the community in [community-recommendations](#community-recommendations)
 * View the latest versions of the platform, including wireframes and protytpees in [platform-designs](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
 * See how the project is being run in [project-management](project-management)
-* See who's involved: [Contributors](#contributors)
+* See who's involved: [contributors](#contributors)
 * Reuse anything here under our open source [license](#license)
 
 We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
@@ -77,9 +80,6 @@ Our goals are to:
 To do these three things and reach as many people as possible, we are building an online tool where they can enter their experiences.
 There are lots of different options for how we design this tool, what features we include, and how we let people know about it.
 We think autistic people and their families and carers are the best people to ask.
-
-[![Watch the video](https://img.youtube.com/vi/p9tfhgVUuQE/maxresdefault.jpg)](https://youtu.be/p9tfhgVUuQE)
-*This short video introduces the goals of the Citizen Science project.*
 
 ## Participatory Science
 
