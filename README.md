@@ -36,7 +36,7 @@ You can help in lots of ways, for example, by:
 
 Please continue reading to find out more, or jump to any of the following sections:
 
-* [Get involved](get-involved)
+* For information on how to get started and join in, go to [get-involved](get-involved)
 * Find out more about [autism and navigating environments](#Autism-and-navigating-environments)
 * Find out more about how we work together: [participatory science](#participatory-science)
 * Find out more about [our community](#Our-community)
@@ -108,12 +108,6 @@ You can find out more about all these organisations on their websites:
 
 At the heart of the community are autistic participants, families, carers, volunteers and open source developers.
 This is an open project, which anyone is invited to contribute to.
-
-## Get involved
-
-There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in.
-
-Visit the section [get-involved](get-involved) for more information.
 
 ## Community recommendations
 
