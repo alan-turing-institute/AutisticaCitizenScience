@@ -26,21 +26,6 @@ Please make sure you follow our [code of conduct](https://github.com/katoss/kato
 
 For more detailed guidance on how to join the community, please read our [contributing guidelines](CONTRIBUTING.md).
 
-
-### Want to help manage the project?
-
-We also seek input for how we run the project and how we document it.
-If there's something you'd like us to do or groups you feel we should engage with please provide let us know.
-
-Information about project management protocols can be found in the [project management](/project-management) directory.
-
-This folder includes information on:
-
-* [Project values](project-management/project-values.md)
-* [Planned outputs](project-management/planned-outputs.md)
-* [Data management](project-management/data-management.md)
-* [Building a safe and valued community](project-management/building-a-safe-community.md)
-
 ## Community recommendations
 
 You can see suggestions from other members of the community in the [community recommendations](community-recommendations) folder.
