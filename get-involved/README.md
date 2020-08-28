@@ -26,46 +26,6 @@ Please make sure you follow our [code of conduct](https://github.com/katoss/kato
 
 For more detailed guidance on how to join the community, please read our [contributing guidelines](CONTRIBUTING.md).
 
-### Want to tell us something?
-
-If you want to tell us something, the best way is to fill in our [online form](https://bit.ly/AutisticaTuringCitSciForm).
-This is just a box where you can tell us anything which matters to you about the project.
-There really are no limits!
-
-For example, you could write in the box:
-
-* An idea for the tool we make
-* Something you like
-* Something you don't like
-* A concern
-* A suggested improvement
-* Something you want the project to help with
-* Anything else!
-
-What you write in the box will be published on this site, but we will take out information which might make you identifiable first.
-
-You can see what other community members have written in the [community recommendations folder](/community-recommendations).
-
-### Want to help build the tool?
-
-There are lots of ways to help us build the tool.
-
-You don't need to be a coder to help.
-Give us feedback on our designs!
-Every 15 days a new video is published showing the work we've done.
-Watch the videos and tell us what you think:
-
-* [Sprint 7 video](https://www.youtube.com/watch?v=3a3A1BxFBUU&feature=youtu.be)
-* [Sprint 6 viedo](https://www.youtube.com/watch?v=UAon_KHBaMM&feature=youtu.be)
-* [Sprint 5 video](https://www.youtube.com/watch?v=GWvf1KbF5GE&feature=youtu.be)
-* [Sprint 4 video](https://www.youtube.com/watch?v=0VXnqlS94Oo&feature=youtu.be)
-* [Sprint 3 video](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
-* [Sprint 2 video](https://www.youtube.com/watch?v=A_6uOwFZRfo&feature=youtu.be)
-* [Sprint 1 video](https://www.youtube.com/watch?v=4f6kn5HLysc)
-
-There are is also a list of [questions](platform-designs/wireframes/wireframe-questions.md) we would love to get your feedback on based on the videos.
-
-If you do have coding skills or are looking to learn some, you can help by addressing issues, reviewing pull requests, and answering questions on the project's [GitHub repository](https://github.com/alan-turing-institute/AutisticaCitizenScience).
 
 ### Want to help manage the project?
 
