@@ -1,4 +1,4 @@
-## Get involved
+# Get involved
 
 There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in. The diagram below shows just some of the ways people have helped so far!
 
