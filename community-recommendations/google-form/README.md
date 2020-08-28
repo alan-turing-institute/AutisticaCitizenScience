@@ -2,7 +2,7 @@
 
 This folder contains the feedeback collected from the always open [Google Form survey](https://bit.ly/AutisticaTuringCitSciForm). 
 
-All content submitted to the survey is moderated by the core research team to make sure the content is not personally identifying, and does not contravene the project's [Code of Conduct](link here).
+All content submitted to the survey is moderated by the core research team to make sure the content is not personally identifying, and does not contravene the project's [Code of Conduct](https://github.com/katoss/katoss.github.io/blob/master/.github/CODE_OF_CONDUCT.md).
 
 It is regularly updated. 
 
