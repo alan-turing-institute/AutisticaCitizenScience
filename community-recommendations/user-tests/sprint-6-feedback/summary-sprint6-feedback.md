@@ -3,6 +3,7 @@
 ## Key
 
 **Connection to Autism**
+
 **A** = Autistic
 **P** = Parent of someone autistic
 **C** = Care for someone autistic/Works with autistic people
@@ -42,6 +43,7 @@
 	-   **A D d**: “I think I would find it quite difficult to enter the experience that I just described, because I have got bad dyslexia. It would be easier for me to speak, because if I would write, it would be very different from what I just said. My spelling is quite limited, so it would be just basic words and sentences. So ***I could not say what I would want to say, because I would have to write down what I can spell***. I would have to think about writing a simpler version, because I struggle with writing.”
 	-   **A D d**: Would appreciate a voice-to-text function 
 	-   **A (1) d**: “***Analysis or summary of what the page is. For example, read by audio or video.***”
+	
 → **Even though many users are comfortable with reading and writing, a voice-to-text feature for input, as well as a (selective) screen reading function are regarded as indispensable accessibility tools**
 
 -   **Colors, contrasts and fonts**
@@ -57,8 +59,8 @@
 → **Colour, contrast and font sizes need to be adaptable**
 
 -   **Accessibility icon (man with open arms)**
--   **d**: 2x ***not easy to understand***
-	-   **P s:** “If there is any visual accompanying the text, people will always draw conclusions, because it is faster to analyse the visuals than to read the text. So it gives you a direction. I think for ‘accessibility’ there are other signs that are more self-explanatory.”
+	-   **d**: 2x ***not easy to understand***
+		-   **P s:** “If there is any visual accompanying the text, people will always draw conclusions, because it is faster to analyse the visuals than to read the text. So it gives you a direction. I think for ‘accessibility’ there are other signs that are more self-explanatory.”
     
 
 -   **Help/Visual support**
@@ -171,19 +173,19 @@
 → **A voice-to-text function would make this form accessible to a wider audience**
 
 -   **Choice of form fields**
--   **P d:** “This form gives you the ***impression of ‘don’t go too deep with your thoughts***. Just tell very briefly, very easy to understand and follow what you think’.”
--   **A D d:**‘Where’ and ‘What’: “It took me some time, but I would understand it eventually.”
-	-   In relation to that: **A D d:** “The ‘talk about any experience in your life’ needs to be bolder, because you don’t see it right away.”
--   **A D d:**“***I suppose ‘where’ is where you live***, but I am not sure.”
--   **A D d:**“The ‘what’ - I would put my experience in there.”
--   **A (1) d:** “For the entering experiences. ***I like the use of where or what***. But, would it be ***worth adding how, why. As well as time of day*** - what I mean by this was ***weather***. For e.g. sunny, windy, rainy, cold?” 
--   **A (1) d:** “I do like the layout of it and the content of the site. Maybe ***a field for ‘other’ would be useful***, because maybe if there is something you can’t fit into the ‘Where’ or ‘What’ section, you can maybe add that to that ‘other’ part, which would be useful. I do like it overall.”
--   **A (2) d:** “It [the choice of input fields] is pretty good, it ***covers the basics***.”
--   **A (2) d:** “I think you ***don’t want the word ‘what’ to be used twice***, even though they are in different sections. Because it is in different sections, I think it is ok, but I think you could probably improve it by changing the second ‘what’ maybe to ‘how’, to even make it more clear that it is a different section.
--   **A (2) d:** ***“The question in the second box could be something like ‘How could this situation have been different?***”
--   **A (2) d:** “I guess there is always more that you could add, ***you could add more questions, but then it gets too long*** for people. So I think it is ok.”
--   **A C d:** “It is fine as long as the ‘what’ will expand itself as I type in.”
--   **A C d:** “I think in an early version it said something like ‘Did you find your own solution?’ or ‘How did you solve it?’, but you simplified it with ‘What would you have wished to be different?’, because some people were believing that we were exchanging points of view, ***putting in suggestions for the people, like ‘this is how I did it’. I think that is something that we should end up exchanging*** [...].
+	-   **P d:** “This form gives you the ***impression of ‘don’t go too deep with your thoughts***. Just tell very briefly, very easy to understand and follow what you think’.”
+	-   **A D d:**‘Where’ and ‘What’: “It took me some time, but I would understand it eventually.”
+		-   In relation to that: **A D d:** “The ‘talk about any experience in your life’ needs to be bolder, because you don’t see it right away.”
+	-   **A D d:**“***I suppose ‘where’ is where you live***, but I am not sure.”
+	-   **A D d:**“The ‘what’ - I would put my experience in there.”
+	-   **A (1) d:** “For the entering experiences. ***I like the use of where or what***. But, would it be ***worth adding how, why. As well as time of day*** - what I mean by this was ***weather***. For e.g. sunny, windy, rainy, cold?” 
+	-   **A (1) d:** “I do like the layout of it and the content of the site. Maybe ***a field for ‘other’ would be useful***, because maybe if there is something you can’t fit into the ‘Where’ or ‘What’ section, you can maybe add that to that ‘other’ part, which would be useful. I do like it overall.”
+	-   **A (2) d:** “It [the choice of input fields] is pretty good, it ***covers the basics***.”
+	-   **A (2) d:** “I think you ***don’t want the word ‘what’ to be used twice***, even though they are in different sections. Because it is in different sections, I think it is ok, but I think you could probably improve it by changing the second ‘what’ maybe to ‘how’, to even make it more clear that it is a different section.
+	-   **A (2) d:** ***“The question in the second box could be something like ‘How could this situation have been different?***”
+	-   **A (2) d:** “I guess there is always more that you could add, ***you could add more questions, but then it gets too long*** for people. So I think it is ok.”
+	-   **A C d:** “It is fine as long as the ‘what’ will expand itself as I type in.”
+	-   **A C d:** “I think in an early version it said something like ‘Did you find your own solution?’ or ‘How did you solve it?’, but you simplified it with ‘What would you have wished to be different?’, because some people were believing that we were exchanging points of view, ***putting in suggestions for the people, like ‘this is how I did it’. I think that is something that we should end up exchanging*** [...].
 
 → **Overall, the form fields are understood intuitively by most participants. Some suggestions for improvement: ‘What’ should not be used twice, an ‘other’ field could be added, the ‘where’ should have an explanation so it is less ambiguous**
 
@@ -215,8 +217,8 @@
     
 
 -   **Video upload**
--   **A D d:** “I would not like to upload a video of myself. Maybe just me talking, but not a video of my face.”
--   **A C d:** “As long as I am not in it and I am just showing the environment, possibly I could try. [...] Whereas when I am writing, I’m trying to take someone through a story. When I am doing a video, I tend to get over-excitable and say all sorts of stuff that might not be entirely useful. So, I don’t know. Other people maybe shoot a video and never say a thing.”
+	-   **A D d:** “I would not like to upload a video of myself. Maybe just me talking, but not a video of my face.”
+	-   **A C d:** “As long as I am not in it and I am just showing the environment, possibly I could try. [...] Whereas when I am writing, I’m trying to take someone through a story. When I am doing a video, I tend to get over-excitable and say all sorts of stuff that might not be entirely useful. So, I don’t know. Other people maybe shoot a video and never say a thing.”
     
 
 → **Tendentially media upload is seen as positive, but not essential (except for voice-to-text). Towards the idea of uploading videos, the participants who commented on it were rather skeptical. The ‘upload’ button should be relabelled and possibly be placed more within the form.**
@@ -264,12 +266,12 @@
 → **Do we rate experiences or locations? Are we only looking for negative experiences?**
 
 -   **Labels/Number of choices**
--   **A D d:** would prefer 3 smileys (there would be too much choice if there were more options)
--   **A (1) d:** “Rating scales would be useful to have some comparison to. As well as, give each star or emoticon a brief label or description.”
--   **A (1) d:** “I’d say I would prefer 5 options. If there was a description of what the stars mean, that could be very useful. But I like the idea.”
--   **A (1) d:** If you add explanations, like 1 being ‘not good’ and 5 being the highest, that would help. I like the idea.”
--   **A (2) d:** “I think these binary options with two or three choices are not enough. You won’t get accurate feedback, the data is going to be too skewed. It is like ‘Was it a good or bad girlfriend? I don’t know, we split up, but the experience I had was great, I think she was great, but it just didn’t work out.’. So I think you need to have something with more choices, like 1 out of 10 or something. But even then, like, if you had 5 options, how would you rate it? It could still be problematic, because if I wrote a negative experience, what is the type of the negative experience? Am I rating ‘was it a 1 negative or a 5 negative?’. You would need to be clearer. What I sometimes see in surveys, what I think is pretty good, it says like ‘1 to 10’ and then it has words to explain what it means, like 5 is ‘normal’ and 10 is ‘positive’. It has some words to describe what each rating would mean, in the direction of good or bad. So, I think you would need more choices and also some words to explain, what those mean as well.”  
--   **A (2) d:** “There are some good examples of ratings that I have used, they are vaguely in my head. I know it was still hard to decide whether it is a 7 or a 9, because it is a subjective decision, but at least it was clear how the rating system works. I would say that you should keep looking for a better rating system.”
+	-   **A D d:** would prefer 3 smileys (there would be too much choice if there were more options)
+	-   **A (1) d:** “Rating scales would be useful to have some comparison to. As well as, give each star or emoticon a brief label or description.”
+	-   **A (1) d:** “I’d say I would prefer 5 options. If there was a description of what the stars mean, that could be very useful. But I like the idea.”
+	-   **A (1) d:** If you add explanations, like 1 being ‘not good’ and 5 being the highest, that would help. I like the idea.”
+	-   **A (2) d:** “I think these binary options with two or three choices are not enough. You won’t get accurate feedback, the data is going to be too skewed. It is like ‘Was it a good or bad girlfriend? I don’t know, we split up, but the experience I had was great, I think she was great, but it just didn’t work out.’. So I think you need to have something with more choices, like 1 out of 10 or something. But even then, like, if you had 5 options, how would you rate it? It could still be problematic, because if I wrote a negative experience, what is the type of the negative experience? Am I rating ‘was it a 1 negative or a 5 negative?’. You would need to be clearer. What I sometimes see in surveys, what I think is pretty good, it says like ‘1 to 10’ and then it has words to explain what it means, like 5 is ‘normal’ and 10 is ‘positive’. It has some words to describe what each rating would mean, in the direction of good or bad. So, I think you would need more choices and also some words to explain, what those mean as well.”  
+	-   **A (2) d:** “There are some good examples of ratings that I have used, they are vaguely in my head. I know it was still hard to decide whether it is a 7 or a 9, because it is a subjective decision, but at least it was clear how the rating system works. I would say that you should keep looking for a better rating system.”
 
 → **Preference for number of rating options varies from 3 to 10. 2 is tendentially seen as too binary.**
 
