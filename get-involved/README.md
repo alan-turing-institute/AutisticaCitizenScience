@@ -4,9 +4,10 @@ There are lots of ways to get involved, depending on the time you have, your ski
 
 ![](https://i.imgur.com/tmk03A7.png)
 
-For a guidance on how to join the community, please read our [contributing guidelines](CONTRIBUTING.md).
-
-Please make sure you follow our [code of conduct](https://github.com/katoss/katoss.github.io/blob/master/.github/CODE_OF_CONDUCT.md).
+Jump to any of the following sections for information on: 
+* how to [give feedback](give-feedback)
+* how to [help build the platform](help-build)
+* how to help with the [strategy and management of the project](help-strategise)
 
 ### Just curious?
 
@@ -20,6 +21,10 @@ if you are new to this way of working, look for issues labelled **good first iss
 There is also lots of information about the project available. The video below gives a more detailed overview of the project from principle investigator Kirstie Whitaker:
 
 [Participatory citizen science to improve autistic people's lives](https://www.youtube.com/watch?v=Ftsf21Cr4Jk&feature=youtu.be)
+
+Please make sure you follow our [code of conduct](https://github.com/katoss/katoss.github.io/blob/master/.github/CODE_OF_CONDUCT.md) when you take part.
+
+For more detailed guidance on how to join the community, please read our [contributing guidelines](CONTRIBUTING.md).
 
 ### Want to tell us something?
 
