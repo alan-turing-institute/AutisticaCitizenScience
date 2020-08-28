@@ -6,7 +6,7 @@ If there's something you'd like us to do or groups you feel we should engage wit
 
 Information about project management protocols can be found in the [project management](/project-management) directory.
 
-You may wish to look at information on: 
+You may find the following information useful: 
 
 * [Project values](project-management/project-values.md)
 * [Planned outputs](project-management/planned-outputs.md)
