@@ -1,6 +1,6 @@
 ## Help with strategy 
 
-We also seek input for how we run the project and how we document it.
+We seek community input for how we run the project and how we document it.
 
 If there's something you'd like us to do or groups you feel we should engage with please let us know.
 
