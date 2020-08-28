@@ -2,6 +2,8 @@
 
 There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in.
 
+![ways of being involved](images/take-part.jpg)
+
 For a guidance on how to join the community, please read our [contributing guidelines](CONTRIBUTING.md).
 
 Please make sure you follow our [code of conduct](https://github.com/katoss/katoss.github.io/blob/master/.github/CODE_OF_CONDUCT.md).
