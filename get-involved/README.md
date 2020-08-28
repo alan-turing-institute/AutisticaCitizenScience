@@ -1,10 +1,11 @@
 # Get involved
 
-There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in. The diagram below shows just some of the ways people have helped so far!
+#### There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in. The diagram below shows just some of the ways people have helped so far!
 
 ![](https://i.imgur.com/tmk03A7.png)
 
-Jump to any of the following sections for information on: 
+### Jump to any of the following sections for information on: 
+
 * how to [give feedback](give-feedback)
 * how to [help build the platform](help-build)
 * how to help with the [strategy and management of the project](help-strategise)
