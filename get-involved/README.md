@@ -1,8 +1,8 @@
 ## Get involved
 
-There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in.
+There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in. The diagram below shows just some of the ways other people have helped so far!
 
-![ways of being involved](images/take-part.jpg)
+![](https://i.imgur.com/tmk03A7.png)
 
 For a guidance on how to join the community, please read our [contributing guidelines](CONTRIBUTING.md).
 
