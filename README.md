@@ -8,13 +8,17 @@
 
 # Welcome
 
-Welcome to the Autistica/Turing citizen science community.
+#### Welcome to the Autistica/Turing citizen science community.
 
 Thank you for being here! 🎉
 
 We are a group of autistic people, researchers, developers, parents, designers, experts and volunteers.
 Many of us fit into lots of these groups at once.
+
 Together, we are building a new online tool to help improve environments for autistic people.
+
+[![Watch the video](https://img.youtube.com/vi/p9tfhgVUuQE/maxresdefault.jpg)](https://youtu.be/p9tfhgVUuQE)
+*This short video introduces the goals of the Citizen Science project.*
 
 On this site we are working together to plan, design, and build the tool.
 Once we have built it people will be able to use the tool to share their experiences of navigating environments with each other or with researchers.
@@ -32,12 +36,14 @@ You can help in lots of ways, for example, by:
 
 Please continue reading to find out more, or jump to any of the following sections:
 
-* [Get involved](#get-involved)
+* For information on how to get started and join in, go to [get-involved](get-involved)
 * Find out more about [autism and navigating environments](#Autism-and-navigating-environments)
-* Find out more about how we work together: [Participatory science](#participatory-science)
-* View suggestions and contributions from the community: [Community recommendations](#community-recommendations)
-* View the [latest design](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
-* See who's involved: [Contributors](#contributors)
+* Find out more about how we work together: [participatory science](#participatory-science)
+* Find out more about [our community](#Our-community)
+* View suggestions and contributions from the community in [community-recommendations](#community-recommendations)
+* View the latest versions of the platform, including wireframes and protytpees in [platform-designs](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
+* See how the project is being run in [project-management](project-management)
+* See who's involved: [contributors](#contributors)
 * Reuse anything here under our open source [license](#license)
 
 We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
@@ -75,9 +81,6 @@ To do these three things and reach as many people as possible, we are building a
 There are lots of different options for how we design this tool, what features we include, and how we let people know about it.
 We think autistic people and their families and carers are the best people to ask.
 
-[![Watch the video](https://img.youtube.com/vi/p9tfhgVUuQE/maxresdefault.jpg)](https://youtu.be/p9tfhgVUuQE)
-*This short video introduces the goals of the Citizen Science project.*
-
 ## Participatory Science
 
 Participatory science is when the people who will ultimately benefit from or be affected most by research are included in empowered positions throughout the research process.
@@ -106,72 +109,9 @@ You can find out more about all these organisations on their websites:
 At the heart of the community are autistic participants, families, carers, volunteers and open source developers.
 This is an open project, which anyone is invited to contribute to.
 
-## Get involved
-
-There are lots of ways to get involved, depending on the time you have, your skillset, and what you're interested in.
-
-### Just curious?
-
-Take a look around the site!
-A good place to start is by reading the [issues](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues).
-This is the project's to-do list. It will give you a sense of the kinds of things we're working on, and where you can help.
-
-The video below gives a more detailed overview of the project from principle investigator Kirstie Whitaker:
-
-[Participatory citizen science to improve autistic people's lives](https://www.youtube.com/watch?v=Ftsf21Cr4Jk&feature=youtu.be)
-
-### Want to tell us something?
-
-If you want to tell us something, the best way is to fill in our [online form](https://bit.ly/AutisticaTuringCitSciForm).
-This is just a box where you can tell us anything which matters to you about the project.
-There really are no limits!
-
-For example, you could write in the box:
-
-* An idea for the tool we make
-* Something you like
-* Something you don't like
-* A concern
-* A suggested improvement
-* Something you want the project to help with
-* Anything else!
-
-What you write in the box will be published on this site, but we will take out information which might make you identifiable first.
-
-You can see what other community members have written in the [community recommendations folder](/community-recommendations).
-
-### Want to help build the tool?
-
-There are lots of ways to help us build the tool.
-
-You don't need to be a coder to help.
-Give us feedback on our designs!
-Every 15 days a new video is published showing the work we've done.
-Watch the videos and tell us what you think:
-
-* [Sprint 3 video](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
-* [Sprint 2 video](https://www.youtube.com/watch?v=A_6uOwFZRfo&feature=youtu.be)
-* [Sprint 1 video](https://www.youtube.com/watch?v=4f6kn5HLysc)
-
-If you do have coding skills or are looking to learn some, you can help by addressing issues, reviewing pull requests, and answering questions on the project's [GitHub repository](https://github.com/alan-turing-institute/AutisticaCitizenScience).
-
-### Want to help manage the project?
-
-We also seek input for how we run the project and how we document it.
-If there's something you'd like us to do or groups you feel we should engage with please provide let us know.
-
-Information about project management protocols can be found in the [project management](/project-management) directory.
-
-This folder includes information on:
-
-* [Project values](project-management/project-values.md)
-* [Planned outputs](project-management/planned-outputs.md)
-* [Data management](project-management/data-management.md)
-* [Building a safe and valued community](project-management/building-a-safe-community.md)
-
 ## Community recommendations
 
-You can see suggestions from other members of the community in the [community recommendations](community-recommendations) folder.
+You can see suggestions from other members of the community in the [community-recommendations](community-recommendations) section.
 
 ## Contributors
 

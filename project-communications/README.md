@@ -1,7 +1,15 @@
 # Project communications
 
+As part of our commitment to openness and transparency, we actively engage with the our community of participants, commuinicate the project's progress, and disseminate our findings so others can learn from them. We publish many of our communications openly and you can view them in this folder. 
+
+## Contents
+
+### [Newsletters](project-communications/newsletter)
 We send regular updates to our community to keep them updated on how the project is progressing.
 This directory contains the original versions of these newsletters for our records and to make them easy to re-use in the future.
+
+### [Presentations](project-communications/presentations)
+When we deliver presentations, we publish our slides openly on Zenodo.org. This folder contains links to those slides. 
 
 ## Subscribe to the mailing list
 
@@ -9,19 +17,4 @@ This directory contains the original versions of these newsletters for our recor
 
 ✉️ You can see all the archives of the newsletter at [https://tinyletter.com/AutisticaTuringCitizenScience/archive](https://tinyletter.com/AutisticaTuringCitizenScience/archive).
 
-## Newsletter archive
 
-These links will take you to the GitHub repository archive of the project newsletters
-* [23 April 2020](newsletter-20200423.md)
-* [25 November 2019](newsletter-20191125.md)
-* [20 September 2019](newsletter-20190920.md)
-* [05 August 2019](newsletter-20190805.md)
-
-## Formatting the newsletter
-
-*This information is for members of the project team who have write access to the TinyLetter mailing list.*
-
-Rather than formatting the newsletter in the TinyLetter page, please use this markdown to html converter tool: [https://www.browserling.com/tools/markdown-to-html](https://www.browserling.com/tools/markdown-to-html).
-
-Combining free text and markdown can introduce strange layout changes (really large fonts and odd spacings) that are not easy to spot until you've sent the newsletter.
-You are more likely to successfully send a nicely formatted newsletter by converting markdown to raw html and entering that into TinyLetter dashboard.
