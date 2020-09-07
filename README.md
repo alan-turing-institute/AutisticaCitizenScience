@@ -1,7 +1,7 @@
 # Autistica/Turing Citizen Science
 [![Join the chat at https://gitter.im/alan-turing-institute/AutisticaCitizenScience](https://img.shields.io/badge/chat-on%20gitter-brightgreen.svg?style=flat-square)](https://gitter.im/alan-turing-institute/AutisticaCitizenScience)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/AutisticaTuringCitizenScience)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 *Project management and resource repository for the Autistica/Turing Citizen Science project*
@@ -153,6 +153,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/pgc007"><img src="https://avatars1.githubusercontent.com/u/64270473?v=4" width="100px;" alt=""/><br /><sub><b>pgc007</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=pgc007" title="Code">💻</a> <a href="#ideas-pgc007" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=pgc007" title="Documentation">📖</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3Apgc007" title="Reviewed Pull Requests">👀</a> <a href="#talk-pgc007" title="Talks">📢</a> <a href="#userTesting-pgc007" title="User Testing">📓</a></td>
+    <td align="center"><a href="http://www.talarify.co.za"><img src="https://avatars3.githubusercontent.com/u/7215014?v=4" width="100px;" alt=""/><br /><sub><b>Anelda van der Walt</b></sub></a><br /><a href="#ideas-anelda" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=anelda" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
