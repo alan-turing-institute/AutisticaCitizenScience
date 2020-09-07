@@ -53,7 +53,7 @@ Otis Smith, who is an autistic collarborator on the citizen science project, and
 
 Wireframing workshop: On the 27th March we ran a wireframing workshop over Zoom. 
 The workshop was a mix of people from Autistica, Fujitsu, the Turing, and community members. 
-You can see the notes from the meeting by following this link: https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/GeorgiaHCA-wireframing-workshop/project-management/workshops/wireframing-March2020-notes.md
+You can see the notes from the meeting by following this link: https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/community-recommendations/workshops/wireframing-March2020-notes.md
 
 ![](/project-communications/images/workshop.jpg)
 
