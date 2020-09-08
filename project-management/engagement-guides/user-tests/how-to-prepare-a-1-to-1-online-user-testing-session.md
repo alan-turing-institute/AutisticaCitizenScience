@@ -16,7 +16,7 @@ What features of the prototype would you like to get feedback on?
 	 - [Participant information sheet](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/ethics-applications/stage-1-co-design-phase/A7_ParticipantInformationSheet.pdf)
 	 - [Code of conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/ethics-applications/stage-1-co-design-phase/A3_CodeOfConduct.pdf)
 	 - [Guidelines for building a safe community](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/ethics-applications/stage-1-co-design-phase/A4_BuildingASafeCommunity.pdf)
-	 - Payment form (contact Bethan Davis from Autistica at discover@autism.org.uk) (?)
+	 - Payment form (contact Bethan Davis from Autistica at discover@autism.org.uk)
 
 ### 3. If requested, do a 'Introduction and Formalities' session
 Ask the participant if they are comfortable with reading and signing the documents (see 2.) and with your online conferencing tool and screen sharing. If requested, conduct an 'Introduction and formalities' session with them, in which you help them go through and sign the documents and explain how to use the online conferencing tool.
