@@ -37,16 +37,16 @@ Progress was made on these tasks but they were not closed during the sprint.
 
 
 ### Conclusions:
-Good progress with wireframing of design feedback from the community 
-Addition of community feedback to created issues by Katharina Kloppenborg 
-Clear process for disseminating of work to the development team is going from strength to strength
-Development team still demonstrating good channels of communication & positive responses
-Further prioritisation of user stories needed with clients input
-Thomas & Daniel are exploring AWS Server so the platform can be deployed - accessed by the community
-Blue Hat Associates attending daily stand-ups
-Request to use OH Slack Channel 
-Further work around OH Data Flow from George
-Non-Verbal Communicator development work in progress from Paul
+Good progress with wireframing of design feedback from the community<br> 
+Addition of community feedback to created issues by Katharina Kloppenborg<br> 
+Clear process for disseminating of work to the development team is going from strength to strength<br>
+Development team still demonstrating good channels of communication & positive responses<br>
+Further prioritisation of user stories needed with clients input<br>
+Thomas & Daniel are exploring AWS Server so the platform can be deployed - accessed by the community<br>
+Blue Hat Associates attending daily stand-ups<br>
+Request to use OH Slack Channel<br>
+Further work around OH Data Flow from George<br>
+Non-Verbal Communicator development work in progress from Paul<br>
 
 
 ### Challenges:
