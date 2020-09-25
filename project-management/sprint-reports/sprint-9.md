@@ -35,6 +35,33 @@ Progress was made on these tasks but they were not closed during the sprint.
 * [`#346`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/346): Accessibility - Visual Supports 
 * [`#338`](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/338): Accessibility - Voice to Text
 
+### Dev board / Prototype 
+
+In Development / Progress
+Progress was made on these tasks but they were not closed during the sprint.
+* [`#24`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/24): Deploy platform somewhere useful 
+* [`#23`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/23): Develop non-verbal pictorial experience editor 
+* [`#7`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/7):  Develop general documentation viewer control 
+
+
+In pull requests (awaiting review)
+* [`#6`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/6): Development Modular Alerts for Timeout Save
+* [`#20`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/20): Component Gallery
+
+
+Ready for testing 
+
+* [`#19`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/19): Develop user profile type selection control 
+* [`#18`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/18): Develop landing page footer
+* [`#17`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/17): Develop hamburger menu component
+* [`#16`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/16): Develop language selector 
+* [`#15`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/15): Develop layout implementation of the landing page Hero / Jumbotron 
+* [`#14`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/14): Develop newsletter subscription control 
+* [`#13`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/13): Develop submitted experiences viewer control 
+* [`#12`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/12): Implementation of landing page header
+* [`#11`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/11): Develop layout of landing page function boxes
+* [`#9`](https://github.com/alan-turing-institute/AutisticaPlatformPrototype/issues/9): Develop add your experience page component 
+
 
 ### Conclusions:
 Good progress with wireframing of design feedback from the community<br> 
