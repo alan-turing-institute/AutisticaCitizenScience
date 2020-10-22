@@ -1,8 +1,4 @@
-wireframe-handover content 
-
-![Image description](../../blob/master/images/csp-style-guide.png)
-
-https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/images/csp-style-guide.png
+CSP Style Guide Handover Content 
 
 <p>
 An image as a link: <a href="https://1a5zsg.axshare.com/#c=2">
