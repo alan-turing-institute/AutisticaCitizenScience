@@ -4,7 +4,7 @@ There are lots of ways to get involved, depending on the time you have, your ski
 
 ![](https://i.imgur.com/tmk03A7.png)
 
-Here is a more detailed look at the different skills and roles needed for the platform. Zoom in for a closer look!
+Here is a more detailed look at the different skills and roles needed for the platform. Click to expand the image for a closer look!
 
 ![](https://i.imgur.com/zP5MlP3.png)
 
