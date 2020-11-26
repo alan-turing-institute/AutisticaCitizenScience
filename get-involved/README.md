@@ -27,7 +27,7 @@ There is also lots of information about the project available. The video below g
 
 [Participatory citizen science to improve autistic people's lives](https://www.youtube.com/watch?v=Ftsf21Cr4Jk&feature=youtu.be)
 
-Please make sure you follow our [code of conduct](alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CODE_OF_CONDUCT.md) when you take part.
+Please make sure you follow our [code of conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CODE_OF_CONDUCT.md) when you take part.
 
 For more detailed guidance on how to join the community, please read our [contributing guidelines](CONTRIBUTING.md).
 
