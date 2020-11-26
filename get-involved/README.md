@@ -4,6 +4,10 @@ There are lots of ways to get involved, depending on the time you have, your ski
 
 ![](https://i.imgur.com/tmk03A7.png)
 
+Here is a more detailed look at the different skills and roles needed for the platform. Zoom in for a closer look!
+
+![](https://i.imgur.com/zP5MlP3.png)
+
 ### Jump to any of the following sections for information on: 
 
 * how to [give feedback](give-feedback)
