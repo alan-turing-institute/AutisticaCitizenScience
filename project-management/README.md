@@ -2,7 +2,7 @@
 
 ### Overview
 
-The [study protocol](A9_StudyProtocol.pdf) is a description of the steps that core research team members should take to manage the project.
+The [study protocol](/ethics-applications/stage-1-co-design-phase/A9_StudyProtocol.pdf) is a description of the steps that core research team members should take to manage the project.
 
 The [participant information sheet](participant-information-sheet.md) ([PDF format](A7_ParticipantInformationSheet.pdf)) describes the project for anyone who would like to take part.
 
