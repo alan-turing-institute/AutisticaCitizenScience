@@ -17,6 +17,7 @@ It follows the [emoji key](https://github.com/all-contributors/all-contributors#
 * Otis Smith 💬🎨🤔
 * Paul Crayson 💬🤔💻
 * Thomas Stanley 💻📆🤔
+* Chris Legg 💬🤔💻📢
 
 #### Collaborators from GitHub turorial
 
