@@ -2,9 +2,9 @@
 
 ### Abstract for submission to The [Philosophy Graduate Student Association at The University of Tennessee Philosophy Conference](http://utkphilgradconference.weebly.com/) March 13-14 2021
 
-## Hackett's Human Kinds and the Ethics of Participatory Science 
+## Hacking's Human Kinds and the Ethics of Participatory Science 
 
-Drawing on Hacking’s (1996) influential concept of the ‘looping effects of human kinds’, this paper will explore the ethical implications of the dynamics between researchers and research subjects in scientific practice. 
+Drawing on Hacking’s ([1996](doi.org/\10.1093\acprof:oso\9780198524021.001.0001) influential concept of the ‘looping effects of human kinds’, this paper will explore the ethical implications of the dynamics between researchers and research subjects in scientific practice. 
 We argue that scientists engaged in work about human kinds have a moral duty to include research subjects in their work. 
 We will then ground the theoretical discussion with a case study of participatory science in action: a project to build a tool to investigate autism and sensory processing through the participatory co-creation of a citizen science platform. 
 This project is a collaboration between the research charity Autistica and The Alan Turing Institute, the UK’s national institute for AI and data science. 
@@ -17,7 +17,7 @@ To do so, we explore Hacking’s account of human kinds and provide the example 
 We briefly review recent trends in the study of autism and argue that the gap traditionally conceived between “knowers” and those who are “known” raises ethical concerns.
 
 The ethical concerns we discuss are similar to those of feminist scholars at large and standpoint theorists in particular. 
-We will consider what Miranda Fricker (2007) calls “epistemic injustice”. 
+We will consider what Miranda Fricker ([2007](doi.org/10.1093/acprof:oso/9780198237907.001.0001)) calls “epistemic injustice”. 
 By Fricker’s account, prejudice about certain stereotypes render their testimony noncredible. 
 When these stereotypes are incorrect, an epistemic injustice is produced. 
 This is because social injustices are perpetuated through the incorrectly assigned stereotype and science cannot provide more accurate knowledge on the research subject., research findings are sanctioned by scientific institutions and afforded authority by society. 
