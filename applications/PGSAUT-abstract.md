@@ -25,9 +25,9 @@ This results in social policies and norms that further reproduce social injustic
 
 Fletcher-Watson et. al., (2019) further emphasise the cruciality of interrogating and redressing power disbalance. Power asymmetry is associated with significant adverse effects for those disempowered. On an individual level, power asymmetry can lower self-esteem (Wojciszke & Struzynska–Kujalowicz, 2007), reduce a sense of agency (Martin et al., 2003), and lead to reduced empathy in those wielding power, who can pathologize difference as dysfunction (Galinsky, Magee, Inesi, & Gruenfeld, 2006). 
 
-Having interrogated the division between “knowers” and “known”, we return to Hacking’s looping effects to argue that, given the self-reflecting nature of human kinds, scientists ought to integrate this into their practice. 
+Having problematised the division between “knowers” and “known”, we return to Hacking’s looping effects to argue that, given the self-reflecting nature of human kinds, scientists ought to integrate this into their practice. 
 In other words, given that researchers, in “knowing” about the social world, shape the very subject they study, they should fix the ethical principles guiding their research from the start. 
-To both fix these ethical principles and study human kinds, we suggest that bringing research subjects into the research process presents an ethical means of conducting science that is pertinent to human kinds.
+To both fix these ethical principles and study human kinds, we suggest that bringing research subjects into the research process presents an ethically compelling means of conducting science that is pertinent to human kinds.
 
 Thus, we explore tools available in participatory science and that show promise in redressing the key concerns laid out. 
 We will examine the effects of including research subjects in the critical aspects of research, such as priority-setting, data gathering, the creation of protocols, analysis, and the interpretation and communication of findings. 
