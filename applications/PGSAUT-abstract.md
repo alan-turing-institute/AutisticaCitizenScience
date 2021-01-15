@@ -25,9 +25,9 @@ This results in social policies and norms that further reproduce social injustic
 
 Fletcher-Watson et. al., (2019) further emphasise the cruciality of interrogating and redressing power disbalance. Power asymmetry is associated with significant adverse effects for those disempowered. On an individual level, power asymmetry can lower self-esteem (Wojciszke & Struzynska–Kujalowicz, 2007), reduce a sense of agency (Martin et al., 2003), and lead to reduced empathy in those wielding power, who can pathologize difference as dysfunction (Galinsky, Magee, Inesi, & Gruenfeld, 2006). 
 
-Having problematised the division between “knowers” and “known”, we return to Hacking’s looping effects to argue that, given the self-reflecting nature of human kinds, scientists ought to integrate this into their practice. 
-In other words, given that researchers, in “knowing” about the social world, shape the very subject they study, they should fix the ethical principles guid their research from the start. 
-To both fix these ethical principles and study human kinds, we suggest that bringing research subjects into the research process is an adequate way to conduct science that is pertinent to human kinds.
+Having interrogated the division between “knowers” and “known”, we return to Hacking’s looping effects to argue that, given the self-reflecting nature of human kinds, scientists ought to integrate this into their practice. 
+In other words, given that researchers, in “knowing” about the social world, shape the very subject they study, they should fix the ethical principles guiding their research from the start. 
+To both fix these ethical principles and study human kinds, we suggest that bringing research subjects into the research process presents an ethical means of conducting science that is pertinent to human kinds.
 
 Thus, we explore tools available in participatory science and that show promise in redressing the key concerns laid out. 
 We will examine the effects of including research subjects in the critical aspects of research, such as priority-setting, data gathering, the creation of protocols, analysis, and the interpretation and communication of findings. 
@@ -43,10 +43,11 @@ Finally, we will demonstrate means of involvement in the project, and warmly enc
 
 ## References
 
-Fletcher-Watson, S., Adams, J., Brook, K., Charman, T., Crane, L., Cusack, J., … Pellicano, E. (2019). Making the future together: Shaping autism research through meaningful participation. Autism, 23(4), 943–953. https://doi.org/10.1177/1362361318786721
-Galinsky, A. D., Magee, J. C., Inesi, M. E., & Gruenfeld, D. H. (2006). Power and Perspectives Not Taken. Psychological Science, 17(12), 1068–1074. https://doi.org/10.1111/j.1467-9280.2006.01824.x
-Wojciszke, B., & Struzynska–Kujalowicz, A. (2007). Power Influences Self–Esteem. Social Cognition, 25(4), 472–494. https://doi.org/10.1521/soco.2007.25.4.472
-Martin, J., Sugarman, J., & Thompson, J. (2003). Psychology and the Question of Agency. SUNY Press.
+* Fletcher-Watson, S., Adams, J., Brook, K., Charman, T., Crane, L., Cusack, J., … Pellicano, E. (2019). 
+* Making the future together: Shaping autism research through meaningful participation. Autism, 23(4), 943–953. https://doi.org/10.1177/1362361318786721
+* Galinsky, A. D., Magee, J. C., Inesi, M. E., & Gruenfeld, D. H. (2006). Power and Perspectives Not Taken. Psychological Science, 17(12), 1068–1074. https://doi.org/10.1111/j.1467-9280.2006.01824.x
+* Wojciszke, B., & Struzynska–Kujalowicz, A. (2007). Power Influences Self–Esteem. Social Cognition, 25(4), 472–494. https://doi.org/10.1521/soco.2007.25.4.472
+* Martin, J., Sugarman, J., & Thompson, J. (2003). Psychology and the Question of Agency. SUNY Press.
 
 
 
