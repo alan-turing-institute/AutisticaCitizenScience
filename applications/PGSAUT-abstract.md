@@ -7,7 +7,7 @@
 Drawing on Hacking’s ([1996](doi.org/\10.1093\acprof:oso\9780198524021.001.0001) influential concept of the ‘looping effects of human kinds’, this paper will explore the ethical implications of the dynamics between researchers and research subjects in scientific practice. 
 We argue that scientists engaged in work about human kinds have a moral duty to include research subjects in their work. 
 We will then ground the theoretical discussion with a case study of participatory science in action: a project to build a tool to investigate autism and sensory processing through the participatory co-creation of a citizen science platform. 
-This project is a collaboration between the research charity Autistica and The Alan Turing Institute, the UK’s national institute for AI and data science. 
+This project is a collaboration between the UK-based research charity Autistica and The Alan Turing Institute, the UK’s national institute for AI and data science. 
 More detail, current work, outputs, resources and engagement pathways are all available on the [project’s repository](https://github.com/alan-turing-institute/AutisticaCitizenScience).
 
 The presentation of this paper will itself follow participatory practices: it will be co-presented by an autistic participant, point attendees to open and transparent research protocols and data, and everyone will be invited to join as collaborators.
@@ -48,7 +48,6 @@ Finally, we will demonstrate means of involvement in the project, and warmly enc
 * Galinsky, A. D., Magee, J. C., Inesi, M. E., & Gruenfeld, D. H. (2006). Power and Perspectives Not Taken. Psychological Science, 17(12), 1068–1074. https://doi.org/10.1111/j.1467-9280.2006.01824.x
 * Wojciszke, B., & Struzynska–Kujalowicz, A. (2007). Power Influences Self–Esteem. Social Cognition, 25(4), 472–494. https://doi.org/10.1521/soco.2007.25.4.472
 * Martin, J., Sugarman, J., & Thompson, J. (2003). Psychology and the Question of Agency. SUNY Press.
-
 
 
 
