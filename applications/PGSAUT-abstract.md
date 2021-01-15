@@ -20,7 +20,7 @@ The ethical concerns we discuss are similar to those of feminist scholars at lar
 We will consider what Miranda Fricker ([2007](doi.org/10.1093/acprof:oso/9780198237907.001.0001)) calls “epistemic injustice”. 
 By Fricker’s account, prejudice about certain stereotypes render their testimony noncredible. 
 When these stereotypes are incorrect, an epistemic injustice is produced. 
-This is because social injustices are perpetuated through incorrectly assigned stereotypes. Despite the research subject being the expert of their own experience, research findings are sanctioned by scientific institutions and afforded authority by society. 
+This is because social injustices are perpetuated through incorrectly assigned stereotypes. Despite the research subject being the expert of their own experience, research findings are afforded validity by scientific institutions and authority by society. 
 This results in social policies and norms that further reproduce social injustices. Such divisions are further entrenched by societal inequality which can create barriers to scientific institutions and education.
 
 Fletcher-Watson et. al., (2019) further emphasise the cruciality of interrogating and redressing power disbalance. Power asymmetry is associated with significant adverse effects for those disempowered. On an individual level, power asymmetry can lower self-esteem (Wojciszke & Struzynska–Kujalowicz, 2007), reduce a sense of agency (Martin et al., 2003), and lead to reduced empathy in those wielding power, who can pathologize difference as dysfunction (Galinsky, Magee, Inesi, & Gruenfeld, 2006). 
