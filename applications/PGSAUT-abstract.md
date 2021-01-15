@@ -20,11 +20,10 @@ The ethical concerns we discuss are similar to those of feminist scholars at lar
 We will consider what Miranda Fricker ([2007](doi.org/10.1093/acprof:oso/9780198237907.001.0001)) calls “epistemic injustice”. 
 By Fricker’s account, prejudice about certain stereotypes render their testimony noncredible. 
 When these stereotypes are incorrect, an epistemic injustice is produced. 
-This is because social injustices are perpetuated through incorrectly assigned stereotypes. Despite the research subject being an expert of the own experience, research findings are sanctioned by scientific institutions and afforded authority by society. 
+This is because social injustices are perpetuated through incorrectly assigned stereotypes. Despite the research subject being the expert of their own experience, research findings are sanctioned by scientific institutions and afforded authority by society. 
 This results in social policies and norms that further reproduce social injustices. Such divisions are further entrenched by societal inequality which can create barriers to scientific institutions and education.
 
-[Sue Fletcher-Watson et. al., (2019)](https://doi.org/10.1177/1362361318786721) further emphasise the cruciality of interrogating and redressing power disbalance in research. 
-Power asymmetry is associated with significant adverse effects for those disempowered. On an individual level, power asymmetry can lower self-esteem ([Wojciszke & Struzynska–Kujalowicz, 2007](https://doi.org/10.1521/soco.2007.25.4.472)), reduce the sense of agency ([Martin et al., 2003](#book-references)), and leads to reduced empathy in those wielding power, who can pathologize difference as dysfunction [Galinsky et al., 2006](https://doi.org/10.1111/j.1467-9280.2006.01824.x).
+Fletcher-Watson et. al., (2019) further emphasise the cruciality of interrogating and redressing power disbalance. Power asymmetry is associated with significant adverse effects for those disempowered. On an individual level, power asymmetry can lower self-esteem (Wojciszke & Struzynska–Kujalowicz, 2007), reduce a sense of agency (Martin et al., 2003), and lead to reduced empathy in those wielding power, who can pathologize difference as dysfunction (Galinsky, Magee, Inesi, & Gruenfeld, 2006). 
 
 Having problematised the division between “knowers” and “known”, we return to Hacking’s looping effects to argue that, given the self-reflecting nature of human kinds, scientists ought to integrate this into their practice. 
 In other words, given that researchers, in “knowing” about the social world, shape the very subject they study, they should fix the ethical principles guid their research from the start. 
@@ -42,8 +41,11 @@ We will share learning from the citizen science project and offer practical guid
 We will point to challenges and limitations of participatory science in relation to each of the tools discussed as well as more generally. 
 Finally, we will demonstrate means of involvement in the project, and warmly encourage collaboration. 
 
-## Book References
+## References
 
+Fletcher-Watson, S., Adams, J., Brook, K., Charman, T., Crane, L., Cusack, J., … Pellicano, E. (2019). Making the future together: Shaping autism research through meaningful participation. Autism, 23(4), 943–953. https://doi.org/10.1177/1362361318786721
+Galinsky, A. D., Magee, J. C., Inesi, M. E., & Gruenfeld, D. H. (2006). Power and Perspectives Not Taken. Psychological Science, 17(12), 1068–1074. https://doi.org/10.1111/j.1467-9280.2006.01824.x
+Wojciszke, B., & Struzynska–Kujalowicz, A. (2007). Power Influences Self–Esteem. Social Cognition, 25(4), 472–494. https://doi.org/10.1521/soco.2007.25.4.472
 Martin, J., Sugarman, J., & Thompson, J. (2003). Psychology and the Question of Agency. SUNY Press.
 
 
