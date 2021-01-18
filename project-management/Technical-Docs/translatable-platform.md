@@ -64,11 +64,6 @@ Which generates a `.mo` binary file in the same location as the `.po`.
 {% endraw %}
 ```
 
-
-## In the view
-... *pending* ...
-
-
 # How to Contribute to Translations
 
 The section will detail how the community can get involved with adding translations.
