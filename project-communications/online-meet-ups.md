@@ -17,7 +17,7 @@ The details for the next session are:
 
 | Time | Activity |
 | ---- | -------- |
-| Start | 👋 Welcome, code of conduct review |
+| Start | 👋 Welcome |
 | 4:35pm  | Introductions |
 | 4:45pm  | Tour of the project and updates |
 | 5pm  | Personal goal setting and Q&A |
