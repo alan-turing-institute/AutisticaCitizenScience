@@ -1,7 +1,7 @@
 ---
 breaks: False
 ---
-# Newsletter | 29 January 2020
+# Newsletter | 01 February 2020
 
 *Date sent: 01 February 2020*
 
