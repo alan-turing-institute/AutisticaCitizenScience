@@ -44,7 +44,7 @@ Following the first meet-up group session on Thursday 25th January, a number of 
 	* Promoting the platform 
 	* Web development  
 
-If you would like to join onee of these groups and meet and work with other autistic people, or to suggest another working group, please email Georgia at gaitkenhead@turing.ac.uk.
+If you would like to join onee of these groups and meet and work with other autistic people, or to suggest another working group, please email Georgia at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk).
 
 ### Take part in the ACCEPT study
 
@@ -55,7 +55,7 @@ You can help by filling in the [ACCEPT survey](https://kclbs.eu.qualtrics.com/jf
 ## Presenting the project
 
 The project is being presented on the **26th February from 2pm-3pm** for the *Social Data Science Spcecial Interest Group* at The Turing. 
-It is not a public event, but if you are interested in joining just email Georgia at gaitkenhead@turing.ac.uk and she will link you to the event. 
+It is not a public event, but if you are interested in joining just email Georgia at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk) and she will link you to the event. 
 
 ## Introducing Alice
 
