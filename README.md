@@ -12,6 +12,8 @@
 
 Thank you for being here! 🎉
 
+This is the project management site for the Autistica/Turing citizen science project. To go the repository where the citizen science platform, is being built, follow this link to the repository [AutSPACEs](https://github.com/GeorgiaHCA/AutSPACEs/blob/main/dev_readme.md).
+
 We are a group of autistic people, researchers, developers, parents, designers, experts and volunteers.
 Many of us fit into lots of these groups at once.
 
