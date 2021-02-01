@@ -116,7 +116,7 @@ And here she is in her own words:
 >"My mates who are in the autistic community are trashing the old pathology paradigm around theory of mind and lack of empathy. 
 > Yes, there are some individuals on the spectrum, as there are some individuals not on the spectrum, who may have mental illness and may have a lack of empathy, but then there are people on the spectrum, just like there are people not on the spectrum, who have hyper-empathy, and in fact there's a huge emerging area of research - you have hypo and hyper - you can be more "switched off" and more "switched on", like me, and both can be a gift and a burden. 
 >It can be challenging, which is why you need to protect and look out for yourself. 
->So I am of that school of thought, that every day lay notions of autism or autistic people lacking empathy or social skills, it's really old - it's dead."" 
+>So I am of that school of thought, that every day lay notions of autism or autistic people lacking empathy or social skills, it's really old - it's dead."
 
 >"With courage, I'm talking to people like you. 
 >I'm trying to raise awareness and change the profile, so that across communities and society there are changes in how we perceive neurodiversity. 
