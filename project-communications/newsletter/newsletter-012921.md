@@ -7,7 +7,8 @@ breaks: False
 
 Hello, 
 
-We're already one month into 2021! We hope your year has had a good beginning. 
+We're already one month into 2021!
+We hope your year has had a good beginning. 
 For those struggling with these challenging times, we hope that the citizen science community can offer your support and connection. 
 
 Email Georgia at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk) to let us know if we can help you with involvement, and do feel free to share this newsletter to anyone who you think would be interested in joining us. 
