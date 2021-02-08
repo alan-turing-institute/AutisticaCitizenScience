@@ -75,88 +75,97 @@ And here she is in her own words:
 
 >"I'm a 47 year-old late-diagnosed autistic woman and mother. 
 >I am actually multiply neurodivergent: I'm autistic, and I have attention differences. 
->My proudest >achievement is that I'm a Mum to my daughter Isabell, who is also multiply neurodivergent. 
->We live together in our home in Brighton with our cat Belle, who I say to my daughter is also autistic - and that's why I picked her, because she's very >particular." 
+>My proudest achievement is that I'm a Mum to my daughter Isobel, who is also multiply neurodivergent and late diagnosed. 
+>We live together in our home in Brighton with our cat Belle, who I say to my daughter is also autistic - and that's why I picked her, because she's very spectacular, unusual and special."
 
->"I think something interesting about my profile, which I think is becoming more and more common now, is I've lived life both sides of the river. 
->I've lived for 46 >years as a neurotypical person, and I've only lived the past year and a half knowing that I was autistic. 
+>"I think something interesting about my story, which I think is becoming more and more common now, is I've lived life both sides of the river. 
+>I've lived for 46 years as a neurotypical person, and I've only lived the past year and a half knowing that I was autistic. 
 >Getting a diagnosis was life-changing for me. 
->My motivation wasn't because I needed extra support, it was more because of curiosity, and because of my daughter. 
->My diagnosis came as a positive thing, as a quest of curiosoty and self-knowledge, rather than being because I was experiencing problems in my life. So that's actually quite an unusual thing. 
->I wasn't "diagnosed" in that pathology paradigm of something being wrong. 
->So for me, I think that's quite an interesting angle, that my diagnosis was about something more, it was about my strengths - but also so that I could locate some of the challenges that I'd previously experienced in my neurotypical life.""
+>My motivation for getting diagnosed wasn't because I needed extra support, it was more because of curiosity, and because of my daughter and gaining better underatsning for her. 
+>My diagnosis came as a positive thing, as a quest of curiosoty and self-knowledge, rather than being because I was experiencing problems in my life. 
+>So that's actually quite an unusual thing. 
+>I wasn't "diagnosed" in that pathology paradigm of something being wrong or needing fixing. 
+>So for me, I think that's quite an interesting angle, that my diagnosis was about something more, it was about identifying strengths - but also so that I could locate some of the challenges or 'differences' that I'd previously experienced in my neurotypical life."
 
->"For me it's just a different way of being in the world, which describes my relationship to the world and people. 
+>"For me to be neurodivergent is just a different way of being in the world, and describes my relationship to the world and people. 
 >I always grew up feeling different, and not really understanding why. 
 >I had different feelings about things, different reactions to things, and I felt like a refugee actually - which is quite interesting given my work. 
->I felt dislocated and alienated. 
+>I felt dislocated and alienated, without a home or belonging to a community of simlar people. 
 >So when I got my diagnosis I could make sense of why I felt and thought differently. 
 >It was validating. 
->A lot of the things I would criticise myself for, like that I couldn't understand things in the same way other people did, or that I couldn't think about things >in the same way - can lead to really negative feelings about yourself, which can become a self-perpetuating cycle." 
+>A lot of the things I would criticise myself for, like that I couldn't understand things in the same way other people did, or that I couldn't think about things in the same way -  which can lead to really negative feelings about yourself, which can become a self-perpetuating cycle."
 
->"Some autistic people have quite switched off experiences, but for me, I experience life in glorious technicolour. 
+>"Some autistic people may have quite switched off experiences, but for me, I experience life in glorious technicolour and experience things vividly. 
 >Don't get me wrong, I'm not seeing things dancing - it's rooted in reality, but I see and feel things very intensely. 
->My particular profile is I'm hyper-sensitive and hyper-emotional.
->So an example of that would be that if I saw a suffering animal or a dead animal, I would experience pain. 
->My upset will manifest in internal pain, and it will literally be like experiencing high emotions and pain for a couple of days. 
->You're carrying this trauma of this animal with you. 
+>My particular profile is I'm hyper-sensitive : hyper-empathic and hyper-emotional. 
+>So, an example of that would be that if I saw a suffering animal or a dead animal, I would experience actual physical pain, like trauma. 
+>My upset will manifest in internal pain, and it will literally be like experiencing deep emotions and pain for a couple of days. 
+>You're carrying this physical and emotional trauma of  the suffering of this animal with you. 
 >So that's an example of how I might experience an event - or something that's difficult or sad. 
->Being autistic can make me different to people, so it can disconnect me - but also, for me, I feel really proud to be autistic. 
->It's given me strength and it's given me power, and being autistic explains my success in life. 
->I'm autistic with attention deficiencies, so for example the impulsivity associated with ADHD can lead some peoplee into negative, painful experiences. 
->That impulsivity led me into something really positive - into risk-taking, because I thought, 'yeah, I'm going to set my own business up'." 
+>So around people and environments, it can be highely triggering!" 
 
->"For me, there's both 'despite of', and 'because of' with autism. 
->Being autistic has led to challenges, but it's also opened doors to things and people and worlds I would never have imagined. 
->I feel that it's something that I need to protect and honour and really take care of. 
->It's like harbouring a very precious vase inside of you that you have to really take care of. 
->When I got my diagnosis, it lead to compassion, so my diagnosis gave me self-understanding, and kindness to myself, whereas before I used to be very self-critical, feeling like I was doing things wrong. 
->It was like looking in a kaleidoscope and then being able to switch my whole life, and see my life in a whole new way, going forwards."
+>"Being autistic can make me different to people, so it can disconnect and separate me - but also, for me, I feel really proud to be autistic / neurodivergent, as it's given me strengths. 
+>It's given me strength and it's given me power in certain situations, and being autistic I believe explains my success in life. 
+>For example, the impulsivity often negatively associated with ADHD within the 'disorder' lens, which can lead some people into negative, painful experiences - that 'impulsivity' led me into something really positive - the risk-taking needed to set my own business up and gave me the courage to take that risk, where i may have not without my neurodivergency'.
+>So that core-deficit diagnosis model is turned on its head!"
 
->"My mates who are in the autistic community are trashing the old pathology paradigm around theory of mind and lack of empathy. 
-> Yes, there are some individuals on the spectrum, as there are some individuals not on the spectrum, who may have mental illness and may have a lack of empathy, but then there are people on the spectrum, just like there are people not on the spectrum, who have hyper-empathy, and in fact there's a huge emerging area of research - you have hypo and hyper - you can be more "switched off" and more "switched on", like me, and both can be a gift and a burden. 
->It can be challenging, which is why you need to protect and look out for yourself. 
->So I am of that school of thought, that every day lay notions of autism or autistic people lacking empathy or social skills, it's really old - it's dead."
+>"For me, there's both 'despite of', and 'because of,' with being autistic. 
+>Being autistic has led to challenges, but, as above, it's also opened doors to things and people and worlds I would never have imagined.
+>I feel that it's something that I need to protect and honour and really take care of, something so special and valuable. 
+>It's like harbouring a very precious, unique vase inside of you that you have to really take care of. 
+>A vase of Superpowers! 
+>When I got my diagnosis, it lead to greater self-compassion through self-understanding, and therefore greater kindness (and forgiveness) to myself. 
+>Before I used to be very self-critical, feeling like I was doing things wrong, because of the expectations / reactions of the outside world, sometimes. 
+>This led to my own and (sometimes others') negativity about my difference. 
+>One I understood I was neurodivergent, everything changed and was transformed: it was like looking in a kaleidoscope and then being able to switch my whole life, and see my life in a whole new way, going forwards.
+>It's liberating and freeing, giving you better tools for a better future for yourself, but also, a grief, as you look back and imagine how differently your life may have been with this lens, and you may feel sorrow and sadness for the life you had or the life you lost"
 
->"With courage, I'm talking to people like you. 
->I'm trying to raise awareness and change the profile, so that across communities and society there are changes in how we perceive neurodiversity. 
->People like me, I have great social skills - I maybe talk too much, but I communicate highly effectively. 
->I'm highly articulate, I have emotionality - a huge emotional landscape, so that I was able to found and sustain a social organisation working with loads of >professoinals who might have diagnosed me - doctors, psychiatrists, social workers.""
+>"My friends and colleagues in the autistic community are trashing the old deficits-medical-model of autism - the "pathology paradigm" - ideas around lack of theory of mind and lack of empathy. 
+>Luckily, we have a raft of newer ideas about 'autism' aligned with social models of diasbility - not as tragedy - as neurodiversity - a neurodiversity paradigm - neurorlogical differences - being part of ALL humans and what it is to be human. 
+>Yes, there are some individuals on the spectrum, as there are some individuals not on the spectrum, who may have mental illness and may have a lack of empathy, just as there are many people on the spectrum and many people who are not on the spectrum who have hyper-empathy.
+>It's not straughtforward and reductionist. 
+>Many of my friends / colleagues feel we should not be using pathology language : 'disorder', 'diagnosis' 'deficit', 'fixing' people. 
+>Rather than diagnosing, we should be "identifying' environments which support autistic people, and where autistic 'strengths' can be channelled. 
+>Many people feel there is no 'autism', only autistic people, and we should be talking about autistic experience and creating autistic spaces.  
+>We should shift from 'looking in' and analysing brains and shift to talking to autistic people, 'looking out' and learn from their own lived narratives and experiental experience.  
+>I am of that school of thought, that everyday lay notions of 'autism' as disorder, or autistic people lacking empathy or social skills, it's really old - it's dead.
+>There is no 'autism' per se, there are only autistic people."
 
->"The circles that I'm moving in: I'm moving in academic circles, because of my masters. 
->I'm moving increaasingly in professional circles. 
->I am seeing the embracing of the new paradigm. 
+>"With courage, I'm talking to people like you, about my own lived autistic experience.
+>I'm trying to raise awareness and change the profile, so that across communities and society there are changes in how we perceive neurodiversity and raise awareness of 'missing' groups of people flying under the radar; either mis- or un-diagnosed e.g. women and girls and older people - due to the "rainman' stereotype.
+>Autistic and neurodivergent people are everywhere! 
+>People like me, I have good social skills -  I communicate effectively. 
+>I'm articulate, I have emotionality - a huge emotional landscape.
+>I was missed for 46 years, my daughter for 10 tears."
+
+>"The circles that I'm moving in now are helping raise awarness: I'm moving in academic circles, professional circles and across the autistic community. 
+>I am seeing the embracing of the 'new paradigm', and newer thinking that supports and celebrates autistic well-being and strengths. 
 >But that has to filter down. 
->So they are the thinkers and the doers in terms of structure. 
->Where I don't see it is in the non-autistic community around me. 
->That's not the case with my >friends, luckily - probably because all my friends are neurodiverse, either diagnosed or undiagnosed. 
->Also the kinds of people I would be friends with anyway are really open-minded. 
->But I suppose as I'm navigating day to day life, sadly, there's still these really old misconceptions about autism amongst even the middle class intelligentsia, teachers, and all kinds. 
->There's a lot of work to be done. But I do see it in academic and in organisational and professional circles." 
+>Sadly, it's rarer in the non-autistic community around me. Sadly, there's still these really old misconceptions/ stereotypes about autism amongst even professionals involved in autism - aligned with the medical model and autism as problematic - teachers, doctors, support staff - we have a long way to go. 
+>There's a lot of work to be done. 
+>But I do see it in academic and in organisational and professional circles."
 
->"I wonder, and I think maybe in 50 years time neurodivergent people are going to be the new neurotypicals, because it's such an emerging and growing area, and realising that human nature, what it is to be human, is not singular, and it's not binary. 
->It's not, you know, male and female - gender is a huge construct, ethnicity, race. 
->It's the same with neurodiversity. It's complex, and what it is to be human is not singular."
+>"I wonder, and I think maybe in 50 years time neurodivergent people are going to be the new "neurotypicals", because it's such an emerging and growing area where we are realising that neurodiversity is vast and complex and not a discreet group of Asperger's "little professors" . 
+>A realisation that human nature, what it is to be human, is not simple, predictable, not singular or binary, 'normal' and 'abnormal'. 
+>It's complex and intersectional across multiple neurologies and multiple identitly categories, such as gender, class, and race. 
+>That is why intersectionality is so important; human neurology with other multi-axis, categories and dimensions.
+>We are reframing and reclaiming those spaces, including reclaiming the language.
+>So,for example, you're not just autistic, you may, for instance, identify as neuro-queer or crip-queer. 
+>So taking derogatory or pathologising language and reclaiming it, on our terms. 
+>That's what I'm really interested in, in terms of my research - all this myraid and kaleidoscopic ++++ dimentionality."
 
->"That is why intersectionality is so important, and neurology with other categories and dimensions, such as gender and class. 
->Some of what I've been doing in my master's is around reframing and reclaiming those spaces, so you're not just autistic, you're, for instance, neuro-queer. 
->So taking derogatory or pathologising language and reclaiming it. 
->That's what I'm really interested in, in terms of my research - all this myraid, and kaleidoscope - plus, plus, plus, plus, plus. 
-
->"How I found out about this project was that it came up on Facebook. 
->I'm invested in a lot of autistic organisations, such as The National Autistic Society and Autistica. 
+>"How I found out about this project was that it came up on Facebook at a very random moment in my day, whilst I was busy and distracted.
+>However,I was immediately compelled and inspired to hear more, and listend to the launch seminar when I should have been making my daughter's supper!. 
+>(I'm invested in a lot of autistic organisations, such as The National Autistic Society and Autistica, and have volunteered for a lot of autism and neurodiversity research and activities. 
 >I'd already looked at Autistica's website and seen a lot of what they did, and I've signed up to be involved in research. 
->I feel this is a natural synergy. 
->This popped up at around 6:30 which is a really random time for me even to be looking at stuff, and I was making somthing for my daughter, and I thought, "wow, this is interesting". 
->Particularly because the whole sensory aspect of being neurodivergent is massively neglected. 
->I listened to the talk. 
->There were two bits of this: the fact that it's sensory and the participatory aspect - and then the extension of that, which is citizen science - I thought, 'wow'. 
->I like anything which is pioneering, anything that's cutting edge. 
->Beecause I'm a CEO, I like seeing patterns of what's new and emerging. 
->So I'm involved because I feel that this project is in an exciting, emerging area, and because we know that this is what autistic people have told us feels important to them. 
->It's massively under-researched. 
->So I thought, "yes, I really, really want to do this, I really want to participate in this". 
->I actually feel that it's a commitment and a responsibility to change things for other people, so I really want to be involved."" 
+>I feel this is a natural synergy.)
+>I was particualrly inspired in this project because of the whole sensory focus on the research, and this aspect of being neurodivergent is being massively neglected, and that this has been repeatedly raised by autistic people as important to them in terms of research priorities. 
+>I also was attracted by the citizen-science approach which is partiicpatory ++++ for me: it is best practice for involving autistic people in research about and for them.  
+>So 2 key drivers of my interest: the fact that it's sensory-focused, which is massively under-researched, and the citizen-scientist aspect, which is massively incluisve and particiaptory. So I thought, "yes, I really, really want to do this, I really want to participate in this".
+
+>"I actually feel platforms like this are critical, and enable some of us from the autistic community to help change things for the next generation  - and that is part of a commitment and a responsibility I feel in my heart. I always have now - to impact / change things for other people who may not have a voice, where I may have.
+>So I really want to be involved."
+
 
 ## Connect with us
 
