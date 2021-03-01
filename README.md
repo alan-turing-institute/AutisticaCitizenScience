@@ -1,5 +1,5 @@
 # Autistica/Turing Citizen Science
-[![Join the chat at https://gitter.im/alan-turing-institute/AutisticaCitizenScience](https://img.shields.io/badge/chat-on%20gitter-brightgreen.svg?style=flat-square)](https://gitter.im/alan-turing-institute/AutisticaCitizenScience)
+[![Join the chat at https://slackin.openhumans.org/](https://img.shields.io/badge/chat-on%20slack-brightgreen.svg?style=flat-square)](https://slackin.openhumans.org/)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/AutisticaTuringCitizenScience)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
