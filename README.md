@@ -45,10 +45,9 @@ Please continue reading to find out more, or jump to any of the following sectio
 * Find out more about how we work together: [participatory science](#participatory-science)
 * Find out more about [our community](#Our-community)
 * View suggestions and contributions from the community in [community-recommendations](#community-recommendations)
-* View the latest versions of the platform, including wireframes and protytpees in [platform-designs](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
 * See how the project is being run in [project-management](project-management)
 * See who's involved: [contributors](#contributors)
-* Reuse anything here under our open source [license](#license)
+* Re-use anything here under our open source [license](#license)
 
 We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
 We also welcome open source developers to join us in building it.
@@ -102,13 +101,12 @@ This project is a collaboration between Autistica and The Alan Turing Institute.
 Autistica is a UK-based charity whose mission is to help autistic people and their families have long, healthy, happy lives.
 The Alan Turing Institute is the UK's National Institute for artificial intelligence and data science.
 We have partnered with Open Humans Foundation, who have helped us adapt their file management system for storing the data the tool will collect.
-We are now working with Autistica's corporate partner Fujitsu, who are building the user interface of the online tool.
+
 You can find out more about all these organisations on their websites:
 
 * [Autistica](https://www.autistica.org.uk/)
 * [The Alan Turing Institute](https://www.turing.ac.uk/)
 * [Open Humans Foundation](http://openhumansfoundation.org/)
-* [Fujitsu](https://www.fujitsu.com/uk/)
 
 At the heart of the community are autistic participants, families, carers, volunteers and open source developers.
 This is an open project, which anyone is invited to contribute to.
