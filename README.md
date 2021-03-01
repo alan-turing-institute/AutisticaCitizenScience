@@ -92,7 +92,7 @@ We want autistic voices to be heard at every stage of the research process, so t
 We also warmly welcome the input of people who are not autistic themselves.
 You can really make a difference!
 
-We only ask that you share our [values](/project-management/ethics-applications/stage-1-co-design-phase/A2_ValuesAndOutcomes.pdf) and follow our [code of conduct](/.github/CODE_OF_CONDUCT.md).
+We only ask that you share our [values](/project-management/ethics-applications/stage-1-co-design-phase/A2_ValuesAndOutcomes.pdf) and follow our [code of conduct](/project-management/ethics-applications/stage-1-co-design-phase/A3_CodeOfConduct.pdf).
 
 All kinds of things, including the tool that we build, the way that we work, and the page that you are reading now can be changed with community input.
 
