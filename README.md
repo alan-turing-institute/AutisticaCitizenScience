@@ -121,7 +121,7 @@ You can see suggestions from other members of the community in the [community-re
 The Autistica/Turing Citizen Science project welcomes all contributions.
 For more information on how to participate, please review our [contributing guidelines](/.github/CONTRIBUTING.md) and the [building a safe community](/project-management/ethics-applications/stage-1-co-design-phase/A4_BuildingASafeCommunity.pdf) document.
 
-Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
