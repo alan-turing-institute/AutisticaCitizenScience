@@ -41,9 +41,9 @@ You can help in lots of ways, for example, by:
 Please continue reading to find out more, or jump to any of the following sections:
 
 * For information on how to get started and join in, go to [get-involved](get-involved)
-* Find out more about [autism and navigating environments](#Autism-and-navigating-environments)
+* Find out more about [autism and navigating environments](#autism-and-navigating-environments)
 * Find out more about how we work together: [participatory science](#participatory-science)
-* Find out more about [our community](#Our-community)
+* Find out more about [our community](#our-community)
 * View suggestions and contributions from the community in [community-recommendations](#community-recommendations)
 * See how the project is being run in [project-management](project-management)
 * See who's involved: [contributors](#contributors)
