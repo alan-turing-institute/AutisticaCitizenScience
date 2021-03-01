@@ -169,7 +169,7 @@ Contributions of any kind welcome!
 
 ## License
 
-All content in this repository is [openly licensed](LICENSE) with a CC-BY 4.0 (Creative Commons Attribution 4.0 International) license, which means you're free to use the materials and remix them so long as you ***credit the source***.
+All content in this repository is [openly licensed](/.github/LICENSE.md) with a CC-BY 4.0 (Creative Commons Attribution 4.0 International) license, which means you're free to use the materials and remix them so long as you ***credit the source***.
 
 For example, if you were to use content from this repo in your own project you'd attribute the Autistica/Turing Citizen Science community with a sentence like:
 
