@@ -40,8 +40,7 @@ We therefore require that all contributions **adhere to our [Code of Conduct](CO
 
 There are many ways to get in touch with the Autistica/Turing Citizen Science project team!
 
-- Ping us in our [Slack channel](
-https://www.openhumans.org/).
+- Ping us in our [Slack channel](https://slackin.openhumans.org/).
   - This is our preferred method of open communication and discussion!
     We'd love for you to say hello.
 - Join the discussion in our [issues][aut-cit-sci-issues] and [pull requests][aut-cit-sci-prs].
