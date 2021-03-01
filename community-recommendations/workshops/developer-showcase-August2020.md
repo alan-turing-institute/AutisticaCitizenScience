@@ -75,9 +75,9 @@ You can write a little explanation if you'd like, but you don't have to.
 
 * Presented by Chris
 * Community feedback mechanisms
-  * https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/wireframes/feedback-mechanism.md
-  * https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/wireframes/community-questions.md
-  * https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/wireframes/design-decisions.md
+  * https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/wireframes/feedback-mechanism.md
+  * https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/wireframes/wireframe-questions.md
+  * https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/wireframes/design-decisions.md
   * ![](https://raw.githubusercontent.com/alan-turing-institute/AutisticaCitizenScience/master/images/design-decisions/image16.png)
 * Non-verbal input
   * https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/200
