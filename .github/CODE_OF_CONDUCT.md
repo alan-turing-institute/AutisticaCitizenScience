@@ -81,7 +81,7 @@ Examples of unacceptable behaviour by Autistica/Turing citizen science community
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
 This applies to all Autistica/Turing citizen science community events and platforms, either online or in-person.
-If a participant engages in behaviour that violates this Code of Conduct, any member of the research team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#enforcement-manual) for details).
+If a participant engages in behaviour that violates this Code of Conduct, any member of the research team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#4-enforcement-manual) for details).
 
 ### 2.4 Feedback
 
@@ -96,7 +96,7 @@ If you feel able to, please contact Kirstie Whitaker by email at [kwhitaker@turi
 
 ### 3.2 Alternate contact points
 
-If you do not feel comfortable contacting Kirstie Whitaker, please report an incident to Jon Spiers by email at [jon.spiers@autistica.org.uk](mailto:jon.spiers@autistica.org.uk).
+If you do not feel comfortable contacting Kirstie Whitaker, please report an incident to James Cusack by email at [james.cusack@autistica.org.uk](mailto:james.cusack@autistica.org.uk).
 
 ### 3.3 What to do if someone is in physical danger
 
