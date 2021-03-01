@@ -4,7 +4,7 @@
 
 ## Hacking's Human Kinds and the Ethics of Participatory Science 
 
-Drawing on Hacking’s ([1996](doi.org/10.1093/acprof:oso/9780198524021.003.0012)) influential concept of the ‘looping effects of human kinds’, this paper will explore the ethical implications of the dynamics between researchers and research subjects in scientific practice. 
+Drawing on Hacking’s ([1996](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198524021.001.0001/acprof-9780198524021-chapter-12)) influential concept of the ‘looping effects of human kinds’, this paper will explore the ethical implications of the dynamics between researchers and research subjects in scientific practice. 
 We argue that scientists engaged in work about human kinds have a moral duty to include research subjects in their work. 
 We will then ground the theoretical discussion with a case study of participatory science in action: a project to build a tool to investigate autism and sensory processing through the participatory co-creation of a citizen science platform. 
 This project is a collaboration between the UK-based research charity Autistica and The Alan Turing Institute, the UK’s national institute for AI and data science. 
