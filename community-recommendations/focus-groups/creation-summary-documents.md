@@ -46,7 +46,7 @@ These sessions were run according to the project's study protocol for in-person 
 In line with Autistica's policy, all sessions were held outside of rush hour.
 The sessions were held in Fujitsu's offices in Baker Street, London. Refreshments including vegan and gluten free options were provided after the request of some participants, and a quiet room was available.
 There were always multiple facilitators present.
-All participants were talked through a schedule [agenda](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A6_ConsentForm.pdf) and a [consent form](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A6_ConsentForm.pdf), as well as a [participant information sheet](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A7_ParticipantInformationSheet.pdf)
+All participants were talked through a schedule agenda and a [consent form](/project-management/ethics-applications/stage-1-co-design-phase/A6_ConsentForm.pdf), as well as a [participant information sheet](/project-management/ethics-applications/stage-1-co-design-phase/A7_ParticipantInformationSheet.pdf)
 
 All participants from Autistica's Insight Group were paid in line with Autistica's policy and involve guidelines.
 
@@ -54,7 +54,7 @@ The focus group was recorded.
 
 ### 2. Transcribe discussion <img src="../../images/noun-project-icons/noun_transcript_532343.png" width="150" align="right"/>
 
-All data from the focus groups were collected and processed in accordance with the project's [data management protocols for in-person sessions](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A8_DataManagement.pdf)
+All data from the focus groups were collected and processed in accordance with the project's [data management protocols for in-person sessions](/project-management/ethics-applications/stage-1-co-design-phase/A8_DataManagement.pdf)
 
 The focus group was written down word-for-word. No personally identifying information was included in this document.
 
@@ -88,7 +88,7 @@ We asked them to:
 3. Ensure the information is appropriately anonymised.
 4. Send us any requested changes.
 
-All participants were emailed [review guidelines](project-management/FocusGroups/FocusGroup-SummaryReview-Guidelines.md)
+All participants were emailed [review guidelines](/community-recommendations/focus-groups/creation-summary-documents.md)
 
 There were no requested changes to the content of the documents, however there were some suggested improvements to the layout, formatting, and labelling of the documents.
 The document was then changed on the basis of this feeback.
