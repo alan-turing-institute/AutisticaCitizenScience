@@ -53,6 +53,7 @@ We cannot build this tool without the input of a diverse community of autistic p
 We also welcome open source developers to join us in building it.
 
 We believe that the people who will be affected most by research should have opportunities to make decisions, set the direction, and be involved in the research process throughout.
+
 In addition to building the tool, we will use the experience of co-creating it to write a participatory science framework that other researchers and communities can learn from.
 
 ## Autism and navigating environments
@@ -118,7 +119,7 @@ You can see suggestions from other members of the community in the [community-re
 ## Contributors
 
 The Autistica/Turing Citizen Science project welcomes all contributions.
-For more information on how to participate, please review our [contributing guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md) and the [building a safe community](project-management/building-a-safe-community.md) document.
+For more information on how to participate, please review our [contributing guidelines](/.github/CONTRIBUTING.md) and the [building a safe community](project-management/building-a-safe-community.md) document.
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
 
