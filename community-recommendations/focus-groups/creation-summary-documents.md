@@ -41,7 +41,7 @@ The request for potential questions was also sent out to subscribers of the proj
 
 Participants came to a focus group at Fujitsu to talk about a project to design a platform to use for autism research.
 
-These sessions were run according to the project's study protocol for in-person sessions, detailed in the [study protocol](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/A9_StudyProtocol.pdf)
+These sessions were run according to the project's study protocol for in-person sessions, detailed in the [study protocol](/project-management/ethics-applications/stage-1-co-design-phase/A9_StudyProtocol.pdf)
 
 In line with Autistica's policy, all sessions were held outside of rush hour.
 The sessions were held in Fujitsu's offices in Baker Street, London. Refreshments including vegan and gluten free options were provided after the request of some participants, and a quiet room was available.
