@@ -13,8 +13,8 @@ You can write a little explanation if you'd like, but you don't have to.
 
 ## Norm setting
 
-* Building a safe community: https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/ethics-applications/stage-1-co-design-phase/A4_BuildingASafeCommunity.pdf
-* Code of conduct: https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CODE_OF_CONDUCT.md
+* [Building a safe community](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/ethics-applications/stage-1-co-design-phase/A4_BuildingASafeCommunity.pdf)
+* [Code of conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CODE_OF_CONDUCT.md)
 
 ### Specific comments and suggestions
 
