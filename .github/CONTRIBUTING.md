@@ -238,7 +238,7 @@ Therefore, please check the [open pull requests][aut-cit-sci-prs] first to make 
 What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
 (Don't feel bad, we have all done it! 🙈)
 Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
-If you are unable to do this for any reason, please let us know in the [Gitter channel](https://gitter.im/alan-turing-institute/AutistiaCitizenScience) or by opening an issue, and a team member will be very happy to help!
+If you are unable to do this for any reason, please let us know in the [Slack channel](https://slackin.openhumans.org/) or by opening an issue, and a team member will be very happy to help!
 
 Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/contributors.md)!
 
