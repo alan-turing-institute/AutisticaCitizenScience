@@ -17,7 +17,7 @@ To do so, we explore Hacking’s account of human kinds and provide the example 
 We briefly review recent trends in the study of autism and argue that the gap traditionally conceived between “knowers” and those who are “known” raises ethical concerns.
 
 The ethical concerns we discuss are similar to those of feminist scholars at large and standpoint theorists in particular. 
-We will consider what Miranda Fricker ([2007](doi.org/10.1093/acprof:oso/9780198237907.001.0001)) calls “epistemic injustice”. 
+We will consider what Miranda Fricker ([2007](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198237907.001.0001/acprof-9780198237907)) calls “epistemic injustice”. 
 By Fricker’s account, prejudice about certain stereotypes render their testimony noncredible. 
 When these stereotypes are incorrect, an epistemic injustice is produced. 
 This is because social injustices are perpetuated through incorrectly assigned stereotypes. Despite the research subject being the expert of their own experience, research findings are afforded validity by scientific institutions and authority by society. 
