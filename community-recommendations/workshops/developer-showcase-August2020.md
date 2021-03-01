@@ -60,7 +60,7 @@ You can write a little explanation if you'd like, but you don't have to.
   * https://github.com/alan-turing-institute/AutisticaCitizenScience/milestones
 * Project --> Epic --> Feature --> Story --> Task
 * Combination of Agile and Open Source working
-  * https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/agile-opensource-workflow.md
+  * https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/agile-opensource-workflow
 * Minimum viable product
   * High, medium and low categorisation
 * Component development
