@@ -35,8 +35,8 @@ Archives of an update from November is available at [https://tinyletter.com/Auti
 
 All documentation is available and licenced for re-use in the project’s GitHub repository including:
 
-* Contributing guidelines: [CONTRIBUTING.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md)
-* A code of conduct: [CODE_OF_CONDUCT.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CODE_OF_CONDUCT.md)
+* Contributing guidelines: [CONTRIBUTING.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md)
+* A code of conduct: [CODE_OF_CONDUCT.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CODE_OF_CONDUCT.md)
 * Guidance on safeguarding: [project-management/building-a-safe-community.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/building-a-safe-community.md)
 * A values statement: [project-management/project-values.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/project-values.md)  
 * Information on data management: [project-management/data-management.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/data-management.md)

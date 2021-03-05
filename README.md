@@ -114,7 +114,7 @@ This is an open project, which anyone is invited to contribute to.
 
 ## Community recommendations
 
-You can see suggestions from other members of the community in the [community-recommendations](community-recommendations) section.
+You can see suggestions from other members of the community in the [community-recommendations](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations) section.
 
 ## Contributors
 

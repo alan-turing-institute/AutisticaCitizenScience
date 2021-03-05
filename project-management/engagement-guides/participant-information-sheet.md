@@ -89,7 +89,7 @@ It may also be stressful to hear others share their stories.
 **If you do not wish to participate in any parts of the discussion, you do not have to.**
 
 We have a code of conduct that applies to all online and in person interactions during the project.
-You can read it [online](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CODE_OF_CONDUCT.md).
+You can read it [online](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CODE_OF_CONDUCT.md).
 We are committed to ensuring that every member of our community is treated with respect.
 You can read more about our values at the [project values](project-values.md) document.
 
