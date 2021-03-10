@@ -58,7 +58,7 @@ Consent is sought for the information provided to be made public before any data
 We do not elicit any identifying information or ask for contact details via Google Form.
 The data is stored in Google Drive cloud servers and will be accessible by the core research team.
 A member of the research team will personally assess all submissions and redact any names or locations to ensure the text is as anonymous as possible.
-They will also redact any content which contravenes our [code of conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CODE_OF_CONDUCT.md) (for example, sharing personally identifying information about someone else).
+They will also redact any content which contravenes our [code of conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CODE_OF_CONDUCT.md) (for example, sharing personally identifying information about someone else).
 The submitted, assessed information is made publicly available in our GitHub repository.
 Information within the GitHub repository will remain publicly available, and is licensed for reuse by anyone, so long as they credit the Autistica/Turing citizen science community.
 

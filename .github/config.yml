@@ -9,7 +9,7 @@ newIssueWelcomeComment: >
   
   :tada: Welcome to Autistica Citizen Science project! :tada:
   We're really excited to have your input into the project! :sparkling_heart:
-  If you haven't done so already, please make sure you check out our [Contributing Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CODE_OF_CONDUCT.md).
+  If you haven't done so already, please make sure you check out our [Contributing Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md) and [Code of Conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CODE_OF_CONDUCT.md).
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
@@ -20,7 +20,7 @@ newPRWelcomeComment: >
   
   :sparkling_heart: Thanks for opening this pull request! :sparkling_heart:
   We really appreciates your time and effort to contribute to the project.
-  Please make sure you have read our [Contributing Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CONTRIBUTING.md) and shared details in your request.
+  Please make sure you have read our [Contributing Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md) and shared details in your request.
   We sometimes get many pull requests on this repo, so please be patient and we will get back to you as soon as we can.
   If we don't acknowledge this pull request after 7 days, feel free to comment below.
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge

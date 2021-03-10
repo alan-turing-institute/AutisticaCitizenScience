@@ -29,8 +29,8 @@ There is also lots of information about the project available. The video below g
 
 Please make sure you follow our [code of conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CODE_OF_CONDUCT.md) when you take part.
 
-For more detailed guidance on how to join the community, please read our [contributing guidelines](CONTRIBUTING.md).
+For more detailed guidance on how to join the community, please read our [contributing guidelines](/.github/CONTRIBUTING.md).
 
 ## Community recommendations
 
-You can see suggestions from other members of the community in the [community recommendations](community-recommendations) folder.
+You can see suggestions from other members of the community in the [community recommendations](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations) folder.

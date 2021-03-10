@@ -36,7 +36,7 @@ tags: autistica, turing, citizenscience, wireframing
 
 | Time  | Activity | Description | Lead |
 | ----- | -------- | ----------- | ---- |
-| 10:00 | Welcome | Overview of [code of conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/CODE_OF_CONDUCT.md) and purpose of the session | **Kirstie** |
+| 10:00 | Welcome | Overview of [code of conduct](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CODE_OF_CONDUCT.md) and purpose of the session | **Kirstie** |
 | 10:10 | Small group discussions | In breakout rooms discuss what norms you'd like to set for participatory co-creation with a diverse community, particularly (but not limited to) autistic people and their families | all |
 | 10:25 | Report back | One person from each group share a summary of their conversation with the whole group | all |
 | 10:40 | Think-pair-share | Individually reflect on the discussion for 2 minutes and then share those insights with a partner. Particular focus on anything that has been missed from the discussion so far | all |

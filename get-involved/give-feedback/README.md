@@ -16,7 +16,7 @@ For example, you could write in the box:
 
 What you write in the box will be published on this site, but we will take out information which might make you identifiable first.
 
-You can see what other community members have written in the [community recommendations folder](/community-recommendations).
+You can see what other community members have written in the [community recommendations folder](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations).
 
 ## Give feedback on designs
 
