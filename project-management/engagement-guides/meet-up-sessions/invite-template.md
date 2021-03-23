@@ -82,14 +82,18 @@ If you're wondering where to start, check out some of the current activities tha
 *Suggested activities*  
 
 **Sign up below** 
-*Please add your name below if you are or would like to be involved in these activities (completely optional!)*  
+*Please add your name below if you are or would like to be involved in these activities (completely optional!). You can also add the contact details you would like to be used.*  
+
+* Georgia Aitkenhead/ gaitkenhead@turing.ac.uk/ GeorgiaHCA
 
 ### Research
 
 *Suggested activities*
 
 **Sign up below** 
-*Please add your name below if you are or would like to be involved in these activities*  
+*Please add your name below if you are or would like to be involved in these activities. You can also add the contact details you would like to be used.*  
+
+* Georgia Aitkenhead/ gaitkenhead@turing.ac.uk/ GeorgiaHCA
 
 ### Moderation
 
@@ -100,7 +104,9 @@ If you're wondering where to start, check out some of the current activities tha
 * Design moderation process
 
 **Sign up below** 
-*Please add your name below if you are or would like to be involved in these activities*  
+*Please add your name below if you are or would like to be involved in these activities. You can also add the contact details you would like to be used.*  
+
+* Georgia Aitkenhead/ gaitkenhead@turing.ac.uk/ GeorgiaHCA
 
 ### Accessibility aand inclusion
 
@@ -115,8 +121,10 @@ If you're wondering where to start, check out some of the current activities tha
 **Sign up below** 
 *Please add your name below if you are or would like to be involved in these activities*  
 
+* Georgia Aitkenhead/ gaitkenhead@turing.ac.uk/ GeorgiaHCA
+
 ### Platform Development
-*The key technical skills for the platform development are: Django web development, GitHub, Python. We can also help you learn these skills if you would like to.*
+*The key technical skills for the platform development are: Django web development, GitHub, Python. We can also help you learn these skills if you would like to. You can also add the contact details you would like to be used.*
 
 *Suggested activities*
 
@@ -127,6 +135,8 @@ If you're wondering where to start, check out some of the current activities tha
 
 
 **Sign up below** 
-*Please add your name below if you are or would like to be involved in these activities*
+*Please add your name below if you are or would like to be involved in these activities. You can also add the contact details you would like to be used.*
+
+* Georgia Aitkenhead/ gaitkenhead@turing.ac.uk/ GeorgiaHCA
 
 
