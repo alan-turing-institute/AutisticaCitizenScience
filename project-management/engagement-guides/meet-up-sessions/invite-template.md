@@ -77,7 +77,7 @@ For any more information, you are welcome to contact the organiser Georgia Aitke
 
 If you're wondering where to start, check out some of the current activities that people are leading. You are welcome to join them, or propose a new task. 
 
-### Comms, engagement, and promotion
+### Communications, engagement, and promotion
 
 *Suggested activities*  
 
