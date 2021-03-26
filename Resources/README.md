@@ -34,9 +34,13 @@ It is the UK's national institute for data science and AI innovation.
 
 ## Created by community members
 
+Susanna Fantoni's [website and blog](https://skfantoni.com/) 
+
 ## Autism
 
 ### Autism: academic articles
+
+#### Autism and participatory science
 
 ### Autism: recommended books
 
