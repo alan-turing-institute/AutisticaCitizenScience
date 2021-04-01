@@ -8,7 +8,7 @@ It is regularly updated.
 
 The survey data is available in two formats:
 
-  * Human readable format: [pdf](Autistica_Turing%20Citizen%20Science%20Platform%20(Responses)%20-%20Form%20Responses%201(2).pdf)
-  * Machine readable format: [csv](Autistica_Turing%20Citizen%20Science%20Platform%20(Responses)%20-%20Form%20Responses%201(2).csv)
+  * Human readable format: [pdf](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/community-recommendations/google-form/Autistica_Turing%20Citizen%20Science%20Platform%20(Responses)%20-%20Form%20Responses%201(3).pdf)
+  * Machine readable format: [csv](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/community-recommendations/google-form/Autistica_Turing%20Citizen%20Science%20Platform%20(Responses)%20-%20Form%20Responses%201(3).csv)
   
  
