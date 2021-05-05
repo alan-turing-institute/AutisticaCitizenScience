@@ -1,4 +1,4 @@
-## Draft Tweets
+## Draft Regular Tweets
 
 **Weekly - this is a recurring tweet that will go out once a week**
 
@@ -19,3 +19,10 @@ We are continuously looking for participants to join and work on the AutSPACEs p
 We have opportunities within the project to work on website development, community or project management. If you feel like you specialise or want to develop in any of these opportunities, please message us and we can find a great time to onboard you #autspaces #research #project # skillsanddevelopment
 
 Our newsletter is out. To receive updates on our project please sign up to it. 
+
+
+## Draft Ireegular Tweets
+
+**Why we do what we do**
+
+To include direct quotes from contributors of the project. 
