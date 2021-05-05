@@ -1,9 +1,9 @@
 # Newsletter | May 2021 📰
 *Date sent: *
 
-Hi everyone!!
+**Hi everyone!!**
 
-Firslty, thank you for opening and reading this month's newsletter 😄 We are so happy you are here!
+Firstly, thank you for opening and reading this month's newsletter 😄 We are so happy you are here!
 
 We are running into May, filled with bank holidays and hopes for sunny weather soon 🤞
 
@@ -18,10 +18,29 @@ Best wishes for everyone! 💮
 
 ## Project News
 
+### New members!!
+
+We are excited to introduce to you two new members of the project team: 
+
+**Sowmya Rajan**
+
+I am Sowmya, a second year Digital Sciences Master Student at the Centre for Research and Interdisciplinary. 
+I mostly like to research and apply data analysis on various interesting topics to understand better everyday! 
+Right now, I am working as an intern for the AutSPACEs project on the development part where I help in implementation of the digital prototype. 
+My favorite hobbies are reading books and going for long hikes. 
+You can reach out to me anytime, I am always happy to help :slightly_smiling_face:
+
+**Lotty Coupat**
+ Hello everyone! My name is Lotty and I am currently working as the Community Manager for the AutSPACEs Project, over on secondment from the Civil Service. 
+ As the community manager, my aim is to get our commmunities together to ensure paritcipation and collaboration on the project. 
+ A lot of my background has been in the delivery of user centered digital products within government to ensure adoption and adaption to change. 
+ In my spare time I love to dance and cook delicious meals 🥘
+ I'm really excited to be working on this project and happy to help wherever possible so please don't hesitate to get in contact with me! 
+
 ### Meet-up sessions
 
 We've had two recent online meet-ups (8th and 22nd April) where we have focused on the scope of the project and moderation of the platform and its stories. 
-We have also introduced new members! Please see below for a small introduction of both newbies...
+We have also introduced new members as above! 
 
 To catch up on the meet-ups, please find the summaries in our GitHub repository (LINK). 
 
@@ -58,7 +77,7 @@ If you are social media savvy we would love to hear from you and get input into 
 Following the first meet-up group session on Thursday 25th January, a number of areas crucial to the project were identified in which people were interested in helping out:
 
    *  Research
-   *  Communication, engagement and Promotion
+   *  Communication, Engagement and Promotion
    *  Platform development
    *  Accessibility and Inclusion 
    *  Moderation
