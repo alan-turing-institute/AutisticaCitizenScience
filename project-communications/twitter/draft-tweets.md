@@ -21,7 +21,7 @@ We have opportunities within the project to work on website development, communi
 Our newsletter is out. To receive updates on our project please sign up to it. 
 
 
-## Draft Ireegular Tweets
+## Draft Irregular Tweets
 
 **Why we do what we do**
 
