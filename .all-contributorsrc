@@ -261,6 +261,18 @@
         "ideas",
         "test"
       ]
+    },
+    {
+      "login": "lottycoupat",
+      "name": "lottycoupat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82104604?v=4",
+      "profile": "https://github.com/lottycoupat",
+      "contributions": [
+        "ideas",
+        "review",
+        "doc",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
