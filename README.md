@@ -1,7 +1,7 @@
 # Autistica/Turing Citizen Science
 [![Join the chat at https://slackin.openhumans.org/](https://img.shields.io/badge/chat-on%20slack-brightgreen.svg?style=flat-square)](https://slackin.openhumans.org/)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/AutisticaTuringCitizenScience)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 *Project management and resource repository for the Autistica/Turing Citizen Science project*
@@ -158,6 +158,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/pgc007"><img src="https://avatars1.githubusercontent.com/u/64270473?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pgc007</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=pgc007" title="Code">💻</a> <a href="#ideas-pgc007" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=pgc007" title="Documentation">📖</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3Apgc007" title="Reviewed Pull Requests">👀</a> <a href="#talk-pgc007" title="Talks">📢</a> <a href="#userTesting-pgc007" title="User Testing">📓</a></td>
     <td align="center"><a href="http://www.talarify.co.za"><img src="https://avatars3.githubusercontent.com/u/7215014?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anelda van der Walt</b></sub></a><br /><a href="#ideas-anelda" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=anelda" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/lottycoupat"><img src="https://avatars.githubusercontent.com/u/82104604?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lottycoupat</b></sub></a><br /><a href="#ideas-lottycoupat" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3Alottycoupat" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=lottycoupat" title="Documentation">📖</a> <a href="#projectManagement-lottycoupat" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/sowmya9507"><img src="https://avatars.githubusercontent.com/u/55495129?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sowmya</b></sub></a><br /><a href="#ideas-sowmya9507" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=sowmya9507" title="Code">💻</a></td>
   </tr>
 </table>
 
