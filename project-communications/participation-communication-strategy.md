@@ -4,34 +4,38 @@ This is where you will find all information and strategic direction of our commu
 
 ## Mountain of Engagement
 
-Our Mountain of Engagement can be seem in the below image. 
+Our Mountain of Engagement (MoE) can be seen in the below image. 
 
-It shows the levels of engagement and paritcipation that there is within the Project. 
-It is important to note that there is not a hierarchy in realtion to how important you are to the project. 
+[insert image here]
+
+It shows the levels of engagement and participation that there is within the Project. 
+It is important to note that there is not a hierarchy in relation to how important you are to the project. 
 Each level is crucial and fundamental to the success of the project. 
 
 The MoE allows us to map out where contributors lie and where we can provide opportunities to allow individuals to increase their participation to the next level. 
-A key difference between each level in the responsibility the individual has to the project. 
+A key difference between each level is the responsibility the individual has to the project. 
 As the level increases so does that individuals responsibility accordingly. 
+
+The MoE seeks out opportunities for contrbutors to move up the scale if they are happy to do so and the community manager will ensure this happens and opportunities are available. 
 
 ## Onboarding New Members
 
 When new members show interest in being a part of the project, they will be onboarded and briefed on the project's aims and objectives as well as progress update. 
-This will be in the form of an onboarding pack which includes all materials that is needed to succesfully undertsnad the project, as well as a 1:1 chat with the Community Manager who will ensure all information is understood. 
+This will be in the form of an onboarding pack which includes all materials that is needed to succesfully understand the project, as well as a 1:1 chat with the Community Manager who will ensure all information is understood. 
 
 There is also an onboarding checklist to ensure that all new members receive all the required information. 
 
 
 ## In person Communications
 
-This engagement will involve face to face communication with and between contributors of the project. Due to the current circumstances as well as geographically spread out nature of this project, this will be in the form of online video conferencing (Zoom). 
+This engagement will involve face to face communication with and between contributors of the project. Due to the current COVID circumstances as well as the geographically spread out nature of this project, this will be in the form of online video conferencing (Zoom). 
 
 ### Meet-ups
 
-Currently we have a fortnightly meet-ups where anyone who is interested in the project can participate. 
+Currently we have meet-ups scheduled every 2nd and 4th Thursday of the month, where anyone who is interested in the project can participate. 
 
 One key channel in which individuals find out about these meet-ups is through connection with Autistica and through Twitter.
-Therefore these are two engagement pathways that will be continnuously active to ensure upkeep and icnrease in participation. 
+Therefore these are two engagement pathways that will be continnuously active to ensure maintenance and increase in participation. 
 
 The aim of the meet-ups is to discuss and work on different areas of the project as well as a space for onboarding. 
 
@@ -45,7 +49,7 @@ It will also be a space in which individuals can come together and work in colla
 
 ### Knowledge Share (TBC) 
 
-These sessions would be to knowledge share on a specific aspect/topic of the project to keep all memebers updated on what is going on in the different branches of the project. 
+These sessions would be to knowledge share on a specific aspect/topic of the project to keep all members updated on what is going on in the different branches of the project. 
 These could be schedueld in accordance to the need of them. 
 For example, if the topic has been worked on extensively in both the meet-ups and co-working, and needs a longer slot to update the group, then this session can be used for that. 
 
@@ -103,7 +107,7 @@ Autistica/Turing Citizen Science Co-working sessions | Weekly, Pre-engagement, P
 Knowledge Sharing Sessions | Fortnightly, Pre-engagement, Post-engagement
 Newsletter | Monthly distribution
 Onboarding calls | 1:1 chats, introduction at Mett-ups
-Leadership meetings | Weekly
+Project Team Meetings | Fortnightly
 Twitter | Continuous
 Slack | Continuous 
 
@@ -122,6 +126,6 @@ Link to previous meeting summary will also be available with a small explanation
 The aim of these communications will be to capture what happened in the meeting that has occured. 
 
 This will include a link to the most recent summary of the meeting, in which those that attended can be reminded of what happened and those who did not attend can catch up. 
+This will also include the next date, where possible, of the next meeting. 
 
-Link to the recording of the meeting (?) 
 
