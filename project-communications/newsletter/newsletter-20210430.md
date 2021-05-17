@@ -21,13 +21,13 @@ Best wishes for everyone! 💮
 
 We are excited to introduce to you two new members of the project team: 
 
-**Sowmya Rajan**
+**Sowmya Rajan** 
 
 > I am Sowmya, a second year Digital Sciences Master Student at the Centre for Research and Interdisciplinary. 
 > I mostly like to research and apply data analysis on various interesting topics to understand better everyday! 
 > Right now, I am working as an intern for the AutSPACEs project on the development part where I help in implementation of the digital prototype. 
 > My favorite hobbies are reading books and going for long hikes. 
-> You can reach out to me anytime, I am always happy to help 🙂
+> You can reach out to me anytime [via email](sowmya.rajan@cri-paris.org), I am always happy to help 🙂
 
 **Lotty Coupat**
 
