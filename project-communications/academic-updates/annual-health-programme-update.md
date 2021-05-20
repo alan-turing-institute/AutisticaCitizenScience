@@ -166,7 +166,7 @@ Methods, protocols, code, and other work as detailed above has been publicly rel
 
 * Our participatory process involves engaging with, supporting, remunerating and in some cases upskilling autistic participants, for instance by teaching GitHub skills, giving a platform for views, and encouraging/supporting public speaking and writing. 
 This is core to our methodology and values.
-* A Twitter account was set up for the project: @AutSpaces. 
+* A Twitter account was set up for the project: [@AutSpaces](https://twitter.com/AutSpaces). 
 The Twitter account currently has 102 followers and has posted 48 tweets. 
 Autistic participants have been actively involved in supporting the Twitter strategy and writing tweets.
 * Collaboration with an artist from Scriberia has resulted in two cartoons which are used to illustrate and explain the project. 
