@@ -17,22 +17,18 @@ Alan Turing Institute
 #### Lay Summary
 
 Autistica and the Alan Turing Institute are working together to build a participatory, citizen science project to gather data on how sensory processing affects autistic people’s navigation of the world.
-
 Numerous studies into sensory processing and autism have confirmed that autistic people experience sensory processing differences, and that this can significantly impact their lives. 
-
 One aspect which is not yet fully understood is how these differences affect the ways in which autistic people navigate different environments.  
 
-This project is to build a platform to gather autistic people’s experiences of navigating their environment at scale. 
+This project is to build a platform to gather autistic people’s experiences of navigating their environment at scale.
 Our goals are to better understand and represent the commonalities and individual differences in autistic people’s experiences navigating the world. 
-
 We will identify the barriers they face and solutions to overcome these challenges.
 
 The citizen scientists who contribute their data to this project will be autistic people, and their relatives and carers. 
-
 The main target audience for this work are non-autistic people, including, but are not limited to, employers, friends and family, urban planners, architects and interior designers for hospitals, schools and community spaces.  
 
 The work will be participatory from the ground up. 
-All aspects of the project will be designed and developed in collaboration with members of the autistic community.  
+All aspects of the project will be designed and developed in collaboration with members of the autistic community.
 The platform will be developed under a free and open source license and will be built openly from the beginning. 
 We commit to re-using – with credit – open source projects that already exist rather than re-inventing the wheel. 
 
