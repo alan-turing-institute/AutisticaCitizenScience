@@ -46,7 +46,7 @@ No data will be shared without explicit consent from the citizen scientist who u
 ### Sections with Information 
 
 #### [ACADEMIC MEETINGS AND CONFERENCES ATTENDANCE](#Academic-meetings-and-conferences-attendance)	
-#### [SOFTWARE AND TECHNICAL PRODUCTS](#Software-and-technical-products)	
+#### [SOFTWARE AND TECHNICAL PRODUCTS](#Software-and-Technical-Products)	
 #### [FURTHER FUNDING](#Further-funding)
 #### [RESEARCH TOOLS AND METHODS](#Research-tools-and-methods)	
 #### [COLLABORATIONS AND PARTNERSHIPS](#Collaborations-and-partnerships)	
