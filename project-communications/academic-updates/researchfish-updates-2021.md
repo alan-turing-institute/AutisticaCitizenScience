@@ -45,13 +45,13 @@ No data will be shared without explicit consent from the citizen scientist who u
  
 ### Sections with Information 
 
-#### [ACADEMIC MEETINGS AND CONFERENCES ATTENDANCE](#Academic-meetings-and-conferences-attendance)	
-#### [SOFTWARE AND TECHNICAL PRODUCTS](#Software-and-Technical-Products)	
-#### [FURTHER FUNDING](#Further-funding)
-#### [RESEARCH TOOLS AND METHODS](#Research-tools-and-methods)	
-#### [COLLABORATIONS AND PARTNERSHIPS](#Collaborations-and-partnerships)	
-#### [PATIENT AND PUBLIC INVOLVEMENT](#Patient-and-public-involvement)	
-#### [RESEARCH DATASETS, DATABASES AND MODELS](#Research-datasets-databases-and-models)	
+#### [ACADEMIC MEETINGS AND CONFERENCES ATTENDANCE](#academic-meetings-and-conferences-attendance)	
+#### [SOFTWARE AND TECHNICAL PRODUCTS](#software-and-technical-products)	
+#### [FURTHER FUNDING](#further-funding)
+#### [RESEARCH TOOLS AND METHODS](#research-tools-and-methods)	
+#### [COLLABORATIONS AND PARTNERSHIPS](#collaborations-and-partnerships)	
+#### [PATIENT AND PUBLIC INVOLVEMENT](#patient-and-public-involvement)	
+#### [RESEARCH DATASETS, DATABASES AND MODELS](#research-datasets-databases-and-models)	
 #### [ANNUAL PROGRESS](#annual-progress)	
 #### [ENGAGEMENT ACTIVITIES](#engagement-activities)	
  
