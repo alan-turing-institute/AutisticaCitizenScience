@@ -18,8 +18,8 @@ Videos presenting the wireframes designs have been uploaded to Youtube for publi
 * [Sprint 2 video](https://www.youtube.com/watch?v=A_6uOwFZRfo&feature=youtu.be)
 * [Sprint 1 video](https://www.youtube.com/watch?v=4f6kn5HLysc)
 
-Questions for the community about wireframe designs can be found in the file [wireframe-questions.md](wireframe-questions.md)
+Questions for the community about wireframe designs can be found in the file [wireframe-questions.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/ARCHIVE-fujitsu/wireframes/wireframe-questions.md)
 
-The protocol for collecting feedback on the wireframe designs using the video and questions can be found in [feedback-mechanism.md](feedback-mechanism.md)
+The protocol for collecting feedback on the wireframe designs using the video and questions can be found in [feedback-mechanism.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/ARCHIVE-fujitsu/wireframes/feedback-mechanism.md)
 
-Additional resource for creating wireframes can be found in [wireframes-resources.md](wireframes-resources.md)
+Additional resource for creating wireframes can be found in [wireframes-resources.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/ARCHIVE-fujitsu/wireframes/wireframes-resources.md)
