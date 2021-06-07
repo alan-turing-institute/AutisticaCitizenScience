@@ -4,7 +4,12 @@ Contents:
 
 - [Platform Design](#platform-design)
 - [Building the Platform](#building-the-platform)
+- [Diversity, Accessibility and Inclusivity](#diversity-accessibility-and-inclusivity)
+- [Future funding](#future-funding)
+- [Growing the community](#growing-the-community)
+- [Design moderation process](#design-moderation-process)
 - [Project Management](#project-management)
+- [Collecting the database](#collecting-the-database-using-the-platform-for-research)
 
 ## Platform Design
 
@@ -134,7 +139,7 @@ Map out deadlines for funding
 
 Apply to funding 
 
-## Growing Community
+## Growing the community
 
 Map out onboarding process
 
@@ -204,7 +209,7 @@ Draft the paper
 
 Chapter writing 
 
-## Collect database using platform which is useful for research
+## Collect the database using the platform for research
 
 Define what data will be used
 Decide where this will be shared
