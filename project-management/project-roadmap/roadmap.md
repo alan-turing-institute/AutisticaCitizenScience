@@ -117,109 +117,111 @@ Check that instructions are styled properly - [#44](https://github.com/alan-turi
 
 ### Milestone 6 Platform second phase
 
-Integrate moderation into platform
+Integrate moderation into platform - [#97](https://github.com/alan-turing-institute/AutSPACEs/issues/97) - Long Term
 
 ## Diversity, Accessibility and Inclusivity				
 
-Define Accessibility requirements
+Define Accessibility requirements - [#468](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/468) - Short Term
 
-MVP - User testing to ensure accessibility 
+Check PDFs and other documents for accessibility - [#409](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/409)- Short Term
 
-MVP - Testing against WCAG and gov guidelines
+Glossary of terms - [#73](https://github.com/alan-turing-institute/AutSPACEs/issues/73) - Short Term
 
-User testing to ensure accessibility 
+MVP - User testing to ensure accessibility - Medium Term
 
-Testing against WCAG and gov guidelines
+MVP - Testing against WCAG and gov guidelines - Medium Term
 
-Check PDFs and other documents for accessibility
+Look into opportunities for visual expression on the platform - [#379](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/379) - Medium Term
 
-Look into opportunities for visual expression on the platform 
+User testing to ensure accessibility - Long Term
 
-Glossary of terms
+Testing against WCAG and gov guidelines - Long Term
 
 ## Future funding
 
-List out funding applications
+List out funding applications - [#464](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/464) - Short Term
 
-Map out deadlines for funding 
+Map out deadlines for funding - Short Term
 
-Apply to funding 
+Apply to funding - Short Term
 
 ## Growing the community
 
-Map out onboarding process
+Map out onboarding process - [#420](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/420) - Short Term
 
-Create onboarding pack
+Create onboarding pack - [#420](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/420) - Short Term
 
-Update Turing Website
+Update Turing Website - [#465](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/465) - Short Term
 
-Personas and pathway evaluation
+Personas and pathway evaluation - [#467](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/467) - Short Term
 
-Tidy repositories to ensure up to date information and correct links
+Tidy repositories to ensure up to date information and correct links - [#415](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/415) - Short Term
 
-Provide feedback on the Github repository
+Provide feedback on the Github repository - [#363](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/363) - Short Term
 
-Create a communication plan 
+Create a communication plan - **Completed** [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-communications/participation-communication-strategy.md)
 
-Produce participation strategy
+Produce participation strategy - **Completed** [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-communications/participation-communication-strategy.md)
 
-Set up fortnightly reporting 
+Set up fortnightly reporting - [#452](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/452) - Short Term
 
-Monthly newsletter 
+Monthly newsletter - Short Term
 
-Find more opportunities for dissemination and community engagement
+Find more opportunities for dissemination and community engagement - [#417](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/417) - Short Term
 
-Code of Conduct for meet-ups updating
+Code of Conduct for meet-ups updating - [#432](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/432) - Short Term
 
-Build connections across Turing
+Build connections across Turing - [#418](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/418) - Medium Term
 
-Connect with people who can make changes based on data
+Connect with people who can make changes based on data - [#470](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/470) - Medium Term
 
 ## Design moderation process
 
-Map out tasks which need decision and dependencies
+Map out tasks which need decision and dependencies - [#476](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/476) - Short Term
 
-Create moderation summaries
+Create moderation summaries - [#416](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/416) - Short Term
 
-Going through summaries and picking out themes to inform work
+Going through summaries and picking out themes to inform work - [#432](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/432) - Short Term
 
-Code of conduct for stories
+Code of conduct for stories - [#475](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/475) - Short Term
 
-Map out escalation route for undecided stories
+Map out escalation route for undecided stories - [#479](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/479) - Medium Term
 
-Write guidelines for moderators
+Write guidelines for moderators - [#479](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/479) - Medium Term
 
-Decide how many moderators are needed
+Decide how many moderators are needed - [#474](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/474) - Medium Term
 
-Assign Moderators 
+Assign Moderators - [#474](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/474) - Long Term
 
 ## Project Management
 
-Expand the project to look at co-occuring conditions
+Expand the project to look at co-occuring conditions - [#464](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/475) - Short Term
 
-Update documents to include co-occuring conditions 
+Update documents to include co-occuring conditions - [#464](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/475) - Short Term
 
-Complete updates on Researchfish 
+Complete updates on Researchfish - [#459](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/475) - Short Term
 
-Review and carry out Ethical process
+Review and carry out Ethical process - [#463](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/475) - Short Term
 
-Update Guide to issues
+Update Guide to issues - [#428](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/475) - Short Term
 
-Create a guide to subgroups
+Create a guide to subgroups - [#427](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/475) - Short Term
 
 ## Publishing paper on Project
 
-Find literature for paper 
+Find literature for paper - [#481](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/481) - Short Term
 
-Draft the paper
+Draft the paper - Long Term
 
-Chapter writing 
+Chapter writing - Long Term
 
 ## Collect the database using the platform for research
 
-Define what data will be used
-Decide where this will be shared
-Decide how to communicate the data
+Define what data will be used - Long Term
+
+Decide where this will be shared - Long Term
+
+Decide how to communicate the data - Long Term
 
 
 
