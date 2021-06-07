@@ -124,7 +124,7 @@ Description	A specialist meeting taking place in The Alan Turing Institute consi
 Start Month	Nov
 Start Year	2019
 Location	Local/Municipal/Regional
-URL	https://sustainabilitycommunity.springernature.com /posts/54545-can-opening-up-research-help-drive-in novation
+URL	https://sustainabilitycommunity.springernature.com /posts/54545-can-opening-up-research-help-drive-innovation
 **Primary role**	Oral presentation
 **Description**	Springer Nature in association with the British Library hosted an event exploring how Open Research can support researchers with developing solutions to meet the UN’s SDGs (Sustainable Development Goals) and tackle today’s global challenges such as climate change, poverty and ensuring health and wellbeing.
 **Position of attendee**	Principle Investigator 
