@@ -218,7 +218,7 @@ Project URL
 **Description**	The creation of the Focus Groups dataset was done using a new participatory method. A key was developed to highlight relevant categories individuals fall into as part of the dataset, a decision resulting from discussion sessions with the autistic community. The key was co-designed with Otis Smith, an autistic citizen scientist. In particular, Smith innovated a tag to distinguish between the direct and indirect reporting of experiences. 
 **Provided to Others**	Yes
 **Year First Provided	**2019
-**Impact Description**	Diffrentiating betwen direct and indirect reporting is not a standard practice in qualitative research anaysis, but coud be a useful way of addressing a common complaint by autistic people that their experiences are often spoken about or over by others, and that this prevents them from being directly consulted and listened to. 
+**Impact Description**	Differentiating betwen direct and indirect reporting is not a standard practice in qualitative research anaysis, but coud be a useful way of addressing a common complaint by autistic people that their experiences are often spoken about or over by others, and that this prevents them from being directly consulted and listened to. 
 The value of making a distinction between direct and indirect reporting has been attested to by autistic people in subsequent discussion sessions. 
 URL	https://github.com/alan-turing-institute/Autistica CitizenScience/tree/master/community-recommendatio ns/focus-groups
 Digital ID	
