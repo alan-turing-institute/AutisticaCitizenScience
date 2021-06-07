@@ -508,7 +508,7 @@ A participatory science co-working group was set up with researchers from Google
 The project's research associate became a co-lead of the Social Data Sciences Special Interest Group and has presented this project with group members, as well as a facilitating collaborator from The Open Humans Foundation to share knowledge with The Turing.
 
 ## Participatory Science    
-We remain committeed to research for and by autistic people, and have been highly meticulous in ensuring diverse autistic people, including those with complex needs or co-occuding conditions, are involved throughout in a way which is respectful and empowering. 
+We remain committed to research for and by autistic people, and have been highly meticulous in ensuring diverse autistic people, including those with complex needs or co-occuding conditions, are involved throughout in a way which is respectful and empowering. 
 Our ongoing platform development is also rigorously based on recommendations from the community.    
 Throughout the year, there has been continued community growth. 
 We have had enthusiastic interest and collaboration from new autistic members, new developers, and people from within the Turing. 
