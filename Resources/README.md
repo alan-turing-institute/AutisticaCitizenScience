@@ -83,7 +83,6 @@ Happé, F., & Fletcher-Watson, S. (2019). **Autism: A New Introduction to Psycho
 
 ## Community Management
 
-* [Open humans](https://www.openhumans.org/)
 * [Heart and Soul survey](https://www.heartnsoulasks.com/enter/mISqCDIsOA8N5HDjpmoH/)
 * [The Turing Way community handbook (newsletter and coworking)](https://the-turing-way.netlify.app/community-handbook/community-handbook.html)
 * [CSCCE community management document](https://www.cscce.org/resources/)
