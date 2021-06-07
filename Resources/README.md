@@ -12,7 +12,7 @@ Whether you want to get guidance, explore further, dig deeper, or find a foothol
   * recommended books
   * blogs and websites
   * other usefel resources
-* [Open research](/#pen-research)
+* [Open research](#open-research)
 * [Citizen science](#citizen-science)
 * [Technical guides](#technical-guides)
   * GitHub
