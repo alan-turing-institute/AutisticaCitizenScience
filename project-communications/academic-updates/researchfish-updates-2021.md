@@ -261,7 +261,7 @@ We have provided her with one to one mentoring, opportunities for professional d
 **Year Commenced**	2021
 **Year Ended**	Still Active
 URL /	
-**Resultant Outcomes**	The secondment is in the early stages, however outputs include two succesfully run community co-working sessions, a number of high-quality strategic documents for community invovlement, project promotion, and future steps; important management support; and consistently high-quality, dependable support with a number of tasks including repository management and community management. 
+**Resultant Outcomes**	The secondment is in the early stages, however outputs include two succesfully run community co-working sessions, a number of high-quality strategic documents for community involvement, project promotion, and future steps; important management support; and consistently high-quality, dependable support with a number of tasks including repository management and community management. 
 **Categorisation of impact**	Societal
 **Formally Governed**	Yes
  
@@ -272,12 +272,12 @@ Contributed Financially	No
 In-kind contribution	Yes
 In-kind contribution currency	EUR Euro
 Give an estimate of the in-kind value.	2000
-Contributions Made	We have shared our research with CRI, and provided them with a full presentation of the project and its aims by the Principle Investigator Kirstie Whitaker. We have also provided developmental internship opportunities for CRI students: doctoral students Katharina Kloppenborg and Sowmya Raja, who have both been offered substantial support and mentorship from the research team.   
-Partner Contributions	CRI has provided us with pro bono support from two highly skilled students at a doctorl level to run user-testing and develop the platform. They have also provided opportunities to disseminate the project's work and values which has been mutually beneficial. 
+Contributions Made	We have shared our research with CRI, and provided them with a full presentation of the project and its aims by the Principle Investigator Kirstie Whitaker. We have also provided developmental internship opportunities for two CRI doctoral students, who have both been offered substantial support and mentorship from the research team.   
+Partner Contributions	CRI has provided us with pro bono support from two highly skilled students at a doctoral level to run user-testing and develop the platform. They have also provided opportunities to disseminate the project's work and values which has been mutually beneficial. 
 Year Commenced	2020
 Year Ended	Still Active
 URL	
-Resultant Outcomes	Openly published user testing results with diverse autistic participants, as well as documentation for how other researchers could run them. https://github.com/alan-turing-institute/Autistica CitizenScience/tree/master/community-recommendatio ns/user-tests.   Presentation for CRI on "Participatory citizen science to improve autistic people's lives'. DOI: 10.5281/zenodo.3766923.   Ongoing development support for AutSPACEs platform by skilled intern.  
+Resultant Outcomes	Openly published user testing results with diverse autistic participants, as well as documentation for how other researchers could run them. https://github.com/alan-turing-institute/Autistica CitizenScience/tree/master/community-recommendations/user-tests.   Presentation for CRI on "Participatory citizen science to improve autistic people's lives'. DOI: 10.5281/zenodo.3766923.   Ongoing development support for AutSPACEs platform by a skilled intern.  
 Categorisation of impact	Cultural
 Formally Governed	Yes
  
@@ -293,7 +293,7 @@ Partner
 **Give an estimate of the in-kind valu**e	333,000
 **Contributions Made**	We have provided Fujitsu with a significant amount of researcher time. 
 We have offered opportunities for development and upskilling for Fujitsu staff in open development, data management, GitHub, neurodiversity and participatory co-creation. 
-We have also given Fujitsu an opportunity to help meet their own charity partnership objective, and supported them to deliver a publiic presentation about their work for Autistica's 2020 Autism Research Festival. 
+We have also given Fujitsu an opportunity to help meet their own charity partnership objective, and supported them to deliver a public presentation about their work for Autistica's 2020 Autism Research Festival. 
 **Partner Contributions**
 Fujitsu have provided a team of agile developers to work pro bono on the platform. 
 They have supported autistic people by remunerating them to take part in discussion sessions and user testing, as **well** as hosting these sessions. 
@@ -380,21 +380,21 @@ Factors of success of patient involvement:
 
 **Challenges of involvement** 
 * Nature of condition can affect ability to be involved
-* Small number of people or appropriate people are difficult  to engage
+* Small number of people or appropriate people are difficult to engage
 * Lack of resources to support effective involvement
 * Difficulty in finding appropriate ways to communicate and engage,Concerns about how 'representative' views are
 **Why was involving people challenging?**	
 Difference made by patient involvement	
 Our research is fundamentally participatory, and we have actively engaged and recruited members of the affected community. 
-This is a community of people on the autism spectrum, their relatives, carers, and allie. 
+This is a community of people on the autism spectrum, their relatives, carers, and allies. 
 Their work has been core to a number of dimensions: determining the research question; setting the direction of the project; inputting their concerns and desired outputs; designing the methods of the study, co-authoring papers, attending stakeholder meetings, and strategising methods. 
 As such, their involvement has been critical to the research direction, content, and progress.    
-We remain committed to research for and by autistic people, and have been meticulous in ensuring diverse autistic people, including those with complex needs and co-occuding conditions, are involved throughout in a way which is respectful and empowering. 
+We remain committed to research for and by autistic people, and have been meticulous in ensuring diverse autistic people, including those with complex needs and co-occurring conditions, are involved throughout in a way which is respectful and empowering. 
 Our ongoing platform development is also rigorously based on recommendations from the community.     
-Furtheremore, a key research goal has been to empower autistic participants through their involvement. 
+Furthermore, a key research goal has been to empower autistic participants through their involvement. 
 There have been some highly significant outcomes for autistic individuals. Here is a selection:     
 	* Autistic adult with epilepsy: after setbacks following illness and coronavirus disruptions, being inspired to enter into autism research, applying for a master's course, and delivering own research at a postgraduate-level conference.  
-	* Autistic adult with dyspraxia: becoming a neurodiversity advocate at thier workplace and being inspired to apply for a secondment to The Alan Turinig Institute .  
+	* Autistic adult with dyspraxia: becoming a neurodiversity advocate at thier workplace and being inspired to apply for a secondment to The Alan Turinig Institute.  
 	* Autistica adult and parent of autistic individual: being empowered to have her voice heard and to have a tangible impact on adjustments to environments to make them more neurodiverse in additional contexts.   
 	* Autistic adult: found the project invaluable in dealing with mental health difficulties exacerbated by Covid-19.     
 
