@@ -228,7 +228,7 @@ Publication ID	60995324995342.41724166
 **Material Type**	Improvements to research infrastructure
 **Material Name**	Collaborative, participatory, open citizen science 
 **Description**	Designing a research methodology which supports autistic people to participate in an empowered way in open research to co-create a citizen science platform. 
-This has required using a broad diversity of tools and protocols for research including tools such as GitHub, google forms, newsletters, individual Zoom sessions, co-wowking sessions, co-authoring, focus group consultations, and workshops. 
+This has required using a broad diversity of tools and protocols for research including tools such as GitHub, google forms, newsletters, individual Zoom sessions, co-working sessions, co-authoring, focus group consultations, and workshops. 
 It is a method of continuous experimentation and improvement. The method is described in our repositories. 
 **Provided to Others**	Yes
 **Year First Provided**	2019
