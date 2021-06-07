@@ -189,7 +189,7 @@ Open Source license	MIT license
 This repository holds the code for the Autistica project and provides an open audit of the project's progression and community involvement.
 **Select the year that this output was realised.**	2020
 **Briefly describe notable impacts** This repository is being used to develop the platform. 
-It includes a requirements list based on thourough community input from a diverse range of autistic participants, and issues derived from those requirements which support the platform development. 
+It includes a requirements list based on thorough community input from a diverse range of autistic participants, and issues derived from those requirements which support the platform development. 
 URL.	https://github.com/alan-turing-institute/AutSPACEs
 URL.	https://github.com/alan-turing-institute/AutSPACEs
 Digital ID	
