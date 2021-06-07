@@ -4,6 +4,11 @@ Contents:
 
 - [Platform Design](#platform-design)
 - [Building the Platform](#building-the-platform)
+  - [Milestone 2 - MVP Development](#milestone-2-mvp)
+  - [Milestone 3 - Open Humans Integration](#milestone-3-open-humans-integration)
+  - [Milestone 4 - Accessibility Checks](#milestone-4-accessibility-checks)
+  - [Milestone 5 - deploy MVP platform](#milestone-5-deploy-mvp-platform)
+  - [Milestone 6 - platform second phase](#milestone-6-platform-second-phase)
 - [Diversity, Accessibility and Inclusivity](#diversity-accessibility-and-inclusivity)
 - [Future funding](#future-funding)
 - [Growing the community](#growing-the-community)
@@ -13,31 +18,32 @@ Contents:
 
 ## Platform Design
 
-User flow mapped out for MVP 
-- [#107](https://github.com/alan-turing-institute/AutSPACEs/issues/107)
-- Short Term
+User flow mapped out for MVP - [#107](https://github.com/alan-turing-institute/AutSPACEs/issues/107) - Short Term
 - All platform development work is dependant on the User Flow to be defined
 - Update: **COMPLETED**, can be found here.
 
-Platform branding 
+Platform branding - [#429](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/429) - Medium term
 
 Userflow mapped out for second phase platform
+- Dependant on building the platform milestones 1-5 to be completed first
 
 ## Building the Platform
 
-**Milestone 2 - MVP**
+### Milestone 2 - MVP
 
-Create Landing page
+> All actions in milestone 2 are dependant on the creation of the MVP User Flow [#107](https://github.com/alan-turing-institute/AutSPACEs/issues/107)
 
-Create Sign up/Sign in flow
+Create Landing page - [#15](https://github.com/alan-turing-institute/AutSPACEs/issues/15) - Short Term
 
-Create View Experiences page
+Create Sign up/Sign in flow- [#17](https://github.com/alan-turing-institute/AutSPACEs/issues/17) - Short Term
 
-Create My Stories MVP page
+Create View Experiences page - [#105](https://github.com/alan-turing-institute/AutSPACEs/issues/105) - Short Term
 
-Create Share Experience MVP 
+Create My Stories MVP page - [#19](https://github.com/alan-turing-institute/AutSPACEs/issues/19) - Short Term
 
-**Milestone 3 - Open Humans Integration**
+Create Share Experience MVP - [#16](https://github.com/alan-turing-institute/AutSPACEs/issues/16) - Short Term
+
+### Milestone 3 - Open Humans Integration
 
 Retrieve experiences from database
 
@@ -53,7 +59,7 @@ Document Open Humans link
 
 Place-holder moderation page
 
-**Milestone 4 - Accessibility Checks**
+### Milestone 4 - Accessibility Checks
 
 HTML checks - Check any video players are accessible
 
@@ -107,9 +113,9 @@ Check that links make sense
 
 Check that instructions are styled properly
 
-**Milestone 5 - deploy MVP platform** 
+### Milestone 5 - deploy MVP platform
 
-**Milestone 6 - platform second phase**
+### Milestone 6 - platform second phase
 
 Integrate moderation into platform
 
