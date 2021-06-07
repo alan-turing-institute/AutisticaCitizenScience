@@ -167,7 +167,7 @@ Yes (Open Source)
 **Open Source license**	
 Other
 **Briefly describe technical product.**	
-This repository holds project managemet tools, resources, and protocols for the Autistica project and provides an open audit of the project's progression and community involvement. 
+This repository holds project management tools, resources, and protocols for the Autistica project and provides an open audit of the project's progression and community involvement. 
 **Select the year that this output was realised.**	2019
 **Briefly describe notable impacts.**	The repository has been used for project management and to collaborate with autistic citizen scientists, offering important upskilling opportunities. 
 It also allows the ongoing work to be publicly available and easily shared with community members. 
