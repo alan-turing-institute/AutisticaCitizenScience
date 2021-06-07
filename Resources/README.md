@@ -81,6 +81,13 @@ Happé, F., & Fletcher-Watson, S. (2019). **Autism: A New Introduction to Psycho
 * Greshake Tzovaras, B., Angrist, M., Arvai, K., Dulaney, M., Estrada-Galiñanes, V., Gunderson, B., Head, T., Lewis, D., Nov, O., Shaer, O., Tzovara, A., Bobe, J., & Price Ball, M. (2019). Open Humans: A platform for participant-centered research and personal data exploration. GigaScience, 8(6). https://doi.org/10.1093/gigascience/giz076
 * Hecker, S., Hacklay, M., Bowser, A., Makuch, Z., Vogel, J., & Bonn, A. (2018). Citizen Science: Innovation in Open Science, Soceity and Policy. UCL Press.
 
+## Community Management
+
+* [Open humans](https://www.openhumans.org/)
+* [Heart and Soul survey](https://www.heartnsoulasks.com/enter/mISqCDIsOA8N5HDjpmoH/)
+* [The Turing Way community handbook (newsletter and coworking)](https://the-turing-way.netlify.app/community-handbook/community-handbook.html)
+* [CSCCE community management document](https://www.cscce.org/resources/)
+
 ## Technical guides
 
 ### GitHub
