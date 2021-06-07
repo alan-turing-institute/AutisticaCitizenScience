@@ -220,7 +220,7 @@ Project URL
 **Year First Provided	**2019
 **Impact Description**	Differentiating betwen direct and indirect reporting is not a standard practice in qualitative research anaysis, but coud be a useful way of addressing a common complaint by autistic people that their experiences are often spoken about or over by others, and that this prevents them from being directly consulted and listened to. 
 The value of making a distinction between direct and indirect reporting has been attested to by autistic people in subsequent discussion sessions. 
-URL	https://github.com/alan-turing-institute/Autistica CitizenScience/tree/master/community-recommendatio ns/focus-groups
+URL	https://github.com/alan-turing-institute/Autistica CitizenScience/tree/master/community-recommendations/focus-groups
 Digital ID	
 Source	Manual
 Publication ID	60995324995342.41724166
