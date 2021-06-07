@@ -9,7 +9,7 @@ Contents:
 - [Growing the community](#growing-the-community)
 - [Design moderation process](#design-moderation-process)
 - [Project Management](#project-management)
-- [Collecting the database](#collecting-the-database-using-the-platform-for-research)
+- [Collecting the database](#collect-the-database-using-the-platform-for-research)
 
 ## Platform Design
 
