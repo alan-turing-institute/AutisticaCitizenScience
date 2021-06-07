@@ -45,73 +45,73 @@ Create Share Experience MVP - [#16](https://github.com/alan-turing-institute/Aut
 
 ### Milestone 3 Open Humans Integration
 
-Retrieve experiences from database
+Retrieve experiences from database - [#106](https://github.com/alan-turing-institute/AutSPACEs/issues/106) - Short Term
 
-Integrate sign-in process using Open Humans with interface
+Integrate sign-in process using Open Humans with interface - [#102](https://github.com/alan-turing-institute/AutSPACEs/issues/102) - Short Term
 
-Allow user to save an experience and view experiences not yet submitted
+Allow user to save an experience and view experiences not yet submitted - [#101](https://github.com/alan-turing-institute/AutSPACEs/issues/101) - Short Term
 
-Moderator sign-in
+Moderator sign-in - [#100](https://github.com/alan-turing-institute/AutSPACEs/issues/100) - Short Term
 
-Store text input in Open Humans back end with appropriate tags
+Store text input in Open Humans back end with appropriate tags - [#99](https://github.com/alan-turing-institute/AutSPACEs/issues/99) - Short Term
 
-Document Open Humans link
+Document Open Humans link - [#98](https://github.com/alan-turing-institute/AutSPACEs/issues/98) - Short Term
 
-Place-holder moderation page
+Place-holder moderation page - [#20](https://github.com/alan-turing-institute/AutSPACEs/issues/20) - Short Term
 
 ### Milestone 4 Accessibility Checks
 
-HTML checks - Check any video players are accessible
+HTML checks - Check any video players are accessible - [#68](https://github.com/alan-turing-institute/AutSPACEs/issues/68) - Medium Term
 
-HTML checks - check the language the content is written in
+HTML checks - check the language the content is written in - [#67](https://github.com/alan-turing-institute/AutSPACEs/issues/67) - Medium Term
 
-HTML checks - Checking tables and bullet lists are styled properly 
+HTML checks - Checking tables and bullet lists are styled properly  - [#66](https://github.com/alan-turing-institute/AutSPACEs/issues/66) - Medium Term
 
-Search and other forms of navigation
+Search and other forms of navigation - [#65](https://github.com/alan-turing-institute/AutSPACEs/issues/65) - Medium Term
 
-Check whether there’s an alternative for people who cannot see maps
+Check whether there’s an alternative for people who cannot see maps - [#64](https://github.com/alan-turing-institute/AutSPACEs/issues/64) - Medium Term
 
-Pop-ups and interactive or flashing content
+Pop-ups and interactive or flashing content - [#63](https://github.com/alan-turing-institute/AutSPACEs/issues/63) - Medium Term
 
-Checking content is usable when zoomed in or magnified
+Checking content is usable when zoomed in or magnified - [#61](https://github.com/alan-turing-institute/AutSPACEs/issues/61) - Medium Term
 
-Navigating just using a keyboard
+Navigating just using a keyboard - [#60](https://github.com/alan-turing-institute/AutSPACEs/issues/68) - Medium Term
 
-Tests using a mobile or tablet device
+Tests using a mobile or tablet device - [#59](https://github.com/alan-turing-institute/AutSPACEs/issues/59) - Medium Term
 
-Check the PDFs and other documents
+Check the PDFs and other documents - [#58](https://github.com/alan-turing-institute/AutSPACEs/issues/58) - Medium Term
 
-Check users can review their answers before submitting a form
+Check users can review their answers before submitting a form - [#56](https://github.com/alan-turing-institute/AutSPACEs/issues/56) - Medium Term
 
-Check that any error messages are helpful
+Check that any error messages are helpful - [#55](https://github.com/alan-turing-institute/AutSPACEs/issues/55) - Medium Term
 
-Check users get a warning before they’re timed out
+Check users get a warning before they’re timed out - [#54](https://github.com/alan-turing-institute/AutSPACEs/issues/54) - Medium Term
 
-Check form elements are consistent across your website
+Check form elements are consistent across your website - [#53](https://github.com/alan-turing-institute/AutSPACEs/issues/53) - Medium Term
 
-Check it’s clear what information users need to provide
+Check it’s clear what information users need to provide - [#52](https://github.com/alan-turing-institute/AutSPACEs/issues/52) - Medium Term
 
-Check form fields are marked up appropriately
+Check form fields are marked up appropriately - [#51](https://github.com/alan-turing-institute/AutSPACEs/issues/51) - Medium Term
 
-Check you’re using proper headings
+Check you’re using proper headings - [#42](https://github.com/alan-turing-institute/AutSPACEs/issues/42) - Medium Term
 
-Check pages are usable when stylesheets are disabled
+Check pages are usable when stylesheets are disabled - [#43](https://github.com/alan-turing-institute/AutSPACEs/issues/43) - Medium Term
 
-Check for images containing text
+Check for images containing text - [#50](https://github.com/alan-turing-institute/AutSPACEs/issues/50) - Medium Term
 
-Audio descriptions for video and audio content
+Audio descriptions for video and audio content - [#49](https://github.com/alan-turing-institute/AutSPACEs/issues/49) - Medium Term
 
-Check any video or audio content is properly described
+Check any video or audio content is properly described - [#48](https://github.com/alan-turing-institute/AutSPACEs/issues/48) - Medium Term
 
-Check any images have a description
+Check any images have a description - [#47](https://github.com/alan-turing-institute/AutSPACEs/issues/47) - Medium Term
 
-Check that pages have good titles
+Check that pages have good titles - [#46](https://github.com/alan-turing-institute/AutSPACEs/issues/46) - Medium Term
 
-Check that form elements behave as expected
+Check that form elements behave as expected - [#57](https://github.com/alan-turing-institute/AutSPACEs/issues/57) - Medium Term
 
-Check that links make sense
+Check that links make sense - [#45](https://github.com/alan-turing-institute/AutSPACEs/issues/45) - Medium Term
 
-Check that instructions are styled properly
+Check that instructions are styled properly - [#44](https://github.com/alan-turing-institute/AutSPACEs/issues/44) - Medium Term
 
 ### Milestone 5 Deploy MVP platform
 
