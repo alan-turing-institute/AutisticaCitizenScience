@@ -29,7 +29,7 @@ Userflow mapped out for second phase platform
 
 ## Building the Platform
 
-### Milestone 2 - MVP
+### Milestone 2 MVP
 
 > All actions in milestone 2 are dependant on the creation of the MVP User Flow [#107](https://github.com/alan-turing-institute/AutSPACEs/issues/107)
 
@@ -43,7 +43,7 @@ Create My Stories MVP page - [#19](https://github.com/alan-turing-institute/AutS
 
 Create Share Experience MVP - [#16](https://github.com/alan-turing-institute/AutSPACEs/issues/16) - Short Term
 
-### Milestone 3 - Open Humans Integration
+### Milestone 3 Open Humans Integration
 
 Retrieve experiences from database
 
@@ -59,7 +59,7 @@ Document Open Humans link
 
 Place-holder moderation page
 
-### Milestone 4 - Accessibility Checks
+### Milestone 4 Accessibility Checks
 
 HTML checks - Check any video players are accessible
 
@@ -113,9 +113,9 @@ Check that links make sense
 
 Check that instructions are styled properly
 
-### Milestone 5 - deploy MVP platform
+### Milestone 5 Deploy MVP platform
 
-### Milestone 6 - platform second phase
+### Milestone 6 Platform second phase
 
 Integrate moderation into platform
 
