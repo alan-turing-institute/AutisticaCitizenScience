@@ -257,7 +257,7 @@ GBP British Pound Sterling
 **Contributions Made**	
 We have given a civil servant on the Digital Data and Technology (DDAT) civil service fast stream a six month secondment opportunity. 
 We have provided her with one to one mentoring, opportunities for professional development, direct ownership over tasks, access to new communities and resources, an introduction to new areas of research, and experience and support with a number of technologies and online best practices. 
-**Partner Contributions** The fast streamer seconded to The Alan Turing Institute has provided invaluable support in community management annd project management. She has worked strategically to provide high-level planning as well as detailed task management. Thus, via. this secondment, the civil service is providing 6 months of pro bono support from an exceptional worker which has already resulted in substantial benefits.
+**Partner Contributions** The fast streamer seconded to The Alan Turing Institute has provided invaluable support in community management annd project management. She has worked strategically to provide high-level planning as well as detailed task management. Thus, via this secondment, the civil service is providing 6 months of pro bono support from an exceptional worker which has already resulted in substantial benefits.
 **Year Commenced**	2021
 **Year Ended**	Still Active
 URL /	
