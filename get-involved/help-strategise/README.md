@@ -8,7 +8,8 @@ Information about project management protocols can be found in the [project mana
 
 You may find the following information useful: 
 
-* [Project values](project-management/project-values.md)
-* [Planned outputs](project-management/planned-outputs.md)
-* [Data management](project-management/data-management.md)
-* [Building a safe and valued community](project-management/building-a-safe-community.md)
+* [Project values](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-information/project-values.md)
+* [Planned outputs](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-information/planned-outputs.md)
+* [Data management](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-information/data-management.md)
+* [Building a safe and valued community](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-information/building-a-safe-community.md)
+* [Participation and communication strategy](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-information/participation-communication-strategy.md)
