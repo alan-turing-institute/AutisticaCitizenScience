@@ -18,6 +18,9 @@ What you write in the box will be published on this site, but we will take out i
 
 You can see what other community members have written in the [community recommendations folder](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations).
 
+## Give feedback on the project
+If you would live to provide feedback on key project documentation, you can help by addressing [issues](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues) and creating or reviewing [pull requests](https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls) in this repository. 
+
 ## Give feedback on platform coding
 
-If you do have coding skills or are looking to learn some, you can help by addressing issues, reviewing pull requests, and answering questions on the [platform development GitHub repository](https://github.com/alan-turing-institute/AutSPACEs). 
+If you do have coding skills or are looking to learn some, you can help by addressing [issues](https://github.com/alan-turing-institute/AutSPACEs/issues), reviewing [pull requests](https://github.com/alan-turing-institute/AutSPACEs/pulls), and answering questions on the [platform development GitHub repository](https://github.com/alan-turing-institute/AutSPACEs). 
