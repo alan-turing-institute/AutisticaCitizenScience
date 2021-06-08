@@ -1,40 +1,29 @@
-## Prototypes and Wireframes
+## Platform Designs
 
-The designs for the platform are in two forms, prototypes and wireframes.
+In this folder, you will find key information around what the platform should look like and how a user would interact with it. 
 
-### Prototypes
+### [Requirements](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/platform-requirements)
 
-This folder will contain links to versions of working prototypes of the platform when they are complete.
+This folder contains key information on the requirements for both [the MVP](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/platform-requirements/mvp-requirements-list.md) and [second phase platform](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/platform-requirements/requirements-list.md). 
+This allows you to see what specific features will be needed from each page of the platform. 
 
-*Prototypes are early working versions of the platform to demonstrate and test designs*
+*A requirement is a specification of a need or want. Sets of requirements are used to capture the information needed to design, build and test a process, service, product or system.*
 
-Currently, work on building a prototype is taking place in a separate repository, where all the code can be accessed:
+### [Wireframes](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/wireframes)
 
-https://github.com/alan-turing-institute/AutisticaPlatformPrototype
+This folder contains resources and links to the designs for the citizen science platform. 
+This includes most recent images of the MVP wireframe for the Autistica/Turing citizen science project. 
 
-### Wireframes
-
-This folder contains resources and links to the designs for the citizen science platform. This includes a link to the most recent wireframe created for the Autistica/Turing citizen science project, as well as resources and documentation.
+All wireframes are created in [figma]](https://www.figma.com/file/HxqTSdeyAUNMualnBV0PET/Autspace-(WIP)?node-id=172%3A641).
 
 *Wireframes are visual guides showing the layout and design of the platform.* 
 
-The latest version of the wireframe along with design decisions and materials can be viewed on axshare.com:
+### [User Flow](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/user-flow)
 
-[Platform wireframe](https://c6q95y.axshare.com)
+In this folder you will find a diagram which explains the journey of how a user would interact with the platform. 
+This explains how the wireframes all link together on the platform.
 
-Videos presenting the wireframes designs have been uploaded to Youtube for public comment: 
+*A user flow is a visual representation, either written out or made digitally, of the many avenues that can be taken when using an app or website.*
 
-* [Sprint 9 video](https://youtu.be/vRm5BaR7fKA)
-* [Sprint 7 video](https://www.youtube.com/watch?v=3a3A1BxFBUU&feature=youtu.be)
-* [Sprint 6 viedo](https://www.youtube.com/watch?v=UAon_KHBaMM&feature=youtu.be)
-* [Sprint 5 video](https://www.youtube.com/watch?v=GWvf1KbF5GE&feature=youtu.be)
-* [Sprint 4 video](https://www.youtube.com/watch?v=0VXnqlS94Oo&feature=youtu.be)
-* [Sprint 3 video](https://www.youtube.com/watch?v=IG-Vq8m8ELA&feature=youtu.be)
-* [Sprint 2 video](https://www.youtube.com/watch?v=A_6uOwFZRfo&feature=youtu.be)
-* [Sprint 1 video](https://www.youtube.com/watch?v=4f6kn5HLysc)
 
-Questions for the community about wireframe designs can be found in the file [wireframe-questions.md](wireframe-questions.md)
-
-The protocol for collecting feedback on the wireframe designs using the video and questions can be found in [feedback-mechanism.md](feedback-mechanism.md)
-
-Additional resource for creating wireframes can be found in [wireframes-resources.md](wireframes-resources.md)
+If you have any questions regarding any of this documentation on platform designs, please send Lotty(ccoupat@turing.ac.uk a message. 
