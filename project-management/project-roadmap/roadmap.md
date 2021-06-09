@@ -58,6 +58,7 @@ Store text input in Open Humans back end with appropriate tags - [#99](https://g
 Document Open Humans link - [#98](https://github.com/alan-turing-institute/AutSPACEs/issues/98) - Short Term
 
 Place-holder moderation page - [#20](https://github.com/alan-turing-institute/AutSPACEs/issues/20) - Short Term
+> Incorporating the modertation process in the platform is dependant on the completed task of designing the [moderation process](#design-moderation-process)
 
 ### Milestone 4 Accessibility Checks
 
@@ -118,6 +119,7 @@ Check that instructions are styled properly - [#44](https://github.com/alan-turi
 ### Milestone 6 Platform second phase
 
 Integrate moderation into platform - [#97](https://github.com/alan-turing-institute/AutSPACEs/issues/97) - Long Term
+> Incorporating the modertation process in the platform is dependant on the completed task of designing the [moderation process](#design-moderation-process)
 
 ## Diversity, Accessibility and Inclusivity				
 
@@ -207,13 +209,16 @@ Update Guide to issues - [#428](https://github.com/alan-turing-institute/Autisti
 
 Create a guide to subgroups - [#427](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/475) - Short Term
 
-## Publishing paper on Project
+## Dissemination
 
 Find literature for paper - [#481](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/481) - Short Term
 
 Draft the paper - Long Term
 
 Chapter writing - Long Term
+
+Opportunities for disseminetion of project outputs and research - [#417](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/417) - Long Term
+
 
 ## Collect the database using the platform for research
 
