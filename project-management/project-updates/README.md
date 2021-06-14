@@ -1,3 +1,5 @@
 # Project Update and Progress
 
-In this folder you can find the fortnightly updates of the AutSPACEs project. 
+You can find our project updated in our google slides below: 
+
+https://docs.google.com/presentation/d/1gW2twVD52a5MCjm_MrHdi464YHNFluNyPMWN-96lOjM/edit?usp=sharing
