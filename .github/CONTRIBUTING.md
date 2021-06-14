@@ -82,34 +82,13 @@ Before you open a new issue, please check if any of our [open issues](https://gi
 
 The list of labels for current issues can be found [here][aut-cit-sci-labels] and includes:
 
-- [![help-wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)][labels-helpwanted] _These issues contain a task that a member of the team has determined we need additional help with._
+**Beginner** - issues which don't require previous knowledege of the project or expert skills. Great for new members!
+**Intermediate** - issues which need some background or skills 
+**Advanced** - issues which require tech skills or in-depth expertise
 
-  If you feel that you can contribute to one of these issues, we especially encourage you to do so!
-
-- [![question](https://img.shields.io/badge/-question-cc317c.svg)][labels-question] _These issues contain a question that you'd like to have answered._
-
-  There are [lots of ways to ask questions](#get-in-touch) but opening an issue is a great way to start a conversation and get your answer.
-
-- [![good-first-issue](https://img.shields.io/badge/-good%20first%20issue-1b3487.svg)][labels-firstissue] _These issues are particularly appropriate if it is your first contribution to the Autistica/Turing Citizen Science project, or to GitHub overall._
-
-  If you're not sure about how to go about contributing, these are good places to start. You'll be mentored through the process by the maintainers team.
-  If you're a seasoned contributor, please select a different issue to work from and keep these available for the newer and potentially more anxious team members.
-
-- [![Enhancement](https://img.shields.io/badge/-enhancement-84b6eb.svg)][labels-enhancement] _These issues are suggesting new features that can be added to the project._
-
-  If you want to ask for something new, please try to make sure that your request is distinct from any others that are already in the queue.
-  If you find one that's similar but there are subtle differences please reference the other enhancement in your issue.
-
-- [![Community](https://img.shields.io/badge/-community-8605c1.svg)][labels-community] _These issues relate to building and supporting the Autistica/Turing Citizen Science community._
-
-  This is all about collaborating, so please let us know how we can best support you as a community member.
-
-- [![Bug](https://img.shields.io/badge/-bug-d73a4a.svg)][labels-bug] _These issues are reporting a problem or a mistake in the project._
-
-  The more details you can provide the better!
-  If you know how to fix the bug, please open an issue first and then submit a pull request :sparkles:
-
-- [![project-management](https://img.shields.io/badge/-project%20management-bfd86c.svg)][labels-project-management] _These issues help us to coordinate some project logistics._
+[![good-first-issue](https://img.shields.io/badge/-good%20first%20issue-1b3487.svg)][labels-firstissue] _These issues are particularly appropriate if it is your first contribution to _Thee Autistica/Turing citizens science project_, or to GitHub overall.
+[![help-wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)][labels-helpwanted] _These issues contain a task that a member of the team has determined we need additional help with._
+If you feel that you can contribute to one of these issues, we especially encourage you to do so!
 
 ## Making a change with a pull request
 
