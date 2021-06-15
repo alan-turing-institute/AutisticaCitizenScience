@@ -91,8 +91,16 @@ Happé, F., & Fletcher-Watson, S. (2019). **Autism: A New Introduction to Psycho
 
 ### GitHub
 
+* [Github Tutorial](https://guides.github.com/) This provides a good guide for learning the basics of GitHub. 
+
 ### UX design
+* [Web design](https://university.webflow.com/courses/ultimate-web-design-course?video=O5TdnuUhIgs)
 
 ### Python
+* [Python Documentation](https://docs.python.org/3/tutorial/) This is the python documentation of Python 3.9
+* [Python Video Tutorial](https://www.youtube.com/watch?v=woVJ4N5nl_s) Check out this youtube tutorial for the following basics of Python.
 
 ### Django
+* [Django Documentation](https://www.djangoproject.com/)
+* [Django community developers](https://dev.to/t/django)
+* [Django video Tutorials](https://www.youtube.com/watch?v=-oQvMHpKkms) 
