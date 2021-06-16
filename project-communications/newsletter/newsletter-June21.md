@@ -17,7 +17,10 @@ Best wishes for everyone! 💮
 
 # Project Update
 
-The most recent updates on the project and it's progress can be found here. 
+The most recent updates on the project and it's progress can be found [here](https://docs.google.com/presentation/d/1gW2twVD52a5MCjm_MrHdi464YHNFluNyPMWN-96lOjM/edit?usp=sharing).
+
+A lot of our resource has been going towards roadmapping the project and ensuring all our issues are up to date! 
+Our latest roadmap can be found in our github repository [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-roadmap).
 
 ## Contributor Spotlight
 
