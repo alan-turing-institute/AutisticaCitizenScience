@@ -2,6 +2,7 @@
 
 #### This file contains links to slides for presentations given on the Turing/Autistica Citizen Science Project. 
 
+* 10-06-2021: "AutSPACEs: Annual Updates", a presentation delivered by Georgia Aitkenhead to members of Autistica to showcase highlights from work completed over the course of 2020-2021. Slides on [Zenodo](https://zenodo.org/record/4922526)
 * 31-03-2021: “Participatory Citizen Science”, a talk delivered by Georgia Aitkenhead, Suzanne Iwai, Sarah Markham and Otis Smith for the third cohort of OLS, using AutSPACEs as a case study for participatory citizen science. Slides on [Zenodo](https://zenodo.org/record/4651431). Recording on [Youtube](https://www.youtube.com/watch?v=Vizk7fni5Eo).
 * 17-12-2020: “Autspaces: creating a participatory, open citizen science platform.” Presentation given by Georgia Aitkenhead and James Scott for the graduation of OLS-2, 2020. Presentation on [YouTube](https://www.youtube.com/watch?v=wv8_0iOMpGs).
 * 18-11-2020: “Research to Empower: co-creating a citizen science platform” was presented by Georgia Aitkenhead and Otis Smith for an Autistica webinar on: “How can we move towards a more autism friendly world”. Recording available on [Youtube](https://www.youtube.com/watch?v=QDWpykMPxQ8). 
