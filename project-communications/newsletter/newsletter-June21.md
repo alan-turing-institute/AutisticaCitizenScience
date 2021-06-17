@@ -28,11 +28,40 @@ Today we are spotlighting on Anoushka Rajan who has been a key contributor to th
 
 **Tell us a little about yourself...**
 
+Hi everyone! 
+I’m Anoushka Ramesh, a Computer Science undergraduate from India and an active contributor to AutSPACEs. 
+Interestingly enough, my love for Computer Science really grew during the pandemic where I first started delving into mini projects related to frontend technologies like HTML, CSS and slowly made my way to learning APIs and other tools like Python, React and Django. 
+The open source path looked like a perfect opportunity to apply my new found knowledge for a good cause. AutSPACEs caught my eye as I was going through the list of INCF open source projects for the Google Summer of Code program. 
+It sounded like a wonderful project that aimed to dig deep into understanding the causes behind autism. 
+So, now it has been almost a month of contributing to AutSPACEs and it has been nothing short of exciting to say the least!
+
 **What are your favourite hobbies/things to do:**
+
+My university has an active computer science club called [amFOSS](https://amfoss.in/) where I contribute to interesting projects and learn new skills. 
+Infact, this is where I got introduced to the concept of open source and contributing to organizations. 
+I also like writing blogs and coming up with social media content for the club. 
+Apart from club activities, I love singing, dancing, reading (Agatha Christie’s novels are a personal favourite), baking and public speaking.   
 
 **What have you been working on for the AutSPCAEs project?**
 
+Currently, I’ve been collaborating with the AutSPACEs community and the platform developers to understand the immediate needs and requirements of the site. 
+I’ve worked on building the landing page and the share experiences page as part of the Milestone 2 issues. 
+I have also helped other contributors with any problems or issues they’ve faced while building the site locally or understanding the code base. 
+We’ll almost be completing Milestone 2 and we’re looking forward to working on Milestone 3!
+
 **Give your best tips and tricks for contributing:**
+
+One helpful tip to follow while contributing is to ‘commit and communicate’. 
+Commit your work to the repository as often as you can and ensure that you communicate to your project mentors or lead developers on the team regarding those work updates. 
+This essentially serves two purposes:-
+- Your mentors/lead devs are aware of the progress you’re making
+- You can make use of the opportunity to ask any doubts or queries that you may have in addition to giving your updates
+
+Keep in mind that project heads are very busy people so it’s always best to plan and ask them in advance regarding any meetings that you would like to have. 
+Considering their hectic time schedules, it would also be better to try addressing the code issues yourself first before approaching the project leads. 
+Google comes in really handy to address almost any problem you may have in mind. 
+So, the next time you’re stuck on an issue, always remember to Google it!
+
 
 ## Project Information
 
