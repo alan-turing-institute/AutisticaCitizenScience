@@ -53,81 +53,153 @@ No data will be shared without explicit consent from the citizen scientist who u
  
 ## Academic meetings and conferences attendance
 
-**Conference Attendance**:	Yes
 **Conference Name**:	AMRC Delving into Digital Summit 
+
 **Start Month**:	March
+
 **Start Year**:	2019
+
 **Location**:	National
+
 **URL**:	https://www.amrc.org.uk/delving-into-digital-summit-27-march-2019
+
 **Primary role:**	Oral presentation (not included in published conference proceedings)
+
 **Description**	The project was presented to a mixture of patients, government, the NHS, industry, and academia at AMRC’s 2019 *Delving Into Digital* summit, with a focus on the reasons to address questions about sensory processing and autism as well as strategies for participatory science. The summit was addressed to practitioners in the digital health space, and focussed on sharing technologies and innovations.
 
-**Position of attendee** Autistica Director of Science and research associate 
+
+**Position of attendee** Autistica Director of Science and research associate
+
+#
+
 **Conference Name**	*Autistica Discover Conference*
+
 **Start Month**	June
+
 **Start Year**	2019
+
 **Location**	National
+
 **URL**	https://www.autistica.org.uk/get-involved/research-conference
+
 **Primary role** Oral presentation (not included in published conference proceedings)
+
 **Description**	An annual, national research conference bringing together autism researchers, autistic people, relatives and carers to share their latest research and discuss how to make progress towards long, healthy, happy lives for autistic people.  
 
+#
+
 **Position of attendee** Research Fellow
+
 **Conference Name**	OLS-third cohort 
+
 **Start Month**	March
+
 **Start Year**	2021
+
 **Location**	Europe
+
 **URL**	https://openlifesci.org/ols-3
+
 **Primary role** Oral presentation
+
 **Description**	A talk delivered by Georgia Aitkenhead, Suzanne Iwai, Sarah Markham and Otis Smith for the third cohort of OLS (Open Life Sciences), using AutSPACEs as a case study for participatory citizen science. 
+
 Slides on Zenodo: https://zenodo.org/record/4651431. 
 Recording on Youtube: https://www.youtube.com/watch?v=Vizk7fni5Eo
 
 **Position of attendee** Researcher
+
+#
+
 **Conference Name**	CogX 2020
+
 **Start Month**	June
+
 **Start Year**	2020
+
 **Location**	Europe
+
 **URL**	https://zenodo.org/record/3885494
+
 **Primary role** Session/Workshop chair/panel member
+
 **Description**	Talk entitled "Research to empower: co-creating a citizen science platform”, delivered by Georgia Aitkenhead as part of a panel discussion hosted by Kirstie Whitaker for the “Tools, Practices, and Systems” of CogX 2020.  
 CogX is a Global Leadership Summit and Festival of AI & Transformational Technology addressing the question, “How do we get the next 10 years right?""
+
 **Position of attendee** PI; research associate
 
+#
+
 **Conference Name**	OLS-2 Graduation
+
 **Start Month**	Dec
+
 **Start Year**	2020
+
 **Location** National
+
 **URL**	https://openlifesci.org/ols-2
+
 **Primary role** Oral presentation
+
 **Description**	Open Life Sciences is a training programme for early stage researchers and young leaders interested in furthering their Open Science skills. They provide mentorship and support to develop exceptional open projects. AutSPACEs was one such project, and a presentation of the project was delivered for the graduation of the programme. 
+
 **Position of attendee** Research associate and autistic citizen scientist. 
 
+#
+
 **Conference Name**: ‘Better Science through Better Data 2019'
+
 **Start Month**	Nov
+
 **Start Year**	2019
+
 **Location**	Local/Municipal/Regional
+
 URL	https://figshare.com/articles/media/Better_Science_through_Better_Data_2019_Programme_SciData19_/103 20056
+
 **Primary role** Oral presentation
+
 **Description**	In ‘Better Science through Better Data’ (#scidata19) Springer Nature and The Wellcome Trust partnered to bring together researchers to discuss innovative approaches to data sharing, open science and reproducible research, together with demonstrations of exemplary projects and tools. 
 The Autistica project was chosen as one such exemplary project and was presented in a 15 minute lightening talk. 
+
 **Position of attendee** Research Associate 
+
+#
 
 **Conference Name**	Mental Health Special Interest Group 
-**Start Month	Jan
-Start Year**	2019
+
+**Start Month**	Jan
+
+**Start Year**	2019
+
 **Location**	Local/Municipal/Regional
+
 **Primary role**	Oral presentation
-Description	A specialist meeting taking place in The Alan Turing Institute consisting of academics and professional practitioners specialising in using data to better understand mental health. 
+
+**Description**	A specialist meeting taking place in The Alan Turing Institute consisting of academics and professional practitioners specialising in using data to better understand mental health. 
 
 **Position of attendee** Research Associate 
+
+#
+
 **Conference Name**	'Can opening up research help drive innovation?''
-Start Month	Nov
-Start Year	2019
-Location	Local/Municipal/Regional
+
+**Start Month**	Nov
+
+**Start Year**	2019
+
+**Location**	Local/Municipal/Regional
+
 URL	https://sustainabilitycommunity.springernature.com /posts/54545-can-opening-up-research-help-drive-innovation
+
 **Primary role**	Oral presentation
+
 **Description**	Springer Nature in association with the British Library hosted an event exploring how Open Research can support researchers with developing solutions to meet the UN’s SDGs (Sustainable Development Goals) and tackle today’s global challenges such as climate change, poverty and ensuring health and wellbeing.
+
 **Position of attendee**	Principle Investigator 
+
+#
 
 **Conference Name**	OLS-3 Expert Presentation
 **Start Month**	Mar
