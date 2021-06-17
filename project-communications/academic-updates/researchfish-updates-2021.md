@@ -149,8 +149,8 @@ The goal was to disseminate findings and values of the project with a highly rel
 
 **Conference Name**	CogX 2020
 **Start Month**	Jun
-**Start Year	2020
-Location**	National
+**Start Year**	2020
+**Location**	National
 **URL**	https://www.turing.ac.uk/events/cogx-2020
 **Primary role**	Member of Committee
 **Description**	Presentation delivered as part of a panel discussion hosted by Kirstie Whitaker to introduce the Turing's new “Tools, Practices, and Systems” programme during CogX 2020. CogX is a global leadership summit and festival of AI and transformational technology addressing the question, “How do we get the next 10 years right?”.
