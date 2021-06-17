@@ -202,32 +202,60 @@ URL	https://sustainabilitycommunity.springernature.com /posts/54545-can-opening-
 #
 
 **Conference Name**	OLS-3 Expert Presentation
+
 **Start Month**	Mar
+
 **Start Year**	2021
+
 **Location**	National
+
 URL	https://openlifesci.org/ols-3
+
 **Primary role**	Oral presentation
+
 **Description**	The Open Life Sciences programme provides training for early stage researchers and young leaders interested in furthering their Open Science skills. 
-A project researcher along with a number of autistic citizen scientists delivered a talk to upskill members of the programme in participatory and citizen science. 
+A project researcher along with a number of autistic citizen scientists delivered a talk to upskill members of the programme in participatory and citizen science.
+
 **Position of attendee** Research Associate and three autistic citizen scientists
+
+#
+
 **Conference Name**	Autistica Research Festival
+
 **Start Month**	Jul
+
 **Start Year**	2020
+
 **Location**	Local/Municipal/Regional
+
 **Primary role**	Oral presentation
+
 **Description**	Talk delivered for the Autistica Research Festival 2020 by Dr. Kirstie Whitaker, Georgia Aitkenhead, Craig Hall, Thomas Stanley, Chris Legg, Otis Smith and Lucinda Marsden. 
+
 The goal was to disseminate findings and values of the project with a highly relevant audience, and to demonstrate participatory science in action. 
+
 **Position of attendee** PI, Researcher, Pro Bono Volunteers and Citizen Scientists
 
+#
+
 **Conference Name**	CogX 2020
+
 **Start Month**	Jun
+
 **Start Year**	2020
+
 **Location**	National
+
 **URL**	https://www.turing.ac.uk/events/cogx-2020
+
 **Primary role**	Member of Committee
+
 **Description**	Presentation delivered as part of a panel discussion hosted by Kirstie Whitaker to introduce the Turing's new “Tools, Practices, and Systems” programme during CogX 2020. CogX is a global leadership summit and festival of AI and transformational technology addressing the question, “How do we get the next 10 years right?”.
+
 **Position of attendee** PI, Researcher, Pro Bono Volunteers and Citizen Scientists
- 
+
+#
+
 ## Software and Technical Products
 
 **Select type of technical product.**	
