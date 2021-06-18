@@ -280,7 +280,7 @@ This repository holds project management tools, resources, and protocols for the
 It also allows the ongoing work to be publicly available and easily shared with community members. 
 This supports the open and participatory values of the project.
 
-**URL.**	https://github.com/alan-turing-institute/Autistica CitizenScience
+**URL.**	https://github.com/alan-turing-institute/AutisticaCitizenScience
 
 **URL**	https://github.com/alan-turing-institute/AutisticaCitizenScience
 
