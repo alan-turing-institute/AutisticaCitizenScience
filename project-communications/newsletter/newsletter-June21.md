@@ -24,7 +24,7 @@ Our latest roadmap can be found in our github repository [here](https://github.c
 
 ## Contributor Spotlight
 
-Today we are spotlighting on Anoushka Rajan who has been a key contributor to the AutSPACEs platform development! 
+Today we are spotlighting on Anoushka Ramesh who has been a key contributor to the AutSPACEs platform development! 
 
 **Tell us a little about yourself...**
 
@@ -42,7 +42,7 @@ Infact, this is where I got introduced to the concept of open source and contrib
 I also like writing blogs and coming up with social media content for the club. 
 Apart from club activities, I love singing, dancing, reading (Agatha Christie’s novels are a personal favourite), baking and public speaking.   
 
-**What have you been working on for the AutSPCAEs project?**
+**What have you been working on for the AutSPACEs project?**
 
 Currently, I’ve been collaborating with the AutSPACEs community and the platform developers to understand the immediate needs and requirements of the site. 
 I’ve worked on building the landing page and the share experiences page as part of the Milestone 2 issues. 
