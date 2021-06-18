@@ -32,7 +32,7 @@ Hi everyone!
 I’m Anoushka Ramesh, a Computer Science undergraduate from India and an active contributor to AutSPACEs. 
 Interestingly enough, my love for Computer Science really grew during the pandemic where I first started delving into mini projects related to frontend technologies like HTML, CSS and slowly made my way to learning APIs and other tools like Python, React and Django. 
 The open source path looked like a perfect opportunity to apply my new found knowledge for a good cause. AutSPACEs caught my eye as I was going through the list of INCF open source projects for the Google Summer of Code program. 
-It sounded like a wonderful project that aimed to dig deep into understanding the causes behind autism. 
+It sounded like a wonderful project that aimed to dig deep into understanding the experiences of autistic people and what causes environments to be better or worse for autistic people.
 So, now it has been almost a month of contributing to AutSPACEs and it has been nothing short of exciting to say the least!
 
 **What are your favourite hobbies/things to do:**
