@@ -185,7 +185,14 @@ Create moderation summaries - [#416](https://github.com/alan-turing-institute/Au
 
 Going through summaries and picking out themes to inform work - [#432](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/432) - Short Term
 
+Create guideline for moderation summaries - [#472](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/472) - Short Term 
+
+
 Code of conduct for stories - [#475](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/475) - Short Term
+
+Draft example stories for Code of Conduct Testing - [#513](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/513) - Short Term
+
+Test Code of Conduct - [#514](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/514) - Medium Term
 
 Map out escalation route for undecided stories - [#479](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/479) - Medium Term
 
