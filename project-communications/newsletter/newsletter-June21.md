@@ -3,11 +3,11 @@
 **Hi everyone!!**
 
 Firstly, thank you for opening and reading this month's newsletter 😄 We are so happy you are here!
+
 June is very quickly coming to an end and there has been a lot going on here at AutSPACEs. 
 
-There is a lot of change happening right now with the COVID roadmap having come out a couple of months ago and things starting to open up.
-
-If anyone is struggling with these challenging times, we hope that the citizen science community can offer your support and connection.
+There is a lot of change happening right now.
+If anyone is struggling during this challenging time, we hope that the citizen science community can offer your support and connection.
 
 Email [Lotty](mailto:ccoupat@turing.ac.uk) to let us know if we can help you with involvement, and do feel free to share this newsletter with anyone who you think would be interested in joining us.
 They can sign up by following this link: https://tinyletter.com/AutisticaTuringCitizenScience.
@@ -16,10 +16,10 @@ Best wishes to everyone! 💮
 
 # Project Update
 
-The most recent updates on the project and its progress can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-updates).
-
 A lot of our resource has been going towards roadmapping the project and ensuring all our issues are up to date! 
 Our latest roadmap can be found in our GitHub repository [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-roadmap).
+
+The most recent updates on the project and its progress can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-updates).
 
 ## Contributor Spotlight
 
@@ -30,7 +30,7 @@ Today we put a spotlight on Anoushka Ramesh who has been a key contributor to th
 Hi everyone! 
 I’m Anoushka Ramesh, a Computer Science undergraduate from India and an active contributor to AutSPACEs. 
 Interestingly enough, my love for Computer Science really grew during the pandemic where I first started delving into mini-projects related to frontend technologies like HTML, CSS and slowly made my way to learning APIs and other tools like Python, React and Django. 
-The open source path looked like a perfect opportunity to apply my newfound knowledge for a good cause. AutSPACEs caught my eye as I was going through the list of INCF open source projects for the Google Summer of Code program. 
+The open source path looked like a perfect opportunity to apply my newfound knowledge for a good cause. AutSPACEs caught my eye as I was going through the list of open source projects for the Google Summer of Code program. 
 It sounded like a wonderful project that aimed to dig deep into understanding the experiences of autistic people and what causes environments to be better or worse for autistic people.
 So, now it has been almost a month of contributing to AutSPACEs and it has been nothing short of exciting, to say the least!
 
@@ -79,7 +79,7 @@ To join the Slack channel you will firstly need to go through [Open Humans Slack
 ### Get involved
 
 Our project consists of many different areas where we would love people to contribute to and give us their thoughts and ideas.
-Is it really important we hear the voices and perspectives of all of our community members? 
+It is really important we hear the voices and perspectives of all of our community members. 
 We have identified the following areas where we need your help:
 
 *  Research
