@@ -9,36 +9,36 @@ There is a lot of change happening right now with the COVID roadmap having come 
 
 If anyone is struggling with these challenging times, we hope that the citizen science community can offer your support and connection.
 
-Email [Lotty](mailto:ccoupat@turing.ac.uk) to let us know if we can help you with involvement, and do feel free to share this newsletter to anyone who you think would be interested in joining us.
+Email [Lotty](mailto:ccoupat@turing.ac.uk) to let us know if we can help you with involvement, and do feel free to share this newsletter with anyone who you think would be interested in joining us.
 
 They can sign up by following this link: https://tinyletter.com/AutisticaTuringCitizenScience.
 
-Best wishes for everyone! 💮
+Best wishes to everyone! 💮
 
 # Project Update
 
-The most recent updates on the project and it's progress can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-updates).
+The most recent updates on the project and its progress can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-updates).
 
 A lot of our resource has been going towards roadmapping the project and ensuring all our issues are up to date! 
-Our latest roadmap can be found in our github repository [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-roadmap).
+Our latest roadmap can be found in our GitHub repository [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-roadmap).
 
 ## Contributor Spotlight
 
-Today we are spotlighting on Anoushka Ramesh who has been a key contributor to the AutSPACEs platform development! 
+Today we put a spotlight on Anoushka Ramesh who has been a key contributor to the AutSPACEs platform development! 
 
 **Tell us a little about yourself...**
 
 Hi everyone! 
 I’m Anoushka Ramesh, a Computer Science undergraduate from India and an active contributor to AutSPACEs. 
-Interestingly enough, my love for Computer Science really grew during the pandemic where I first started delving into mini projects related to frontend technologies like HTML, CSS and slowly made my way to learning APIs and other tools like Python, React and Django. 
-The open source path looked like a perfect opportunity to apply my new found knowledge for a good cause. AutSPACEs caught my eye as I was going through the list of INCF open source projects for the Google Summer of Code program. 
+Interestingly enough, my love for Computer Science really grew during the pandemic where I first started delving into mini-projects related to frontend technologies like HTML, CSS and slowly made my way to learning APIs and other tools like Python, React and Django. 
+The open source path looked like a perfect opportunity to apply my newfound knowledge for a good cause. AutSPACEs caught my eye as I was going through the list of INCF open source projects for the Google Summer of Code program. 
 It sounded like a wonderful project that aimed to dig deep into understanding the experiences of autistic people and what causes environments to be better or worse for autistic people.
-So, now it has been almost a month of contributing to AutSPACEs and it has been nothing short of exciting to say the least!
+So, now it has been almost a month of contributing to AutSPACEs and it has been nothing short of exciting, to say the least!
 
 **What are your favourite hobbies/things to do:**
 
 My university has an active computer science club called [amFOSS](https://amfoss.in/) where I contribute to interesting projects and learn new skills. 
-Infact, this is where I got introduced to the concept of open source and contributing to organizations. 
+This is where I got introduced to the concept of open source and contributing to organizations. 
 I also like writing blogs and coming up with social media content for the club. 
 Apart from club activities, I love singing, dancing, reading (Agatha Christie’s novels are a personal favourite), baking and public speaking.   
 
@@ -46,7 +46,7 @@ Apart from club activities, I love singing, dancing, reading (Agatha Christie’
 
 Currently, I’ve been collaborating with the AutSPACEs community and the platform developers to understand the immediate needs and requirements of the site. 
 I’ve worked on building the landing page and the share experiences page as part of the Milestone 2 issues. 
-I have also helped other contributors with any problems or issues they’ve faced while building the site locally or understanding the code base. 
+I have also helped other contributors with any problems or issues they’ve faced while building the site locally or understanding the codebase. 
 We’ll almost be completing Milestone 2 and we’re looking forward to working on Milestone 3!
 
 **Give your best tips and tricks for contributing:**
@@ -65,14 +65,14 @@ So, the next time you’re stuck on an issue, always remember to Google it!
 
 ## Project Information
 
-### Keep udpated via our Social Media Platforms!
+### Keep up to date via our Social Media Platforms!
 
 **TWITTER** - AutSPACEs has a [Twitter account](https://twitter.com/AutSpaces)!
 Please go and give us a follow!
 
 If you are social media savvy we would love to hear from you and get input into running the account, sharing it, and using it to promote the platform.
 
-**SLACK** - We also use Slack as a communication channel to advertise to our community our latest events and project progress and any opportunities for wider persepctives and comments. 
+**SLACK** - We also use Slack as a communication channel to advertise to our community our latest events and project progress and any opportunities for wider perspectives and comments. 
 This is a key area to discuss project work with other contributors!
 
 To join the Slack channel you will firstly need to go through [Open Humans Slack](https://slackin.openhumans.org/) and set up an account and once that's done then follow this [link](https://openhumans.slack.com/archives/CNMECPNCD) to our channel. 
@@ -80,7 +80,7 @@ To join the Slack channel you will firstly need to go through [Open Humans Slack
 ### Get involved
 
 Our project consists of many different areas where we would love people to contribute to and give us their thoughts and ideas.
-Is it really important we hear the voices and perspective of all of our community members. 
+Is it really important we hear the voices and perspectives of all of our community members? 
 We have identified the following areas where we need your help:
 
 *  Research
@@ -89,19 +89,19 @@ We have identified the following areas where we need your help:
 *  Accessibility and Inclusion 
 *  Moderation
 
-If you would like to join one of these groups, meet and work with other autistic people, or to suggest another working group, please email Lotty at [ccoupat@turing.ac.uk](ccoupat@turing.ac.uk).
+If you would like to join one of these groups, meet and work with other autistic people, or suggest another working group, please email Lotty at [ccoupat@turing.ac.uk](ccoupat@turing.ac.uk).
 
-If you want to get stuck in ASAP and know how to use GitHub, you can visit our repositories for the [Project](https://github.com/alan-turing-institute/AutisticaCitizenScience) and for [Platform Development](https://github.com/alan-turing-institute/AutSPACEs). If you look at the issues list in each of these, you can see a list of tasks that need to be completed and here we welcome anyone to contribute and get involved. 
+If you want to get stuck in ASAP and know how to use GitHub, you can visit our repositories for the [Project](https://github.com/alan-turing-institute/AutisticaCitizenScience) and [Platform Development](https://github.com/alan-turing-institute/AutSPACEs). If you look at the issues list in each of these, you can see a list of tasks that need to be completed and here we welcome anyone to contribute and get involved. 
 
 If you're not too sure about GitHub but would like to know more, the [Turing Way Book](https://the-turing-way.netlify.app/collaboration/github-novice.html) has a whole section on how to get started for successful collaboration and involvement.
-I highly recommend this book also for anyone who is interested in Open Source Research and Reproducibility! 
+I highly recommend this book also for anyone interested in Open Source Research and Reproducibility! 
 
 ## Project Opportunities
 
-We currently are looking for opportunities to spread the word of the project to increase paricipation. 
+We currently are looking for opportunities to spread the word about the project to increase participation. 
 
 If you have any ideas for this, we would love to know, please send your ideas via email to [Lotty](ccoupat@turing.ac.uk).
-This could be anything from talks with charities/univeristies or posts in various communications channels that you are a part of. 
+This could be anything from talks with charities/universities or posts in various communications channels that you are a part of. 
 Please share any information with any individuals who you think would be interested in joining and contributing to the project.
 
 ## Connect with us
@@ -114,11 +114,8 @@ Please share any information with any individuals who you think would be interes
 You are also always welcome to email [Lotty](mailto:ccoupat@turing.ac.uk) if you want to be involved in any part of the project, or if you have any questions.
 
 A huge thank you is due to everyone in the community for all of your ongoing efforts and wonderful contributions. 
-You are making a big difference in creating research which can benefit autistic people and their families.
+You are making a big difference in creating research that can benefit autistic people and their families.
 
 Very best wishes,
 
 Lotty, Anoushka, Kirstie and Georgia 💮
-
-
-
