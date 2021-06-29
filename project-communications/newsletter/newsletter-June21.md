@@ -10,7 +10,6 @@ There is a lot of change happening right now with the COVID roadmap having come 
 If anyone is struggling with these challenging times, we hope that the citizen science community can offer your support and connection.
 
 Email [Lotty](mailto:ccoupat@turing.ac.uk) to let us know if we can help you with involvement, and do feel free to share this newsletter with anyone who you think would be interested in joining us.
-
 They can sign up by following this link: https://tinyletter.com/AutisticaTuringCitizenScience.
 
 Best wishes to everyone! 💮
