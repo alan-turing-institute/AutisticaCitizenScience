@@ -3,10 +3,10 @@
 **Hi everyone!!**
 
 Firstly, thank you for opening and reading this month's newsletter 😄 We are so happy you are here!
+June is very quickly coming to an end and there has been a lot going on here at AutSPACEs. 
 
-June is showing us some warmer weather that I really hope is raising spirits! 
+There is a lot of change happening right now with the COVID roadmap having come out a couple of months ago and things starting to open up.
 
-There is a lot of change happening right now with the COVID roadmap having come out a couple of months ago and things starting to open up. 
 If anyone is struggling with these challenging times, we hope that the citizen science community can offer your support and connection.
 
 Email [Lotty](mailto:ccoupat@turing.ac.uk) to let us know if we can help you with involvement, and do feel free to share this newsletter to anyone who you think would be interested in joining us.
@@ -17,7 +17,7 @@ Best wishes for everyone! 💮
 
 # Project Update
 
-The most recent updates on the project and it's progress can be found [here](https://docs.google.com/presentation/d/1gW2twVD52a5MCjm_MrHdi464YHNFluNyPMWN-96lOjM/edit?usp=sharing).
+The most recent updates on the project and it's progress can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-updates).
 
 A lot of our resource has been going towards roadmapping the project and ensuring all our issues are up to date! 
 Our latest roadmap can be found in our github repository [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-roadmap).
@@ -119,4 +119,6 @@ You are making a big difference in creating research which can benefit autistic 
 Very best wishes,
 
 Lotty, Anoushka, Kirstie and Georgia 💮
+
+
 
