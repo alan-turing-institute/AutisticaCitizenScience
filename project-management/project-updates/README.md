@@ -1,3 +1,6 @@
 # Project Update and Progress
 
-In this folder you can find the fortnightly updates of the AutSPACEs project. 
+Here you can find the latest updates on the project. 
+These are created fortnightly and presented at our community meet-ups. 
+
+Here is the latest update:
