@@ -1,4 +1,4 @@
-# Resources
+# Resources and Recommendations
 
 This folder contains uploads, links, and recommendations from community members. 
 Whether you want to get guidance, explore further, dig deeper, or find a foothold, this is a great place to look. 
@@ -75,6 +75,7 @@ Happé, F., & Fletcher-Watson, S. (2019). **Autism: A New Introduction to Psycho
 
 * Budin-Ljøsne, I., Teare, H. J. A., Kaye, J., Beck, S., Bentzen, H. B., Caenazzo, L., Collett, C., D’Abramo, F., Felzmann, H., Finlay, T., Javaid, M. K., Jones, E., Katić, V., Simpson, A., & Mascalzoni, D. (2017). Dynamic Consent: A potential solution to some of the challenges of modern biomedical research. BMC Medical Ethics, 18(1), 4. https://doi.org/10.1186/s12910-016-0162-9: this is an academic paper which looks at the conditions which give people genuine agency over data used for medical research. It's great for laying out clearly a raange of reaasons to adopt dynamic consent (in which paarticipants of reseaarch studies are able to easily change their consent.)
 * Ram, K. (2013). Git can facilitate greater reproducibility and increased transparency in science. Source Code for Biology and Medicine, 8(1), 7. https://doi.org/10.1186/1751-0473-8-7
+
 ## Citizen science 
 
 * Arnstein, S. R. (2007). A Ladder Of Citizen Participation. Journal of the American Institute of Planners, 35(4), 216–224. https://doi.org/10.1080/01944366908977225 

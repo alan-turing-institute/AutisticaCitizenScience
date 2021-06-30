@@ -8,3 +8,8 @@ We have different versions of this to ensure inclusivity:
 
 If you believe anything needs to be added or updated in relation to the roadmap, please edit the markdwon folder and create a pull request. 
 Please add lottycoupat as the reviewer.  
+
+The journey that was taken to create our roadmap follows the roadmapping chapter in the [Turing Way book](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-roadmapping.html?highlight=roadmapping). 
+
+![project roadmap image](../../images/project-roadmap.jpg)
+
