@@ -1,7 +1,7 @@
 ## Presentations
 
 #### This file contains links to slides for presentations given on the Turing/Autistica Citizen Science Project. 
-
+* 08-07-2021: "AutSPACEs: Platform Updates", a presentation delivered by Sowmya Rajan to community memebers of the Autistica/Turing Citizen Science Co-Working meet-up to provide an overview of the working of basic MVP and other platform development updates. Slides on [Zenodo](https://zenodo.org/record/5094650)
 * 10-06-2021: "AutSPACEs: Annual Updates", a presentation delivered by Georgia Aitkenhead to members of Autistica to showcase highlights from work completed over the course of 2020-2021. Slides on [Zenodo](https://zenodo.org/record/4922526)
 * 31-03-2021: “Participatory Citizen Science”, a talk delivered by Georgia Aitkenhead, Suzanne Iwai, Sarah Markham and Otis Smith for the third cohort of OLS, using AutSPACEs as a case study for participatory citizen science. Slides on [Zenodo](https://zenodo.org/record/4651431). Recording on [Youtube](https://www.youtube.com/watch?v=Vizk7fni5Eo).
 * 17-12-2020: “Autspaces: creating a participatory, open citizen science platform.” Presentation given by Georgia Aitkenhead and James Scott for the graduation of OLS-2, 2020. Presentation on [YouTube](https://www.youtube.com/watch?v=wv8_0iOMpGs).
@@ -16,7 +16,6 @@
 * 27-04-2020: “Participatory science to improve autistic people’s lives”, Kirstie Whitaker gave a talk at the Centre for Research and Interdisciplinarity. Slides on [Zenodo](https://zenodo.org/record/3766923#.XrvZnsbTXy).
 * 30-01-2020: "Participatory science to empower", presented by Georgia Aitkenhead for the Mental Health and Data Science Special Interest Group at The Turing. Slides on [Zenodo](https://zenodo.org/record/3743441#.XozAYxfTXxs).
 * 20-11-2019: "Participatoryscience to empower", presented by Georgia Aitkenhead for the Springer Nature SciData19 conference. Slides on [Zenodo](https://zenodo.org/record/3530454#.Xoc_PxfTXx4). 
-
 
 
  
