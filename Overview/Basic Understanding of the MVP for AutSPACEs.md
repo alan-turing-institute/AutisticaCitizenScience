@@ -9,4 +9,5 @@
 
 ![](https://i.imgur.com/SyXZ1y7.png)
 
-## Demo for Working of MVP is uploaded to being to this [folder](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/sowmya-handover-docs/Overview/AutSPACEs%20Screen%20Recording.mp4)
+## Demo for Working of MVP is uploaded to this [folder](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/sowmya-handover-docs/Overview/AutSPACEs%20Screen%20Recording.mp4)
+Note: Please download the video since the file is big to view on the Mardown. 
