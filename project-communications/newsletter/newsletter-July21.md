@@ -4,9 +4,9 @@
 
 Firstly, thank you for opening and reading this month's newsletter 😄 We are so happy you are here!
 
-June is showing us some warmer weather that I really hope is raising spirits! 
+We hope that everyone is enjoying the summer months and taking time off where possible. 
 
-There is a lot of change happening right now with the COVID roadmap having come out a couple of months ago and things starting to open up. 
+This month we have seen the COVID roadmap coming to an end, which can be very daunting! 
 If anyone is struggling with these challenging times, we hope that the citizen science community can offer your support and connection.
 
 Email [Lotty](mailto:ccoupat@turing.ac.uk) to let us know if we can help you with involvement, and do feel free to share this newsletter to anyone who you think would be interested in joining us.
@@ -28,17 +28,42 @@ Today we are spotlighting on Susanna Fantoni who has been a key contributor to t
 
 **Tell us a little about yourself...**
 
+I’m Susanna Fantoni and I’m nearly 26. I was diagnosed with epilepsy at the age of three and then autism when I was 15.
+ 
+I went through most of my education without an autism diagnosis and by the time I got it, was already approaching sixth form.
+So I never received sufficient support.
+ 
+In 2012, I was unfairly forced to leave school due to my epilepsy and mental health. 
+I joined my local FE College where I thrived. I got myself a place at the University of Sussex where I not only completed a degree but my Master’s also!
+ 
+Since then I’ve been on what I call a prolonged hiatus. In 2019 my epilepsy got really bad and then in 2020, COVID came along. 
+But thanks to AutSPACEs, I’m now back on track.
 
 **What are your favourite hobbies/things to do:**
 
+My long-term special interest is Doctor Who. However, I’m a big fan of TV in general as well radio.
+ 
+At the moment my main hobby is knitting. I started knitting in 2019 after I had surgery and wanted to find something I could do from bed whilst recovering.
+ 
+Since then my biggest achievements have been: a striped jumper for myself, a buttoned waistcoat for my grandpa and a beautiful shawl for my grandma. I’m also working on several pairs of socks as I get bored when repeating something so jump from project to project quite a lot. 
+
+I’m also a writer and am trying to get back into reading via audiobooks.
 
 **What have you been working on for the AutSPACEs project?**
 
-
+I first participated in AutSPACEs as part of a focus group but I’m now co-leading the moderation team. 
+ 
+We’re working on creating the Code of Conduct (CoC) for the site and the methods through which submitted stories will be assessed. As a lot of users will be autistic people, there needs to be a fair system that prevents potentially harmful content from being published but also makes sure the users understand why their content is inappropriate. 
+ 
+This is why creating a CoC that gets information across clearly is so important. Having other autistic people involved is key to this, not only to make sure it is understandable, but also to assure we don’t miss anything out. After all, everyone is different.
 
 **Give your best tips and tricks for contributing:**
 
-
+In full honesty, my main tip would simply be to just come along. This project is vast, which means if we’re not already working on something you’re interested in, we probably will be at some point. You may also discover a whole new interest.
+ 
+I’ve never worked on moderation before but it’s a perfect fit. It mixes my interest in ethics with my logical mindset. And also pulls in the knowledge I have from my MA in Digital Media. 
+ 
+There really is a purpose for everyone in this project, even if it’s just giving your opinions/feedback. So, if you have the time and interest, there’s really no reason not to come along and see what you think. 
 
 
 ## Project Information
