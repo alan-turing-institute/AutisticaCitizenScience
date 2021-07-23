@@ -15,12 +15,20 @@ They can sign up by following this link: https://tinyletter.com/AutisticaTuringC
 
 Best wishes for everyone! 💮
 
-# Project Update
+# Project News
 
-The most recent updates on the project and it's progress can be found [here](https://docs.google.com/presentation/d/1gW2twVD52a5MCjm_MrHdi464YHNFluNyPMWN-96lOjM/edit?usp=sharing).
+The most recent updates on the project and it's progress can be found [here](
 
 A lot of our resource has been going towards roadmapping the project and ensuring all our issues are up to date! 
 Our latest roadmap can be found in our github repository [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-roadmap).
+
+## Autistica Festival 
+
+Autistica held their annual festival this month 12-16 July. You can find information on what aspects were discussed at their [website](https://www.autistica.org.uk/get-involved/research-conference/research-festival-2021-programme). 
+
+We had Georgia and Susanna talk 
+
+Here are some quotes from our contributors who attended the festival: 
 
 ## Contributor Spotlight
 
@@ -65,20 +73,34 @@ I’ve never worked on moderation before but it’s a perfect fit. It mixes my i
  
 There really is a purpose for everyone in this project, even if it’s just giving your opinions/feedback. So, if you have the time and interest, there’s really no reason not to come along and see what you think. 
 
+## Project Opportunities
+
+### Spreading the word
+
+We currently are looking for opportunities to spread the word of the project to increase paricipation. 
+
+If you have any ideas for this, we would love to know, please send your ideas via email to [Lotty](ccoupat@turing.ac.uk).
+This could be anything from talks with charities/univeristies or posts in various communications channels that you are a part of. 
+Please share any information with any individuals who you think would be interested in joining and contributing to the project.
+
+### Opportunities for contribution
+
+There are lots of areas, as defined above, where you can get involved in the project. 
+If you are not too sure where to get started here are a few beginner issues which are a great place to start:
+
+[Issue #517](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/517)
+
+[Issue #529](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/529)
+
+[Issue #522](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/522)
+
+[Issue #516](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/516)
+
+If any of these issues seem interesting, please comment on this issue if you have a GitHub account. 
+If you don't have an account no worries! 
+Simply send [Lotty](mailto:ccoupat@turing.ac.uk) letting her know that you would like to contribute. 
 
 ## Project Information
-
-### Keep udpated via our Social Media Platforms!
-
-**TWITTER** - AutSPACEs has a [Twitter account](https://twitter.com/AutSpaces)!
-Please go and give us a follow!
-
-If you are social media savvy we would love to hear from you and get input into running the account, sharing it, and using it to promote the platform.
-
-**SLACK** - We also use Slack as a communication channel to advertise to our community our latest events and project progress and any opportunities for wider persepctives and comments. 
-This is a key area to discuss project work with other contributors!
-
-To join the Slack channel you will firstly need to go through [Open Humans Slack](https://slackin.openhumans.org/) and set up an account and once that's done then follow this [link](https://openhumans.slack.com/archives/CNMECPNCD) to our channel. 
 
 ### Get involved
 
@@ -100,29 +122,13 @@ If you're not too sure about GitHub but would like to know more, the [Turing Way
 I highly recommend this book also for anyone who is interested in Open Source Research and Reproducibility! 
 
 
-## Project Opportunities
-
-### Spreading the word
-
-We currently are looking for opportunities to spread the word of the project to increase paricipation. 
-
-If you have any ideas for this, we would love to know, please send your ideas via email to [Lotty](ccoupat@turing.ac.uk).
-This could be anything from talks with charities/univeristies or posts in various communications channels that you are a part of. 
-Please share any information with any individuals who you think would be interested in joining and contributing to the project.
-
-### Opportunities for contribution
-
-There are lots of areas, as defined above, where you can get involved in the project. 
-If you are not too sure where to get started here are a few beginner issues which are a great place to start:
-
-[Issue #529](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/529)
-
 ## Connect with us
 
 * [About the project](https://alan-turing-institute.github.io/AutisticaCitizenScience/)
 * [GitHub repository](https://github.com/alan-turing-institute/AutisticaCitizenScience)
 * [Github repository (platform development)](https://github.com/alan-turing-institute/AutSPACEs) 
 * [Join us on Slack](https://slackin.openhumans.org/)
+* [Follow us on Twitter](https://twitter.com/AutSpaces)
 
 You are also always welcome to email [Lotty](mailto:ccoupat@turing.ac.uk) if you want to be involved in any part of the project, or if you have any questions.
 
