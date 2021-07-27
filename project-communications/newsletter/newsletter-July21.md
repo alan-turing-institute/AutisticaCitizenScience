@@ -26,9 +26,9 @@ Our latest roadmap can be found in our github repository [here](https://github.c
 
 Autistica held their annual festival this month 12-16 July. You can find information on what aspects were discussed at their [website](https://www.autistica.org.uk/get-involved/research-conference/research-festival-2021-programme). 
 
-We had Georgia and Susanna talk 
+We had Georgia and Susanna talk about the AutSPACEs project and it got some great responses! Thank you to you both for all your hardwork on that. 
 
-Here are some quotes from our contributors who attended the festival: 
+They usually upload all recordings of the festival on their youtube channel [here](https://www.youtube.com/channel/UCOczrUsUjmBbUMPT0HIgGKg/featured).
 
 ## Contributor Spotlight
 
