@@ -378,7 +378,7 @@ Do this test on a few of your forms to check whether the fields respond as they 
 </details>
 
 <details>
-<summary>Check you’re using proper headings/summary>  
+<summary>Check you’re using proper headings</summary>  
 <br>
 Summary
 
