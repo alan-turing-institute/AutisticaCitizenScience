@@ -8,12 +8,12 @@ Please use this document to check any online project outputs for accessibility.
 <summary>HTML checks - Check any video players are accessible</summary>
 <br>
 
-Summary
+## Summary
 
 You need to check that any video players are accessible. 
 This means checking that the buttons you need to use to interact with the video player are marked up in a way that a screen reader would recognise.
 
-What needs to be done?
+## What needs to be done?
 
 You’ll need to inspect the page HTML to check whether you’re meeting this requirement. 
 Bring up the page HTML using the same method you used to check whether your text content was marked up properly.
