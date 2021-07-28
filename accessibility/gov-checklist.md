@@ -4,7 +4,7 @@ This file lists criteria for accesibility according to gov.uk.
 While we will create more rigorous and specific standards of accessibility and customisation for our project outputs in relation to autism, this provides a thoroughly tested bar for inclusion across multiple dimensions. 
 Please use this document to check any online project outputs for accessibility. 
 
-<details open>
+<details>
 <summary>HTML checks - Check any video players are accessible</summary>
 <br>
 
@@ -24,7 +24,7 @@ If there’s no text indicating what the button does then it’s probably not be
 This means a screen reader will not know what the button’s for and that users need to be able to see and understand the button icon to work it out for themselves.
 </details>
 
-<details open>
+<details>
 <summary>HTML checks - check the language the content is written in</summary> 
 <br>  
 
@@ -46,7 +46,7 @@ If it’s empty, the screen reader cannot tell what language the page is in.
 If any of your sample pages contain content written in other languages, you’ll need to check that’s marked up properly too, using the country code for the relevant language.                                                                                
 </details>
 
-<details open>
+<details>
 <summary>HTML checks - Checking tables and bullet lists are styled properly</summary>
 <br>
 
@@ -72,7 +72,7 @@ for bullet lists, look out for ul and li in <>
 If you can see these tags, it’s likely the elements have been styled properly.
 </details>
 
-<details open>
+<details>
 <summary>Search and other forms of navigation</summary>
 <br>
 
@@ -97,7 +97,7 @@ If they’re triggered on the down event, you’re likely not meeting this requi
 </details>
 
 
-<details open>
+<details>
 <summary>Check whether there’s an alternative for people who cannot see maps</summary>
 <br>
 Summary
@@ -118,7 +118,7 @@ For instance, when you search for your nearest contact centre, you’re presente
 Check any maps on your website to see whether you’re providing alternative routes for users who cannot use the map.
 </details>
 
-<details open>
+<details>
 <summary>Pop-ups and interactive or flashing content</summary>
 <br>
 Summary
@@ -140,7 +140,7 @@ Some websites play audio or video content automatically when a user refreshes or
 If this applies to your website - and the content plays for more than 3 seconds - you’ll need to check users can either change the volume or stop.
 </details>
   
-<details open>
+<details>
 <summary>Checking content is usable when zoomed in or magnified</summary>
 
 Summary
@@ -165,7 +165,7 @@ Use the same sample of pages you used when tweaking the size of the text. For ea
 If your website is handling this in an accessible way, then you should be able to navigate without using horizontal scroll: the content should reformat in a way that means you only need to use vertical scrolling.
 </details>
 
-<details open>
+<details>
 <summary>Navigating just using a keyboard</summary> 
 <br>
 Summary
@@ -217,7 +217,7 @@ Some websites give users the chance to skip these header blocks. For instance, i
 See if the same thing happens when you hit ‘Tab’ after refreshing a page on your website.
 </details>
 
-<details open>
+<details>
 <summary>Tests using a mobile or tablet device</summary>
 <br>
 Summary
@@ -248,7 +248,7 @@ This will not apply to most websites, but if it applies to yours then you need t
 Check that none of your sample pages require any of these types of interactions - and if they do, that there’s another way of completing that task.
 </details>
 
-<details open>
+<details>
 <summary>Check the PDFs and other documents</summary>
 <br>
 Summary
@@ -287,7 +287,7 @@ What needs to be done?
 You can test this by going to any of your sample forms that meet these criteria and working your way through them. See if you’re presented with a page that lets you check your answers before submitting the form.
 </details>
 
-<details open>
+<details>
 <summary>Check that any error messages are helpful</summary>
 <br>
   
@@ -308,7 +308,7 @@ Something like ‘You cannot enter a date in the future - please enter a past da
 Play around with a few form fields to see how helpful the error messages are.
 </details>
   
-<details open>
+<details>
 <summary>Check users get a warning before they’re timed out</summary>
 <br>
   
@@ -331,7 +331,7 @@ If you get timed out with no warning, then you’re not meeting the requirements
 If, after a while, you were given a timeout warning and a chance to prevent the timeout by interacting with the page, you’re likely meeting the requirements
 </details>
 
-<details open>
+<details>
 <summary>Check form elements are consistent across your website</summary>
 <br>
 
@@ -346,7 +346,7 @@ Check your sample to see how you’re labelling the navigational elements. For i
 Are you asking for users’ names and addresses in a consistent manner, or does it vary from form to form?
 </details>
 
-<details open>
+<details>
 <summary>Check it’s clear what information users need to provide</summary>
 <br>
  
@@ -362,7 +362,7 @@ As a general rule, these labels should be specific. Look at your forms and make 
 Common mistakes include not labelling fields at all, or using vague labels like ‘Name’ which do not make clear whose name the user needs to enter (for example, it could be a partner or child’s name, rather than the user’s own name).
 </details>
 
-<details open>
+<details>
 <summary>Check form fields are marked up appropriately</summary> 
 <br>
 Summary
@@ -377,7 +377,7 @@ You can check your form fields are marked up properly by going to a form and cli
 Do this test on a few of your forms to check whether the fields respond as they should
 </details>
 
-<details open>
+<details>
 <summary>Check you’re using proper headings/summary>  
 <br>
 Summary
@@ -399,7 +399,7 @@ Screen reader users often jump through the list of headings in a document so the
 Requires basic html knowledge
 </details>
 
-<details open>
+<details>
 <summary>Check pages are usable when stylesheets are disabled</summary>
 <br>
 Summary
@@ -418,7 +418,7 @@ Once you’ve done that, select ‘no styles’ from the panel on the left-hand 
 Check whether you can still use the content to complete any relevant tasks
 </details>
 
-<details open>
+<details>
 <summary>Check for images containing text</summary>
 <br>
 Summary
@@ -436,7 +436,7 @@ The information should be published as normal page text instead.
 This does not include logos and brand names - it’s okay for those to contain text.
 </details>
 
-<details open>
+<details>
 <summary>Audio descriptions for video and audio content</summary>
 <br>
 Summary
@@ -451,7 +451,7 @@ What needs to be done?
 Check your sample of videos to see if an extra audio track is required and whether you’re providing one.
 </details>
 
-<details open>
+<details>
 <summary>Check any video or audio content is properly described</summary>
 <br>
 
@@ -467,7 +467,7 @@ You should also check your sample videos (maybe 2 or 3) to assess the quality of
 Once you’ve done that, you’ll need to check there are transcripts for any audio content you’ve got.
 </details>
 
-<details open>
+<details>
 <summary>Check any images have a description</summary> 
 <br>
 
@@ -485,7 +485,7 @@ are described in any surrounding body text
 You do not need to check decorative images - these do not need an accompanying description.
 </details>
 
-<details open>
+<details>
 <summary>Check that pages have good titles</summary>
 
 Summary
@@ -509,7 +509,7 @@ For example, ‘Apply for a blue badge - Danbury Council’ is a much more descr
 Also check that none of the titles are duplicated: if 2 pages have the same title, how is the user supposed to know which one to use?
 </details>
 
-<details open>
+<details>
 <summary>Check that form elements behave as expected</summary>
 <br>
 Summary
@@ -522,7 +522,7 @@ What needs to be done?
 Check forms to ensure this isn't an issue.
 </details>
 
-<details open>
+<details>
 <summary>Check that links make sense</summary>
 <br>
 
@@ -542,7 +542,7 @@ If the link text still makes sense in isolation and clearly explains where the l
 If you’re using link text like ‘click here’ or ‘more information’ then you’re probably not meeting this requirement, as link text like that does not describe where the link will go or what it’s for.
 </details>
 
-<details open>
+<details>
 <summary>Check that instructions are styled properly</summary>
 <br>
 
