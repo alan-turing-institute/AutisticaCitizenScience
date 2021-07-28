@@ -88,13 +88,11 @@ Please share any information with any individuals who you think would be interes
 There are lots of areas, as defined above, where you can get involved in the project. 
 If you are not too sure where to get started here are a few beginner issues which are a great place to start:
 
-[Issue #517](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/517)
+**"Collate content for the platform's About page."** [Issue #529](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/529)
 
-[Issue #529](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/529)
+**"Add accessibility requirements as checklist."** [Issue #522](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/522)
 
-[Issue #522](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/522)
-
-[Issue #516](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/516)
+**"Create a promotion pack for AutSPACEs project." **[Issue #516](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/516)
 
 If any of these issues seem interesting, please comment on this issue if you have a GitHub account. 
 If you don't have an account no worries! 
