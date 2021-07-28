@@ -249,4 +249,226 @@ Users need to be able to check their answers before submitting certain types of 
 
 ### What needs to be done?
 
-You can test this by going to any of your sample forms that meet these criteria and working your way through them. See if you’re presented with a page that lets you check your answers before submitting the form
+You can test this by going to any of your sample forms that meet these criteria and working your way through them. See if you’re presented with a page that lets you check your answers before submitting the form.
+
+## Check that any error messages are helpful
+
+### Summary
+
+When a user provides incorrect information in a form, you need to let them know they’ve made a mistake and help them correct that mistake.
+
+### What needs to be done?
+
+You can check how well your website is doing this by going to your sample forms and entering some intentionally incorrect or invalid information.
+
+For example, you could enter a future date into a date of birth field or a postcode with too few characters and try submitting the form. This should generate an error message.
+
+Assess whether the error messages make clear what you need to do to correct the mistakes. Messages like ‘invalid date’ or ‘invalid postcode’ are not very helpful: they indicate that the user has made a mistake, but do not explain why the information was wrong and how to correct the error.
+
+Something like ‘You cannot enter a date in the future - please enter a past date’ is much more helpful.
+
+Play around with a few form fields to see how helpful the error messages are.
+
+## Check users get a warning before they’re timed out
+
+### Summary
+
+Some websites time users out after a period of inactivity. This usually results in form data being lost, or the user being automatically logged out of an account.
+
+You need to make sure to warn users if you’re going to time them out after a period of inactivity. You’ll also need to give them the chance to interact with the page to prevent the time out from happening.
+
+### What needs to be done?
+
+You need to make sure to warn users if you’re going to time them out after a period of inactivity. You’ll also need to give them the chance to interact with the page to prevent the time out from happening.
+
+Test whether you’re doing this by going to one of the forms on your website and remaining inactive for around 20 minutes. If you get timed out with no warning, then you’re not meeting the requirements.
+
+If, after a while, you were given a timeout warning and a chance to prevent the timeout by interacting with the page, you’re likely meeting the requirements
+
+## Check form elements are consistent across your website
+
+### Summary
+
+When you’re checking through your forms, you’ll need to check that form labels are used consistently. These are the labels that describe the information a user needs to enter into a particular field.
+
+### What needs to be done?
+
+Check your sample to see how you’re labelling the navigational elements. For instance, are you using ‘Submit’ on one form and then using ‘Go’ or ‘Complete’ on another?
+
+Are you asking for users’ names and addresses in a consistent manner, or does it vary from form to form?
+
+## Check it’s clear what information users need to provide
+
+### Summary
+
+As you go through your sample forms, you’ll need to check you’re using field labels in a way that makes clear what information the user needs to enter
+
+### What needs to be done?
+
+As you go through your sample forms, you’ll need to check you’re using field labels in a way that makes clear what information the user needs to enter.
+
+As a general rule, these labels should be specific. Look at your forms and make an assessment as to whether they’re clear. Common mistakes include not labelling fields at all, or using vague labels like ‘Name’ which do not make clear whose name the user needs to enter (for example, it could be a partner or child’s name, rather than the user’s own name)
+
+## Check form fields are marked up appropriately 
+
+### Summary
+
+You need to make sure any form fields are marked up correctly. If they’re not marked up properly, screen readers will not be able to tell what a form field is for, or what information the user should enter into it.
+
+### What needs to be done?
+
+You can check your form fields are marked up properly by going to a form and clicking on a field label (the text above, below or next to the field that explains what it’s for). If the field is marked up correctly, clicking the field label should cause your cursor to appear inside the corresponding field.
+
+Do this test on a few of your forms to check whether the fields respond as they should
+
+## Check you’re using proper headings 
+
+### Summary
+
+It’s important that any headings you’re using are styled properly. This is because some users with visual impairments use tools called ‘screen readers’ that read out page content to them
+
+### What needs to be done?
+
+Screen reader users often jump through the list of headings in a document so they can skip to the content they’re looking for.
+
+* If you’re styling headings just using bold, or by using bigger font, then screen readers will not recognise them as headings. This will stop users from skipping straight to the content they need.
+
+* To check your headings are styled properly, open up the tool you use to edit your website (often known as a ‘content management system’) and check the headings on your sample pages. They’re styled correctly if something like one of the following applies:
+
+    * your headings are styled as things like ‘Heading level 2’, rather than ‘Normal text’
+    * you can see tags like ##, ###, H2 or H3 in <>
+
+Requires basic html knowledge 
+
+## Check pages are usable when stylesheets are disabled
+
+### Summary
+The way a page looks is controlled by something called a ‘stylesheet’. It defines things like the way a page is laid out and any font colours.
+
+Your content should still be usable even if stylesheets are disabled, or are not loading properly. This means it’s still possible for users to complete any relevant tasks or find important information - for example, look for opening hours or contact details, or navigate their way to the form they need to fill out.
+
+### What needs to be done?
+
+You’ll need to check your sample pages are still usable when stylesheets are disabled. Test this by copying a URL from your website and pasting it into the WAVE tool. Once you’ve done that, select ‘no styles’ from the panel on the left-hand side of the tool. This should give you a much more basic view of the page.
+
+Check whether you can still use the content to complete any relevant tasks
+
+## Check for images containing text
+
+### Summary
+
+You’ll need to check whether any of your sample images contain text. This is because screen readers will not be able to read the text within the image. The information should be published as normal page text instead.
+
+### What needs to be done?
+
+You’ll need to check whether any of your sample images contain text. This is because screen readers will not be able to read the text within the image. The information should be published as normal page text instead.
+
+This does not include logos and brand names - it’s okay for those to contain text.
+
+## Audio descriptions for video and audio content
+
+### Summary
+
+When you check through the videos on your website, you might come across things that are covered in the video but not described in the audio track - something like the contents of a chart or graph, for example.
+
+If you were only following the audio, you’d miss this information. To make sure users can access the information they need, you’d need to provide an extra audio description to describe anything not covered in the main audio track.
+
+### What needs to be done?
+
+Check your sample of videos to see if an extra audio track is required and whether you’re providing one
+
+## Check any video or audio content is properly described
+
+### Summary
+
+You’ll need to check that any videos or audio content are clearly described so that users who cannot hear them can still access the information
+
+### What needs to be done?
+
+This firstly means checking that videos have captions explaining any sound effects and dialogue. You should also check your sample videos (maybe 2 or 3) to assess the quality of those captions.
+
+Once you’ve done that, you’ll need to check there are transcripts for any audio content you’ve got.
+
+## Check any images have a description 
+
+### Summary
+You’ll need to check that any non-decorative images (including charts or diagrams) have an accompanying text description. That way, users can still access the relevant information even if they cannot see the image
+
+### What needs to be done?
+
+Take your sample pages and check that any images either:
+
+have appropriate alternative (or ‘alt) text that explains the information the image conveys - you can usually check this in the content management system you use to update your website
+are described in any surrounding body text
+You do not need to check decorative images - these do not need an accompanying description.
+
+## Check that pages have good titles
+
+### Summary
+
+You need to check your pages are titled properly. If they’re not, users will not understand what they’re for and will struggle to find what they need using search
+
+### What needs to be done?
+
+Your page title should appear in the page tab at the top of your browser. For instance, if you go to the GOV.UK homepage you’ll see the text in the tab near the top of the browser is ‘Welcome to GOV.UK’. This is the page title.
+
+Look at the equivalent text for your sample pages. You can hover over the tab to see the full text if it’s too long to fit on the tab itself.
+
+Check whether your titles are descriptive. Ask yourself whether they clearly state - in simple language - what the pages are about and the tasks they’d help users complete.
+
+For example, ‘Apply for a blue badge - Danbury Council’ is a much more descriptive title than just ‘Blue badges’.
+
+Also check that none of the titles are duplicated: if 2 pages have the same title, how is the user supposed to know which one to use?
+
+## Check that form elements behave as expected
+
+### Summary
+
+When you were working your way through some of your sample forms, you should have noticed whether interacting with any of the elements caused anything unexpected to happen
+This includes things like a dropdown menu or radio button (an element that lets you select just one of a few options) causing a new page to open when you click on it.
+
+### What needs to be done?
+
+Check forms to ensure this isn't an issue
+
+## Check that links make sense
+
+### Summary
+Check any links on your sample content pages to check that the link text you’re using clearly explains where any links will take the user
+
+### What needs to be done?
+
+Check any links on your sample content pages to check that the link text you’re using clearly explains where any links will take the user.
+
+This is important because screen reader users often scan through lists of links in isolation. This means they do not have the surrounding context to help them understand what the link is for.
+
+You can check your links by looking at your sample pages and just reading the link text - without paying attention to the surrounding content. If the link text still makes sense in isolation and clearly explains where the link goes, it’s likely the text you’re using is accessible.
+
+If you’re using link text like ‘click here’ or ‘more information’ then you’re probably not meeting this requirement, as link text like that does not describe where the link will go or what it’s for.
+ 
+## Check that instructions are styled properly
+
+### Summary
+You need to make sure you’re not conveying instructions in a way that relies on a user’s ability to see the page
+
+### What needs to be done?
+
+You need to make sure you’re not conveying instructions in a way that relies on a user’s ability to see the page.
+
+For example, only sighted users will understand instructions like:
+
+‘click the round button’
+‘click the big button below’
+‘click the red button’
+Users who cannot see the page will not know what you’re referring to, because instructions like that rely on visual descriptions.
+
+So check your sample of pages and look out for these types of instructions
+
+
+
+
+
+
+
+
+
