@@ -19,6 +19,7 @@ Whether you want to get guidance, explore further, dig deeper, or find a foothol
   * UX design
   * Python
   * Django
+* [Accessibility](#accessibility)
 
 ## About this project (videos and presentations)
 
@@ -104,3 +105,8 @@ Happé, F., & Fletcher-Watson, S. (2019). **Autism: A New Introduction to Psycho
 * [Django Documentation](https://www.djangoproject.com/)
 * [Django community developers](https://dev.to/t/django)
 * [Django video Tutorials](https://www.youtube.com/watch?v=-oQvMHpKkms) 
+
+## Accessibility
+
+* https://accessibility.blog.gov.uk/2019/02/11/using-persona-profiles-to-test-accessibility/
+* https://www.plymouth.ac.uk/about-us/teaching-and-learning/inclusivity/how-can-i-be-more-inclusive
