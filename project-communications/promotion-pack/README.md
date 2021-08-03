@@ -48,12 +48,12 @@ Contributor list:
 
 ## Important Links
 
-[Project progress](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-updates)
-[Github](https://github.com/alan-turing-institute/AutisticaCitizenScience) 
-[Github (Platform Development)](https://github.com/alan-turing-institute/AutSPACEs)
-[Newsletter](https://tinyletter.com/AutisticaTuringCitizenScience)
-[Twitter](https://twitter.com/AutSpaces)
-Join Slack Channel
+* [Project progress](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-updates)
+* [Github](https://github.com/alan-turing-institute/AutisticaCitizenScience) 
+* [Github (Platform Development)](https://github.com/alan-turing-institute/AutSPACEs)
+* [Newsletter](https://tinyletter.com/AutisticaTuringCitizenScience)
+* [Twitter](https://twitter.com/AutSpaces)
+* [Join Slack Channel](https://slackin.openhumans.org/) 
 
 
 ## Slide decks and resources
