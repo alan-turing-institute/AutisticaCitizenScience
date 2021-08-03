@@ -6,14 +6,19 @@ Using the same structure as the Turing Way: the-turing-way/communications/promot
 
 ## What is the AutSPACEs project? 
 
-Autistic people have sensory processing sensitivities and differences when compared to non-autistic people. These differences can make it difficult to navigate environments that were not built with autistic people in mind. For example, it can be stressful to taking a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
-Understanding sensory processing differences, and learning what could make environments better for autistic people, are top community priorities. We know this because these questions were selected as two of the top ten questions for autism research in a recent priority setting exercise. To make this list, over 1,000 people were consulted, 75% of whom were autistic. You can find out more about the list and how it was created in Autistica's summary.
-In order to really make a difference, we want to take the research out of the lab and learn from the lived experience of autistic people in their daily lives.
+Autistic people may have sensory processing sensitivities and differences when compared to non-autistic people. These differences can make it difficult to navigate environments that were not built with sensory processing sensitivities  in mind. For example, for some people it can be stressful to take a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
+
+Understanding sensory processing differences, and learning what could make environments better for autistic people, are top community priorities. We know this because these questions were two of the top ten questions for autism research in a recent priority setting exercise. To make this list, over 1,000 people were consulted, 75% of whom were autistic. You can find out more about the list and how it was created in Autistica's summary.
+
+In order to really make a difference, we want to take the research out of the lab and learn from the  living experience of autistic people in their daily lives.
+
 We want to gather many autistic people’s stories together. Our goals are to:
 1. Share the stories with people who have similar experiences
 2. Educate non-autistic people on how they can better support autistic people
 3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.
-To do these three things and reach as many people as possible, we are building an online tool where they can enter their experiences. There are lots of different options for how we design this tool, what features we include, and how we let people know about it. We think autistic people and their families and carers are the best people to ask.
+
+To do these three things and reach as many people as possible, we are building an online tool where they can share their experiences. There are lots of different options for how we design this tool, what features we include, and how we let people know about it. We think autistic people and their families and carers are the best people to ask.
+
 
 ## Who are the community members?
 
@@ -43,11 +48,11 @@ Contributor list:
 
 ## Important Links
 
-Project progress
-Github 
-Github (Platform Development) 
-Newsletter
-Twitter
+[Project progress](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-updates)
+[Github](https://github.com/alan-turing-institute/AutisticaCitizenScience) 
+[Github (Platform Development)](https://github.com/alan-turing-institute/AutSPACEs)
+[Newsletter](https://tinyletter.com/AutisticaTuringCitizenScience)
+[Twitter](https://twitter.com/AutSpaces)
 Join Slack Channel
 
 
