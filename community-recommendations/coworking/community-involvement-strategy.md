@@ -1,5 +1,7 @@
 # Community Involvement Strategy 
 
+These are notes from co-working sessions, and include comments from the focus groups which are recommendations for commnuity involvement. 
+
 ## Define who is already involved (categories)
 
  * Individual volunteers
