@@ -1,8 +1,6 @@
 # Promotion Pack - AutSPACEs
 
-## Plan
-
-Using the same structure as the Turing Way: the-turing-way/communications/promotion-pack at master · alan-turing-institute/the-turing-way (github.com)
+This pack should help anyone needing the key information to distribute it to anyone seeking more information about the project. 
 
 ## What is the AutSPACEs project? 
 
@@ -42,9 +40,6 @@ Robin Taylor (Platform Development Contributor)
 Susanne Fantoni (Moderation Contributor)
 James Scott (Moderation Contributor)
 
-Contributors number: 
-Contributor list: 
-
 
 ## Important Links
 
@@ -63,5 +58,5 @@ Onboarding pack
 
 **Contact email: Lotty Coupat - Community Manager -  ccoupat@turing.ac.uk **
 
-**Frequently Asked Questions: insert link. **
+**Frequently Asked Questions: insert link.**
 
