@@ -51,12 +51,7 @@ James Scott (Moderation Contributor)
 * [Join Slack Channel](https://slackin.openhumans.org/) 
 
 
-## Slide decks and resources
+**Contact email: Lotty Coupat - Community Manager -  ccoupat@turing.ac.uk**
 
-Onboarding pack 
-
-
-**Contact email: Lotty Coupat - Community Manager -  ccoupat@turing.ac.uk **
-
-**Frequently Asked Questions: insert link.**
+**Frequently Asked Questions: [FAQs](faqs.md) insert link.**
 
