@@ -78,9 +78,16 @@ We ask that you:
 
 More information about how to review the document is available below. 
 
-### 5. Review the Moderation Report for the group as a whole.
+We may not be able to incorporate everyone's requests, but we will try our best to be guided by you.
 
-We will circulate a full version of the moderation report after the first set of edits have been made. You will also get a chance at this stage to request changes to the report before publication. This is so that we can make sure that the decision to publish the sessions has been made collectively. 
+### 5. (Optional) Review the Moderation Report for the group as a whole
+
+If you would like to see a full version of the moderation report after the first set of edits have been made please contact Georgia at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk).
+
+Our decision to make this an optional step is to balance collective decision making and protecting your time.
+
+We want to give you a chance at this stage to request changes to the report before publication.
+However the document is very long and we do not want to burden you with additional work reviewing quotes from other focus group participants.
 
 ### 6. Publish insights online
 
@@ -99,9 +106,9 @@ Potential users include:
 
 ### 7. Create a moderation process and code of conduct for the platform
 
-Your thoughts and comments will be read by autistic researchers, and they will be used to help design a moderation process for the platform and write a code of conduct based on your expertise, views, hopes, and concerns. If you would like to be more involved in moderation, please contact Lotty Coupat. 
+Your thoughts and comments will be read by autistic researchers, and they will be used to help design a moderation process for the platform and write a code of conduct based on your expertise, views, hopes, and concerns.
 
-We can't do everything, but we will try our best to be guided by you. 
+If you would like to be more involved in moderation discussions, please contact Lotty Coupat at [mailto:ccoupat@turing.ac.uk]. 
 
 ## Reviewing the summary document
 
