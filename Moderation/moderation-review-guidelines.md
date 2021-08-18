@@ -53,6 +53,15 @@ Quotations were taken from the transcription document, shortened, and organised 
 
 These insights are contained in the moderation report you have been sent. At this stage you will only have access to the quotations from the discussion groups you took part in. 
 
+### 3.a. Remove quotes that could be harmful to autistic people
+
+For the purposes of creating a public dataset which is autism-voice first, we have edited out comments which contain negative emotional responses, struggles, or judgements that non-autistic people have about autistic people, where the emphasis is on non-autistic people’s experiences (e.g., personal reactions to autistic people's behaviours).
+
+We have kept comments about non-autistic people's responses to autistic people, when the emphasis is on autistic people's experiences (e.g., comments about dealing with neurotypical prejudice).
+
+This is because feedback from the AutSPACEs community has been predominantly that there should be an emphasis on autistic people's experiences first and foremost.
+Having too much focus on non-autistic views of autistic people can be damaging to autistic people and work against creating a safe space for autistic voices to be heard.
+
 ## What happens next?
 
 ### 4. Review the moderation report for the discussions you took part in
@@ -198,7 +207,7 @@ It is very important to us that you are comfortable with the information being m
 
 Please email [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk) with any changes you would like to be made to quotes in the document.
 
-**Please reply in 2 weeks.**
+**Please reply in 3 weeks.**
 You can ask for more time or to ask any questions about steps that are confusing.
 
 ## Thank you
