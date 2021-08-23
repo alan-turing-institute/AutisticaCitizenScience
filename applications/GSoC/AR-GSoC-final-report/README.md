@@ -2,6 +2,18 @@
 GSoC Work Report - Building a Working Prototype for the AutSPACEs website
 ===
 
+## Table of Contents
+* <a href="#about-me">About Me</a>  
+* <a href="#overview">Overview</a>
+* <a href="#details-on-pages-developed">Details on Pages Developed</a>
+* <a href="#major-pull-requests">Major Pull Requests</a>
+* <a href="#issues-createddetails-added">Issues Created/Details Added</a>
+* <a href="#reviewed-prs">Reviewed PRs</a>
+* <a href="#reflections">Reflections</a>
+* <a href="#future-work">Future Work</a>
+* <a href="#conclusion">Conclusion</a>
+
+
 ## About Me
 Hi! I'm Anoushka Ramesh, a Computer Science undergraduate from India studying at Amrita Vishwa Vidyapeetham, Amritapuri. During Google Summer of Code 2021, I've been an active contributor to AutSPACEs where I worked on building a working prototype of their website. 
 
