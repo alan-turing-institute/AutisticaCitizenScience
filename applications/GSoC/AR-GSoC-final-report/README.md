@@ -16,13 +16,13 @@ AutSPACEs is entirely open source and involves a diverse community of autistic c
 
 This project aims to build and implement a working prototype of the AutSPACEs website in collaboration with the autistic community. The approach to this project would be to:
 
-* Solve issues from milestones [2](https://github.com/alan-turing-institute/AutSPACEs/milestone/2) and [3](https://github.com/alan-turing-institute/AutSPACEs/milestone/7) which aim to increase the accessibility of the website and make it into a minimum viable product.
+* Solve issues from milestones [2](https://github.com/alan-turing-institute/AutSPACEs/milestone/2?closed=1) and [3](https://github.com/alan-turing-institute/AutSPACEs/milestone/7) which aim to increase the accessibility of the website and make it into a minimum viable product.
 * Test and review PRs to ensure that they meet their purpose.
 * Make appropriate documentation for the code.
 * Send the final working prototype to the autistic community for feedback and make additonal issues based on it.
 
 ### Changes in the Project Plans
-* [Milestone 2](https://github.com/alan-turing-institute/AutSPACEs/milestone/2) became the primary focus of the project i.e. making an MVP of the website and delivering it to the autistic community for feedback.
+* [Milestone 2](https://github.com/alan-turing-institute/AutSPACEs/milestone/2?closed=1) became the primary focus of the project i.e. making an MVP of the website and delivering it to the autistic community for feedback.
 * [Milestone 3](https://github.com/alan-turing-institute/AutSPACEs/milestone/7) changed to integrating the website with Open Humans - a backend database that stores all user experiences.
 * Implementing accessibility of the website got shifted to [Milestone 4](https://github.com/alan-turing-institute/AutSPACEs/milestone/5).
 
