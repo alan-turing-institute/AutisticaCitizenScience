@@ -1,14 +1,6 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
 
 GSoC Work Report
 ===
-
-## Table of Contents
-
-[TOC]
 
 ## About Me
 Hi! I'm Anoushka Ramesh, a Computer Science undergraduate from India studying at Amrita Vishwa Vidyapeetham, Amritapuri. During Google Summer of Code 2021, I've been an active contributor to AutSPACEs where I worked on building a working prototype of their website. 
