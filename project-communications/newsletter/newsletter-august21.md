@@ -7,7 +7,7 @@ Firstly, thank you for opening and reading this month's newsletter 😄 We are s
 We hope that everyone has enjoyed their summer and have been able to take time off if possible. 
 
 We are still seeing a lot of change in our world at the moment. 
-So, if anyone is struggling with these challenging times, we hope that the citizen science community can offer your support and connection.
+So, if anyone is struggling with these challenging times, we hope that the citizen science community can offer you support and connection.
 
 Email [Lotty](mailto:ccoupat@turing.ac.uk) to let us know if we can help you with involvement, and do feel free to share this newsletter to anyone who you think would be interested in joining us.
 
@@ -26,7 +26,7 @@ Our latest roadmap can be found in our github repository [here](https://github.c
 
 Autistica held their annual festival last month 12-16 July. 
 
-They successfully uploaded all videos of the conference on their youtube page [here](https://www.youtube.com/playlist?list=PLg_hTtp1fDqo6CRmisAd21OKLnjG1xdQc).
+The whole conference is now available to watch on their YouTube page [here](https://www.youtube.com/playlist?list=PLg_hTtp1fDqo6CRmisAd21OKLnjG1xdQc).
 
 ## Upcoming events
 
