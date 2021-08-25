@@ -10,31 +10,22 @@ You can help in lots of ways, for example, by:
 * sharing the work we're doing here with others
 * and much more!
 
-Please continue reading to find out more, or jump to any of the following sections:
-
-* For information on how to get started and join in, go to [get-involved](get-involved)
-* Find out more about [autism and navigating environments](#autism-and-navigating-environments)
-* Find out more about how we work together: [participatory science](#participatory-science)
-* Find out more about [our community](#our-community)
-* View suggestions and contributions from the community in [community-recommendations](#community-recommendations)
-* See how the project is being run in [project-management](project-management)
-* See who's involved: [contributors](#contributors)
-* Re-use anything here under our open source [license](#license)
-
 We cannot build this tool without the input of a diverse community of autistic people and their relatives and carers.
 We also welcome open source developers to join us in building it.
 
+To understand a bit more on how to navigate our repository to kickstart your contribution, please head [here]().
+
 **Is there an onboarding process?**
 
-Yes! There are many channels in which you can fidn out about the project. When you first join, whether this is via our social platfomrs such as Twitter or Slack or if you attend one of our meet-ups, the community manager will run through with you key information about the project. The discussion will also help highlight areas where you can contribute due to your interests. 
+Yes! There are many channels in which you can find out about the project. When you first join, whether this is via our social platforms such as Twitter or Slack or if you attend one of our meet-ups, the community manager will run through with you key information about the project. The discussion will also help highlight areas where you can contribute due to your interests. 
 
 The current community manager is Lotty Coupat - if you would like to get involved with the project the best thing is to email her at [ccoupat@turing.ac.uk](ccoupat@turing.ac.uk).
 
 **How much time commitment is needed?**
 
-Anyone can contribute to the project as per their availability. Many contributors attend the community meet-ups that occure on every second and fourth Thursday of the month, to either co-work on issues or to provide ideas and feedback. Other contributors regularly collaborate with the project as reviewers and maintainers, by helping other members to contribute to the project.
+Anyone can contribute to the project as per their availability. Many contributors attend the community meet-ups that occur on every second and fourth Thursday of the month, to either co-work on issues or to provide ideas and feedback. Other contributors regularly collaborate with the project as reviewers and maintainers, by helping other members to contribute to the project.
 
-You can pick up issues whenever you have capacity and we completly understand that capacity changes and there are other priorities (full-time jobs). We welcome all contributions. 
+You can pick up issues whenever you have capacity and we completely understand that capacity changes and there are other priorities (full-time jobs). We welcome all contributions. 
 
 **What is meant by Participatory Research?**
 
