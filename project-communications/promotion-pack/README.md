@@ -50,7 +50,7 @@ James Scott (Moderation Contributor)
 * [Twitter](https://twitter.com/AutSpaces)
 * [Join Slack Channel](https://slackin.openhumans.org/) 
 
-# Previous presentations
+## Previous presentations
 
 * AutSPACEs update to Whitaker Lab at the Alan Turing Institute - June 2021 - [Google presentation here](https://docs.google.com/presentation/d/1tZMCVlYg57A30OY0hN4vxqZiSoPbhx3zlF-SbYVK6V8/edit?usp=sharing)
 
