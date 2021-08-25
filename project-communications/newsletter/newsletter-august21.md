@@ -4,7 +4,7 @@
 
 Firstly, thank you for opening and reading this month's newsletter 😄 We are so happy you are here!
 
-We hope that everyone is enjoyed their summers and have been able to take time off if possible. 
+We hope that everyone has enjoyed their summer and have been able to take time off if possible. 
 
 We are still seeing a lot of change in our world at the moment. 
 So, if anyone is struggling with these challenging times, we hope that the citizen science community can offer your support and connection.
@@ -34,7 +34,7 @@ They successfully uploaded all videos of the conference on their youtube page [h
 
 We have a slot at the Open Humans monthly community call to present and discuss the AutSPACEs project. 
 
-Details on the upcming events, as well as the community calendar, for Open Humans can be found [here](https://docs.google.com/document/d/1p61Zp48JXYxc5tB2q7WR51ZQ8_TS0s8-LDtvVSC88QA/edit).
+Details on upcoming events, as well as the community calendar, for Open Humans can be found [here](https://docs.google.com/document/d/1p61Zp48JXYxc5tB2q7WR51ZQ8_TS0s8-LDtvVSC88QA/edit).
 
 #### CC Summit 
 
@@ -51,7 +51,7 @@ Today we are spotlighting on Robin Taylor who has been a key contributor to the 
 I’m Robin Taylor. 
 I studied mathematics and operational research at university and then spent most of my working life in insurance and risk management. 
 I was made redundant a few years ago which led to early retirement. 
-Just before then I had been approached in a pub and asked to become Treasurer of the Pagan Federation, which led to becoming President until I stepped down last year. 
+Just before then, I had been approached in a pub and asked to become Treasurer of the Pagan Federation, which led to becoming President until I stepped down last year. 
 We are an entirely volunteer organisation and I am still extensively involved, while in the process of handing over most of my responsibilities.
 
 One of my adult children has a diagnosis of autism. 
@@ -76,7 +76,8 @@ Relax and appreciate that this is a participatory project for neurodiverse peopl
 
 Discussions about autism are much more interesting and useful if the majority of those in the room are either autistic or open to the possibility that they might be so. 
 There is then much less need to fight off labels, projections, and assumptions about a lack of empathy and imagination. 
-With the lack of stigma an honest discussion can take place. 
+With the lack of stigma, an honest discussion can take place. 
+
 One of the most significant discussions of my life was in a social context with someone who had also been a mathematics student. 
 We were reflecting on our past experiences in groups of people with significant unacknowledged autism. 
 We became open to the possibility that we ourselves were to some extent autistic, evidenced by remembering learning social skills a few years later than our contemporaries.
@@ -98,11 +99,12 @@ If you are not too sure where to get started here are a few beginner issues whic
 
 **"Collate content for the platform's About page."** [Issue #529](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/529)
 
-**"Add accessibility requirements as checklist."** [Issue #522](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/522)
-
 **"Create a promotion pack for AutSPACEs project."**[Issue #516](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/516)
 
+All other issues for the project can be found in [our repository(https://github.com/alan-turing-institute/AutisticaCitizenScience/issues).
+
 If any of these issues seem interesting, please comment on this issue if you have a GitHub account. 
+
 If you don't have an account no worries! 
 Simply send [Lotty](mailto:ccoupat@turing.ac.uk) letting her know that you would like to contribute. 
 
