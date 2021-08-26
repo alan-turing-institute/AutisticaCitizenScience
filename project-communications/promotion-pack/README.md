@@ -52,8 +52,8 @@ James Scott (Moderation Contributor)
 
 ## Previous presentations
 
-* AutSPACEs update to Whitaker Lab at the Alan Turing Institute - June 2021 - [Google presentation here](https://docs.google.com/presentation/d/1tZMCVlYg57A30OY0hN4vxqZiSoPbhx3zlF-SbYVK6V8/edit?usp=sharing)
-* * 10-06-2021: "AutSPACEs: Annual Updates", a presentation delivered by Georgia Aitkenhead to members of Autistica to showcase highlights from work completed over the course of 2020-2021. Slides on [Zenodo](https://zenodo.org/record/4922526)
+* June 2021 - AutSPACEs update to Whitaker Lab at the Alan Turing Institute - [Google presentation here](https://docs.google.com/presentation/d/1tZMCVlYg57A30OY0hN4vxqZiSoPbhx3zlF-SbYVK6V8/edit?usp=sharing)
+* 10-06-2021: "AutSPACEs: Annual Updates", a presentation delivered by Georgia Aitkenhead to members of Autistica to showcase highlights from work completed over the course of 2020-2021. Slides on [Zenodo](https://zenodo.org/record/4922526)
 * 31-03-2021: “Participatory Citizen Science”, a talk delivered by Georgia Aitkenhead, Suzanne Iwai, Sarah Markham and Otis Smith for the third cohort of OLS, using AutSPACEs as a case study for participatory citizen science. Slides on [Zenodo](https://zenodo.org/record/4651431). Recording on [Youtube](https://www.youtube.com/watch?v=Vizk7fni5Eo).
 * 17-12-2020: “Autspaces: creating a participatory, open citizen science platform.” Presentation given by Georgia Aitkenhead and James Scott for the graduation of OLS-2, 2020. Presentation on [YouTube](https://www.youtube.com/watch?v=wv8_0iOMpGs).
 * 18-11-2020: “Research to Empower: co-creating a citizen science platform” was presented by Georgia Aitkenhead and Otis Smith for an Autistica webinar on: “How can we move towards a more autism friendly world”. Recording available on [Youtube](https://www.youtube.com/watch?v=QDWpykMPxQ8). 
