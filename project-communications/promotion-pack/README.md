@@ -17,7 +17,6 @@ We want to gather many autistic people’s stories together. Our goals are to:
 
 To do these three things and reach as many people as possible, we are building an online tool where they can share their experiences. There are lots of different options for how we design this tool, what features we include, and how we let people know about it. We think autistic people and their families and carers are the best people to ask.
 
-
 ## Who are the community members?
 
 This project is a collaboration between Autistica and The Alan Turing Institute. Autistica is a UK-based charity whose mission is to help autistic people and their families have long, healthy, happy lives. The Alan Turing Institute is the UK's National Institute for artificial intelligence and data science. We have partnered with Open Humans Foundation, who have helped us adapt their file management system for storing the data the tool will collect.
@@ -40,6 +39,16 @@ Robin Taylor (Platform Development Contributor)
 Susanne Fantoni (Moderation Contributor)
 James Scott (Moderation Contributor)
 
+## Contributor stories
+
+You can find some great examples of contributor work in our repository. 
+
+Anouhska Ramesh - Google Summer of Code Intern
+
+Anouhska carried out a 3 month internship on the AutSPACEs projects through the Google Summer of Code programme. 
+For this internship, she contributed significantly to the platform development and succes of accomplishing Milestone 2. 
+Her final report, which highlights and summarises her internship work, provides a good example of the type of work potential contributors can get involved in.
+This can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/applications/GSoC/AR-GSoC-final-report)
 
 ## Important Links
 
