@@ -43,12 +43,12 @@ James Scott (Moderation Contributor)
 
 You can find some great examples of contributor work in our repository. 
 
-Anouhska Ramesh - Google Summer of Code Intern
+**Anouhska Ramesh - Google Summer of Code Intern**
 
 Anouhska carried out a 3 month internship on the AutSPACEs projects through the Google Summer of Code programme. 
 For this internship, she contributed significantly to the platform development and succes of accomplishing Milestone 2. 
 Her final report, which highlights and summarises her internship work, provides a good example of the type of work potential contributors can get involved in.
-This can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/applications/GSoC/AR-GSoC-final-report)
+This can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/applications/GSoC/AR-GSoC-final-report).
 
 ## Important Links
 
