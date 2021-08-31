@@ -1,7 +1,7 @@
 # Autistica/Turing Citizen Science
 [![Join the chat at https://slackin.openhumans.org/](https://img.shields.io/badge/chat-on%20slack-brightgreen.svg?style=flat-square)](https://slackin.openhumans.org/)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg?style=flat-square)](https://tinyletter.com/AutisticaTuringCitizenScience)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 *Project management and resource repository for the Autistica/Turing Citizen Science project*
@@ -160,6 +160,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/lottycoupat"><img src="https://avatars.githubusercontent.com/u/82104604?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lottycoupat</b></sub></a><br /><a href="#ideas-lottycoupat" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3Alottycoupat" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=lottycoupat" title="Documentation">📖</a> <a href="#projectManagement-lottycoupat" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/sowmya9507"><img src="https://avatars.githubusercontent.com/u/55495129?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sowmya</b></sub></a><br /><a href="#ideas-sowmya9507" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=sowmya9507" title="Code">💻</a></td>
     <td align="center"><a href="http://anoura12.github.io"><img src="https://avatars.githubusercontent.com/u/73518403?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anoushka Ramesh</b></sub></a><br /><a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=anoura12" title="Code">💻</a> <a href="#ideas-anoura12" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/skfantoni"><img src="https://avatars.githubusercontent.com/u/83018163?v=4?s=100" width="100px;" alt=""/><br /><sub><b>skfantoni</b></sub></a><br /><a href="#ideas-skfantoni" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/pulls?q=is%3Apr+reviewed-by%3Askfantoni" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/alan-turing-institute/AutisticaCitizenScience/commits?author=skfantoni" title="Documentation">📖</a> <a href="#design-skfantoni" title="Design">🎨</a></td>
   </tr>
 </table>
 

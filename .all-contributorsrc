@@ -293,6 +293,18 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "skfantoni",
+      "name": "skfantoni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83018163?v=4",
+      "profile": "https://github.com/skfantoni",
+      "contributions": [
+        "ideas",
+        "review",
+        "doc",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
