@@ -9,7 +9,7 @@ Alternatively, you can turn up to on of our community meet ups which occure on e
 To keep up to date with our events either follow us on [Twitter](https://twitter.com/AutSpaces) or join our [Slack Channel](https://openhumans.slack.com/archives/CNMECPNCD).
 
 Onboarding pack here:
-https://docs.google.com/presentation/d/1FxFTio4Wg70_EzeMy5JTonsJU2OWlpuWRXDCVMRlZHc/edit#slide=id.p5
+[!][here](https://docs.google.com/presentation/d/1FxFTio4Wg70_EzeMy5JTonsJU2OWlpuWRXDCVMRlZHc/edit#slide=id.p5)
 
 
 
