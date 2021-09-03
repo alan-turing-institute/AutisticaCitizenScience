@@ -100,7 +100,7 @@ Hello everyone!
 
 My name is Lotty and I am the Community Manager for the AutSPACEs Project and this means that I will be hosting our next meet-up!! 
  
-We are delighted to invite you to our next regular online meet-up session tomorrow for the AutSPACEs project.
+We are delighted to invite you to our next regular online meet-up session for the AutSPACEs project.
 
 It will take place on Thursday **X** from 12:30pm-14:30pm BST.
 
