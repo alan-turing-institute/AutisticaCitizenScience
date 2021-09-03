@@ -1,16 +1,27 @@
 # Promotion Pack - AutSPACEs
 
-This pack should help anyone needing the key information to distribute it to anyone seeking more information about the project. 
+This pack should help anyone needing the resources to succesfully represent the AutSPACEs project at external events. 
 
 ## What is the AutSPACEs project? 
 
-Autistic people may have sensory processing sensitivities and differences when compared to non-autistic people. These differences can make it difficult to navigate environments that were not built with sensory processing sensitivities  in mind. For example, for some people it can be stressful to take a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
+* A citizen science participatory project
+* An open source project: https://github.com/alan-turing-institute/AutisticaCitizenScience
+* Development of an online platform to collect qualitative data on how public environments impact the sensory processes of autistic people: https://github.com/alan-turing-institute/AutSPACEs
 
-Understanding sensory processing differences, and learning what could make environments better for autistic people, are top community priorities. We know this because these questions were two of the top ten questions for autism research in a recent priority setting exercise. To make this list, over 1,000 people were consulted, 75% of whom were autistic. You can find out more about the list and how it was created in Autistica's summary.
+## Navigating Environments
 
-In order to really make a difference, we want to take the research out of the lab and learn from the  living experience of autistic people in their daily lives.
+Autistic people may have sensory processing sensitivities and differences when compared to non-autistic people. 
+These differences can make it difficult to navigate environments that were not built with sensory processing sensitivities  in mind. 
+For example, for some people it can be stressful to take a busy train during rush hour, or to attend an appointment in a brightly lit hospital waiting room.
 
-We want to gather many autistic people’s stories together. Our goals are to:
+Understanding sensory processing differences, and learning what could make environments better for autistic people, are top community priorities. 
+We know this because these questions were two of the top ten questions for autism research in a recent priority setting exercise. 
+To make this list, over 1,000 people were consulted, 75% of whom were autistic. 
+
+In order to really make a difference, we want to take the research out of the lab and learn from the living experience of autistic people in their daily lives.
+
+## Our goals
+
 1. Share the stories with people who have similar experiences
 2. Educate non-autistic people on how they can better support autistic people
 3. Advise people on how they can design and adapt spaces to improve autistic people’s lives.
@@ -19,14 +30,19 @@ To do these three things and reach as many people as possible, we are building a
 
 ## Who are the community members?
 
-This project is a collaboration between Autistica and The Alan Turing Institute. Autistica is a UK-based charity whose mission is to help autistic people and their families have long, healthy, happy lives. The Alan Turing Institute is the UK's National Institute for artificial intelligence and data science. We have partnered with Open Humans Foundation, who have helped us adapt their file management system for storing the data the tool will collect.
+This project is a collaboration between Autistica and The Alan Turing Institute. 
+Autistica is a UK-based charity whose mission is to help autistic people and their families have long, healthy, happy lives. 
+The Alan Turing Institute is the UK's National Institute for artificial intelligence and data science. 
+We have partnered with Open Humans Foundation, who have helped us adapt their file management system for storing the data the platform will collect.
+
 You can find out more about all these organisations on their websites:
-Autistica
-The Alan Turing Institute
-Open Humans Foundation
+* [Autistica](https://www.autistica.org.uk/)
+* [The Alan Turing Institute](https://www.turing.ac.uk/)
+* [Open Humans Foundation](https://www.openhumans.org/)
+
 At the heart of the community are autistic participants, families, carers, volunteers and open source developers. This is an open project, which anyone is invited to contribute to.
 
-Core contributors to the project:
+Project team:
 Kirstie Whitaker (Principle Investigator)
 Georgia Aitkenhead (Research Lead)
 Lotty Coupat (Community Manager) 
@@ -45,10 +61,16 @@ You can find some great examples of contributor work in our repository.
 
 **Anouhska Ramesh - Google Summer of Code Intern**
 
-Anouhska carried out a 3 month internship on the AutSPACEs projects through the Google Summer of Code programme. 
+Anouhska carried out a 3 month internship on the AutSPACEs project through the Google Summer of Code programme. 
 For this internship, she contributed significantly to the platform development and succes of accomplishing Milestone 2. 
 Her final report, which highlights and summarises her internship work, provides a good example of the type of work potential contributors can get involved in.
 This can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/applications/GSoC/AR-GSoC-final-report).
+
+**Sowmya Rajan - CRI Paris Intern**
+
+Sowyma carried our a 3 month internship on the AutSPACEs project through Open HUmans and CRI in Paris. 
+Her key objectives and contributions to the project were developing the static pages of the MVP to lead the project to succesffuly accomplishing Milestone 2. 
+A summary of her contributions can be found here. 
 
 ## Important Links
 
