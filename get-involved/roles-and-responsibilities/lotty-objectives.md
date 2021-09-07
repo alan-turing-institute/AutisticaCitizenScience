@@ -1,3 +1,8 @@
+# Lotty Coupat - Community Manager Objectives
+
+Lotty is on secondment to the Alan Turing Institute over from the Civil Service for six months.
+Below are the objestives for Lotty's posting as the Community Manager of the AutSPACEs project. 
+
 ## 1) Improving the trend of raised and closed issues that are integral to the running of the AutSPACEs project through connecting with key stakeholders to ensure the reviewing process is carried out. 
 
 **Measure of success:**
