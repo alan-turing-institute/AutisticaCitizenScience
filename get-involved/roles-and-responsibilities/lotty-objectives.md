@@ -1,6 +1,6 @@
 ## 1) Improving the trend of raised and closed issues that are integral to the running of the AutSPACEs project through connecting with key stakeholders to ensure the reviewing process is carried out. 
 
-__Measure of success:__
+**Measure of success:**
 - Increased numbers of opened issues over the secondment
 - Increased numbers of closed issues over the secondment
 - Increased numbers of different people credited as contributing to the work of closed issues
@@ -13,12 +13,13 @@ For this to be successful, I will have to be build key relationships and a netwo
 
 The success of this objective will be through the increase ratio between the number of issues raised and number of issues closed. As, through this, it will show the success of the communication channels as well as management methodology. 
 
-__Civil Service Behaviours:__
+**Civil Service Behaviours:**
 - Delivering at Pace 
 - Managing a Quality Service
 - Working Together
 
-__Leadership Statement – Confident__
+**Leadership Statement – Confident**
+
 I will actively reach out to stakeholders and communicate my asks to ensure that we stay on track with our issues and pull requests for the project. I will work effectively work as a team to ensure we resolve issues and that the correct reviewers are involved.  
 
 ## 2) Increase participation to the project through establishing key pathways for participation on the AutSPACEs project to ensure the project moves forward in its strategic direction. 
@@ -41,7 +42,7 @@ The success of this objective will be seen through the increase of pull requests
 - Working Together
 - Leadership
 
-**Leadership Statement – Empowering **
+**Leadership Statement – Empowering**
 
 I will provide a space where contributors can strive to do their best in the project through helping them carry out their actions and provide them with opportunities to help them develop. I will create and inclusive environment to ensure all individuals feel safe to contribute. 
 
@@ -64,7 +65,7 @@ To ensure that we are successfully integrating communities, and therefore succes
 - Working Together
 - Leadership
 
-**Leadership Statement – Inspiring **
+**Leadership Statement – Inspiring**
 
 I will show passion and pride for the project to create a positive and motivated environment to ensure we successfully work as a team to reach our shared vision. I will communicate the projects work with clarity, confidence and enthusiasm to influence contributors to have the drive to deliver the project.  
 
