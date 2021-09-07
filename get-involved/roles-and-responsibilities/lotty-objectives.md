@@ -53,7 +53,6 @@ The success of this objective will be seen through the increase of pull requests
 It will also show the success of the training and documentation. 
 
 **Civil Service Behaviours:**
-
 - Communicating and Influencing 
 - Working Together
 - Leadership
