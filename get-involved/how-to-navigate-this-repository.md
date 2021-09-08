@@ -41,9 +41,9 @@ There are also tools to portray our community so that we understand the platform
 
 ### [Community-recommendations](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations)
 
-Here, you will find a lot of the contributions that have been made from the community about the project and its direction as well as areas where you can get contributing. 
+Here you will find recommendations, ideas, and prespectives from members of the AutSPACEs community. 
 
-However, it must be noted, that most of the work in this folder is from previous contributions and therefore no longer live. It is important to keep this information for reproducibility purposes. 
+Their contributions guide all the work that we do for the project. Many of these contributions are relevant to earlier phases of the project, while others relate to present and future work.
 
 ### [Get-involved](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/get-involved)
 
