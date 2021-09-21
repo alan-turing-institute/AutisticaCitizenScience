@@ -3,6 +3,9 @@
 Here you can find the latest updates on the project. 
 These are created fortnightly and presented at our community meet-ups. 
 
+![image of third progress update for the AutSPACEs project](progress-images/7-progress-update.png)
+
+![image of third progress update for the AutSPACEs project](progress-images/6-progress-update.png)
 
 ![image of third progress update for the AutSPACEs project](progress-images/5-progress-update.png)
 
