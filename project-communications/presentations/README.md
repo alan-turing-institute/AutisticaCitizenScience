@@ -1,6 +1,8 @@
 ## Presentations
 
 #### This file contains links to slides for presentations given on the Turing/Autistica Citizen Science Project. 
+
+* 23-09-2021: "AutSPACEs: Open Citizen Science in Action" delivered for the 2021 Global CC Summit. Slides on [Zenodo](https://zenodo.org/record/5524890) 
 * 08-07-2021: "AutSPACEs: Platform Updates", a presentation delivered by Sowmya Rajan to community memebers of the Autistica/Turing Citizen Science Co-Working meet-up to provide an overview of the working of basic MVP and other platform development updates. Slides on [Zenodo](https://zenodo.org/record/5094650)
 * 10-06-2021: "AutSPACEs: Annual Updates", a presentation delivered by Georgia Aitkenhead to members of Autistica to showcase highlights from work completed over the course of 2020-2021. Slides on [Zenodo](https://zenodo.org/record/4922526)
 * 31-03-2021: “Participatory Citizen Science”, a talk delivered by Georgia Aitkenhead, Suzanne Iwai, Sarah Markham and Otis Smith for the third cohort of OLS, using AutSPACEs as a case study for participatory citizen science. Slides on [Zenodo](https://zenodo.org/record/4651431). Recording on [Youtube](https://www.youtube.com/watch?v=Vizk7fni5Eo).
