@@ -29,6 +29,9 @@ Here is a quote from her:
 
 "My time on the AutSPACEs has been such an amazing experience, I have learnt so much and met some incredible people! Thank you to all of you for contributing and keeping the project going and special thanks to Georgia and Kirstie for their support and guidance throughout my placement at the Turing. This isn't goodbye as I think it will be hard to stay away from the project, so see you all soon!"
 
+Meet-ups will still continue as planned on every 2nd and 4th Thursday of the month as well as the Platform Development co-working sessions.
+The best way to continue contributing is either through these events or by joining our Slack channel via [Open Humans](https://slackin.openhumans.org/) and heading to the #autistica-turing channel. 
+
 ## Contributor Spotlight
 
 Today we are spotlighting on Suzanne Iwai who has been a key contributor to the AutSPACEs platform development work! 
