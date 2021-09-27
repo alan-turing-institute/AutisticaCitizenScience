@@ -22,19 +22,54 @@ The most recent updates on the project and it's progress can be found [here](htt
 A lot of our resource has been going towards roadmapping the project and ensuring all our issues are up to date! 
 Our latest roadmap can be found in our github repository [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-roadmap).
 
+## Community Manager and continuation of the project
+
+Lotty, our community manager, has come to the end of her placement with us and will be heading back to the Civil Service as part of her graduate scheme.
+Here is a quote from her:
+
+"My time on the AutSPACEs has been such an amazing experience, I have learnt so much and met some incredible people! Thank you to all of you for contributing and keeping the project going and special thanks to Georgia and Kirstie for their support and guidance throughout my placement at the Turing. This isn't goodbye as I think it will be hard to stay away from the project, so see you all soon!"
+
 ## Contributor Spotlight
 
 Today we are spotlighting on Suzanne Iwai who has been a key contributor to the AutSPACEs platform development work! 
 
 **Tell us a little about yourself...**
 
+I’m 67, supposed to be retired …. 
+Impossible to be that living in White City where so much development is happening.
+I have three children and two grandchildren.
+I’m a Geordie by birth but l was adopted by this cultural capital at aged 21. 
+I’m Vice chair of my TRA, a neuro diverse expert on ruthless  inclusion and design co producing with Hammersmith and Fulham council and I'm a founder member of Agents of Change, a women’s leadership network. 
+I belong to every local committee that will help me influence best practice for Autism specialist support services.
 
 **What are your favourite hobbies/things to do:**
 
+I am unapologetic front row attendee at burlesque and cabaret events. 
+I love creating drama ..improv, fringe, immersive. 
+I profess to being an unashamed wordsmith / autpoet who writes for solo inspiration and charity commissions. 
+I binge watch: Good Girls, Preacher, Vikings, Frankie & Grace, Working Moms. 
+I laugh, cry and scream at tv soaps, reality shows and question time. 
+To get off my couch I'm learning Feldenkrais technique and l going to learn to box.
+Spiritually I'm a chanting Buddhist who collects crystals, to recharge her batteries that are short on self care even though l know what that term means.
+
 **What have you been working on for the AutSPACEs project?**
+
+In AutSpaces l’ve tried to contribute to how we will moderate the platform following Susannas expert lead. 
+I’ve tested the original prototype template right at the beginning when we were still talking in focus groups. 
+I joined GitHub to see if l could understand what everyone else  was doing developing the code, creating labels and  milestones that let you see the journey this project is on. 
+I’ve attended a few fortnightly meetups where we progress various issues in the breakout rooms.  
+I’d say l was a fledgling researcher hiding in plain sight amidst very experienced ones … a happy citizen scientist.
 
 **Give your best tips and tricks for contributing:**
 
+As for how to  best get involved yourself. 
+Follow us on Twitter, share your email address with us so you can regular invites to our meetups. 
+Join GitHub where you will be able to see what help is needed with each task. 
+Even if you can’t offer to work on some of them there’s a comment section, which is saved and read. 
+You might spot a typo, something that isn’t making sense that’s been overlooked or you can see a problem emerging with moderating that we haven’t anticipated. 
+You’ll be surprised what’s in your repertoire from other pieces of work you’ve participated in. 
+Your perspective could be just what we need. 
+Don’t be shy, step into the chorus line ! 
 
 ## Project Opportunities
 
@@ -51,11 +86,13 @@ Please share any information with any individuals who you think would be interes
 There are lots of areas, as defined above, where you can get involved in the project. 
 If you are not too sure where to get started here are a few beginner issues which are a great place to start:
 
+**"Provide feedback for the project."** [Issue 552](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/552)
+
 **"Collate content for the platform's About page."** [Issue #529](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/529)
 
-**"Create a promotion pack for AutSPACEs project."**[Issue #516](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/516)
+**"Collect impact stories for the AutSPACEs project."** [Issue #548](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/548)
 
-All other issues for the project can be found in [our repository(https://github.com/alan-turing-institute/AutisticaCitizenScience/issues).
+All other issues for the project can be found in [our repository](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues).
 
 If any of these issues seem interesting, please comment on this issue if you have a GitHub account. 
 
