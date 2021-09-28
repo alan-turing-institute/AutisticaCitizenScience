@@ -80,7 +80,7 @@ Don’t be shy, step into the chorus line !
 
 We currently are looking for opportunities to spread the word of the project to increase paricipation. 
 
-If you have any ideas for this, we would love to know, please send your ideas via email to [Lotty](ccoupat@turing.ac.uk).
+If you have any ideas for this, we would love to know, please send your ideas via email to [Georgia](mailto:gaitkenhead@turing.ac.uk).
 This could be anything from talks with charities/univeristies or posts in various communications channels that you are a part of. 
 Please share any information with any individuals who you think would be interested in joining and contributing to the project.
 
