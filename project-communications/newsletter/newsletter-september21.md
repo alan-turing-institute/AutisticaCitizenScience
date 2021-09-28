@@ -4,12 +4,12 @@
 
 Firstly, thank you for opening and reading this month's newsletter 😄 We are so happy you are here!
 
-We hope that everyone has enjoyed their summer and have been able to take time off if possible. 
+We hope that everyone has settled into September and Autumn.
 
 We are still seeing a lot of change in our world at the moment. 
 So, if anyone is struggling with these challenging times, we hope that the citizen science community can offer you support and connection.
 
-Email [Lotty](mailto:ccoupat@turing.ac.uk) to let us know if we can help you with involvement, and do feel free to share this newsletter to anyone who you think would be interested in joining us.
+Email [Georgia](mailto:gaitkenhead@turing.ac.uk) to let us know if we can help you with involvement, and do feel free to share this newsletter to anyone who you think would be interested in joining us.
 
 They can sign up by following this link: https://tinyletter.com/AutisticaTuringCitizenScience.
 
@@ -100,7 +100,7 @@ All other issues for the project can be found in [our repository](https://github
 If any of these issues seem interesting, please comment on this issue if you have a GitHub account. 
 
 If you don't have an account no worries! 
-Simply send [Lotty](mailto:ccoupat@turing.ac.uk) letting her know that you would like to contribute. 
+Simply send [Georgia](mailto:gaitkenhead@turing.ac.uk) letting her know that you would like to contribute. 
 
 ## Project Information
 
@@ -116,7 +116,7 @@ We have identified the following areas where we need your help:
 *  Accessibility and Inclusion 
 *  Moderation
 
-If you would like to join one of these groups, meet and work with other autistic people, or to suggest another working group, please email Lotty at [ccoupat@turing.ac.uk](ccoupat@turing.ac.uk).
+If you would like to join one of these groups, meet and work with other autistic people, or to suggest another working group, please email Georgia at [gaitkenhead@turing.ac.uk](mailto:gaitkenhead@turing.ac.uk).
 
 If you want to get stuck in ASAP and know how to use GitHub, you can visit our repositories for the [Project](https://github.com/alan-turing-institute/AutisticaCitizenScience) and for [Platform Development](https://github.com/alan-turing-institute/AutSPACEs). If you look at the issues list in each of these, you can see a list of tasks that need to be completed and here we welcome anyone to contribute and get involved. 
 
@@ -132,7 +132,7 @@ I highly recommend this book also for anyone who is interested in Open Source Re
 * [Join us on Slack](https://slackin.openhumans.org/)
 * [Follow us on Twitter](https://twitter.com/AutSpaces)
 
-You are also always welcome to email [Lotty](mailto:ccoupat@turing.ac.uk) if you want to be involved in any part of the project, or if you have any questions.
+You are also always welcome to email [Georgia](mailto:gaitkenhead@turing.ac.uk) if you want to be involved in any part of the project, or if you have any questions.
 
 A huge thank you is due to everyone in the community for all of your ongoing efforts and wonderful contributions. 
 You are making a big difference in creating research which can benefit autistic people and their families.
