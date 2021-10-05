@@ -78,7 +78,7 @@ If there is anything you would like to discuss in particular, please do send Geo
 Looking forward to seeing you all! 
 
 Many thanks,
-Georgia and Lotty 
+Soledad and Georgia 
 
 Email: gaitkenhead@turing.ac.uk
 
