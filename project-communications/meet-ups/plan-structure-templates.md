@@ -73,16 +73,15 @@ Zoom link: https://turing-uk.zoom.us/j/92231923469?pwd=TXFCNFZISzJjajFoaUpIOG1MT
 
 Agenda is TBC and will be distributed early next week 😊 
 
-If there is anything you would like to discuss in particular, please do send me an email (ccoupat@turing.ac.uk). 
+If there is anything you would like to discuss in particular, please do send Georgia an email (gaitkenhead@turing.ac.uk). 
 
 Looking forward to seeing you all! 
 
 Many thanks,
-Lotty Coupat
+Georgia and Lotty 
 
 AutSPACEs Community Manager
-Email: ccoupat@turing.ac.uk
-Mobile no: 07528667077
+Email: gaitkenhead@turing.ac.uk
 
 ### Tweet - 7 days prior
 
@@ -180,11 +179,10 @@ If there is anything else you would like to work on during this meet-up, either 
 See you soon 😃 
 
 Many thanks,
-Lotty Coupat
+Soledad and Georgia
 
 AutSPACEs Community Manager
-Email: ccoupat@turing.ac.uk
-Mobile no: 07528667077
+Email: gaitkenhead@turing.ac.uk
 
 ### Twitter/Slack - morning of
 
