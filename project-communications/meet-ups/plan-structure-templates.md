@@ -80,7 +80,6 @@ Looking forward to seeing you all!
 Many thanks,
 Georgia and Lotty 
 
-AutSPACEs Community Manager
 Email: gaitkenhead@turing.ac.uk
 
 ### Tweet - 7 days prior
@@ -97,7 +96,7 @@ AutSPACEs - Autistica/Turing Citizen Science Meet-up ***INSERT DATE***
 
 Hello everyone!
 
-My name is Lotty and I am the Community Manager for the AutSPACEs Project and this means that I will be hosting our next meet-up!! 
+My name is Soledad and I am the new Community Manager for the AutSPACEs Project, and this means that I will be hosting our next meet-up!! 
  
 We are delighted to invite you to our next regular online meet-up session for the AutSPACEs project.
 
@@ -144,13 +143,13 @@ If you are interested but don’t know how you want to be involved yet we can he
 
 You can also join in with your camera switched off if you would like to see what it’s all about before you take part. No pressure to take part in anything unless you want to.
 
-You’re always welcome to get in touch with Lotty via email at any point.
+You’re always welcome to get in touch with Georgia via email at any point.
 
 Chat with us on the project’s open Slack channel: https://openhumans.slack.com/archives/CNMECPNCD (If you need an invitation to join the Slack workspace you can get one at https://slackin.openhumans.org)
 
 Best Wishes,
 
-Lotty, Georgia and Kirstie
+Soledad, Georgia and Kirstie
 
 ### Twitter - Monday before
 
@@ -181,7 +180,6 @@ See you soon 😃
 Many thanks,
 Soledad and Georgia
 
-AutSPACEs Community Manager
 Email: gaitkenhead@turing.ac.uk
 
 ### Twitter/Slack - morning of
