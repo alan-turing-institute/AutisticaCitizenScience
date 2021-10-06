@@ -6,3 +6,6 @@ For this folder, "design" refers to the aesthetics and design system of the plat
 ### This directory contains 
 - this `README` which homes links to previous design feedback and/or considerations. 
 - `feedback-summaries.md` which summarizes important information from past and present feedback.
+
+# Feedback Documentation 
+> related issue: [Issue #560](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/560)
