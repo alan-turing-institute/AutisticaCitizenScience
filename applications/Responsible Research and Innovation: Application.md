@@ -11,9 +11,9 @@ The RRI course provides breadth and depth of training across a number of dimensi
 
 Further, I would like to contribute to, and learn from, a community with shared values across a range of backgrounds and fields of expertise. 
 I believe that such a community is likely to be mutually supportive, and provide fertile grounds for collaboration, peer support, and encouragement. 
-I am committed to ethical research, and the training will support foundations of ethical principles and practice to guide my academic career going forwards, both by providing opportunities for both learning and for making connections. 
+I am committed to ethical research, and the training will support foundations of ethical principles and practice to guide my academic career going forwards by providing opportunities for both learning and for making connections. 
 
-By offering a broad curriculum and giving access to diverse perspectives, I also hope the training will help me to better understand how learnings from AutSPACEs can be applied to a broad range of cases, and how I can build expansiveness and reusability for this project, and my research more generally. 
+By offering a broad curriculum and giving access to diverse perspectives, I also hope the training will help me to better understand how learning from AutSPACEs can be applied to a broad range of cases, and how I can build expansiveness and reusability for this project, and my research more generally. 
 
 
 ### What is your experience with Responsible Research Innovation? Note having previous experience is not a requirement.
