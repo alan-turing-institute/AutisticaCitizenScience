@@ -20,7 +20,7 @@ Contents:
 
 User flow mapped out for MVP - [#107](https://github.com/alan-turing-institute/AutSPACEs/issues/107) - Short Term
 - All platform development work is dependant on the User Flow to be defined
-- Update: **COMPLETED**, can be found here.
+- Update: **COMPLETED**, can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/user-flow).
 
 Platform branding - [#429](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/429) - Medium term
 
