@@ -20,10 +20,12 @@ All wireframes are created in [figma]](https://www.figma.com/file/HxqTSdeyAUNMua
 
 ### [User Flow](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/user-flow)
 
-In this folder you will find a diagram which explains the journey of how a user would interact with the platform. 
-This explains how the wireframes all link together on the platform.
+In this folder you will find a diagram which explains the journey of how a user would interact with the platform. This is called the "information architecture" of the website and explains how the wireframes all link together on the platform.
 
 *A user flow is a visual representation, either written out or made digitally, of the many avenues that can be taken when using an app or website.*
 
+### [User Experience](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/573) 
 
-If you have any questions regarding any of this documentation on platform designs, please send Lotty(ccoupat@turing.ac.uk a message. 
+This links to Issue [#573](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/573) which outlines the process of defining and building the User Experience of the platform. 
+
+If you have any questions regarding any of this documentation on platform designs, please send Sophia (ssmbatchelor@gmail.com) a message.
