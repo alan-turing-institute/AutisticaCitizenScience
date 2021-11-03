@@ -95,7 +95,12 @@ Happé, F., & Fletcher-Watson, S. (2019). **Autism: A New Introduction to Psycho
 * [Github Tutorial](https://guides.github.com/) This provides a good guide for learning the basics of GitHub. 
 
 ### UX design
-* [Web design](https://university.webflow.com/courses/ultimate-web-design-course?video=O5TdnuUhIgs)
+* [What is UX Design: Adobe](https://xd.adobe.com/ideas/career-tips/what-is-ux-design/)
+* [Steps of UX Design Process](https://xd.adobe.com/ideas/guides/ux-design-process-steps/)
+* [Information Architecture](https://xd.adobe.com/ideas/process/information-architecture/)
+* [User Interface Design](https://xd.adobe.com/ideas/process/ui-design/)
+* [Wireframing](https://xd.adobe.com/ideas/process/wireframing/)
+
 
 ### Python
 * [Python Documentation](https://docs.python.org/3/tutorial/) This is the python documentation of Python 3.9
