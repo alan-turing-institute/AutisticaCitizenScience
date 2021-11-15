@@ -9,10 +9,10 @@
 - For AutSPACEs, we have identified 5 user groups: **austistic users, developers, researchers, non-autistic users**,and **decision makers**. 
 - These user groups have allowed us to develop 5 Personas:
     - [Ali](Ali.md)
-    - Cameron
-    - Kendall
-    - August
-    - Jesse 
+    - [Cameron](Cameron.md)
+    - [Kendall](Kendall.md)
+    - [August](August.md)
+    - [Jesse](Jesse.md)
 
 ## How to contribute 
 - You can suggest a new Persona by creating an [Issue](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md#where-to-start-issues), or submitting a [Pull Request](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md#where-to-start-issues). For information on how to do this please refer to our [Contributors Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md). If you do this please follow the template here and try to use gender neutral names and pronouns when creating a persona. 
