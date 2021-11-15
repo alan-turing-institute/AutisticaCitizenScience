@@ -8,12 +8,12 @@
 ## AutSPACEs Personas
 - For AutSPACEs, we have identified 5 user groups: **austistic users, developers, researchers, non-autistic users**,and **decision makers**. 
 - These user groups have allowed us to develop 5 Personas:
-    - Ali
-    - Cameron
-    - Kendall
-    - August
-    - Jesse 
+    - [Ali](Ali.md)
+    - [Cameron](Cameron.md)
+    - [Kendall](Kendall.md)
+    - [August](August.md)
+    - [Jesse](Jesse.md)
 
 ## How to contribute 
-- You can suggest a new Persona by creating an [Issue](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md#where-to-start-issues), or submitting a [Pull Request](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md#where-to-start-issues). For information on how to do this please refer to our [Contributors Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md). If you do this please follow the template here and try to use gender neutral names and pronouns when creating a persona. 
+- You can suggest a new Persona by creating an [Issue](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md#where-to-start-issues), or submitting a [Pull Request](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md#where-to-start-issues). For information on how to do this please refer to our [Contributors Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md). If you do this please follow the template [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/sophia-relativelink-test/platform-designs/design-research/Personas/Persona-Template.md) and try to use gender neutral names and pronouns when creating a persona. 
 - You can add suggestions to existing Personas by opening an Issue and linking to the Persona file you would like to make suggestions for. Refer to the [Contributors Guideline](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md#where-to-start-issues) for information on how to open an Issue. 
