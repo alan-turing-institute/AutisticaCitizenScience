@@ -9,7 +9,7 @@ It's useful for oulining the relationship between pages on the AutSPACEs platfor
 IA focuses on two elements: **where a user is** and **where to find information a user needs**. 
 
 ### How to read an IA Diagram
-* The diagram reads as a hierarchy from top to bottom with each layer starting with a "parent" element that has corresponding "child" elements. 
+The diagram reads as a hierarchy from top to bottom with each layer starting with a "parent" element that has corresponding "child" elements. 
 
 ### IA Diagram
 ![AutSPACEs IA Diagram 15-11-2021](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/design-architecture/autspaces-ia-diagram-15-11-2021.md)
