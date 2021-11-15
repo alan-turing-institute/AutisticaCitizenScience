@@ -8,7 +8,7 @@
 ## AutSPACEs Personas
 - For AutSPACEs, we have identified 5 user groups: **austistic users, developers, researchers, non-autistic users**,and **decision makers**. 
 - These user groups have allowed us to develop 5 Personas:
-    - Ali
+    - [Ali](Ali.md)
     - Cameron
     - Kendall
     - August
