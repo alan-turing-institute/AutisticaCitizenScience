@@ -1,4 +1,4 @@
-*** This folder contains documentation that is archived from previous work. Many of these documents are no longer used but still important. ***
+**This folder contains documentation that is archived from previous work. Many of these documents are no longer used but still important.**
 
 ## Prototypes and Wireframes
 
