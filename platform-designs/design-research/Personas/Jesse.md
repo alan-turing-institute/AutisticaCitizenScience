@@ -7,5 +7,5 @@ Jesse is not autistic but is a carer to Erin, who is an autistic individual. Eri
 | **Goals** | **Motivations** | 
 | -------- | -------- | 
 | View experiences and search for experiences that shared by people whose situations are similar to Erin | Get ideas for adaptive techniques to better support Erin
-|Contribute experiences for Erin |Contributes to the knowledge base on autism and sensory processing|
+| Help Erin's experience to be represented |Contributes to the knowledge base on autism and sensory processing|
 Support Erin in connecting with a supportive community of peers | Help Erin feel like they are part of a community | 
