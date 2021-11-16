@@ -1,117 +1,108 @@
-#
 # Moderation Report
 
 ## Contents
 
-# Table of Contents
+**[Key](#key)**
 
-_**[Moderation Report 1](#_Toc87965768)**_
+**[Platform - purpose](#platform---purpose)**
 
-**[Contents 1](#_Toc87965769)**
+**[Motivation to take part](#motivation-to-take-part)**
 
-**[Key 1](#_Toc87965770)**
+**[Diagnosis or original awareness of autism](#diagnosis-or-original-awareness-of-autism)**
 
-**[Platform - purpose 2](#_Toc87965771)**
+**[How should we think and talk about autistic people and autism?](#how-should-we-think-and-talk-about-autistic-people-and-autism)**
 
-**[Motivation to take part 6](#_Toc87965772)**
+**[Experiences of sensory processing differences](#experiences-of-sensory-processing-differences)**
 
-**[Diagnosis or original awareness of autism 8](#_Toc87965773)**
+**[Non-autistic responses to autistic people and autism](#non-autistic-responses-to-autistic-people-and-autism)**
 
-**[How should we think and talk about autistic people and autism? 9](#_Toc87965774)**
+**[Code of Conduct](#code-of-conduct)**
 
-**[Experiences of sensory processing differences 11](#_Toc87965775)**
+**[Feedback on existing code of conduct](#feedback-on-existing-code-of-conduct)**
 
-**[Non-autistic responses to autistic people and autism 11](#_Toc87965776)**
+**[Tone](#tone)**
 
-**[Code of Conduct 11](#_Toc87965777)**
+**[Metaphorical/non-literal language](#metaphoricalnon-literal-language)**
 
-**[Feedback on existing code of conduct 11](#_Toc87965778)**
+**[Negative language](#negative-language)**
 
-**[Tone 11](#_Toc87965779)**
+**[Emotions](#emotions)**
 
-**[Metaphorical/non-literal language 11](#_Toc87965780)**
+**[Speaking on behalf of others/supporting others to speak](#speaking-on-behalf-of-otherssupporting-others-to-speak)**
 
-**[Negative language 11](#_Toc87965781)**
+**[Peer support](#peer-support)**
 
-**[Emotions 11](#_Toc87965782)**
+**[Supporting parents and carers](#supporting-parents-and-carers)**
 
-**[Speaking on behalf of others/supporting others to speak 11](#_Toc87965783)**
+**[Accessibility](#accessibility)**
 
-**[Peer support 11](#_Toc87965784)**
+**[Inclusion](#inclusion)**
 
-**[Supporting parents and carers 11](#_Toc87965785)**
+**[Socio-economic](#socio-economic)**
 
-**[Accessibility 11](#_Toc87965786)**
+**[Age](#age)**
 
-**[Inclusion 11](#_Toc87965787)**
+**[Gender](#gender)**
 
-**[Socio-economic 11](#_Toc87965788)**
+**[Glossary](#glossary)**
 
-**[Age 11](#_Toc87965789)**
+**[Segmentation](#segmentation)**
 
-**[Gender 11](#_Toc87965790)**
+**[Platform design](#platform-design)**
 
-**[Glossary 11](#_Toc87965791)**
+**[Communication strategy](#communication-strategy)**
 
-**[Segmentation 11](#_Toc87965792)**
+**[Moderation flow](#moderation-flow)**
 
-**[Platform design 11](#_Toc87965793)**
+**[Quantity of posts](#quantity-of-posts)**
 
-**[Segmentation 11](#_Toc87965794)**
+**[Self-moderating the posts you share](#self-moderating-the-posts-you-share)**
 
-**[Communication strategy 11](#_Toc87965795)**
+**[Self-moderating the posts you view](#self-moderating-the-posts-you-view)**
 
-**[Moderation flow 11](#_Toc87965796)**
+**[Flagging comments](#flagging-comments)**
 
-**[Quantity of posts 11](#_Toc87965797)**
+**[Rating systems](#rating-systems)**
 
-**[Self-moderating the posts you share 11](#_Toc87965798)**
+**[Recourse policies](#recourse-policies)**
 
-**[Self-moderating the posts you view 11](#_Toc87965799)**
+**[Moderators](#moderators)**
 
-**[Flagging comments 11](#_Toc87965800)**
+**[Who should moderate?](#who-should-moderate)**
 
-**[Rating systems 11](#_Toc87965801)**
+**[Interactions between moderators and users](#interactions-between-moderators-and-users)**
 
-**[Recourse policies 11](#_Toc87965802)**
+**[Moderator training and guidelines](#moderator-training-and-guidelines)**
 
-**[Moderators 11](#_Toc87965803)**
+**[Risks](#risks)**
 
-**[Who should moderate? 11](#_Toc87965804)**
+**[Platform becomes too interactive](#platform-becomes-too-interactive)**
 
-**[Interactions between moderators and users 11](#_Toc87965805)**
+**[Public posts causing distress to users](#public-posts-causing-distress-to-users)**
 
-**[Moderator training and guidelines 11](#_Toc87965806)**
+**[Responses to moderation causing distress](#responses-to-moderation-causing-distress)**
 
-**[Risks 11](#_Toc87965807)**
+**[Venting](#venting)**
 
-**[Platform becomes too interactive 11](#_Toc87965808)**
+**[Libellous posts](#libellous-posts)**
 
-**[Public posts causing distress to users 11](#_Toc87965809)**
+**[Vexatious or malicious posts](#vexatious-or-malicious-posts)**
 
-**[Responses to moderation causing distress 11](#_Toc87965810)**
+**[Posts becoming too open-ended](#posts-becoming-too-open-ended)**
 
-**[Venting 11](#_Toc87965811)**
+**[Research fidelity/scientific validity](#research-fidelityscientific-validity)**
 
-**[Libellous posts 11](#_Toc87965812)**
+**[Sensory processing research](#sensory-processing-research)**
 
-**[Vexatious or malicious posts 11](#_Toc87965813)**
+**[Research methods](#research-methods)**
 
-**[Posts becoming too open-ended 11](#_Toc87965814)**
+**[Process](#process)**
 
-**[Research fidelity/scientific validity 11](#_Toc87965815)**
+**[Feedback](#feedback)**
 
-**[Sensory processing research 11](#_Toc87965816)**
+**[Participatory science and impact](#participatory-science-and-impact)**
 
-**[Research Methods 11](#_Toc87965817)**
-
-**[Process 11](#_Toc87965818)**
-
-**[Feedback 11](#_Toc87965819)**
-
-**[Participatory science and impact 11](#_Toc87965820)**
-
-## Key
+### Key
 
 Connection to Autism
 
