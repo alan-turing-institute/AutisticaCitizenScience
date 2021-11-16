@@ -1247,6 +1247,18 @@ R, _T_, d: &quot;…is that [age differences] something you&#39;re saying should
 
 **A** , d: &quot;…it definitely can be a separate place [on the platform] where they [parents] can do [share experiences].&quot;
 
+**A** , g: &quot;… we talked about segmentation of users&quot;
+
+**P** , g: &quot;if parents were concerned [they] still need somehow to get support.&quot;
+
+**P** , d: &quot;We currently came to… not really a conclusion… that maybe parents should have a separate section in which to communicate, so that people who are on the spectrum and are able to communicate for themselves can do&quot;
+
+**A** , d: &quot;Perhaps, if we are talking about subsections… people with additional neurological conditions having their own space would be great, because I often find it very hard to separate which of my issues or my challenges are caused by what, and obviously the same goes for other ongoing conditions and mental health as well.
+
+**A, P** , d: &quot;maybe it would be a good idea to have an autistic voice section plus a non-autistic voice section.&quot;
+
+**A, P** , d: &quot;…parents can be autistic too, so I don&#39;t think it&#39;s parents [which should be a distinct category]&quot;
+
 ## Platform design
 
 **A, P** , d: &quot;…a facility that uses ways that autistic people communicate themselves to get their feelings out, which might be, you know, mind-mapping, spider charting, could be painting, it could be anything, but it still records that experience.&quot;&quot;
@@ -1264,20 +1276,6 @@ R, _T_, d: &quot;…one thing at the beginning is that you could have, &#39;are 
 **P** , d: &quot;maybe there was a tick-box when you started writing to say that you were reporting on behalf of someone else, so that was flagged up right away&quot;
 
 **P** , d: &quot;you&#39;re aware that somebody else has typed that for somebody&quot;
-
-## **Segmentation**
-
-**A** , g: &quot;… we talked about segmentation of users&quot;
-
-**P** , g: &quot;if parents were concerned [they] still need somehow to get support.&quot;
-
-**P** , d: &quot;We currently came to… not really a conclusion… that maybe parents should have a separate section in which to communicate, so that people who are on the spectrum and are able to communicate for themselves can do&quot;
-
-**A** , d: &quot;Perhaps, if we are talking about subsections… people with additional neurological conditions having their own space would be great, because I often find it very hard to separate which of my issues or my challenges are caused by what, and obviously the same goes for other ongoing conditions and mental health as well.
-
-**A, P** , d: &quot;maybe it would be a good idea to have an autistic voice section plus a non-autistic voice section.&quot;
-
-**A, P** , d: &quot;…parents can be autistic too, so I don&#39;t think it&#39;s parents [which should be a distinct category]&quot;
 
 ## **Communication strategy**
 
