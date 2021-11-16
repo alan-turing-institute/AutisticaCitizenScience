@@ -1,8 +1,3 @@
-
-Word to Markdown Converter
-Results of converting "Moderation Report"
-Markdown
-
 #
 # Moderation Report
 
