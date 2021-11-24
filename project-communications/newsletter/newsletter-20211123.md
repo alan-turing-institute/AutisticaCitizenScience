@@ -2,7 +2,9 @@
 
 Hi everyone!!
 
-Thank you for opening and reading November's newsletter 😄 We are so happy you are here!
+Thank you for opening and reading November's newsletter.
+
+We are so happy you are here!
 
 We hope you are enjoying the beautiful colours of the season, and have lots of nice things to look forward to in the Autumn and Winter. 
 
@@ -19,7 +21,9 @@ Best wishes for everyone!
 ## Project News
 The most recent updates on the project and its progress can be found [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-updates).
 
-Meet-ups are being held every 2nd and 4th Thursday of the month, as well as the Platform Development co-working sessions on every 1st and 3rd Tuesday of the month. Everyone is welcome to join! 
+Meet-ups are being held every 2nd and 4th Thursday of the month, as well as the Platform Development co-working sessions on every 1st and 3rd Tuesday of the month. 
+
+Everyone is welcome to join! 
 
 The best way to continue contributing is either through these events or by joining our Slack channel via Open Humans and heading to the #autistica-turing channel. 
 
@@ -56,7 +60,9 @@ Sophia and Georgia submitted a proposal to present on AutSPACEs in the 2022 MozF
 
 If the proposal is accepted, will be looking for autistic collaborators to co-present. 
 
-It's an exciting opportunity. Good luck 🤞
+It's an exciting opportunity. 
+
+Good luck 🤞
 
 Anyone is invited to join in the user research, design or moderation work by taking part in our development sessions on the 1st and 3rd Tuesdays of the month, or our meet-up sessions on the 2nd and 4th Thursdays.
 
