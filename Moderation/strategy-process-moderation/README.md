@@ -5,5 +5,6 @@ This folder holds information and discussions about how the moderators will inte
 
 ## Contents of strategy process discussion for moderation folder:
 * [25 November 2021](20211125_summary-25-November-2021.md)
+* [30 November 2021](20211130_summary-30-November-2021.md)
 
 
