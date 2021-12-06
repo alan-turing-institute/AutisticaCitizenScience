@@ -2,6 +2,7 @@
 
 #### This file contains links to slides for presentations given on the Turing/Autistica Citizen Science Project. 
 
+* 24-11-2021: Contextualising research": workshop delivered by Malvika Sharan and Georgia Aitkenhead for the participatory science special interest group at The Alan Turing Insitute. Slides and worksheet available on [Google Docs](https://drive.google.com/drive/folders/1YtMQLcM7CIKZJQyKFG5vpdHTUT1RNdjW)
 * 28-10-2021: "Participatory + Citizen + Open Science: a combined method" delivered by Georgia Aitkenhead for the Whitaker Lab at The Alan Turing Institute. Slides on [Zenodo](https://zenodo.org/record/5615381)
 * 23-09-2021: "AutSPACEs: Open Citizen Science in Action" delivered by Georgia Aitkenhead, Lotty Coupat, Anoushka Ramesh, Sowmya Rajan an Susanna Fantoni for the 2021 Global CC Summit. Slides on [Zenodo](https://zenodo.org/record/5524890) 
 * 08-07-2021: "AutSPACEs: Platform Updates", a presentation delivered by Sowmya Rajan to community memebers of the Autistica/Turing Citizen Science Co-Working meet-up to provide an overview of the working of basic MVP and other platform development updates. Slides on [Zenodo](https://zenodo.org/record/5094650)
