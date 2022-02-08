@@ -6,7 +6,7 @@
 - You can read more information on Personas at the Adobe website [here](https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/)
 
 ## AutSPACEs Personas
-- For AutSPACEs, we have identified 5 user groups: **austistic users, developers, researchers, non-autistic users**,and **decision makers**. 
+- For AutSPACEs, we have identified 5 user groups: **austistic users, coders, researchers, non-autistic users**,and **decision makers**. 
 - These user groups have allowed us to develop 5 Personas:
     - [Ali](Ali.md)
     - [Cameron](Cameron.md)
