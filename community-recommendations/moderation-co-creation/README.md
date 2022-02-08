@@ -59,7 +59,7 @@ Care has been taken to balance this with the importance of privacy for our contr
 We have chosen to release it because we believe that it has the potential to increase positive impact for autistic people and others, by allowing the direct voices and views of diverse autistic people to be more widely heard and represented in research. 
 Please respect our values and the contributions of our commmunity by being purposeful and careful in how you use this data.
 
-**We request that the data is used in ways which conform to our values of neurodiversity, and respect for autistic people, and not for purposes detrimental to Autistic people. Please do not use these comments in any way which attacks, undermines, or demeans autistic people, either explicity or implicitly.**
+**We request that the data is used in ways which conform to our values of neurodiversity, and respect for autistic people, and not for purposes likely to be detrimental to autistic people. Please do not use these comments in any way which attacks, undermines, or demeans autistic people, either explicity or implicitly.**
 
 If you are unsure whether your use of this data upholds these values, please get in touch with a member of the core research team and we will assist you. 
 You can do this publically by creating an issue in this repository, or privately by sending a direct message to Georgia in our [slack](https://slackin.openhumans.org/) channel.
