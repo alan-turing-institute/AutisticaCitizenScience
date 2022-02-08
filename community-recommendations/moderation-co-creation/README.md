@@ -27,14 +27,14 @@ More detail can be found in [creation-summary-documents.md](creation-summary-doc
 
 #### Connection to Autism
 
-* **A** = Autistic
+* **A** = Autistic person
 * **P** = Parent of someone autistic
 
 #### Connection to Experience
 
 * d = direct: experience, suggestion, or opinion of speaker
 * i = indirect: witnessed or reported on behalf of someone else by speaker
-* g = general commen
+* g = general comment
 
 ## Moderation decisions regarding the data
 
@@ -47,7 +47,7 @@ We have also taken out references to specific locations, institutions, and organ
 For the purposes of creating a public dataset which is autism-voice first, we have edited out comments which contain negative emotional responses, struggles, or judgements that non-autistic people have about autistic people, where the emphasis is on non-autistic people’s experiences (e.g. personal reactions to autistic people’s behaviours). 
 We have kept comments about non-autistic people’s responses to autistic people, when the emphasis is on autistic people’s experiences (e.g. comments about dealing with neurotypical prejudice). 
 
-Feedback from the AutSPACEs community, including from autistic people, autistic parents of autistic people, and parents of autistic people, has been prdominantly that there should be an emphasis on autistic people’s experiences first and foremost, and that having too much focus on non-autistic views of autistic people can be damaging to autistic people, and work against creating a safe space for autistic voices to be heard.
+Feedback from the AutSPACEs community, including from autistic people, autistic parents of autistic people, and parents of autistic people, has been predominantly that there should be an emphasis on autistic people’s experiences first and foremost, and that having too much focus on non-autistic views of autistic people can be damaging to autistic people, and work against creating a safe space for autistic voices to be heard.
 
 **No edits have been made to how autistic people refer to and describe themselves, unless they have requested it.**
 
