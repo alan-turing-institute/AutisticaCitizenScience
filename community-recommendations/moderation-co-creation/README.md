@@ -1,7 +1,10 @@
 # Moderation co-creation report
 
-This folder contains a [report](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations/moderation-co-creation) consisting of comments and recommendations from the AutSPACEs community concerning how we should moderate the AutSPACEs platform.
-The dataset was created by organising the comments made during an online co-creation session to understand better the relevant issues around moderating an online citizen science platform (AutSPACEs) for research into sensory processing differences experienced by Autistic people and the effect this has on their daily lives as they navigate different environments.
+This folder contains a [report](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations/moderation-co-creation) compliling the AutSPACEs community's comments and recommendations for how moderation should work on the AutSPACEs platform.
+
+For more information and details about the topic of Moderation, including why moderation is important to the platform, please refer to the [Moderation folder](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/Moderation).
+
+The dataset used in this report was created by organising the comments made during an online co-creation session held to understand better the relevant issues around moderating an online citizen science platform (AutSPACEs). The platform has been co-developed with autistic people in the efforts to better understand the sensory processing differences experienced by Autistic people, and the effect this has on their daily lives as they navigate different environments.
 
 ## Contents of this document
 
