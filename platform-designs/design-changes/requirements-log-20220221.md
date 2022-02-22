@@ -1,7 +1,10 @@
 # AutSPACEs Platform Changelog 2022-02-21
-Date: 2022-02-21 </br>
-Summary: This is a requirement log which aims at tracking content and structure changes of the platform. You can find the [MVP Requirement List](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/design-requirements/mvp-requirements-list.md) here. You can find the design prototype here. </br>
-Implementation: You can run this version locally from the codes on the following branch: [build-tmp](https://github.com/alan-turing-institute/AutSPACEs/tree/build-tmp).
+**Date**: 2022-02-21 </br>
+**Summary**: This is a requirement log which aims at tracking content and structure changes of the platform. You can find the [MVP Requirement List](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/design-requirements/mvp-requirements-list.md) here. You can find the [design prototype](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/93649d15dd1d4b95885fc4ecae7868af8c011965/platform-designs/wireframes/platform-prototype-21-02-2022.md) here. </br>
+Implementation: You can run this version locally from the codes on the following branch: [build-tmp](https://github.com/alan-turing-institute/AutSPACEs/tree/build-tmp). </br>
+**Notes**: This is an initial process for moderating the platform which we will iterate based on feedback collected from the community. You can find more information here on the [moderation report](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/community-recommendations/moderation-co-creation/moderation-report.md). </br>
+**Future Contribution**: To support the moderation process for AutSPACEs, please add or comment on an issue labelled "Moderation" or make a PR to this repository. Here you can find all the issues related to the [Moderation](https://github.com/alan-turing-institute/AutisticaCitizenScience/milestone/27).
+
 ## Contents
 * <a href="#Platform-Pages">Platform Pages</a>
 * <a href="#Contents-Per-Page">Contents Per Page</a>
