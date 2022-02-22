@@ -19,7 +19,7 @@ It follows the [emoji key](https://github.com/all-contributors/all-contributors#
 * Thomas Stanley 💻📆🤔
 * Chris Legg 💬🤔💻📢
 
-#### Collaborators from GitHub turorial
+#### Collaborators from GitHub tutorial
 
 * Malvika Sharan
 * Ismael-KG
