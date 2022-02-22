@@ -1,4 +1,4 @@
-# AutSPACEs Requirements Log 2022-02-21
+# AutSPACEs Platform Changelog 2022-02-21
 Date: 2022-02-21 </br>
 Summary: This is a requirement log which aims at tracking content and structure changes of the platform. You can find the [MVP Requirement List](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/design-requirements/mvp-requirements-list.md) here. You can find the design prototype here. </br>
 Implementation: You can run this version locally from the codes on the following branch: [build-tmp](https://github.com/alan-turing-institute/AutSPACEs/tree/build-tmp).
