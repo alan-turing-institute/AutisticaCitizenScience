@@ -12,7 +12,13 @@ IA focuses on two elements: **where a user is** and **where to find information 
 The diagram reads as a hierarchy from top to bottom with each layer starting with a "parent" element that has corresponding "child" elements. 
 
 ### IA Diagram
-![AutSPACEs IA Diagram 15-11-2021](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/design-architecture/autspaces-ia-diagram-15-11-2021.md)
+* Updated 21-02-2022: [Information Architecture Diagram](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=XndytNqcHWh8WrCRgyDL&title=IA_AutSPACEs.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1THiziivGBr89J5x9oJahXuHtL7iib8J1%26export%3Ddownload)
+  * Changelog:
+    * Combined the two separate user journeys into one linear user journey
+    * Fixed the broken pages on the frontend side
+    * Updated the information per page
+    * Added What Autism Is and About Us pages
+* Previous diagrams can be found on the same folder. 
 
 
 ## [User Flow](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/design-architecture/user-flow) diagram for the platform's prototype.
