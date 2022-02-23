@@ -5,7 +5,7 @@ The AutSPACEs team has created a template theme and colour palette on Google Sli
 This guide provides instructions on how to create a copy of the template so that you can use the theme in future presentations. 
 
 ### Attribution
-If you use this template or the slides design, please remember to acknowledge the AutSPACEs community according to the CC-BY license by acknowledging the **Autistica/Turing Citizen Science Community** and, where practical, linking to https://github.com/alan-turing-institute/AutisticaCitizenScience. You can find more details on how AutSPACEs uses the CC-BY license [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/LICENSE.md)
+If you use this template or the slides design, please remember to acknowledge the AutSPACEs community according to the CC-BY license by acknowledging the **Autistica/Turing Citizen Science Community** and, where practical, linking to https://github.com/alan-turing-institute/AutisticaCitizenScience. You can find more details on how AutSPACEs uses the CC-BY license [here.](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/LICENSE.md)
 
 ### Getting Help
 If you are unable to follow the steps below or any of the links we have provided are broken: please open an Issue on GitHub (instructions for how to do that are [here]() or reach out to one of the community members and ask for help). 
