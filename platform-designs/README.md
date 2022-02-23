@@ -32,6 +32,9 @@ This allows you to see what specific features will be needed from each page of t
 ### [design-research](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/design-research)
 This folder contains key information or links to all "user research" for the platform designs. 
 
+### [design-resources](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/design-resources)
+This folder contains and collates resources that support the design of the project. This includes curated lists, templates, design sketches, tutorials, and anything else that can be considered a "resource" when designing the various parts of the AutSPACEs project.  
+
 ### [design-system](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/design-system)
 This folder contains information about the design system that is used in the platform.
 You can find more information on what a design system is at the Adobe website [here]()
