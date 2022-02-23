@@ -23,10 +23,9 @@ During my internship, I have been working in the design system, user research an
 
 ## User Experience Research
 With the instructions from SB, I managed to start the user research work and received feedback from the bi-weekly meet-ups to ensure that the platform features and information were really for end users. For the research, I have done the following work: 
-1) analyzed the most needed features from the previous feedback & identified the most needed one
-4) created user stories 
-6) worked on the user matrices and user journeys 
-7) identified the information flow per page
+1) analyzed the most needed features from the previous feedback & identified the most needed one and documented them on the [feedback summary slide](https://docs.google.com/presentation/u/2/d/1VTJbexcdFIkcNOYoW9C61iOVWgRw46ec08PSIv9flPs/edit#slide=id.gf192724d12_0_0)
+2) created [user stories](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/design-research/Personas)
+3) worked on the [user need matrices](https://docs.google.com/spreadsheets/d/11vbZ0TYvY2qq-EgF5IHNowC4Mfksf_fekJ5rUXY4deM/edit#gid=0) and user journeys 
 
 [User Research Work Documentation](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/design-changes/requirements-log-20220221.md)
 
@@ -41,7 +40,8 @@ After SB identifying the color palette of the platform, I have done the followwi
 
 ## Information Architecture
 1) created information architecture for the previous MVP 
-2) created a new information architecture diagram for the current platform
+2) identified the information flow per page
+3) created a new information architecture diagram for the current platform
 
 [Information Architecture Documentation](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/design-architecture)
 
