@@ -11,4 +11,5 @@ Please read the contributions guidelines first, and then feel free to add design
 * Illustrations and Icons
   * https://www.opendoodles.com/
   * https://thenounproject.com/
-  * https://streamlinehq.com/
+  * https://streamlinehq.com/ Provides both icons and illustrations. These can be customized by colour. 
+  * https://storyset.com/ Provides 4 types of illustration and can be customized by colour. 
