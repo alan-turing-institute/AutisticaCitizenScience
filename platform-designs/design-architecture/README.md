@@ -1,6 +1,6 @@
 # Design Architecture 
 
-This folder contains key information about how the pages of the AutSPACEs platform fit together and how someone can navigate the platform. To go the repository where the code for the AutSPACEs citizen science platform is being developed, click here: [/AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs). 
+This folder contains key information about how the pages of the AutSPACEs platform fit together and how someone can navigate the platform. To go the repository where the code for the AutSPACEs citizen science platform is being developed, click here: [AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs). 
 
 ## [Information Architecture](autspaces-ia-diagram-15-11-2021.md) 
 
