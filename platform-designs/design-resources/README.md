@@ -1,6 +1,6 @@
 # Design Resources Readme
 
-This folder contains and curates useful resources. It is different from the `design-content` folder which contains content that is used by the platform (e.g. images and icons). 
+This folder contains and curates useful resources for the design of AutSPACEs project's. It is different from the `design-content` folder which contains content that is used by the platform (e.g. images and icons) and instead will contain links, tutorials, templates, and other resources that can be used to support the project and platform development. 
 
 
 ## How to Contribute 
