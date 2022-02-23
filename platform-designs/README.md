@@ -1,11 +1,20 @@
 # Platform Designs
 
-In this folder, you will find key information about the Design of the platform. 
+In this folder, you will find key information about the **Design** of the AutSPACEs platform. The platform's code is housed in the companion repository [/AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs). 
 
 ## Where to start. 
-You can get started by reading the [design-introduction.md](design-introduction.md) file which gives an overview of what design is, the design process AutSPACEs uses, and definitions for the design terminology that is used. 
 
-## Folder Structure 
+This is the Project Management repository for the AutSPACEs project. Part of the AutSPACEs project is the development of the AutSPACEs platform, however good design is not limited to just web applications, which is why this folder sits here. 
+
+If you are new to design and UX, you can get started by reading the [design-introduction.md](design-introduction.md) file which gives an overview of what design is, the design process AutSPACEs uses, and definitions for the design terminology that is used. 
+
+If you are returning or are a designer wanting to get involved, first read our [Contributing Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md) and then familiarize yourself with the resources found in this repository. 
+
+⚠️ A quick reminder that if you would like to work on the code or development of the AutSPACEs platform (for example implementing the design system) then the repository you're in right now will contain information on what the design changes are and what the platform will look like, however the **code** for the platform is in the [/AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs) repository. 
+
+**All contributions are wellcome!**
+
+## Contents 
 
 ### [ARCHIVE-fujitsu](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/ARCHIVE-fujitsu) 
 This folder contains design information from the Fujitsu prototypes of the platform. Many of these documents are no longer used but still important. 
