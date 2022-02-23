@@ -31,7 +31,7 @@ You will need a working Google Drive account and be logged in in order to use th
 ![Make a copy](slides-template-guide-images/slides-template-guide-copyslides.png)
 
 * Rename your new presentation.  
-![Rename presentation](slides-template-guide-images/sslides-template-guide-renamecopyslides.png)
+![Rename presentation](slides-template-guide-images/slides-template-guide-renamecopyslides.png)
 
 ## Step 3
 * Select all the existing slides in the template presentation (shown in the lefthand "view" panel)...and delete them. You will now have an empty presentation.
