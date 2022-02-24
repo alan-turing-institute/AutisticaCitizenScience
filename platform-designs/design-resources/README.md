@@ -9,7 +9,8 @@ If you would like to contribute to this repository, please read the [Contributor
 We're a community led, open source project so focus on resources that are also open source, or can be used under a CC-BY lisence. Feel free to add design resources of any kind that will be useful for the AutSPACEs project by submitting a Pull Request to this repository. 
 
 ## Resource List 
-
+* Free Design Tutorials
+  *  https://www.uxdatabase.io/free-product-design-course-curriculum Resource for free design tutorials and related tools 
 * Illustrations and Icons
   * https://www.opendoodles.com/ Provides Open Source illustrations. 
   * https://thenounproject.com/ Resource for icons that can be used with attribution.
