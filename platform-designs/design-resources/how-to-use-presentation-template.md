@@ -1,6 +1,6 @@
 # Guide for How to use the Google Slides Presentation Template 
 
-The AutSPACEs team has created a template theme and colour palette on Google Slides which makes it easier to create presentations and reuse presentation slides across the community. These slides are available at this link [here](https://docs.google.com/presentation/d/1gf2IKr9W-BBR-lxI-Gf8P6c15zirIn8nAO0rAZNGX58/edit?usp=sharing).
+The AutSPACEs team has created a template theme and colour palette on Google Slides which makes it easier to create presentations and reuse presentation slides across the community. These slides are available at this google drive link [here](https://docs.google.com/presentation/d/1gf2IKr9W-BBR-lxI-Gf8P6c15zirIn8nAO0rAZNGX58/edit?usp=sharing), and can also be viewed in pdf form [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/design-resources/Google-Slides-Presentation-Template.pdf).
 
 This guide provides instructions on how to create a copy of the template so that you can use the theme in future presentations. 
 
