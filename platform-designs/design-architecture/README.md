@@ -22,7 +22,7 @@ The diagram reads as a hierarchy from top to bottom with each layer starting wit
 
 
 ## [User Flow](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/design-architecture/user-flow) diagram for the platform's prototype.
-*A user flow is a visual representation, either written out or made digitally, of the many avenues that can be taken when using an app or website.*
+A user flow is a visual representation, either written out or made digitally, of the many avenues that can be taken when using an app or website.
 
 
 
