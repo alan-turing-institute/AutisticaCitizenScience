@@ -6,7 +6,7 @@ Our [Design Introduction](/platform-designs/design-introduction.md) file gives a
 
 It is core to our Community Values that we work openly and with transparency. As a result, this folder will be a "work in progress" and content wil be added as we move throughout the Design Process. 
 
-### Contributing
+## Contributing
 
-If you see something missing, want to contribute, or want to learn more: please read our [Contributors Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md) and familiarize yourself with the project and this repository, and then open an Issue, Pull Request, or comment on existing Issues. 
+If you see something missing, want to contribute, or want to learn more: please read our [Contributors Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md) and familiarize yourself with the project and this repository, and then open an Issue, Pull Request, or comment on existing design related Issues. 
 
