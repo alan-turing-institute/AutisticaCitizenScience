@@ -1,6 +1,6 @@
 # Platform Designs
 
-In this folder, you will find key information about the **Design** of the AutSPACEs platform. The platform's code is housed in the companion repository [/AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs). 
+In this folder, you will find key information about the **Design** of the AutSPACEs platform. The platform's code is housed in the companion repository [**/AutSPACEs**](https://github.com/alan-turing-institute/AutSPACEs). 
 
 ## Where to start. 
 
