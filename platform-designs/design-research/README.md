@@ -6,8 +6,8 @@ This folder acts to collate and point to information and feedback about the Desi
 * [Personas](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/design-research/Personas)
 * [feedback-linkspad.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/platform-designs/design-research/feedback-linkspad.md)
 * [feedback-summary(2021-10-09)](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/feedback-summary-1/platform-designs/design-research/AutSPACES%20Feedback%20(19.10).pdf)
-  * The summary identified the most needed needs for design, functions, and contents from feeback for the previous prototypes. Detailed information can be found the feedback summary itself. 
-* you can find a good example accessibility research [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/accessibility/README.md)
+  * The summary identified the "key" user needs for the platform's design, functions, and contents based on feeback for the previous prototypes. Detailed information can be found the feedback summary itself. 
+* You can find a good example accessibility research [here](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/accessibility/README.md)
 
 ## How to Contribute
 There are many ways to get involved with this project and we would love to hear your thoughts!
