@@ -14,6 +14,8 @@ There are many ways to get involved with the AutSPACEs project and we would love
 
 #### There are 2 great ways to get involved in the platform's design:
 1) join the discussion during our community calls which happen on the first and last thursday of every month (find out when the next one is happening by signing up to the mailing list [here](https://tinyletter.com/AutisticaTuringCitizenScience), or 
-2) opening an Issue or a Pull Request that explains (1) the changes that you are suggesting, and (2) how these changes improve the usability and accessibility of the platform for the autistic community. You can find instructions on how to use Pull Requests and Issues in our [Contributors Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md).   
+2) opening an Issue or a Pull Request that explains:
+	- the changes that you are suggesting
+	- how these changes improve the usability and accessibility of the platform for the autistic community. 
 
-If you would like to contribute to this repository directly, please read the [Contributors Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md) and familiarize yourself with the project. 
+You can find instructions on how to use Pull Requests and Issues in our [Contributors Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md) as well as other information about how to contribute to this project. 
