@@ -4,7 +4,9 @@ This folder contains and curates useful resources for the design of AutSPACEs pr
 
 
 ## How to Contribute 
-If you would like to contribute to this repository, please read the [Contributors Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md) and familiarize yourself with the project and this repository. We're a community led, open source project so focus on resources that are also open source, or can be used under a CC-BY lisence. Feel free to add design resources of any kind that will be useful for the AutSPACEs project by submitting a Pull Request to this repository. 
+If you would like to contribute to this repository, please read the [Contributors Guidelines](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/.github/CONTRIBUTING.md) and familiarize yourself with the project and this repository. 
+
+We're a community led, open source project so focus on resources that are also open source, or can be used under a CC-BY lisence. Feel free to add design resources of any kind that will be useful for the AutSPACEs project by submitting a Pull Request to this repository. 
 
 ## Resource List 
 
