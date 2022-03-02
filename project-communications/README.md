@@ -10,6 +10,7 @@ This directory contains the original versions of these newsletters for our recor
 
 ### [Presentations](project-communications/presentations)
 When we deliver presentations, we publish our slides openly on Zenodo.org. This folder contains links to those slides. 
+For resources on creating presentations and some template slides, please visit the [design-resources](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/design-resources/) folder.
 
 ## Subscribe to the mailing list
 
