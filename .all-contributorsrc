@@ -305,6 +305,15 @@
         "doc",
         "design"
       ]
+    },
+    {
+      "login": "akebu6",
+      "name": "Akebu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74776297?v=4",
+      "profile": "https://github.com/akebu6",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
