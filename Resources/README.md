@@ -63,6 +63,7 @@ Pellicano, L. (2016). towards a new science of autism: Building a participatory 
 ### Autism: recommended books
 
 Happé, F., & Fletcher-Watson, S. (2019). **Autism: A New Introduction to Psychological Theory and Current Debate.** This is a fantastic introduction into autism for anyone wanting to join the project who is unfaamiliar with current autism research and points of discussion. It is highly value-aligned with this project. 
+Liane Holliday Willey, Safety Skills for Asperger Women: How to Save a Perfectly Good Female Life, https://www.goodreads.com/book/show/11187137-safety-skills-for-asperger-women
 
 ### Autism: recommended blogs and websites
 
