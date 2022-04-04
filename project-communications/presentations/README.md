@@ -2,6 +2,7 @@
 
 #### This file contains links to slides for presentations given on the Turing/Autistica Citizen Science Project. 
 
+* 23-03-2022: "AutSPACEs: co-creating a citizen science platform", presentation delivered by Georgia Aitkenhead and James Scott to the UK Centre for Data Ethics anad Innovation. Slides available on [Zenodo](https://zenodo.org/record/6411932)
 * 07-03-2022: 'Citizen Science with AutSPACEs': workshop delivered by Georgia Aitkenhead, Sophia Batchelor, James Scott and Susanna Fantoni for the [2022 Mozilla Festival](https://www.mozillafestival.org/en/#/). Slides available on [Zenodo](https://zenodo.org/record/6337903).
 * 24-11-2021: Contextualising research": workshop delivered by Malvika Sharan and Georgia Aitkenhead for the participatory science special interest group at The Alan Turing Insitute. Slides and worksheet available on [Google Docs](https://drive.google.com/drive/folders/1YtMQLcM7CIKZJQyKFG5vpdHTUT1RNdjW)
 * 28-10-2021: "Participatory + Citizen + Open Science: a combined method" delivered by Georgia Aitkenhead for the Whitaker Lab at The Alan Turing Institute. Slides on [Zenodo](https://zenodo.org/record/5615381)
