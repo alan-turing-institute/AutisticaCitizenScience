@@ -13,7 +13,7 @@ The dataset was created by organising the comments made during an online co-crea
 
 The key below shows how the comments in the summaries have been labelled.
 They were co-designed with an autistic collaborator and are based on earlier informal scoping work with Autistica's Insight Group.
-More detail can be found in [creation-summary-documents.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/community-recommendations/moderation-co-creation/creation-summary.md) file which describes in detail how the report was developed in collaboration with focus group participants and autistic collaborators.
+More detail can be found in the [creation-summary-documents.md](https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/community-recommendations/moderation-co-creation/creation-summary.md) file which describes in detail how the report was developed in collaboration with focus group participants and autistic collaborators.
 
 #### Where From
 
