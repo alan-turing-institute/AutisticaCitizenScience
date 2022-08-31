@@ -16,7 +16,7 @@ Status: WIP
 
 Autism affects the way people communicate and experience the world around them.
 
-Autism is a spectrum of developmental conditions, including Asperger’s Syndrome. Every autistic person is different. Some are able to learn, live and work independently, while many have learning differences or co-occurring health conditions that require specialist support.
+Autism is a spectrum of developmental conditions. Every autistic person is different. Some are able to learn, live and work independently, while many have learning differences or co-occurring health conditions that require specialist support.
 
 “It's just the way I process the world, it can give me challenges, but it gives me great joy too. I wouldn't be me without it!” Rhi, *autistic adult*
 
@@ -77,7 +77,7 @@ You do not need an account to explore AutSPACEs and read other people's stories.
 
 If you are autistic, you may find other people who have similar sense experiences to you. You can discover tips and recommendations from them. 
 
-If you are not autistic, you may find ways to better support n empathise with autistic people by learning from them how their senses affect them.
+If you are not autistic, you may find ways to better support and empathise with autistic people by learning from them how their senses affect them.
 
 
 # Content for “Open Humans” explanation for redirection
