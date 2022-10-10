@@ -47,6 +47,7 @@ Batten, A. (2005). Inclusion and the autism spectrum. Improving Schools, 8(1), 9
 * Crane, L., Goddard, L., & Pring, L. (2009). Crane L, Goddard L, Pring L. Sensory processing in adults with autism spectrum disorders. Autism 13: 215-228. Autism : The International Journal of Research and Practice, 13, 215–228. https://doi.org/10.1177/1362361309103794
 * Gernsbacher, M. A., Dawson, M., & Mottron, L. (2006). Autism: Common, heritable, but not harmful. The Behavioral and Brain Sciences, 29(4), 413–414. https://doi.org/10.1017/S0140525X06319097
 * J,  den H. (2019). Neurodiversity: An insider’s perspective. Autism: The International Journal of Research and Practice, 23(2), 271.
+* [It Is a Big Spider Web of Things: Sensory Experiences of Autistic Adults in Public Spaces](https://www.liebertpub.com/doi/full/10.1089/aut.2022.0024). Keren MacLennan, Catherine Woolley, Emily @21andsensory, Brett Heasman, Jess Starns, Becky George, and Catherine Manning.“
 
 #### Autism and participatory science
 
