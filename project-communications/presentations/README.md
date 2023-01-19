@@ -2,6 +2,7 @@
 
 #### This file contains links to slides for presentations given on the Turing/Autistica Citizen Science Project. 
 
+* 24-01-2023: "AutSPACEs: co-creating a citizen science platform", delivered by Bastian Greshake Tzovaras, Georga Aitkenhead, Otis Smith and Helen Duncan for an international seminar on "Public Space, Play and Neurodiversity". Slides on [Zenodo](https://zenodo.org/record/7550764) 
 * 28-10-2022: The Turing Way Fireside chat: Bastian and Georgia spoke to other amazing citizen sciientsts and practioners from MammalWeb and NASA. Recording available on [YouTube](https://www.youtube.com/watch?v=DaPydydUcOc&list=PLBxcQEfGu3DmBcSmt9GVfo4wN1KP1y2yl&index=10).
 * 26-09-2022: "Participatory Science & Co-Creation: AutSPACEs' approach to participatory research", presented by Georgia Aitkenhead and Sophia Batchelor for an AIM RSF Cross-Consortia Knowledge Share Session. Slides available on [Zenodo](https://zenodo.org/record/7113771). 
 * 23-03-2022: "AutSPACEs: co-creating a citizen science platform", presentation delivered by Georgia Aitkenhead and James Scott to the UK Centre for Data Ethics anad Innovation. Slides available on [Zenodo](https://zenodo.org/record/6411932)
