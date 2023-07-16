@@ -8,3 +8,4 @@ This directory contains the information contributed from members of the autistic
 * Expertise provided by community members: [specific-expertise](specific-expertise)
 * Results from user testing sessions: [user-tests](user-tests)
 * Recommendations and notes gathered from workshops with community memberes: [workshops](workshops)
+* Summary notes from our Autistica/Turing Meet ups: [meet-ups](meet-up)
