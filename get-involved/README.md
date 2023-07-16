@@ -34,3 +34,7 @@ For more detailed guidance on how to join the community, please read our [contri
 ## Community recommendations
 
 You can see suggestions from other members of the community in the [community recommendations](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations) folder.
+
+## Research resources
+
+Head over to the [resources folder](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/Resources) to learn a bit more of the wider research around Autism, Citizen Science and Particpatory Research. 
